@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", WIFI | EVENTO 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", Teleclub | EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", WIFI | EVENTO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", Teleclub | EVENTO 2
 http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", WIFI | EVENTO 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", Teleclub | EVENTO 3
 http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", WIFI | EVENTO 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", Teleclub | EVENTO 4
 http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", WIFI | EVENTO 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Club | Eventos", Teleclub | EVENTO 5
 http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gallery/t78Yc5x" group-title="Infantil", Chavo Tv [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Infantil", Chavo Tv [Club]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
@@ -43,51 +43,53 @@ http://tv.teleclub.xyz/live/ABRIL_00/JETIX/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN en Español [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Noticia", CNN en Español [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Noticia", CNN [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo", Glitz [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Noticia", Glitz [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4EsZKk.png" group-title="Mundo", Bloomberg [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4EsZKk.png" group-title="Noticia", Bloomberg [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Noticia", RT en Español [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Mundo", TruTV [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Noticia", TruTV [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Noticia", Lifetime [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40 [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Noticia", ADN40 [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/ADN40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Noticia", RCN [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Noticia", Telefe [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/TELEFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Noticia", HolaTV [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Noticia", Las Estrellas [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/LAS_ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PwuhYqI.png" group-title="Mundo", E! [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwuhYqI.png" group-title="Noticia", E! [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Noticia", Caracol TV [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/CARACOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Noticia", Telemundo [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7 [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Noticia", Azteca7 [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Univisión [Club]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Noticia", Univisión [Club]
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QlVaGFa.png" group-title="Mundo", Mega Chile [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlVaGFa.png" group-title="Noticia", Mega Chile [E]
 http://tv.teleclub.xyz/live/ABRIL_00/MEGA_CHILE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Mundo", ATV PE [E]
-http://tv.teleclub.xyz/live/ABRIL_00/ATV_PE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Mundo", ATV 2 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/ATV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Mundo", PanamericanaTV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticia", Latina PE [E]
+http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticia", ATV HD PE [E]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticia", ATV Plus [E]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticia", PanamericanaTV [E]
 http://tv.teleclub.xyz/live/ABRIL_00/PANAMERICANA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PE4CN0u.png" group-title="Mundo", TVN 24h [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE4CN0u.png" group-title="Noticia", TVN 24h [E]
 http://tv.teleclub.xyz/live/ABRIL_00/TVN_24H/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpsieSZ.png" group-title="Mundo", TVMax Panama [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpsieSZ.png" group-title="Noticia", TVMax Panama [E]
 http://tv.teleclub.xyz/live/ABRIL_00/TVMAX_PANAMA/index.m3u8
 
 
