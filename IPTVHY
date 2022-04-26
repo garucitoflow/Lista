@@ -43,6 +43,8 @@ http://tv.teleclub.xyz/live/ABRIL_00/JETIX/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Llc5Eby.png" group-title="Noticia", Tele Jahs Hy [HyTv]
+https://player.twitch.tv/?channel=tvhuarmey&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Noticia", CNN en Español [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Noticia", CNN [HyTv]
@@ -187,6 +189,8 @@ http://tv.teleclub.xyz/live/ABRIL_01/AMC/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdDHaXc.jpeg" group-title="Musica", BestCableMasCumbia [HyTv]
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Hits [HyTv]
@@ -201,6 +205,10 @@ http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_2/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_3/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L4oMCG6.png" group-title="Deportes", Deport TV [HyTv]
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E99QRTV.png" group-title="Deportes", Best Cable Sports [HyTv]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogX2eAW.png" group-title="Deportes", Tigo Sports BO [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/TIGO_BO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogX2eAW.png" group-title="Deportes", Tigo Sports PY [HyTv]
@@ -253,6 +261,16 @@ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_SUR/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS3_SUR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BEIN/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVArBYu.png" group-title="Religion", Bethel TV [HyTv]
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0Y4WCz.png" group-title="Religion", MCRT Cristiana [HyTv]
+https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IShVpaQ.png" group-title="Religion", EWTNel CanalC [HyTv]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Religion", Canal Dios Te Ve [HyTv]
+https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7", 24/7 | Energeek [E]
