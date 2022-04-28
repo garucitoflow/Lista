@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="About", ABRIL | Latino | Teleclub!
+http://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="About", Activar desde www.teleclub.xyz/activar
+http://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="About", Telegram: @teleclubxyz
+http://tv.teleclub.xyz/hls/welcome.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 2
@@ -277,13 +285,17 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Energeek [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jN0GDj.jpeg" group-title="x24/7", Volver al Futuro III [E]
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Los Simpsons 1 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek [E]
+http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="x24/7", Los Simpsons 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Los Simpsons 2 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="x24/7", Los Simpsons 2 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Los Simpsons 3 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="x24/7", Los Simpsons 3 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 |  Bob Esponja [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BIgtYq.png" group-title="x24/7", Bob Esponja [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
