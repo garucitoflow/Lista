@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="HyTv | Eventos", HyTv | EVENTO 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="HyTv | Eventos", HyTv | EVENTO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 2
 http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="HyTv | Eventos", HyTv | EVENTO 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 3
 http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="HyTv | Eventos", HyTv | EVENTO 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 4
 http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="HyTv | Eventos", HyTv | EVENTO 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 5
 http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
 
 
@@ -41,6 +41,8 @@ http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_00/JETIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", BITME [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYJSueP.jpeg" group-title="Infantil", AnimeZoneTV [E]
+http://azxtv.com/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Llc5Eby.png" group-title="Noticia", Tele Jahs Hy [HyTv]
@@ -198,11 +200,13 @@ http://tv.teleclub.xyz/live/ABRIL_01/MTV_HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 1 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_1/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 2 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_2/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 3 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/RETRO_PLUS_3/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gO3vBsI.png" group-title="Musica", Mundo de la Musica TV [E]
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L4oMCG6.png" group-title="Deportes", Deport TV [HyTv]
@@ -273,13 +277,13 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7", 24/7 | Energeek [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Energeek [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7", 24/7 | Los Simpsons 1 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Los Simpsons 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7", 24/7 | Los Simpsons 2 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Los Simpsons 2 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7", 24/7 | Los Simpsons 3 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 | Los Simpsons 3 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7", 24/7 |  Bob Esponja [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", 24/7 |  Bob Esponja [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
