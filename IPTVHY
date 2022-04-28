@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="About", ABRIL | Latino | Teleclub!
-http://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="About", Activar desde www.teleclub.xyz/activar
-http://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="About", Telegram: @teleclubxyz
-http://tv.teleclub.xyz/hls/welcome.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 1
 http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 2
