@@ -279,9 +279,9 @@ https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jN0GDj.jpeg" group-title="x24/7", Volver al Futuro III [E]
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek 2 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="x24/7", Los Simpsons 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
