@@ -302,6 +302,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Religion", Canal Dios Te Ve [HyTv]
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bT8b9h9.png" group-title="Movies", American Classics [HyTv]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaU5CXT.jpeg" group-title="Movies", American Christmas Carol [HyTv]
@@ -310,6 +311,8 @@ https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stre
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNNKURp.jpeg" group-title="x24/7", Sonic II [E]
+https://www961.ff-02.com/token=7gfIVxE04diCuFRG-Qh2yA/1651259403/181.66.0.0/192/4/fb/e2e1327cd2a82bc85b6f4b7aef57efb4-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jN0GDj.jpeg" group-title="x24/7", Volver al Futuro III [E]
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="x24/7", Energeek 1 [E]
