@@ -95,6 +95,14 @@ http://tv.teleclub.xyz/live/ABRIL_00/PANAMERICANA_TV/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_00/TVN_24H/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpsieSZ.png" group-title="Noticia", TVMax Panama [E]
 http://tv.teleclub.xyz/live/ABRIL_00/TVMAX_PANAMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eH5YeW8.jpeg" group-title="Noticia", LimaLive [E]
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6HvBxh.png" group-title="Noticia", LotPlus TV [E]
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnI7700.png" group-title="Noticia", Master TV [E]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wt3dNY9.png" group-title="Noticia", Millenium 49 TV [E]
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network [HyTv]
@@ -190,7 +198,22 @@ http://tv.teleclub.xyz/live/ABRIL_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YZULM4.jpeg" group-title="Musica", Radio Inka TV [HyTv]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pk8uGw3.png" group-title="Musica", RadioTV Oriente [HyTv]
+https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uV1YIP.jpeg" group-title="Musica", Región TV [HyTv]
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mDFzjBH.jpeg" group-title="Musica", RumbaMix TV [HyTv]
+https://tvdatta.com:3344/live/rumbamixlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ekagOHa.jpeg" group-title="Musica", Radio TV Juanjui [HyTv]
+https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avUOjUW.png" group-title="Musica", Radio San Borja TV [HyTv]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O90m89A.jpeg" group-title="Musica", Metal TV [HyTv]
+https://v2.catcast.tv/content/33816/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XCYdTfP.png" group-title="Musica", Karibeña [HyTv]
+https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdDHaXc.jpeg" group-title="Musica", BestCableMasCumbia [HyTv]
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV [HyTv]
@@ -266,7 +289,8 @@ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS3_SUR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BEIN/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9DfGtp.png" group-title="Religion", 3ABN Latino [HyTv]
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVArBYu.png" group-title="Religion", Bethel TV [HyTv]
 https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H0Y4WCz.png" group-title="Religion", MCRT Cristiana [HyTv]
@@ -275,6 +299,15 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Religion", Canal Dios Te Ve [HyTv]
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Movies", American Classics [HyTv]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Movies", American Christmas Carol [HyTv]
+https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Movies", Bflix Movies [HyTv]
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Movies", Retro Plus 3 [HyTv]
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jN0GDj.jpeg" group-title="x24/7", Volver al Futuro III [E]
