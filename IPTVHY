@@ -200,6 +200,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4YZULM4.jpeg" group-title="Musica", Radio Inka TV [HyTv]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pk8uGw3.png" group-title="Musica", RadioTV Oriente [HyTv]
@@ -290,6 +291,7 @@ http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_SUR/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS3_SUR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BEIN/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9DfGtp.png" group-title="Religion", 3ABN Latino [HyTv]
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
