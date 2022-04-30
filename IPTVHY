@@ -305,6 +305,12 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXS6BXM.jpeg" group-title="Peliculas Anime", Naruto Shippuden Camino Ninja [E]
+https://www.youtube.com/embed/a20Qxh3-9DU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3R4nri.jpeg" group-title="Peliculas Anime", Naruto Shippuden Pricion De Sangre [E]
+https://www.youtube.com/embed/QZxYHca94bU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B06T8Lo.jpeg" group-title="Peliculas Anime", Dragon Ball Z LBDLD Extendida [E]
+https://www.youtube.com/embed/SWMTPC4WWyQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2IYM2FZ.jpeg" group-title="Peliculas Anime", Tom y Jerry 2022 [E]
 https://www2252.ff-05.com/token=qZScbuZwWtIjhUvWGIAa9g/1651262619/181.66.0.0/189/5/60/352a07151c136603bb76d32272d9e605-1080p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L4NDNBo.jpeg" group-title="Peliculas Anime", Hotel Transilvania 4 2022 [E]
