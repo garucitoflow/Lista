@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 1
-http://tv.teleclub.xyz/live/EVENTOS/01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 2
-http://tv.teleclub.xyz/live/EVENTOS/02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 3
-http://tv.teleclub.xyz/live/EVENTOS/03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 4
-http://tv.teleclub.xyz/live/EVENTOS/04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="HyTv | Eventos", HyTv | EVENTO 5
-http://tv.teleclub.xyz/live/EVENTOS/05/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Infantil", Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [HyTv]
