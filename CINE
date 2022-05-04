@@ -1,480 +1,390 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/e5Xf4RrQVrxSwV2MG3I5sSjBieX-185x278.jpg" group-title="VOD 2018",EL FINAL DE TODO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/How.It.Ends.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana3.com/wp-content/uploads/2018/07/sicario-el-dia-del-soldado-5371-poster-180x260.jpg" group-title="VOD 2018",SICARIO 2: SOLDADO
-https://storage.googleapis.com/stable-healer-211314.appspot.com/tt5052474_LAT_TS.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/uXcL5VprgcDqwlLG3kYX7BtrX0W-185x278.jpg" group-title="VOD 2018",RESCATE EN ENTEBBE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/7.Days.in.Entebbe.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/p1XMPYuM8SvmlA1OQIIfpK1TakM-185x278.jpg" group-title="VOD 2018",EXTINCTION
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Extinction.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQyMTg1NDUtNTE2Zi00OTQ2LWJlZDEtYzU1OTkzMWZhYWViXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="VOD 2018",THE LAST WITNESS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Last.Witness.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/dFT28QwIEfQNWFn5200ZNKrgJ9q-185x278.jpg" group-title="VOD 2018",PERDIDA; Nunca dejes de buscar
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Perdida.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/1MwoZ4U8SGm7yIzfPFcTTbiiOYY-185x278.jpg" group-title="VOD 2018",DIOS NO ESTA MUERTO 3
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Gods.Not.Dead.3.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/5tNrlxFAmlcMArbMwG9qnOu0C06-185x278.jpg" group-title="VOD 2018",TE ATRAPE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Tag.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/original/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg" group-title="VOD 2018",AVENGERS: INFINITY WAR
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Avengers.Infinity.War.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/7TZDOCRQt9kT5pEofz1vkKDMwiZ-185x278.jpg" group-title="VOD 2018",TITANES DEL PACIFICO: LA INSURRECCION
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Pacific.Rim.2.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w500/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg" group-title="VOD 2018",DEAD POOL 2
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Deadpool.2.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/3PnNwGH1rbLfFmkJk2upoj5AsSD-185x278.jpg" group-title="VOD 2018",GODZILLA: CITY ON THE EDGE OF BATTLE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Godzilla.City.on.the.Edge.of.Battle.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/5lqJx0uNKrD1cEKgaqF1LBsLAoi-185x278.jpg" group-title="VOD 2018",ACTION POINT
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Action.Point.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/y0uxSHaSFmt6XaBJgjkeLqe7aM-185x278.jpg" group-title="VOD 2018",LA MUERTE DE SUPERMAN
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Death.of.Superman.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg" group-title="VOD 2018",PANTERA NEGRA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Black.Panther.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BMTY1OTIwODgzMV5BMl5BanBnXkFtZTgwMzUyMDgzNDM@._V1_SX300.jpg" group-title="VOD 2018",LOS EXTRAÑOS, CACERIA NOCTURNA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Strangers.Prey.at.Night.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/dNfWwIRvlB8XF3n4q9R4B6iL1rx-185x278.jpg" group-title="VOD 2018",ENTRE SOMBRAS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/In.Darkness.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/2o66Gze91m9Q3xDdC1fc1IJj52B-185x278.jpg" group-title="VOD INFANTILES",PLOEY, nunca volaras solo
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Ploey.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/jtiaQxL8NpZrj1qZ0VxznQMfGNR-185x278.jpg" group-title="VOD 2018",DE TAL PADRE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Like.Father.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/6ORGBbOA45pfKQXvntPf46NoFGO-185x278.jpg" group-title="VOD 2018",CLUB DEL LIBRO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Book.Club.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/aguq47xq3qhN807rSyz4lJyhAkX-185x278.jpg" group-title="VOD 2018",THE TALE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/The.Tale.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/aMv5ILxjzA9S930eLImSjfecETH-185x278.jpg" group-title="VOD 2018",REVENGE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Revenge.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/beGV7Zm7liyYCUMVUeZr6rr6cSU-185x278.jpg" group-title="VOD 2018",EDGE OF FEAR
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Edge.of.Fear.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/7pb3ZAGp2V9z7lDXRQk4MeOsXlL-185x278.jpg" group-title="VOD 2018",RESTAURANTE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/American.Curious.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana3.com/wp-content/uploads/2018/07/ant-man-y-la-avispa-5397-poster-180x260.jpg" group-title="VOD 2018",EL HOMBRE HORMIGA Y LA ABISPA
-https://storage.googleapis.com/stable-healer-211314.appspot.com/cv5095030ltv2.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/1YmX9YUGBglkwweE3AZB92wl5Cs-185x278.jpg" group-title="VOD 2018",EL GRAN HURACAN CATEGORIA 5
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/The.Hurricane.Heist.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana3.com/wp-content/uploads/2018/06/c9XxwwhPHdaImA2f1WEfEsbhaFB-180x260.jpg" group-title="VOD 2018",JURASSIC WORLD: EL REINO CAIDO
-https://storage.googleapis.com/stable-healer-211314.appspot.com/cv4881806ltv3.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/qqYOlCee3X7cKg05EOQH1htcHmy-185x278.jpg" group-title="VOD 2018",TAU
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Tau.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/8YcjGJtW4AEHyNH8yrs8FAaPBM-185x278.jpg" group-title="VOD 2018",TROPA DE HEROES
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/12.Strong.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/luFovbjNnQ1xNNtcEl3dpE2oz0P-185x278.jpg" group-title="VOD 2018",RAMPAGE: DEVASTACION
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Rampage%20(2018)%201080%20Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana3.com/wp-content/uploads/2018/07/el-rascacielos-5463-poster-180x260.jpg" group-title="VOD 2018",EL RASCACIELOS
-https://storage.googleapis.com/stable-healer-211314.appspot.com/tt5758778_LAT_WEB-SCR.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/xYWYsiTlCpnBF2rw2ie1XwKvxGO-185x278.jpg" group-title="VOD 2018",BEIRUT
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Beirut.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/xi7pA3lL6Wb78p6Y6PgWoHDMjrM-185x278.jpg" group-title="VOD 2018",LA VENGANZA PERFECTA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Terminal.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/jMRETC4nZ4rL0gBgRH7aPmbTGj6-185x278.jpg" group-title="VOD 2018",ACCIDENT MAN
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Accident.Man.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/zG2DHbo2GNxSmcFWqGkAPgS6hC8-185x278.jpg" group-title="VOD 2018",DAPHNE AND VELMA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Daphne.And.Velma.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/pU1ULUq8D3iRxl1fdX2lZIzdHuI-185x278.jpg" group-title="VOD 2018",COMIENZA EL JUEGO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Ready.Player.One.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/jJ635DsVJvPtOntz30WtqXlGFG3-185x278.jpg" group-title="VOD 2018",PERTURBADA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Unsane.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/7XURM64DYa9DpS70I2rM4suvq1s-185x278.jpg" group-title="VOD INFANTILES",AL AIRE PATOS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Duck.Duck.Goose.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/kZENTO2LIu0SF0l0IMBrTIN86QP-185x278.jpg" group-title="VOD INFANTILES",COLMILLO BLANCO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/White.Fang.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana3.com/wp-content/uploads/2018/07/hotel-transilvania-3-unas-vacaciones-monstruosas-5470-poster-180x260.jpg" group-title="VOD INFANTILES",HOTEL TRANSYLVANIA 3
-https://storage.googleapis.com/stable-healer-211314.appspot.com/cv5220122lt.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/8Ix63RomDVTuz6r7lib403lEF6h-185x278.jpg" group-title="VOD INFANTILES",ISLA DE PERROS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Isle.of.Dogs.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/fNayc14I8UH9rywBXAp2Eh81za3-185x278.jpg" group-title="VOD INFANTILES",LEGO DC SUPER HEROES: AQUAMAN
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/LEGO.DC.Comics.Super.Heroes.Aquaman.Rage.of.Atlantis.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/2B1reA1O4HM0oUwkjdCkTslLWCM-185x278.jpg" group-title="VOD INFANTILES",LEGO DC SUPER HERO GIRLS: SUPER VILLANAS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Lego.DC.Super.Hero.Girls.Super.Villain.High.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana3.com/wp-content/uploads/2018/06/los-increibles-2-5233-poster-180x260.jpg" group-title="VOD INFANTILES",LOS INCLEIBLES 2
-https://storage.googleapis.com/stable-healer-211314.appspot.com/cv3606756ltv2.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/56W222OvoZTmwdT3lXWrG3GPyRf-185x278.jpg" group-title="VOD INFANTILES",OLE, EL VIAJE DE FERDINAND
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Ferdinand.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/5JeQNzQEAGHtWVmgKKBdSOpBXB1-185x278.jpg" group-title="VOD INFANTILES",EL PEQUEÑO VAMPIRO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Little.Vampire.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/04/A7yTRWLgJdvOFQPhwSJF1s4BwbQ-185x278.jpg" group-title="VOD INFANTILES",CONDORITO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Condorito%20La%20Pelicula.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/jwq6NnBE7BDn8SbZm9jYt4fc38e-185x278.jpg" group-title="VOD INFANTILES",THE JUMGLE BUNCH
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Jungle.Bunch.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/04/aCGJGzDRTNbkPI876lGocuyQyi8-185x278.jpg" group-title="VOD INFANTILES",MARCIANOS CONTRA MEXICANOS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Marcianos.vs.Mexicanos.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/qPRrKjmHR1dK3yQij2RNX7TNNbB-185x278.jpg" group-title="VOD INFANTILES",LA LEYENDA DEL CHARRO NEGRO
-https://openload.co/stream/MMlXCNL8cgk~1534532196~186.75.0.0~cHiim2v9?mime=true
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/7fPSBcTDaoSHvLB8gvDURQlFKHT-185x278.jpg" group-title="VOD 2018",SUPER MADEROS 2
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Super.Troopers.2.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/x1lCtpJCbLVM7fp4bo6qk61fMTR-185x278.jpg" group-title="VOD 2018",THE BLEEDING EDGE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Bleeding.Edge.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/xRjExwUV2kLbgBVNKP3OzVswtJW-185x278.jpg" group-title="VOD 2018",GRINGO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Gringo.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/60WQEFuSxb1K7q44ypDhknkscOm-185x278.jpg" group-title="VOD 2018",BREAKING IN
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Breaking.In.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/04/campeones-997521496-large1-185x278.jpg" group-title="VOD 2018",CAMPEONES
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Campeones.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/ypdroTCMtD2PHEYnhAIhS3rboDb-185x278.jpg" group-title="VOD 2018",EL ROBO PERFECTO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Den.Of.Thieves.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/tUx5ixm2yocuxDZHTuE6SPDCY2Q-185x278.jpg" group-title="VOD 2018",TODO MAL
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Todo.Mal.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/hkrlkZU6SjZkS2HHNWO5Ca6NLnr-185x278.jpg" group-title="VOD 2018",ROMINA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Romina.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/hmK2r1Jwp5bBqtDTjkpm8UDtG00-185x278.jpg" group-title="VOD 2018",LA ULTIMA FIESTA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/La.Ultima.Fiesta.2016.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BMWRkYTQ4NzctMDAwYS00NmE3LWI5NzUtMTMzNTQ0MDgwOWI1XkEyXkFqcGdeQXVyODQyOTY2OTA@._V1_SX300.jpg" group-title="VOD 2018",PABLO, APOSTOL DE CRISTO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Paul.Apostle.of.Christ.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/rHxd1VMNp46Foqqgjzw4CFL4V9U-185x278.jpg" group-title="VOD 2018",MARIA MAGDALENA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Mary.Magdalene.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/cu9wOiCqD9Usmwwxn1xfuwVGnnp-185x278.jpg" group-title="VOD 2018",TOMB INVADER
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Tomb.Invader.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/cLoJpvqDZ6qwPxy5cBJuMjVlSDr-185x278.jpg" group-title="VOD 2018",FATHER OF THE YEAR
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Father.Of.The.Year.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/death_wish-853195363-large1.jpg" group-title="VOD 2018",DESEO DE MATAR
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Death.Wish.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BMjM3NzI1NDMyNl5BMl5BanBnXkFtZTgwNzUyMDgzNDM@._V1_SX300.jpg" group-title="VOD 2018",ACTOS DE VIOLENCIA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Acts.of.Violence.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/c7iefOekZrKT543uhNqbjtZc7gc-185x278.jpg" group-title="VOD 2018",SI SOLO PUDIERA IMAGINAR
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/I.Can.Only.Imagine.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/05/uijXJYJOY0v0VtCXwQ9UXAJHtPH-185x278.jpg" group-title="VOD 2018",TREN A PARIS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.15.17.to.Paris.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BYzI1MzA0NjUtNWI2MC00NDg0LThiYmItN2RjZWRmN2E0MmVmXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg" group-title="VOD 2018",EL DUODECIMO HOMBRE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/The.12th.Man.2018.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/alex_me-407626731-large1.jpg" group-title="VOD 2018",ALEX & ME
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Alex.and.Me.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BZTAyZDZmYTAtODNmNC00ODQ1LTllNDMtODcwOTJmOTEyZTYxXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg" group-title="VOD 2018",FAHRENHEIT 451
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Fahrenheit.451.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BOTc0ZDY0OGQtODM0Yi00YWQ4LTg1MzItMTU2NGFmZDQ1N2UyXkEyXkFqcGdeQXVyMjQ1MDk0MA@@._V1_SX300.jpg" group-title="VOD 2018",LA VODA DE VALENTINA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/La.Boda.de.Valentina.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg" group-title="VOD 2018",TOMB RAIDER
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Tomb.Raider.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BNTMyZDdiMzUtZjcxNS00Mjc3LTljY2UtYjI4YmY5NzJlYjc1XkEyXkFqcGdeQXVyMTA5OTkwNTc@._V1_SX300.jpg" group-title="VOD 2018",YO SOY SIMON
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Love.Simon.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/04/a27KHrVtFpx2U00zhnqtl3xgXm2-185x278.jpg" group-title="VOD INFANTILES",LA PRINCESA CISNE, UN MISTERIO REAL
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Swan.Princess.A.Royal.Myztery.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/04/bRDgMEikWMK3AJUJw0qqSJsWRAd-185x278.jpg" group-title="VOD INFANTILES",PETER RABBIT
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Peter.Rabbit.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BMTk4NzU3NzU2NV5BMl5BanBnXkFtZTgwNDc4NTI3NDM@._V1_SX300.jpg" group-title="VOD INFANTILES",SHERLOCK GNOMES
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Sherlock.Gnomes.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/43mHzjx8X8BZ3HBXpSWzHUrqa9O-185x278.jpg" group-title="VOD INFANTILES",BENJI
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Benji.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2017/08/y4MBh0EjBlMuOzv9axM4qJlmhzz-185x278.jpg" group-title="VOD 2018",GUARDIANES DE LA GALAXIA 2
-https://www004.fastplay.to/2tdv4irmmqjtgz575ovlrz6pglk4dw5am2xlquasdvivl4hc6e3hbfjl3zpa/v.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/02/oburjHqzOrTtDLYbLunKLwUHhk1-185x278.jpg" group-title="VOD INFANTILES",COCO
-https://storage.googleapis.com/stable-healer-211314.appspot.com/cv2380307ltv6.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/04/MV5BODI2ZmM5MzMtOWZiMC00ZGE3LTk3MWEtY2U0ZjE3ZWJlNDEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg" group-title="VOD 2018",50 SOMBRAS LIBERADAS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Fifty.Shades.Freed.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BOGJlNDJkZmEtMjUwNS00ZWViLWIyZGEtN2Y5ZjZlNDE1NWJkXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX300.jpg" group-title="VOD 2018",A 47 METROS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/47.Meters.Down.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BZmI0MjhjNjItZmU2MC00NmI1LTllOGQtODUyNGNmYjIyNmJmXkEyXkFqcGdeQXVyMTY2NTQ3ODc@._V1_SX300.jpg" group-title="VOD 2018",2036 ORIGIN UNKNOWN
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/2036.Origin.Unknown.2018.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BNDdlNmJkYmYtZWRkZS00M2IxLTg2YzAtNDRhMGJhZjE1NGM3XkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_SX300.jpg" group-title="VOD 2018",BENEDETTA FOLLIA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Benedetta.Follia.2017.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BMjQ4MjIxOTYyNF5BMl5BanBnXkFtZTgwMTc3MDg0NTM@._V1_SX300.jpg" group-title="VOD 2018",ALEX STRANGELOVE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Alex.Strangelove.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BYjczZTI5YjctYjExNi00NTZmLTliN2ItNzc5Y2U5MjVlODIyXkEyXkFqcGdeQXVyNzkwMjM4ODQ@._V1_SX300.jpg" group-title="VOD 2018",DIRT
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Dirt.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/the_rake-944076612-large1.jpg" group-title="VOD 2018",THE RAKE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/The.Rake.2018.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BMjI0NTEzMTk1OV5BMl5BanBnXkFtZTgwNTMwNDY3NDM@._V1_SX300.jpg" group-title="VOD 2018",THEY REMAIN
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/They.Remain.2018.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/hvI6dIHyzGtMXFbTE3fAguGQxuU-185x278.jpg" group-title="VOD 2018",DE CASA CON PAPA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Legacy.of.a.Whitetail.Deer.Hunter.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/06/MV5BMjIxNjg0MDU5Ml5BMl5BanBnXkFtZTgwMTE2NDMzNTM@._V1_1.jpg" group-title="VOD 2018",SOCIAL ANIMALS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Social.Animals.2018.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/94YCFvoTf2Se9h5c8QMNailwDfs-185x278.jpg" group-title="VOD 2017",MAZINGER Z: Infinity
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Mazinger.Z.Infinity.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/1yOzYmYvRyS2Ibg2e3wVVYTl9N0-185x278.jpg" group-title="VOD 2017",LA MANSION
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Mansion.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/xTWgncjZOrMmSjaEwA3DLOxaqf0-185x278.jpg" group-title="VOD 2017",LOS HERFANOS
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Pengabdi.Setan.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/pi16aubY3qFKJWAh4npvm03ERkH-185x278.jpg" group-title="VOD 2017",FRANCOTIRADOR: Ultima matanza
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Sniper.Ultimate.Kill.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/gpaT0nA7pLPAmXYGra6sUS95hFB-185x278.jpg" group-title="VOD 2017",THE RIDER
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Rider.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/mgNFM0xY7CCz0szxSOp70P2wy6Y-185x278.jpg" group-title="VOD INFANTILES",EL HIJO DE PIEGRANDE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Son.of.Bigfoot.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/ljwpX7zSWAG5BRG9AIKliWVLQyL-185x278.jpg" group-title="VOD INFANTILES",GNOMOS AL ATAQUE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Gnome.Alone.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2017/08/5qVD5TD1CiALR5vUsMzh2BschVU-185x278.jpg" group-title="VOD INFANTILES",CIGUEÑAS: La historia que no te contaron
-https://www004.fastplay.to/2tdvykzdmqjtgz575os3r5g7eat7s6ycfeojovwirsrmgikvt2gqythej6qa/v.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/02/geo-185x278.jpg" group-title="VOD 2017",GEO TORMENTA
-https://openload.co/stream/w0wfBiDnS40~1533906199~190.219.0.0~A-LKeCE9?mime=true
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/1Ch5Lhiwps9IPLwPb0HwTVdJWx6-185x278.jpg" group-title="VOD 2017",DESPERTANDO A ZODIAC
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/Awakening.the.Zodiac.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/cXene5mEHRovj7ZfMZpLxKSiv5n-185x278.jpg" group-title="VOD 2017",SKYBOUND
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Skybound.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/nhIbWv5J9VsvzTxfR09cchqpBzz-185x278.jpg" group-title="VOD INFANTILES",BARBIE Y LOS DELFINES
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Barbie.Dolphin.Magic.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/npteMVPwuNqt9lAqDC67Ld4NESf-185x278.jpg" group-title="VOD 2017",GANGSTER LAND
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Gangster.Land.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/8ALxJ0Y1pYXAG5dwgWNKGMCXeLA-185x278.jpg" group-title="VOD 2017",EN LA SOMBRA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/In.The.Fade.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/yYFlLKGduAjeJ3a3u57iJlQOx7z-185x278.jpg" group-title="VOD 2017",LA FORMA DEL AGUA
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/The.Shape.of.Water.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/ytkaL1wZcqgQKHLuU7Go3UxGpON-185x278.jpg" group-title="VOD 2017",SE OCULTAN EN LA OSCURIDAD
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Be.Afraid.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/dTWLfJgaFvPfodj5eYWzhJctjfC-185x278.jpg" group-title="VOD 2017",KILLEM ALL
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Killem.All.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/GmPXcuD8RFoivUaGay7j5cPURl-185x278.jpg" group-title="VOD 2017",24 HORAS PARA VIVIR
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/24.Hours.to.Live.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/6ytsZXxgOE5gXi54jPfYrMeDTQO-185x278.jpg" group-title="VOD 2017",THE BITTERSWEET
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/The.Bittersweet.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/y9jt6Y0eZLyEXa6h7puSMmTJPUA-185x278.jpg" group-title="VOD 2017",RESIDENTE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Residente.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/erX2fmVpkOij4f2mYK1ayzqWwMz-185x278.jpg" group-title="VOD 2017",INVISIBLE
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Invisible.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/oe0WzIcsCfwYLu5WhHKOjXO4aYx-185x278.jpg" group-title="VOD 2017",THE SHOW
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/This.Is.Your.Death.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/08/wc9MgFWuBl3VS72w6VtiZXTgN79-185x278.jpg" group-title="VOD 2017",FINAL PORTRAIT, EL arte de la amistad.
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Agosto/Final.Portrait.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/07/1yLhMcg9zegkq9286REbWJUWt2A-185x278.jpg" group-title="VOD 2017",EL DOCTOR DE LA FELICIDAD
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Julio/Knock.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/wyq0BLdyPEXcBsTprGYtWn6b2Dj-185x278.jpg" group-title="VOD 2017",EL MEJOR REGALO
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/All.I.Wish.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="https://www.cuevana2.com/wp-content/uploads/2018/05/MV5BMTgyODU5NTYzMF5BMl5BanBnXkFtZTgwMjA2OTcyNTM@._V1_SY1000_CR006741000_AL_1.jpg" group-title="VOD 2017",DARK CRIMES
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/mayo/Dark.Crimes.2016.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/hf8GgHGF9mZesazNbaArxGWjZW7-185x278.jpg" group-title="VOD INFANTILES",TADEO EL EXPLORADOR PERDIDO 2
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Tadeo.Jones.2.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/04/zuXMvSQq9F7H29qzuUm0qyUqw6m-185x278.jpg" group-title="VOD INFANTILES",PADDINGTON 2
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Paddington.2.2017.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/03/nIY0qL4eVdQvvWb7vGCnHgOJ3R2-185x278.jpg" group-title="VOD INFANTILES",OZZY: Rapido y peludo
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Ozzy.2016.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2018/06/3Uzjv48NmFveBMwRsdDrhc40RWK-185x278.jpg" group-title="VOD AÑOS ANTERIORES",THE DEVIL
-https://storage.googleapis.com/secret-tempest-196513.appspot.com/Junio/The.Devil.Complex.2016.Latino.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2017/09/3itnFVfx74ccUayMcywRHR8LLSd-185x278.jpg" group-title="VOD INFANTILES",COMO ENTRENARA TU DRAGON
-https://www006.fastplay.to/2tdv7fyvmqjtgz575ovlr7m3hl5zchtfydxsaqtwzibhqrochfyu6ddmnmla/v.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2017/09/5qcUGqWoWhEsoQwNUrtf3y3fcWn-185x278.jpg" group-title="VOD INFANTILES",MI VILLANO FAVORITO 3
-https://www008.fastplay.to/2tdv45qpmqjtgz575ov3r3gpheitexjm27j5l4jf5ejnqrbpwmccgzekcsra/v.mp4
-
-#EXTINF:0 tvg-logo="http://cuevana2espanol.com/wp-content/uploads/2017/09/yKiy0UdskrQZshGCc0j1OvrqqYL-185x278.jpg" group-title="VOD INFANTILES",BIENVENIDOS A MONSTER HIGH
-https://www008.fastplay.to/2tdvzfqrmqjtgz575ovlr4offzbty2r7tujuzviz56vd5uclnf6utijt24la/v.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/loser-2000/large_b3aYI05e1iAc7ouFeBpSUQADxsi.jpg" group-title="VOD CINE CLASICO",Loser (2000)
-http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg" group-title="VOD CINE CLASICO",La Vendedora de Rosas (1998)
-https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wTvuMi6YlO6bVe2Ax5mEL1dbVYv.jpg" group-title="VOD CINE CLASICO",George of the Jungle (1997)
-https://ia601507.us.archive.org/21/items/1960196004.mkv/1960-196004.mkv.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Striptease_movie_poster.jpg" group-title="VOD CINE CLASICO",Striptease (1996)
-https://ia601508.us.archive.org/14/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
-
-#EXTINF:-1 tvg-logo="https://yts.ag/assets/images/movies/Casper_1995/medium-cover.jpg" group-title="VOD CINE CLASICO",Casper (1995)
-https://ia601508.us.archive.org/22/items/casper_201709/casper.mp4
-
-#EXTINF:-1 tvg-logo="http://images2.static-bluray.com/products/20/8213_2_large.jpg" group-title="VOD CINE CLASICO",Dennis the Menace (1993)
-https://ia600605.us.archive.org/3/items/31052017_201705678678687687/31052017.mkv
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/beauty-and-the-beast-1991/large_jvlalnqhCxQfuBhPQKAuWuzvTe1.jpg" group-title="VOD CINE CLASICO",Beauty and the Beast (1991)
-https://archive.org/download/06052017MYO5MYO06052017/06052017_MYO5.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Poster_of_the_movie_Sometimes_They_Come_Back.jpg" group-title="VOD CINE CLASICO",Sometimes They Come Back (1991)
-https://ia801504.us.archive.org/8/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
-
-#EXTINF:-1 tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg" group-title="VOD CINE CLASICO",Child's Play 2 (1990)
-https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-
-#EXTINF:-1 tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg" group-title="VOD CINE CLASICO",Rodrigo D - No futuro (1990)
-https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="VOD CINE CLASICO",Back to the Future Part II (1989)
-https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/b2/70/40b270ec08083c28db780d4975276785--s-movies-scary-movies.jpg" group-title="VOD CINE CLASICO",Pet Sematary (1989)
-https://ia801603.us.archive.org/6/items/06052017AQC06052017/06052017_AQC.avi
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="VOD CINE CLASICO",Child's Play (1988)
-https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/The_seventh_sign.jpg" group-title="VOD CINE CLASICO",The Seventh Sign (1988)
-https://ia801903.us.archive.org/5/items/LaSeptimaProfeciaXVIDMP3Spanish/La%20Septima%20Profecia%20-%20%5BXVID-MP3%20Spanish%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://filmxposure.files.wordpress.com/2016/06/poster-mansion.jpg" group-title="VOD CINE CLASICO",La Mansion de Araucaima (1986)
-https://archive.org/download/LaMansionDeAraucaima1986PeliculaRestauradaEnFULHD/La%20Mansión%20de%20Araucaima%201986%20-%20Pelicula%20Restaurada%20en%20FUL%20HD.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg" group-title="VOD CINE CLASICO",Porky's Revenge (1985)
-https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
-
-#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/children-of-the-corn-1984/large_miJTMLdgrrgAs7blRjLutfLha9M.jpg" group-title="VOD CINE CLASICO",Children of the Corn (1984)
-https://ia801503.us.archive.org/23/items/LosNinosDelMaiz/Los%20ni%C3%B1os%20del%20maiz.mp4
-
-#EXTINF:-1 tvg-logo="http://blog.mrcostumes.com/wp-content/uploads/halloween-movie-poster.jpg" group-title="VOD CINE CLASICO",Halloween (1978)
-http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="VOD CINE CLASICO",Vacaciones en Acapulco (1977)
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
-
-#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg" group-title="VOD CINE CLASICO",La Presidenta Municipal (1975)
-https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/dM4R0r1.jpg" group-title="1969",El Libro de Piedra (1969)
-https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kpaLtXk.jpg" group-title="VOD CINE CLASICO",Caperucita y Pulgarcito Contra los Monstruos (1960)
-https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg" group-title="VOD CINE CLASICO",El Dolor de Pagar la Renta (1960)
-https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/U9RiSMD.jpg" group-title="VOD CINE CLASICO",Macario (1960)
-https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg" group-title="VOD CINE CLASICO",Angelitos del Trapecio (1959)
-https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/e4BzmDB.jpg" group-title="VOD CINE CLASICO",Yo Soy Muy Macho (1953)
-https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/gVCnp2P.jpg" group-title="VOD CINE CLASICO",El Bello Durmiente (1952)
-https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ac_las_tortas-914464527-large.jpg" group-title="VOD CINE CLASICO",Aca las Tortas (1951)
-https://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
-
-#EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/480/480/10998386-2084425776830023.jpg " group-title="VOD CINE CLASICO",Alice in Wonderland (1951)
-https://ia601508.us.archive.org/33/items/MilOchoMil001/MilOchoMil_001.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OOGQjcp.jpg" group-title="VOD CINE CLASICO",Simbad el Mareado (1950)
-https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/lzZMzXw.jpg" group-title="VOD CINE CLASICO",La Familia Perez (1949)
-https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/55/28/90/55289097b4c3f039f619362357ecdbdc--watches.jpg" group-title="VOD CINE CLASICO",Una Familia de Tantas (1949)
-https://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="VOD CINE CLASICO",Los Tres Huastecos (1948)
-https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/aOy8B0T.jpg" group-title="VOD CINE CLASICO",Nosotros - los Pobres (1948)
-https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9ZOU6Hq.jpg" group-title="VOD CINE CLASICO",Si Adelita se Fuera con Otro (1948)
-https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3S8RST5.jpg" group-title="VOD CINE CLASICO",Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/0b/ae/7f0baedfb57021585a76e9890917b95a.jpg" group-title="VOD CINE CLASICO",Bambi (1942)
-https://ia601509.us.archive.org/9/items/MilOchoMil004/MilOchoMil_004.mp4
-
-#EXTINF:-1 tvg-logo="http://img.soundtrackcollector.com/movie/large/Dumbo.jpg" group-title="VOD CINE CLASICO",Dumbo (1941)
-https://ia601505.us.archive.org/5/items/1960196003/1960-196003.mp4?null=
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+#EXTINF:-1 tvg-id="K17JIDT4.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religious",3ABN Latino (480p)
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religious",3ABN Latino (720p) [Not 24/7]
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6gKU3Fd.png" group-title="General",Activa TV [Not 24/7]
+https://cloudvideo.servers10.com:8081/8126/index.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",AgrotendenciaTV (480p) [Not 24/7]
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="News",Al Jazeera Arabic (1080p)
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Sports",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Undefined",Andes Televisión (Sicusani) (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Animation",Anime Zone TV (480p) [Not 24/7]
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Undefined",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Asiritv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="Undefined",ATM Televisión (Apurimac) (720p) [Not 24/7]
+https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uA0GNVH.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bORM4rt.png" group-title="Undefined",Bella Abanquina TV (Apurimac) (720p) [Not 24/7]
+https://v4.tustreaming.cl/bellatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",Bella Asuncion TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Más Cumbia (720p) [Not 24/7]
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Music (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="General",Best Cable Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-id="BethelTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/hn_bethel_m.png" group-title="Religious",Bethel TV (720p) [Not 24/7]
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+#EXTINF:-1 tvg-id="BeXtremeTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Undefined",BeXtreme TV (Lima) (1080p) [Geo-blocked]
+https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="General",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bVTjvp6.png" group-title="General",Cable Netword TV (480p) [Not 24/7]
+https://tv.inka.net.pe/cntv/index.m3u8
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3VkobI4.png" group-title="Undefined",Cajamarca TV (480p) [Not 24/7]
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Undefined",Canal 8 (Catacaos) (360p) [Not 24/7]
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal43Sudamericana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uIukZcv.png" group-title="Undefined",Canal 43 Sudamericana (Ica) (360p) [Not 24/7]
+https://media2.cdnlayer.biz:8081/8014/index.m3u8
+#EXTINF:-1 tvg-id="CaribeTelevisionOtuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4MftJLp.png" group-title="Undefined",Caribe Televisión (Otuzco) (1080p) [Not 24/7]
+http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Latin America
+http://209.91.213.10:8088/play/a00k
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YI9n4wL.png" group-title="Undefined",Central TV (Chosica) (614p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-country="INT" tvg-language="Chinese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TxEBT6I.png" group-title="Undefined",CharapaTV (Pucallpa) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Family",Chicos IPe (1080p) [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="Undefined",ClipsTV (Ica) (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Undefined",CNC Digital (Iquitos) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-country="LATAM;US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivomux/index.m3u8
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="CTC.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Undefined",CTC (720p)
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p) [Not 24/7]
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="CVMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hvuPyET.png" group-title="Music",CVM TV Digital (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DeltaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="Undefined",DeltaTV (Pacayzapa | San Martín) (480p) [Not 24/7]
+https://media2.cdnlayer.biz:8081/8038/index.m3u8
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="Undefined",DMJ (Cuzco) (720p) [Not 24/7]
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Entertainment",EnerGeek (720p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Entertainment",EnerGeek Señal 2 (720p) [Not 24/7]
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="EJTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ba4wF0N.png" group-title="Religious",EnlaceTV (720p) [Not 24/7]
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv.png" group-title="News",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-id="Expresion.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AoX2HO7.png" group-title="News",Expresión (Tacna) (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="Undefined",FuegoTV (Lima) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+#EXTINF:-1 tvg-id="FXPeru.us" tvg-country="PE" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="Entertainment",FX Peru
+http://209.91.213.10:8088/play/a01z
+#EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV (Peru) (1080p) [Not 24/7]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-id="HatunTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Hatun TV (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Science",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="Hoynet.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gAQaSBj.png" group-title="Undefined",Hoynet (540p) [Not 24/7]
+https://tv.portalexpress.es:3641/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oC6tuLn.png" group-title="General",Huacho Perú TV (720p) [Not 24/7]
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo (480p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a2lP0Ma.png" group-title="Undefined",Imagen Televisión (Rioja) (720p) [Not 24/7]
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KIWejCA.png" group-title="Undefined",Impacto Televisión (Cajamarca) (720p)
+https://eu1.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="Undefined",Imperial Televisión (Huancayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
+#EXTINF:-1 tvg-id="Innovafm.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Mxls38t.png" group-title="Undefined",Innova FM (Bagua Grande) (480p) [Not 24/7]
+https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JN19.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Fd22rw.png" group-title="Religious",JN19 (720p) [Not 24/7]
+https://servilive.com:3149/live/jn19tvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",K-Pop Channel
+http://177.53.152.186:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",Kachorro (Super TV | Amazonas) (720p) [Not 24/7]
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 tvg-id="LaAbeja.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KMze5qN.png" group-title="News",La Abeja (720p) [Not 24/7]
+http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sFrP2GE.png" group-title="Religious",La Luz TV (720p) [Not 24/7]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Qusd5mT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8098/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina
+http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="LimaLive.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Undefined",LimaLive (536p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xNjYZoA.png" group-title="Undefined",LotPlus TV (Chiclayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV (Tarapoto) (480p) [Not 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Undefined",MaticesTV (Cañete) (720p) [Not 24/7]
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",Memorias TV
+https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
+#EXTINF:-1 tvg-id="Millenium49TVPucallpa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zYpMHhQ.png" group-title="Undefined",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium 109 FM (Lamas) (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="MitosTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w4ISMBI.png" group-title="Undefined",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
+https://inliveserver.com:1936/19018/19018/playlist.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",MX Old
+http://177.53.152.186:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="General",NacionalTV (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CtPwUdL.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="NuestraTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gZAOl0w.png" group-title="Undefined",Nuestra TV (Lima) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p) [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="Undefined",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+#EXTINF:-1 tvg-id="PaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B89KuHO.png" group-title="Religious",Pax TV (480p) [Not 24/7]
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel (720p) [Not 24/7]
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ryvWvwu.png" group-title="Undefined",Peru Magico (480p) [Not 24/7]
+http://38.131.11.9:1080/play/a0dh
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oew9unJ.png" group-title="Undefined",PiuraTV (720p) [Not 24/7]
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qWKjXO8.png" group-title="Undefined",Planeta TV Moyobamba (720p) [Not 24/7]
+https://live.obslivestream.com/planetatvmux/index.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Primavera15RadiotelevisionMoquegua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bOHwXqM.png" group-title="Undefined",Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
+https://tv.portalexpress.es:3270/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ProyectaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pXspBga.png" group-title="Undefined",Proyecta Televisión (Huacho) (720p) [Not 24/7]
+https://servilive.com:3194/live/proyectatvlive.m3u8
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="Undefined",QT Televisión (Cuzco) (720p) [Not 24/7]
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-id="QuattroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="Undefined",Quattro TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
+#EXTINF:-1 tvg-id="RadioCalorHuancayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hO3k8sz.png" group-title="Undefined",Radio Calor (Huancayo) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/calortv
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Music",Radio Chalaca (720p) [Not 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+#EXTINF:-1 tvg-id="RadioDigital941TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kG6UL31.png" group-title="Undefined",Radio Digital 94.1 TV (Juanjui) (240p) [Not 24/7]
+https://media2.cdnlayer.biz:8081/8018/index.m3u8
+#EXTINF:-1 tvg-id="RadioPachatusan.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mZk5sa.png" group-title="Undefined",Radio Pachatusan (Cuzco) (720p) [Not 24/7]
+https://tvdatta.com:3413/live/pachatusanlive.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="HISPAM;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xvMDTe9.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTropicalTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1331243814548287489/RCVGVH6L_400x400.jpg" group-title="Undefined",Radio Tropical Tarapoto (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="RadioTVCharles.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6AAMTcS.png" group-title="Undefined",Radio TV Charles (Bambamarca) [Not 24/7]
+https://media2.cdnlayer.biz:8081/8032/index.m3u8
+#EXTINF:-1 tvg-id="RadioTVJuanjui.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kn9w87L.png" group-title="Undefined",Radio TV Juanjui (480p) [Not 24/7]
+https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Undefined",RadioInka (Abancay) (1080p) [Not 24/7]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RadioTVOrienteYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Undefined",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English;German" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RCR.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DvRbrFy.png" group-title="Undefined",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Undefined",Región TV (Callao) (480p) [Not 24/7]
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus 2 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",RPP (480p) [Not 24/7]
+http://38.131.11.9:1080/play/a0d8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p) [Geo-blocked]
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV (1080p) [Not 24/7]
+https://live.obslivestream.com/sanjuaneramux/playlist.m3u8
+#EXTINF:-1 tvg-id="SEOTV.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="General",SEO TV (720p) [Not 24/7]
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="Sistema1.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GaEfzuG.png" group-title="Undefined",Sistema 1 (Huaraz) (720p) [Not 24/7]
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L45zrbj.png" group-title="Undefined",Sol Stereo TV (Casma) (360p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pPNuVPt.png" group-title="Undefined",Solar Televisión (Abancay) (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/televisionsolar/index.m3u8
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="StereoTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lHJCZfk.png" group-title="Music",Stereo TV (Peru) (720p) [Not 24/7]
+https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
+#EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="Undefined",Sumac TV (Lima) (480p) [Not 24/7]
+https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+#EXTINF:-1 tvg-id="SuperCanalYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Undefined",Super Canal (Yurimaguas) (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5O42NQ.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YNZwq9N.png" group-title="Undefined",Tele2000 (Ayacucho) (720p) [Not 24/7]
+https://servilive.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Camana) (480p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Ilo) (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Mollendo) (240p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Moquegua) (360p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Tacna) (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aSxZooE.png" group-title="Undefined",Televisión Tarapoto (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Business",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="Undefined",Top FM TV (Atalaya) (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WLZBeNQ.png" group-title="Music",Top Latino TV (404p) [Not 24/7]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TPTO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SC5xxMn.png" group-title="Undefined",TPTO TV (Tarapoto) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="Undefined",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="Undefined",Tumpis TV (Tumbes) (720p) [Not 24/7]
+https://servilive.com:3531/live/tumpistvlive.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://tvcosmos.pe/includes/iso-cosmos.png" group-title="General",TV Cosmos (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMundoArequipa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KN4Hds2.png" group-title="Undefined",TV Mundo (Arequipa) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQH-6sv6ovHg4Nx-niZ_C1g/live
+#EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Wo3HEyl.png" group-title="Undefined",TV Norte (Chiclayo) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticias 7.3 (768p)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cen9l4e.png" group-title="General",TV Palmeras (480p) [Not 24/7]
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú (450p) [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="News",TV Perú Noticias (768p) [Not 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0bBxZ5x.png" group-title="Music",TV Peruanísima (720p) [Not 24/7]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="Undefined",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/le0Amyd.png" group-title="Undefined",TVenLinea (Cuzco) (720p) [Not 24/7]
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="TvfacesOnline.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aFad8KR.png" group-title="Entertainment",Tvfaces Online (360p) [Not 24/7]
+https://tvdatta.com:3211/stream/play.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="UchuTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tebr5wH.png" group-title="General",Uchu TV (Cusco) (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/Cusco/index.m3u8
+#EXTINF:-1 tvg-id="UCI.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3KAm0lO.png" group-title="General",UCI (720p) [Not 24/7]
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Undefined",UCL TV (360p) [Not 24/7]
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="Unitel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel (Huancayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversitariaTVChanchamayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="Undefined",Universitaria TV (Chanchamayo) (480p) [Not 24/7]
+https://tvdatta.com:3670/live/universitariatvlive.m3u8
+#EXTINF:-1 tvg-id="UranioTVYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Undefined",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/uraniomux/index.m3u8
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EPFmlV3.png" group-title="General",USIL TV (720p) [Not 24/7]
+https://video.servidor.stream:3366/live/redeslive.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="Undefined",VamisaTV (Lima) (480p) [Not 24/7]
+https://vps1.lnx.pe/vamisa/envivo/index.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="General",Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="General",Vía Televisión (Tarapoto) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="VNP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fLk6TPY.png" group-title="News",Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Music",Visión TV Musica (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mhR2bXC.png" group-title="General",Willax (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="PE;SV" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="Undefined",X TV (Chachapoyas) (720p) [Not 24/7]
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
