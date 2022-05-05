@@ -35,8 +35,8 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticia", Latina PE [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FS8qc2B.png" group-title="Noticia", AMERICA TV PE [E]
-chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=HkQoy7vM4Q0CbKgmODygcUQENU0K5cqX&sid=TWGywr8bxPTgbePjVc04LYi1U9P26zUb&pid=5fNVLx35bQAKId5APsjsMFoJD0v4H1Bv&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=iiXHrhOxpbXi6hLXcJ885LdojuhWtmPtugIex3zIrDp7TzC8SGCf4w9JOlDyoagH6Gp3gNlM1yg&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1651807330473&ot=cGUgsUDhDTQ8RQnhOklRMg&proto=https&pz=us
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Noticia", America Tv PE [HyTv]
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticia", ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticia", ATV Plus [E]
