@@ -290,7 +290,7 @@ http://190.83.119.67:8000/play/a0oh/index.m3u8
 http://190.83.119.67:8000/play/a0s2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwhCrsj.png" group-title="Noticia",42 - Extra TV 42
 http://190.83.119.67:8000/play/a0oi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",6 - Repretel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticia",6 - Repretel
 http://190.83.119.67:8000/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6HnnPf7.jpeg" group-title="Noticia",7-Teletica
 http://190.83.119.67:8000/play/a0qz/index.m3u8
@@ -1333,10 +1333,10 @@ https://www.youtube.com/embed/SWMTPC4WWyQ
 https://www.youtube.com/embed/wqdCWoR_PnU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3AeVhy.jpeg" group-title="Peliculas Anime", Dragon Ball Z El Regreso Del Gerrero Legendario [E]
 https://www.youtube.com/embed/-Cbo0-kQdDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2IYM2FZ.jpeg" group-title="Peliculas Anime", Tom y Jerry 2022 [E]
-https://www2252.ff-05.com/token=qZScbuZwWtIjhUvWGIAa9g/1651262619/181.66.0.0/189/5/60/352a07151c136603bb76d32272d9e605-1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L4NDNBo.jpeg" group-title="Peliculas Anime", Hotel Transilvania 4 2022 [E]
-https://www865.ff-02.com/token=lyJeMLhhTfVeSlxPSodEfg/1651262781/181.66.0.0/185/a/8f/dd23bab2753c1c9e69df96a9b8b418fa-1080p.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgSBShn.jpg" group-title="Peliculas Anime", PETTER RABIT [E]
+https://www.youtube.com/embed/qBX4WwAo7pE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TX38hlX.jpg" group-title="Peliculas Anime", El libro de la vida [E]
+https://www.youtube.com/embed/Z8iBblJ4vH4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYuZf9F.jpeg" group-title="Peliculas", Spiderman - Lejos De Casa [E]
@@ -1345,20 +1345,20 @@ https://www.youtube.com/embed/BVEkE-VRLN4
 https://www.youtube.com/embed/m8ve9ZivrUg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9oFmpRN.jpeg" group-title="Peliculas", La Espada Del Destino [E]
 https://www.youtube.com/embed/NU8XoqzXgJ0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yUAUBnb.jpeg" group-title="Peliculas", Cenicienta 2021[E]
-https://www2163.ff-05.com/token=aiAktDbLNC-nnCT3N-wr2g/1651301514/181.66.0.0/27/1/69/6e405bf5c17cc8af13f1da51201d1691-720p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SNNKURp.jpeg" group-title="Peliculas", Sonic II 2022[E]
-https://www961.ff-02.com/token=7gfIVxE04diCuFRG-Qh2yA/1651259403/181.66.0.0/192/4/fb/e2e1327cd2a82bc85b6f4b7aef57efb4-720p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XZfvoab.jpeg" group-title="Peliculas", Mortal Kombat 2021 [E]
-https://www2152.ff-05.com/token=Wn1B2yUsd9nYpX5uetpHMA/1651260492/181.66.0.0/14/3/9d/a51d28149b365e4988a0c2a2255e59d3-720p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jN0GDj.jpeg" group-title="Peliculas", Volver al Futuro III [E]
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ArR9016.jpeg" group-title="Peliculas", Morbius 2022[E]
-https://server40.pelisloadtop.com/server40/abcdbc90f278843ac4f887f410a979f6/EP.0.2.v0.1649004410.360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iguh3YQ.jpg" group-title="Peliculas", El Bombero Atómico Cantinflas [E]
+https://www.youtube.com/embed/T62WZMJXmgY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KutlEY6.jpg" group-title="Peliculas", Dos Pavos En Apuros 2013 [E]
+https://www.youtube.com/embed/GnF75UR7D9c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xiAE9KK.jpg" group-title="Peliculas", Rio [E]
+https://www.youtube.com/embed/sMMLyvJmhyA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfX4hL7.jpg" group-title="Peliculas", Rio 2 [E]
+https://www.youtube.com/embed/1cPDfXU95Xw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2GxC3bz.jpg" group-title="Peliculas", ATRAPADOS EN EL TIEMPO [E]
+https://www.youtube.com/embed/mS35rG0N_MA
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oFaFG8w.jpeg" group-title="Peliculas Terror", The Demon’s Child [E]
-https://www984.ff-02.com/token=0agZkB8os7JHH9Kt3pjvcg/1651273868/181.66.0.0/77/b/de/66a0a163a91be3772fdd2cf3ede88deb-720p.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFaFG8w.jpeg" group-title="Documentary", Origen de la Tierra [E]
+https://www.youtube.com/embed/_Loq6OnPWWU
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bT8b9h9.png" group-title="Peliculas Classic", American Classics [HyTv]
