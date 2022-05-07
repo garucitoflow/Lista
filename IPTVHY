@@ -508,7 +508,7 @@ http://190.83.119.67:8000/play/a0rg/index.m3u8
 http://190.83.119.67:8000/play/a0sc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",History HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",Hola!TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4jGqAk.png" group-title="Noticia",Hola!TV
 http://190.83.119.67:8000/play/a0nz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4f7Inlf.jpg" group-title="Noticia",Home & Health HD
 http://190.83.119.67:8000/play/a0ss/index.m3u8
@@ -646,37 +646,37 @@ http://190.83.119.67:8000/play/a0sn/index.m3u8
 http://190.83.119.67:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ddT2OId.png" group-title="Noticia",Tru TV
 http://190.83.119.67:8000/play/a0pe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QkkdtV.png" group-title="Noticia",UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CdxRzxv.jpg" group-title="Noticia",UNIVERSAL CINEMA HD
 http://190.83.119.67:8000/play/a0v2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL COMEDY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yB4SXUV.png" group-title="Noticia",UNIVERSAL COMEDY
 http://190.83.119.67:8000/play/a0rl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lUcWQ5T.png" group-title="Noticia",UNIVERSAL COMEDY HD
 http://190.83.119.67:8000/play/a0t1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ol8LED.png" group-title="Noticia",UNIVERSAL CRIME
 http://190.83.119.67:8000/play/a0sj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M3R73b.png" group-title="Noticia",UNIVERSAL CRIME HD
 http://190.83.119.67:8000/play/a0t0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQtaSFu.png" group-title="Noticia",UNIVERSAL PREMIERE HD
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL PREMIERE O HD
 http://190.83.119.67:8000/play/a0uj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL REALITY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0BOAIha.png" group-title="Noticia",UNIVERSAL REALITY
 http://190.83.119.67:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7XMJqE.jpg" group-title="Noticia",UNIVERSAL REALITY HD
 http://190.83.119.67:8000/play/a0sz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",Univision HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rme78gq.jpg" group-title="Noticia",Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",VENUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64ejeSs.png" group-title="Noticia",VENUS
 http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",VTV Canal 35 ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDpT6oU.png" group-title="Noticia",VTV Canal 35 ESA
 http://190.83.119.67:8000/play/a0r1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",WARNER HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2udkue.png" group-title="Noticia",WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",Warner
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltvsmfC.png" group-title="Noticia",Warner
 http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticia",ZooMoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HoZJh8.png" group-title="Noticia",ZooMoo
 http://190.83.119.67:8000/play/a0nt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Llc5Eby.png" group-title="Noticia", Tele Jahs Hy [HyTv]
 https://player.twitch.tv/?channel=tvhuarmey&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1
