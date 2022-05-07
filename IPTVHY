@@ -1073,9 +1073,9 @@ https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Fd22rw.png" group-title="Religious",JN19 (720p) [Not 24/7]
 https://servilive.com:3149/live/jn19tvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",K-Pop Channel
+#EXTINF:-1 tvg-id="K-Pop Channel" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Lc3b6f.jpg" group-title="Undefined",K-Pop Channel
 http://177.53.152.186:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Undefined",Kachorro (Super TV | Amazonas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KachorroTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HMHzMys.jpg" " group-title="Undefined",Kachorro (Super TV | Amazonas) (720p) [Not 24/7]
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
 https://cu.onliv3.com/livevd/user1.m3u8
