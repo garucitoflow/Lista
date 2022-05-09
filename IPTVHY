@@ -1322,69 +1322,68 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9DfGtp.png" group-title="Religion", 3ABN Latino [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9DfGtp.png" group-title="Religion",3ABN Latino [HyTv]
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVArBYu.png" group-title="Religion", Bethel TV [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVArBYu.png" group-title="Religion",Bethel TV [HyTv]
 https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H0Y4WCz.png" group-title="Religion", MCRT Cristiana [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H0Y4WCz.png" group-title="Religion",MCRT Cristiana [HyTv]
 https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IShVpaQ.png" group-title="Religion", EWTNel CanalC [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IShVpaQ.png" group-title="Religion",EWTNel CanalC [HyTv]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Religion", Canal Dios Te Ve [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Religion",Canal Dios Te Ve [HyTv]
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DXS6BXM.jpeg" group-title="Peliculas Anime", Naruto Shippuden Camino Ninja [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DXS6BXM.jpeg" group-title="Peliculas Anime",Naruto Shippuden Camino Ninja [E]
 https://www.youtube.com/embed/a20Qxh3-9DU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u3R4nri.jpeg" group-title="Peliculas Anime", Naruto Shippuden Pricion De Sangre [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3R4nri.jpeg" group-title="Peliculas Anime",Naruto Shippuden Pricion De Sangre [E]
 https://www.youtube.com/embed/QZxYHca94bU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B06T8Lo.jpeg" group-title="Peliculas Anime", Dragon Ball Z LBDLD Extendida [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B06T8Lo.jpeg" group-title="Peliculas Anime",Dragon Ball Z LBDLD Extendida [E]
 https://www.youtube.com/embed/SWMTPC4WWyQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tzkGNx2.jpeg" group-title="Peliculas Anime", Dragon Ball Z Broly [E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tzkGNx2.jpeg" group-title="Peliculas Anime",Dragon Ball Z Broly [E
 https://www.youtube.com/embed/wqdCWoR_PnU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3AeVhy.jpeg" group-title="Peliculas Anime", Dragon Ball Z El Regreso Del Gerrero Legendario [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3AeVhy.jpeg" group-title="Peliculas Anime",Dragon Ball Z El Regreso Del Gerrero Legendario [E]
 https://www.youtube.com/embed/-Cbo0-kQdDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dgSBShn.jpg" group-title="Peliculas Anime", PETTER RABIT [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgSBShn.jpg" group-title="Peliculas Anime",PETTER RABIT [E]
 https://www.youtube.com/embed/qBX4WwAo7pE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TX38hlX.jpg" group-title="Peliculas Anime", El libro de la vida [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TX38hlX.jpg" group-title="Peliculas Anime",El libro de la vida [E]
 https://www.youtube.com/embed/Z8iBblJ4vH4
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/asJJIHg.jpg" group-title="Peliculas", EL TORNADO [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="Peliculas Classic",Vacaciones en Acapulco (1977)
+https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asJJIHg.jpg" group-title="Peliculas",EL TORNADO [E]
 https://www.youtube.com/embed/0LmyNreeuGw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SYuZf9F.jpeg" group-title="Peliculas", Spiderman - Lejos De Casa [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYuZf9F.jpeg" group-title="Peliculas",Spiderman - Lejos De Casa [E]
 https://www.youtube.com/embed/BVEkE-VRLN4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynt9ije.jpeg" group-title="Peliculas", Operación Zodíaco Jackie Chan [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynt9ije.jpeg" group-title="Peliculas",Operación Zodíaco Jackie Chan [E]
 https://www.youtube.com/embed/m8ve9ZivrUg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9oFmpRN.jpeg" group-title="Peliculas", La Espada Del Destino [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oFmpRN.jpeg" group-title="Peliculas",La Espada Del Destino [E]
 https://www.youtube.com/embed/NU8XoqzXgJ0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iguh3YQ.jpg" group-title="Peliculas", El Bombero Atómico Cantinflas [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iguh3YQ.jpg" group-title="Peliculas",El Bombero Atómico Cantinflas [E]
 https://www.youtube.com/embed/T62WZMJXmgY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KutlEY6.jpg" group-title="Peliculas", Dos Pavos En Apuros 2013 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KutlEY6.jpg" group-title="Peliculas",Dos Pavos En Apuros 2013 [E]
 https://www.youtube.com/embed/GnF75UR7D9c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xiAE9KK.jpg" group-title="Peliculas", Rio [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xiAE9KK.jpg" group-title="Peliculas",Rio [E]
 https://www.youtube.com/embed/sMMLyvJmhyA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MfX4hL7.jpg" group-title="Peliculas", Rio 2 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfX4hL7.jpg" group-title="Peliculas",Rio 2 [E]
 https://www.youtube.com/embed/1cPDfXU95Xw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2GxC3bz.jpg" group-title="Peliculas", ATRAPADOS EN EL TIEMPO [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2GxC3bz.jpg" group-title="Peliculas",ATRAPADOS EN EL TIEMPO [E]
 https://www.youtube.com/embed/mS35rG0N_MA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9O0K7v.jpg" group-title="Documentary", EL FIN DE LOS DINOSAURIOS 2018 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9O0K7v.jpg" group-title="Documentary",EL FIN DE LOS DINOSAURIOS 2018 [E]
 https://www.youtube.com/embed/rMZKS8jqM6s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vchFRY5.jpg" group-title="Documentary", Origen de la Tierra [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vchFRY5.jpg" group-title="Documentary",Origen de la Tierra [E]
 https://www.youtube.com/embed/_Loq6OnPWWU
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bT8b9h9.png" group-title="Peliculas Classic", American Classics [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bT8b9h9.png" group-title="Peliculas Classic",American Classics [HyTv]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaU5CXT.jpeg" group-title="Peliculas Classic", American Christmas Carol [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaU5CXT.jpeg" group-title="Peliculas Classic",American Christmas Carol [HyTv]
 https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BzfCsyE.jpeg" group-title="Peliculas Classic", Bflix Peliculas [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzfCsyE.jpeg" group-title="Peliculas Classic",Bflix Peliculas [HyTv]
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixPeliculas.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiqWMYj.jpeg" group-title="Peliculas Classic", Ustedes - los Ricos (1948)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiqWMYj.jpeg" group-title="Peliculas Classic",Ustedes - los Ricos (1948)
 https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="Peliculas Classic",Vacaciones en Acapulco (1977)
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SFNk8Y4.jpeg" group-title="Peliculas Classic",Child's Play 2 (1990)
 https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="Peliculas Classic",Back to the Future Part II (1989)
