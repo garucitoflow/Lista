@@ -448,21 +448,21 @@ http://190.83.119.67:8000/play/a0pb/index.m3u8
 http://190.83.119.67:8000/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8v1eSd.png" group-title="Entretenimiento",E! Entertairment HD
 http://190.83.119.67:8000/play/a0q5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Noticias",ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Deportes",ESPN
 http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Noticias",ESPN  +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Deportes",ESPN  +
 http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Noticias",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2
 http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xC0QnKT.png" group-title="Noticias",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xC0QnKT.png" group-title="Deportes",ESPN 2 HD
 http://190.83.119.67:8000/play/a0t6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Noticias",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Deportes",ESPN 3
 http://190.83.119.67:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zHTtQ27.jpg" group-title="Noticias",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHTtQ27.jpg" group-title="Deportes",ESPN 3 HD
 http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgUXJ5r.png" group-title="Noticias",ESPN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgUXJ5r.png" group-title="Deportes",ESPN HD
 http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6PfUkFz.png" group-title="Noticias",EURO Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PfUkFz.png" group-title="Peliculas",EURO Channel
 http://190.83.119.67:8000/play/a0r6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CAGCDu9.png" group-title="Noticias",EWTN
 http://190.83.119.67:8000/play/a0pw/index.m3u8
