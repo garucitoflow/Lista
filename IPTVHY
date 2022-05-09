@@ -408,7 +408,7 @@ http://190.83.119.67:8000/play/a0pa/index.m3u8
 http://190.83.119.67:8000/play/a0tl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lYKih4.jpg" group-title="Entretenimiento",Claro Cinema
 http://190.83.119.67:8000/play/a0sh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhHLDGh.jpg" group-title="Mùsica",Claro Musica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhHLDGh.jpg" group-title="Musica",Claro Musica
 http://190.83.119.67:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Sports  HD
 http://190.83.119.67:8000/play/a0on/index.m3u8
