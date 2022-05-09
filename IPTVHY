@@ -242,57 +242,57 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming", Energeek 1 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming",Energeek 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming", Energeek 2 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming",Energeek 2 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="Kids", Los Simpsons 1 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="Kids",Los Simpsons 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="Kids", Los Simpsons 2 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="Kids",Los Simpsons 2 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="Kids", Los Simpsons 3 [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RInUCbK.jpeg" group-title="Kids",Los Simpsons 3 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8BIgtYq.png" group-title="Kids", Bob Esponja [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BIgtYq.png" group-title="Kids",Bob Esponja [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BOB_ESPONJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids", Chavo Tv [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Kids", Cartoon Network [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Kids",Cartoon Network [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOON/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Kids", Disney Channel [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Kids",Disney Channel [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Kids", Disney Jr [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Kids",Disney Jr [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Kids", NATGEO Kids [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Kids",NATGEO Kids [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Kids", Nick [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Kids",Nick [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Kids", Nick Jr [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Kids",Nick Jr [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Kids", Tooncast [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Kids",Tooncast [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Kids", Cartoonito [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Kids",Cartoonito [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Kids", Discovery Kids [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Kids",Discovery Kids [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY_KIDS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bf3aN5q.png" group-title="Kids", BabyTV [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bf3aN5q.png" group-title="Kids",BabyTV [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zTDBGo9.png" group-title="Kids", Teen Nick [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTDBGo9.png" group-title="Kids",Teen Nick [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jIVfWNP.png" group-title="Kids", Nick Toons [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jIVfWNP.png" group-title="Kids",Nick Toons [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OlE0RD.jpg" group-title="Kids", Jetix [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OlE0RD.jpg" group-title="Kids",Jetix [E]
 http://tv.teleclub.xyz/live/ABRIL_00/JETIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Kids", BITME [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Kids",BITME [E]
 http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eYJSueP.jpeg" group-title="Kids", AnimeZoneTV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYJSueP.jpeg" group-title="Kids",AnimeZoneTV [E]
 http://azxtv.com/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias", Latina PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",Latina PE [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias", ATV HD PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias", ATV Plus [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticias",11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
