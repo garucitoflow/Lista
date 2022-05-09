@@ -136,7 +136,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-chno="272" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Curiosidad",Paisajes por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Noticiass",Telefe Noticiass
+#EXTINF:-1 channel-id="pluto-5f523aa5523ae000074745ec" tvg-id="5f523aa5523ae000074745ec" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="Noticiasss",Telefe Noticiasss
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-chno="309" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Investigación",Misterios sin Resolver
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -216,7 +216,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf00071077
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-619d56d9fa3070000709e3f7" tvg-id="619d56d9fa3070000709e3f7" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="Entretenimiento",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticiass",Euronews Español
+#EXTINF:-1 channel-id="pluto-619d59b7cbef25000728221c" tvg-id="619d59b7cbef25000728221c" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png" group-title="Noticiasss",Euronews Español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-619d5e6a093e7c0007489211" tvg-id="619d5e6a093e7c0007489211" tvg-chno="701" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids",Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -228,7 +228,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-61f323397027f90007542bc3" tvg-id="61f323397027f90007542bc3" tvg-chno="120" tvg-logo="https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png" group-title="Entretenimiento",Señorita Pólvora
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f323397027f90007542bc3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="Noticiass",Chilevision Noticiass
+#EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="Noticiasss",Chilevision Noticiasss
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-620ac814864949000724fb77" tvg-id="620ac814864949000724fb77" tvg-chno="508" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" group-title="Comedia",Schitt's Creek
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ac814864949000724fb77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -238,7 +238,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fd9f4afb9a80007a9c6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-chno="281" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Curiosidad",Ice Pilots
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="Noticiass",CBS News
+#EXTINF:-1 channel-id="pluto-62310d5a5dc9550007c6f580" tvg-id="62310d5a5dc9550007c6f580" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png" group-title="Noticiasss",CBS News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -288,23 +288,23 @@ http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticiass",Latina PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticiasss",Latina PE [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticiass",ATV HD PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticiasss",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticiass",ATV Plus [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticiasss",ATV Plus [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticiass",11 - Repretel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticiasss",11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TYXcmpO.png" group-title="Noticiass",13-Sinart
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TYXcmpO.png" group-title="Noticiasss",13-Sinart
 http://190.83.119.67:8000/play/a0oh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticiass",4 - Repretel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticiasss",4 - Repretel
 http://190.83.119.67:8000/play/a0s2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GwhCrsj.png" group-title="Noticiass",42 - Extra TV 42
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwhCrsj.png" group-title="Noticiasss",42 - Extra TV 42
 http://190.83.119.67:8000/play/a0oi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticiass",6 - Repretel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticiasss",6 - Repretel
 http://190.83.119.67:8000/play/a0qy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HnnPf7.jpeg" group-title="Noticiass",7-Teletica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HnnPf7.jpeg" group-title="Noticiasss",7-Teletica
 http://190.83.119.67:8000/play/a0qz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6juCDB.png" group-title="Entretenimiento",A&E
 http://190.83.119.67:8000/play/a0s8/index.m3u8
@@ -318,89 +318,89 @@ http://190.83.119.67:8000/play/a0q8/index.m3u8
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26K3Nev.png" group-title="Entretenimiento",AZ click HD
 http://190.83.119.67:8000/play/a0qe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VMbDdsz.png" group-title="Noticias",Amixtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMbDdsz.png" group-title="Noticiass",Amixtv
 http://190.83.119.67:8000/play/a0v4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1e6XHw2.png" group-title="Noticias",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1e6XHw2.png" group-title="Noticiass",Animal Planet
 http://190.83.119.67:8000/play/a0sb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ZF4GZB.png" group-title="Noticias",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ZF4GZB.png" group-title="Noticiass",Animal Planet HD
 http://190.83.119.67:8000/play/a0q4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YwnBIzb.jpeg" group-title="Noticias",Antena 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YwnBIzb.jpeg" group-title="Noticiass",Antena 3
 http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvLAHkv.jpeg" group-title="Noticias",Antena 7- RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvLAHkv.jpeg" group-title="Noticiass",Antena 7- RD
 http://190.83.119.67:8000/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/af20OoZ.png" group-title="Noticias",Atres Series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/af20OoZ.png" group-title="Noticiass",Atres Series
 http://190.83.119.67:8000/play/a0o1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/isSv3st.jpg" group-title="Noticias",Azcorazon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isSv3st.jpg" group-title="Noticiass",Azcorazon
 http://190.83.119.67:8000/play/a0pg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QGr55gf.png" group-title="Noticias",Azmundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGr55gf.png" group-title="Noticiass",Azmundo
 http://190.83.119.67:8000/play/a0s4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvBUr0d.png" group-title="Noticias",BBC World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PvBUr0d.png" group-title="Noticiass",BBC World
 http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LG8e2ta.png" group-title="Noticias",Baby First
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LG8e2ta.png" group-title="Noticiass",Baby First
 http://190.83.119.67:8000/play/a0r3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cIMRZ0u.jpg" group-title="Noticias",Baby TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIMRZ0u.jpg" group-title="Noticiass",Baby TV
 http://190.83.119.67:8000/play/a0ns/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSL6h8O.png" group-title="Noticias",BeinDeportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSL6h8O.png" group-title="Noticiass",BeinDeportes
 http://190.83.119.67:8000/play/a0v6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJ0zqzN.png" group-title="Noticias",CANAL 13 - NI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJ0zqzN.png" group-title="Noticiass",CANAL 13 - NI
 http://190.83.119.67:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TtBu55s.png" group-title="Kids",CARTOON NT HD
 http://190.83.119.67:8000/play/a0op/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4B04G7z.jpg" group-title="Noticias",CCN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4B04G7z.jpg" group-title="Noticiass",CCN
 http://190.83.119.67:8000/play/a0pc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F2LFoCL.png" group-title="Noticias",CDN2- RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2LFoCL.png" group-title="Noticiass",CDN2- RD
 http://190.83.119.67:8000/play/a0qq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F2LFoCL.png" group-title="Noticias",CDN37 - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2LFoCL.png" group-title="Noticiass",CDN37 - RD
 http://190.83.119.67:8000/play/a0s1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OlGhrmJ.png" group-title="Entretenimiento",CINECANAL HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZr1Brh.gif" group-title="Noticias",CNN Internacional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZr1Brh.gif" group-title="Noticiass",CNN Internacional
 http://190.83.119.67:8000/play/a0o7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G4VlU6T.png" group-title="Noticias",CNNE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G4VlU6T.png" group-title="Noticiass",CNNE
 http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6wrSvi.png" group-title="Noticias",Canal 10 - ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6wrSvi.png" group-title="Noticiass",Canal 10 - ESA
 http://190.83.119.67:8000/play/a0o0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bqTfakX.jpg" group-title="Noticias",Canal 10 HD - ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqTfakX.jpg" group-title="Noticiass",Canal 10 HD - ESA
 http://190.83.119.67:8000/play/a0o8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTLyoXo.jpg" group-title="Noticias",Canal 11 - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTLyoXo.jpg" group-title="Noticiass",Canal 11 - GUA
 http://190.83.119.67:8000/play/a0qj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lUbiGoi.png" group-title="Noticias",Canal 12 - ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lUbiGoi.png" group-title="Noticiass",Canal 12 - ESA
 http://190.83.119.67:8000/play/a0ql/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JLLelHp.png" group-title="Noticias",Canal 13 - PAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLLelHp.png" group-title="Noticiass",Canal 13 - PAN
 http://190.83.119.67:8000/play/a0p5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JKwfxVe.jpg" group-title="Noticias",Canal 13-GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JKwfxVe.jpg" group-title="Noticiass",Canal 13-GUA
 http://190.83.119.67:8000/play/a0qi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjXarcx.jpg" group-title="Noticias",Canal 14 - NIC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjXarcx.jpg" group-title="Noticiass",Canal 14 - NIC
 http://190.83.119.67:8000/play/a0qo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyHlwMq.jpg" group-title="Noticias",Canal 19  ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyHlwMq.jpg" group-title="Noticiass",Canal 19  ESA
 http://190.83.119.67:8000/play/a0r2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NMET92L.png" group-title="Noticias",Canal 2 - ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMET92L.png" group-title="Noticiass",Canal 2 - ESA
 http://190.83.119.67:8000/play/a0ru/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cC1trn.jpg" group-title="Noticias",Canal 2 - NIC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cC1trn.jpg" group-title="Noticiass",Canal 2 - NIC
 http://190.83.119.67:8000/play/a0rx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qXHtmjB.jpg" group-title="Noticias",Canal 2 - PAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qXHtmjB.jpg" group-title="Noticiass",Canal 2 - PAN
 http://190.83.119.67:8000/play/a0p6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JOKVgkr.png" group-title="Noticias",Canal 3 - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOKVgkr.png" group-title="Noticiass",Canal 3 - GUA
 http://190.83.119.67:8000/play/a0rs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B39g3mT.jpg" group-title="Noticias",Canal 4 - ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B39g3mT.jpg" group-title="Noticiass",Canal 4 - ESA
 http://190.83.119.67:8000/play/a0rt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1HrDcz.png" group-title="Noticias",Canal 6 - ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1HrDcz.png" group-title="Noticiass",Canal 6 - ESA
 http://190.83.119.67:8000/play/a0qk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1yenla.png" group-title="Noticias",Canal 6 - NI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1yenla.png" group-title="Noticiass",Canal 6 - NI
 http://190.83.119.67:8000/play/a0qs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LhXehrd.png" group-title="Noticias",Canal 7 - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LhXehrd.png" group-title="Noticiass",Canal 7 - GUA
 http://190.83.119.67:8000/play/a0rr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aa0nT8t.gif" group-title="Noticias",Canal Antigua - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aa0nT8t.gif" group-title="Noticiass",Canal Antigua - GUA
 http://190.83.119.67:8000/play/a0rp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPN5Iol.png" group-title="Noticias",Canal Azteca - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPN5Iol.png" group-title="Noticiass",Canal Azteca - GUA
 http://190.83.119.67:8000/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gaIzY0u.png" group-title="Noticias",Canal Claro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gaIzY0u.png" group-title="Noticiass",Canal Claro
 http://190.83.119.67:8000/play/a0oy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B61XodK.jpg" group-title="Noticias",Canal Claro HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B61XodK.jpg" group-title="Noticiass",Canal Claro HD
 http://190.83.119.67:8000/play/a0oo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMBYd99.jpg" group-title="Noticias",Canal del Congreso
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMBYd99.jpg" group-title="Noticiass",Canal del Congreso
 http://190.83.119.67:8000/play/a0np/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9ML6s.jpg" group-title="Noticias",Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9ML6s.jpg" group-title="Noticiass",Cartoon Network
 http://190.83.119.67:8000/play/a0p8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgajFgI.jpg" group-title="Kids",Cartoonito
 http://190.83.119.67:8000/play/a0pa/index.m3u8
@@ -416,61 +416,61 @@ http://190.83.119.67:8000/play/a0on/index.m3u8
 http://190.83.119.67:8000/play/a0o2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Deportes SD
 http://190.83.119.67:8000/play/a0ra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wnAyCU2.png" group-title="Noticias",Color Vision 9 - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnAyCU2.png" group-title="Noticiass",Color Vision 9 - RD
 http://190.83.119.67:8000/play/a0s0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B0bES0m.png" group-title="Noticiass",Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B0bES0m.png" group-title="Noticiasss",Comedy Central HD
 http://190.83.119.67:8000/play/a0su/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sJ9Ngn8.png" group-title="Noticias",Concert Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJ9Ngn8.png" group-title="Noticiass",Concert Channel HD
 http://190.83.119.67:8000/play/a0oq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qwevOZy.png" group-title="Noticias",DHE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qwevOZy.png" group-title="Noticiass",DHE
 http://190.83.119.67:8000/play/a0ok/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UTqTfa5.png" group-title="Noticias",DHE HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UTqTfa5.png" group-title="Noticiass",DHE HD
 http://190.83.119.67:8000/play/a0qd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zv8eFVU.png" group-title="Noticias",DISC THEATHER HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zv8eFVU.png" group-title="Noticiass",DISC THEATHER HD
 http://190.83.119.67:8000/play/a0sr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jcWHZqV.png" group-title="Noticias",Digital 15 - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcWHZqV.png" group-title="Noticiass",Digital 15 - RD
 http://190.83.119.67:8000/play/a0qp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIiiiWX.jpg" group-title="Noticias",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIiiiWX.jpg" group-title="Noticiass",Discovery Channel
 http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgMf2.png" group-title="Noticias",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgMf2.png" group-title="Noticiass",Discovery Channel HD
 http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DA6eAwh.png" group-title="Noticias",Discovery ID HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DA6eAwh.png" group-title="Noticiass",Discovery ID HD
 http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuIRIRC.png" group-title="Noticias",Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuIRIRC.png" group-title="Noticiass",Discovery Kids HD
 http://190.83.119.67:8000/play/a0ob/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zU2slBw.png" group-title="Noticias",Discovery Science
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zU2slBw.png" group-title="Noticiass",Discovery Science
 http://190.83.119.67:8000/play/a0ny/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xA2sbL8.png" group-title="Noticias",Discovery World HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xA2sbL8.png" group-title="Noticiass",Discovery World HD
 http://190.83.119.67:8000/play/a0tc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UFKs9Fl.png" group-title="Kids",Disney JR
 http://190.83.119.67:8000/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EinhG5M.jpg" group-title="Noticias",E!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EinhG5M.jpg" group-title="Noticiass",E!
 http://190.83.119.67:8000/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8v1eSd.png" group-title="Entretenimiento",E! Entertairment HD
 http://190.83.119.67:8000/play/a0q5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Noticias",ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Noticiass",ESPN
 http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Noticias",ESPN  +
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Noticiass",ESPN  +
 http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Noticias",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Noticiass",ESPN 2
 http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xC0QnKT.png" group-title="Noticias",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xC0QnKT.png" group-title="Noticiass",ESPN 2 HD
 http://190.83.119.67:8000/play/a0t6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Noticias",ESPN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Noticiass",ESPN 3
 http://190.83.119.67:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zHTtQ27.jpg" group-title="Noticias",ESPN 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHTtQ27.jpg" group-title="Noticiass",ESPN 3 HD
 http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgUXJ5r.png" group-title="Noticias",ESPN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgUXJ5r.png" group-title="Noticiass",ESPN HD
 http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6PfUkFz.png" group-title="Noticias",EURO Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PfUkFz.png" group-title="Noticiass",EURO Channel
 http://190.83.119.67:8000/play/a0r6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAGCDu9.png" group-title="Noticias",EWTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CAGCDu9.png" group-title="Noticiass",EWTN
 http://190.83.119.67:8000/play/a0pw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVXGQN5.jpg" group-title="Noticias",El Gourmet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVXGQN5.jpg" group-title="Noticiass",El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a6OhH3d.jpg" group-title="Noticias",Europa HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6OhH3d.jpg" group-title="Noticiass",Europa HD
 http://190.83.119.67:8000/play/a0qb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/crquPTR.png" group-title="Noticias",Exa TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/crquPTR.png" group-title="Noticiass",Exa TV
 http://190.83.119.67:8000/play/a0sg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZ1yeDA.png" group-title="Deportes",FOX DeporteS 2 HD
 http://190.83.119.67:8000/play/a0sp/index.m3u8
@@ -480,109 +480,109 @@ http://190.83.119.67:8000/play/a0t7/index.m3u8
 http://190.83.119.67:8000/play/a0rc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6InW4W.png" group-title="Deportes",FOX Deportes 3
 http://190.83.119.67:8000/play/a0pm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ULuzPD.jpg" group-title="Noticias",FUTV HD CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ULuzPD.jpg" group-title="Noticiass",FUTV HD CR
 http://190.83.119.67:8000/play/a0t3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zjNvhYp.png" group-title="Noticias",FX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjNvhYp.png" group-title="Noticiass",FX
 http://190.83.119.67:8000/play/a0r4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3xoBx19.png" group-title="Noticias",FX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3xoBx19.png" group-title="Noticiass",FX HD
 http://190.83.119.67:8000/play/a0qa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticias",Film & Arts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticiass",Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v3vqenm.jpg" group-title="Noticias",Film & arts HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3vqenm.jpg" group-title="Noticiass",Film & arts HD
 http://190.83.119.67:8000/play/a0q6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2YmzkWf.png" group-title="Noticias",France24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2YmzkWf.png" group-title="Noticiass",France24
 http://190.83.119.67:8000/play/a0pu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dEM9QAG.png" group-title="Noticias",Golden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dEM9QAG.png" group-title="Noticiass",Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPN0ehf.png" group-title="Noticias",Golf Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPN0ehf.png" group-title="Noticiass",Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMz8ZQc.jpg" group-title="Noticias",Golf Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMz8ZQc.jpg" group-title="Noticiass",Golf Channel HD
 http://190.83.119.67:8000/play/a0qg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2qJGYFV.jpg" group-title="Noticias",Guatevision - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2qJGYFV.jpg" group-title="Noticiass",Guatevision - GUA
 http://190.83.119.67:8000/play/a0oz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nxVTxIM.png" group-title="Noticias",H2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nxVTxIM.png" group-title="Noticiass",H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TUpW5LP.png" group-title="Noticias",HBO Family HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TUpW5LP.png" group-title="Noticiass",HBO Family HD
 http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticias",HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticiass",HBO HD
 http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vOp4ekE.jpg" group-title="Noticias",HBO Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOp4ekE.jpg" group-title="Noticiass",HBO Plus HD
 http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kq2dwVM.png" group-title="Noticias",HBO XTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kq2dwVM.png" group-title="Noticiass",HBO XTREME
 http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hg476T9.png" group-title="Noticias",HBO2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hg476T9.png" group-title="Noticiass",HBO2 HD
 http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mwTw3Lr.jpg" group-title="Noticias",HOLA! TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mwTw3Lr.jpg" group-title="Noticiass",HOLA! TV HD
 http://190.83.119.67:8000/play/a0st/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticias",HTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticiass",HTV
 http://190.83.119.67:8000/play/a0rg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticias",History Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticiass",History Channel
 http://190.83.119.67:8000/play/a0sc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticias",History HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticiass",History HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4jGqAk.png" group-title="Noticias",Hola!TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4jGqAk.png" group-title="Noticiass",Hola!TV
 http://190.83.119.67:8000/play/a0nz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4f7Inlf.jpg" group-title="Noticias",Home & Health HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4f7Inlf.jpg" group-title="Noticiass",Home & Health HD
 http://190.83.119.67:8000/play/a0ss/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qU10t0f.png" group-title="Noticias",Home Garden Latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qU10t0f.png" group-title="Noticiass",Home Garden Latino
 http://190.83.119.67:8000/play/a0nx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SxpzbTB.png" group-title="Noticias",LIFE TIME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxpzbTB.png" group-title="Noticiass",LIFE TIME
 http://190.83.119.67:8000/play/a0pl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JSarKEi.png" group-title="Noticias",Latin America Deporte
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSarKEi.png" group-title="Noticiass",Latin America Deporte
 http://190.83.119.67:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lJRCozD.png" group-title="Noticias",MASTV - PAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lJRCozD.png" group-title="Noticiass",MASTV - PAN
 http://190.83.119.67:8000/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/usT7r2N.jpg" group-title="Noticias",MTV 00s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/usT7r2N.jpg" group-title="Noticiass",MTV 00s
 http://190.83.119.67:8000/play/a0rf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJc8o4D.png" group-title="Noticias",MTV 00s HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJc8o4D.png" group-title="Noticiass",MTV 00s HD
 http://190.83.119.67:8000/play/a0sw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MrXWHI.png" group-title="Noticias",MTV 80s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MrXWHI.png" group-title="Noticiass",MTV 80s
 http://190.83.119.67:8000/play/a0po/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE0EOLK.png" group-title="Noticias",MTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE0EOLK.png" group-title="Noticiass",MTV HD
 http://190.83.119.67:8000/play/a0pz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3vL1oLZ.png" group-title="Noticias",MTV Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vL1oLZ.png" group-title="Noticiass",MTV Hits
 http://190.83.119.67:8000/play/a0pn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AIK2WBb.jpg" group-title="Noticias",MTV SIM HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AIK2WBb.jpg" group-title="Noticiass",MTV SIM HD
 http://190.83.119.67:8000/play/a0sv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QXUlFWN.png" group-title="Noticias",Mas Chic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QXUlFWN.png" group-title="Noticiass",Mas Chic
 http://190.83.119.67:8000/play/a0nu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hRpwdvK.png" group-title="Noticias",Movistar La liga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hRpwdvK.png" group-title="Noticiass",Movistar La liga
 http://190.83.119.67:8000/play/a0tj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEviKAr.jpg" group-title="Noticias",Multicinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jEviKAr.jpg" group-title="Noticiass",Multicinema
 http://190.83.119.67:8000/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3LFZigU.png" group-title="Noticias",Multimedios
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LFZigU.png" group-title="Noticiass",Multimedios
 http://190.83.119.67:8000/play/a0og/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eb1dOoG.jpg" group-title="Noticias",Multipremier
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eb1dOoG.jpg" group-title="Noticiass",Multipremier
 http://190.83.119.67:8000/play/a0tm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aqbe0A3.jpg" group-title="Noticias",NEXT - PAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aqbe0A3.jpg" group-title="Noticiass",NEXT - PAN
 http://190.83.119.67:8000/play/a0qw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39yO6k9.jpg" group-title="Noticias",Nat Geo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39yO6k9.jpg" group-title="Noticiass",Nat Geo HD
 http://190.83.119.67:8000/play/a0t8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZbn3Qu.png" group-title="Noticias",National Geographic HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZbn3Qu.png" group-title="Noticiass",National Geographic HD
 http://190.83.119.67:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cVO94dE.jpg" group-title="Kids",Nick Jr
 http://190.83.119.67:8000/play/a0p9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A3b0cxo.png" group-title="Noticias",Nick SIM HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3b0cxo.png" group-title="Noticiass",Nick SIM HD
 http://190.83.119.67:8000/play/a0so/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YCJYrKz.jpg" group-title="Noticias",PXTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCJYrKz.jpg" group-title="Noticiass",PXTV
 http://190.83.119.67:8000/play/a0o4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/32QWKHp.png" group-title="Noticias",Paramount
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32QWKHp.png" group-title="Noticiass",Paramount
 http://190.83.119.67:8000/play/a0ol/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pvJPVNh.png" group-title="Noticias",Paramount HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvJPVNh.png" group-title="Noticiass",Paramount HD
 http://190.83.119.67:8000/play/a0t9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U8uLZxj.png" group-title="Noticias",Pasiones HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8uLZxj.png" group-title="Noticiass",Pasiones HD
 http://190.83.119.67:8000/play/a0td/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/np0i5qa.png" group-title="Noticias",Playboy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/np0i5qa.png" group-title="Noticiass",Playboy
 http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/keZNVTh.png" group-title="Noticias",RCN - GUA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/keZNVTh.png" group-title="Noticiass",RCN - GUA
 http://190.83.119.67:8000/play/a0nq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AGUUc0s.png" group-title="Noticias",RCN Novelas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AGUUc0s.png" group-title="Noticiass",RCN Novelas
 http://190.83.119.67:8000/play/a0r5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLze8Mk.jpg" group-title="Noticias",RT Noticas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLze8Mk.jpg" group-title="Noticiass",RT Noticas
 http://190.83.119.67:8000/play/a0ti/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1Dj9Y6.jpg" group-title="Kids",SEMILLITAS
 http://190.83.119.67:8000/play/a0pd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xgvwSX5.png" group-title="Noticias",SERTV - PAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgvwSX5.png" group-title="Noticiass",SERTV - PAN
 http://190.83.119.67:8000/play/a0nn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRVd1r3.png" group-title="Peliculas",SONY
 http://190.83.119.67:8000/play/a0s5/index.m3u8
@@ -592,7 +592,7 @@ http://190.83.119.67:8000/play/a0sk/index.m3u8
 http://190.83.119.67:8000/play/a0ph/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDkJYMi.png" group-title="Peliculas",STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YFXA3G.png" group-title="Noticias",Sembrador
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YFXA3G.png" group-title="Noticiass",Sembrador
 http://190.83.119.67:8000/play/a0rm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bCUUsp.png" group-title="Peliculas",Sony Movies HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8
@@ -606,17 +606,17 @@ http://190.83.119.67:8000/play/a0r9/index.m3u8
 http://190.83.119.67:8000/play/a0s9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/knqYtNS.png" group-title="Peliculas",SyFy HD
 http://190.83.119.67:8000/play/a0q3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1bp7AE.png" group-title="Noticias",TBN Enlace
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1bp7AE.png" group-title="Noticiass",TBN Enlace
 http://190.83.119.67:8000/play/a0pv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZ86rx7.png" group-title="Noticias",TBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZ86rx7.png" group-title="Noticiass",TBS
 http://190.83.119.67:8000/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXIfR7s.png" group-title="Noticias",TCM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXIfR7s.png" group-title="Noticiass",TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KaehRpo.png" group-title="Noticias",TD+2 HD CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KaehRpo.png" group-title="Noticiass",TD+2 HD CR
 http://190.83.119.67:8000/play/a0oa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SBMT34n.png" group-title="Noticias",TD+HD CR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBMT34n.png" group-title="Noticiass",TD+HD CR
 http://190.83.119.67:8000/play/a0o9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2U47Qy.png" group-title="Noticias",TLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B2U47Qy.png" group-title="Noticiass",TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKHcrTQ.png" group-title="Peliculas",TNT
 http://190.83.119.67:8000/play/a0pq/index.m3u8
@@ -626,37 +626,37 @@ http://190.83.119.67:8000/play/a0sq/index.m3u8
 http://190.83.119.67:8000/play/a0pi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2GqKUCi.png" group-title="Peliculas",TNT Series HD
 http://190.83.119.67:8000/play/a0ta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RNK4o1p.png" group-title="Noticias",TV Oriente ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNK4o1p.png" group-title="Noticiass",TV Oriente ESA
 http://190.83.119.67:8000/play/a0no/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvFoiPi.png" group-title="Noticias",TVChile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvFoiPi.png" group-title="Noticiass",TVChile
 http://190.83.119.67:8000/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJnwmz8.png" group-title="Noticias",TVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJnwmz8.png" group-title="Noticiass",TVE
 http://190.83.119.67:8000/play/a0o6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1tvQhr.png" group-title="Noticias",TVM25 -  ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1tvQhr.png" group-title="Noticiass",TVM25 -  ESA
 http://190.83.119.67:8000/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4XcXFt.jpg" group-title="Kids",Teen Nick HD
 http://190.83.119.67:8000/play/a0q1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sN02DLv.png" group-title="Noticias",Tele Antillas - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sN02DLv.png" group-title="Noticiass",Tele Antillas - RD
 http://190.83.119.67:8000/play/a0p1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B6mSGqc.png" group-title="Noticias",TeleMicro - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B6mSGqc.png" group-title="Noticiass",TeleMicro - RD
 http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IuHtOr4.png" group-title="Noticias",Telecentro - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IuHtOr4.png" group-title="Noticiass",Telecentro - RD
 http://190.83.119.67:8000/play/a0qu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWtcyMt.png" group-title="Noticias",Telemundo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWtcyMt.png" group-title="Noticiass",Telemundo
 http://190.83.119.67:8000/play/a0pf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U6i96cv.jpg" group-title="Noticias",Telemundo HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6i96cv.jpg" group-title="Noticiass",Telemundo HD
 http://190.83.119.67:8000/play/a0q9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LGCzjgl.png" group-title="Noticias",Telesistema RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGCzjgl.png" group-title="Noticiass",Telesistema RD
 http://190.83.119.67:8000/play/a0p3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJmNVxC.jpg" group-title="Noticias",Teleuniverso - RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJmNVxC.jpg" group-title="Noticiass",Teleuniverso - RD
 http://190.83.119.67:8000/play/a0qr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lms6xyN.jpg" group-title="Noticias",Televida RD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lms6xyN.jpg" group-title="Noticiass",Televida RD
 http://190.83.119.67:8000/play/a0of/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmoOak6.png" group-title="Noticias",Tigo Deportes HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmoOak6.png" group-title="Noticiass",Tigo Deportes HD
 http://190.83.119.67:8000/play/a0sn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cdv4Ixy.png" group-title="Kids",Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddT2OId.png" group-title="Noticias",Tru TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddT2OId.png" group-title="Noticiass",Tru TV
 http://190.83.119.67:8000/play/a0pe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2QkkdtV.png" group-title="Peliculas",UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
@@ -674,75 +674,75 @@ http://190.83.119.67:8000/play/a0t0/index.m3u8
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GoqJzZ7.png" group-title="Peliculas",UNIVERSAL PREMIERE O HD
 http://190.83.119.67:8000/play/a0uj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0BOAIha.png" group-title="Noticias",UNIVERSAL REALITY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0BOAIha.png" group-title="Noticiass",UNIVERSAL REALITY
 http://190.83.119.67:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F7XMJqE.jpg" group-title="Noticias",UNIVERSAL REALITY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7XMJqE.jpg" group-title="Noticiass",UNIVERSAL REALITY HD
 http://190.83.119.67:8000/play/a0sz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rme78gq.jpg" group-title="Noticias",Univision HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rme78gq.jpg" group-title="Noticiass",Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64ejeSs.png" group-title="Noticias",VENUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64ejeSs.png" group-title="Noticiass",VENUS
 http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FDpT6oU.png" group-title="Noticias",VTV Canal 35 ESA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDpT6oU.png" group-title="Noticiass",VTV Canal 35 ESA
 http://190.83.119.67:8000/play/a0r1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2udkue.png" group-title="Peliculas",WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ltvsmfC.png" group-title="Peliculas",Warner
 http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5HoZJh8.png" group-title="Noticias",ZooMoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HoZJh8.png" group-title="Noticiass",ZooMoo
 http://190.83.119.67:8000/play/a0nt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Llc5Eby.png" group-title="Noticias", Tele Jahs Hy [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Llc5Eby.png" group-title="Noticiass", Tele Jahs Hy [HyTv]
 https://player.twitch.tv/?channel=tvhuarmey&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=auto&volume=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Noticias",CNN en Español [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Noticiass",CNN en Español [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Noticias",CNN [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Noticiass",CNN [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CNN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Noticias",Glitz [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Noticiass",Glitz [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/GLITZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4EsZKk.png" group-title="Noticias",Bloomberg [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4EsZKk.png" group-title="Noticiass",Bloomberg [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Noticias",RT en Español [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Noticiass",RT en Español [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/RT_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Noticias",TruTV [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Noticiass",TruTV [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/TRUTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Noticias",Lifetime [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Noticiass",Lifetime [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Noticias",ADN40 [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Noticiass",ADN40 [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/ADN40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Noticias",RCN [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Noticiass",RCN [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Noticias",Telefe [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Noticiass",Telefe [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/TELEFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Noticias",HolaTV [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Noticiass",HolaTV [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Noticias",Las Estrellas [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Noticiass",Las Estrellas [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/LAS_ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PwuhYqI.png" group-title="Noticias",E! [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwuhYqI.png" group-title="Noticiass",E! [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CANAL_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Noticias",Caracol TV [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Noticiass",Caracol TV [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/CARACOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Noticias",Telemundo [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Noticiass",Telemundo [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Noticias",Azteca7 [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Noticiass",Azteca7 [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Noticias",Univisión [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Noticiass",Univisión [HyTv]
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QlVaGFa.png" group-title="Noticias",Mega Chile [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlVaGFa.png" group-title="Noticiass",Mega Chile [E]
 http://tv.teleclub.xyz/live/ABRIL_00/MEGA_CHILE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PanamericanaTV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticiass",PanamericanaTV [E]
 http://tv.teleclub.xyz/live/ABRIL_00/PANAMERICANA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PE4CN0u.png" group-title="Noticias",TVN 24h [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE4CN0u.png" group-title="Noticiass",TVN 24h [E]
 http://tv.teleclub.xyz/live/ABRIL_00/TVN_24H/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpsieSZ.png" group-title="Noticias",TVMax Panama [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpsieSZ.png" group-title="Noticiass",TVMax Panama [E]
 http://tv.teleclub.xyz/live/ABRIL_00/TVMAX_PANAMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eH5YeW8.jpeg" group-title="Noticias",LimaLive [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eH5YeW8.jpeg" group-title="Noticiass",LimaLive [E]
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J6HvBxh.png" group-title="Noticias",LotPlus TV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6HvBxh.png" group-title="Noticiass",LotPlus TV [E]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HnI7700.png" group-title="Noticias",Master TV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnI7700.png" group-title="Noticiass",Master TV [E]
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wt3dNY9.png" group-title="Noticias",Millenium 49 TV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wt3dNY9.png" group-title="Noticiass",Millenium 49 TV [E]
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/URjtPLB.png" group-title="Noticias",Willax TV [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/URjtPLB.png" group-title="Noticiass",Willax TV [E]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 
 
@@ -936,7 +936,7 @@ http://tv.teleclub.xyz/live/ABRIL_00/BEIN/index.m3u8
 http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 #EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religion",3ABN Latino (720p) [Not 24/7]
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6gKU3Fd.png" group-title="Noticias",Activa TV [Not 24/7]
+#EXTINF:-1 tvg-id="ActivaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6gKU3Fd.png" group-title="Noticiass",Activa TV [Not 24/7]
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura",AgrotendenciaTV (480p) [Not 24/7]
 https://inliveserver.com:1936/15506/15506/playlist.m3u8
@@ -948,87 +948,87 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AmericaDeportes.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Deportes",América Deportes (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
-#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Noticias",Andes Televisión (Sicusani) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Noticiass",Andes Televisión (Sicusani) (720p) [Not 24/7]
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Anime y Gaming",Anime Zone TV (480p) [Not 24/7]
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Noticias",Antares Televisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Noticiass",Antares Televisión (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="Asiritv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Noticias",AsiriTV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Asiritv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Noticiass",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="Noticias",ATM Televisión (Apurimac) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="Noticiass",ATM Televisión (Apurimac) (720p) [Not 24/7]
 https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Noticias",ATV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Noticiass",ATV (480p) [Not 24/7]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticiass (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticiasss (480p) [Not 24/7]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uA0GNVH.png" group-title="Noticias",Auténtica Televisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uA0GNVH.png" group-title="Noticiass",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD (720p) [Geo-blocked]
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bORM4rt.png" group-title="Noticias",Bella Abanquina TV (Apurimac) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bORM4rt.png" group-title="Noticiass",Bella Abanquina TV (Apurimac) (720p) [Not 24/7]
 https://v4.tustreaming.cl/bellatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YiZcrE.jpg" group-title="Noticias",Bella Asuncion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YiZcrE.jpg" group-title="Noticiass",Bella Asuncion TV (720p) [Not 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Más Cumbia (720p) [Not 24/7]
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Music (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticiass",Best Cable Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="BestCableDeportesPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Deportes",Best Cable Deportes Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcableDeportes/bestcableDeportes/index.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/hn_bethel_m.png" group-title="Religion",Bethel TV (720p) [Not 24/7]
 https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
-#EXTINF:-1 tvg-id="BeXtremeTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Noticias",BeXtreme TV (Lima) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="BeXtremeTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="Noticiass",BeXtreme TV (Lima) (1080p) [Geo-blocked]
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Noticias",BHTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Noticiass",BHTV (720p) [Not 24/7]
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bVTjvp6.png" group-title="Noticias",Cable Netword TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="CNTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bVTjvp6.png" group-title="Noticiass",Cable Netword TV (480p) [Not 24/7]
 https://tv.inka.net.pe/cntv/index.m3u8
-#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3VkobI4.png" group-title="Noticias",Cajamarca TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3VkobI4.png" group-title="Noticiass",Cajamarca TV (480p) [Not 24/7]
 https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Noticias",Canal 8 (Catacaos) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Noticiass",Canal 8 (Catacaos) (360p) [Not 24/7]
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title="News",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal43Sudamericana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uIukZcv.png" group-title="Noticias",Canal 43 Sudamericana (Ica) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal43Sudamericana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uIukZcv.png" group-title="Noticiass",Canal 43 Sudamericana (Ica) (360p) [Not 24/7]
 https://media2.cdnlayer.biz:8081/8014/index.m3u8
-#EXTINF:-1 tvg-id="CaribeTelevisionOtuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4MftJLp.png" group-title="Noticias",Caribe Televisión (Otuzco) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CaribeTelevisionOtuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4MftJLp.png" group-title="Noticiass",Caribe Televisión (Otuzco) (1080p) [Not 24/7]
 http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Latin America
 http://209.91.213.10:8088/play/a00k
-#EXTINF:-1 tvg-id="CentralTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YI9n4wL.png" group-title="Noticias",Central TV (Chosica) (614p) [Not 24/7]
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YI9n4wL.png" group-title="Noticiass",Central TV (Chosica) (614p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-country="INT" tvg-language="Chinese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TxEBT6I.png" group-title="Noticias",CharapaTV (Pucallpa) [Not 24/7]
+#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TxEBT6I.png" group-title="Noticiass",CharapaTV (Pucallpa) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Family",Chicos IPe (1080p) [Not 24/7]
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="Noticias",ClipsTV (Ica) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="Noticiass",ClipsTV (Ica) (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Noticias",CNC Digital (Iquitos) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Noticiass",CNC Digital (Iquitos) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-country="LATAM;US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
 http://209.91.213.10:8088/play/a014
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Noticias",Conecta2TV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Noticiass",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Deportes",Contacto Deportivo (720p) [Not 24/7]
 https://live.obslivestream.com/cdeportivomux/index.m3u8
-#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Noticias",CR Television (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CRTelevisionMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="Noticiass",CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="CTC.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Noticias",CTC (720p)
+#EXTINF:-1 tvg-id="CTC.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Noticiass",CTC (720p)
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p) [Not 24/7]
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="CVMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hvuPyET.png" group-title="Music",CVM TV Digital (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DeltaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="Noticias",DeltaTV (Pacayzapa | San Martín) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="DeltaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="Noticiass",DeltaTV (Pacayzapa | San Martín) (480p) [Not 24/7]
 https://media2.cdnlayer.biz:8081/8038/index.m3u8
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="Noticias",DMJ (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="Noticiass",DMJ (Cuzco) (720p) [Not 24/7]
 https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -1052,41 +1052,41 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="Noticias",FuegoTV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="Noticiass",FuegoTV (Lima) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
 #EXTINF:-1 tvg-id="FXPeru.us" tvg-country="PE" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="Entertainment",FX Peru
 http://209.91.213.10:8088/play/a01z
 #EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV (Peru) (1080p) [Not 24/7]
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Noticias",Genios TV (Moyobamba) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Noticiass",Genios TV (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Hatun TV (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Science",Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="Hoynet.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gAQaSBj.png" group-title="Noticias",Hoynet (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="Hoynet.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gAQaSBj.png" group-title="Noticiass",Hoynet (540p) [Not 24/7]
 https://tv.portalexpress.es:3641/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oC6tuLn.png" group-title="Noticias",Huacho Perú TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oC6tuLn.png" group-title="Noticiass",Huacho Perú TV (720p) [Not 24/7]
 https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
-#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Noticias",Huánuco en Vivo (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Noticiass",Huánuco en Vivo (480p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a2lP0Ma.png" group-title="Noticias",Imagen Televisión (Rioja) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a2lP0Ma.png" group-title="Noticiass",Imagen Televisión (Rioja) (720p) [Not 24/7]
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KIWejCA.png" group-title="Noticias",Impacto Televisión (Cajamarca) (720p)
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KIWejCA.png" group-title="Noticiass",Impacto Televisión (Cajamarca) (720p)
 https://eu1.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="Noticias",Imperial Televisión (Huancayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="Noticiass",Imperial Televisión (Huancayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
-#EXTINF:-1 tvg-id="Innovafm.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Mxls38t.png" group-title="Noticias",Innova FM (Bagua Grande) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Innovafm.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Mxls38t.png" group-title="Noticiass",Innova FM (Bagua Grande) (480p) [Not 24/7]
 https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Deportes",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Fd22rw.png" group-title="Religion",JN19 (720p) [Not 24/7]
 https://servilive.com:3149/live/jn19tvlive.m3u8
-#EXTINF:-1 tvg-id="K-Pop Channel" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Lc3b6f.jpg" group-title="Noticias",K-Pop Channel
+#EXTINF:-1 tvg-id="K-Pop Channel" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Lc3b6f.jpg" group-title="Noticiass",K-Pop Channel
 http://177.53.152.186:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="KachorroTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HMHzMys.jpg" " group-title="Noticias",Kachorro (Super TV | Amazonas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KachorroTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HMHzMys.jpg" " group-title="Noticiass",Kachorro (Super TV | Amazonas) (720p) [Not 24/7]
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
 https://cu.onliv3.com/livevd/user1.m3u8
@@ -1096,97 +1096,97 @@ http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Qusd5mT.png" group-title="Musica",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8098/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="Noticias",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="Noticiass",Latina
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="LimaLive.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Noticias",LimaLive (536p) [Not 24/7]
+#EXTINF:-1 tvg-id="LimaLive.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Noticiass",LimaLive (536p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Anime y Gaming",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xNjYZoA.png" group-title="Noticias",LotPlus TV (Chiclayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xNjYZoA.png" group-title="Noticiass",LotPlus TV (Chiclayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="Noticias",Master TV (Tarapoto) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="MasterTVTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="Noticiass",Master TV (Tarapoto) (480p) [Not 24/7]
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Noticias",MaticesTV (Cañete) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Noticiass",MaticesTV (Cañete) (720p) [Not 24/7]
 http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Noticias",Memorias TV
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Noticiass",Memorias TV
 https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8
-#EXTINF:-1 tvg-id="Millenium49TVPucallpa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zYpMHhQ.png" group-title="Noticias",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Millenium49TVPucallpa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zYpMHhQ.png" group-title="Noticiass",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Noticias",Millenium 109 FM (Lamas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Noticiass",Millenium 109 FM (Lamas) (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 1 (320p) [Not 24/7]
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Education",MINEDU IPTV 2 (320p) [Not 24/7]
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-#EXTINF:-1 tvg-id="MitosTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w4ISMBI.png" group-title="Noticias",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="MitosTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w4ISMBI.png" group-title="Noticiass",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
 https://inliveserver.com:1936/19018/19018/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Deportes",Monterrico TV (1080p) [Not 24/7]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Noticias",MX Old
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Noticiass",MX Old
 http://177.53.152.186:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="Noticias",NacionalTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="Noticiass",NacionalTV (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CtPwUdL.png" group-title="Religion",Nazarenas TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
-#EXTINF:-1 tvg-id="NuestraTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gZAOl0w.png" group-title="Noticias",Nuestra TV (Lima) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NuestraTVLima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gZAOl0w.png" group-title="Noticiass",Nuestra TV (Lima) (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religion",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Noticias",Onda Digital (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="Noticiass",Onda Digital (720p) [Not 24/7]
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="Noticias",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="Noticiass",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Deportes",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Noticias",Panamericana TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Noticiass",Panamericana TV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 tvg-id="PaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B89KuHO.png" group-title="Religion",Pax TV (480p) [Not 24/7]
 https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Noticias",Perú Channel (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-country="BR;PE" tvg-language="Portuguese;Spanish" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Noticiass",Perú Channel (720p) [Not 24/7]
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ryvWvwu.png" group-title="Noticias",Peru Magico (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ryvWvwu.png" group-title="Noticiass",Peru Magico (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0dh
-#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oew9unJ.png" group-title="Noticias",PiuraTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oew9unJ.png" group-title="Noticiass",PiuraTV (720p) [Not 24/7]
 http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qWKjXO8.png" group-title="Noticias",Planeta TV Moyobamba (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlanetaTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qWKjXO8.png" group-title="Noticiass",Planeta TV Moyobamba (720p) [Not 24/7]
 https://live.obslivestream.com/planetatvmux/index.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Primavera15RadiotelevisionMoquegua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bOHwXqM.png" group-title="Noticias",Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Primavera15RadiotelevisionMoquegua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bOHwXqM.png" group-title="Noticiass",Primavera 15 Radiotelevisión (Moquegua) (720p) [Not 24/7]
 https://tv.portalexpress.es:3270/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ProyectaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pXspBga.png" group-title="Noticias",Proyecta Televisión (Huacho) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ProyectaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pXspBga.png" group-title="Noticiass",Proyecta Televisión (Huacho) (720p) [Not 24/7]
 https://servilive.com:3194/live/proyectatvlive.m3u8
-#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="Noticias",QT Televisión (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="Noticiass",QT Televisión (Cuzco) (720p) [Not 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="QuattroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="Noticias",Quattro TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="QuattroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" group-title="Noticiass",Quattro TV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
-#EXTINF:-1 tvg-id="RadioCalorHuancayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hO3k8sz.png" group-title="Noticias",Radio Calor (Huancayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioCalorHuancayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hO3k8sz.png" group-title="Noticiass",Radio Calor (Huancayo) (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/calortv
 #EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Music",Radio Chalaca (720p) [Not 24/7]
 https://megastreamm.com:3611/stream/play.m3u8
-#EXTINF:-1 tvg-id="RadioDigital941TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kG6UL31.png" group-title="Noticias",Radio Digital 94.1 TV (Juanjui) (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioDigital941TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kG6UL31.png" group-title="Noticiass",Radio Digital 94.1 TV (Juanjui) (240p) [Not 24/7]
 https://media2.cdnlayer.biz:8081/8018/index.m3u8
-#EXTINF:-1 tvg-id="RadioPachatusan.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mZk5sa.png" group-title="Noticias",Radio Pachatusan (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioPachatusan.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mZk5sa.png" group-title="Noticiass",Radio Pachatusan (Cuzco) (720p) [Not 24/7]
 https://tvdatta.com:3413/live/pachatusanlive.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="HISPAM;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xvMDTe9.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTropicalTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1331243814548287489/RCVGVH6L_400x400.jpg" group-title="Noticias",Radio Tropical Tarapoto (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioTropicalTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1331243814548287489/RCVGVH6L_400x400.jpg" group-title="Noticiass",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="RadioTVCharles.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6AAMTcS.png" group-title="Noticias",Radio TV Charles (Bambamarca) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioTVCharles.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6AAMTcS.png" group-title="Noticiass",Radio TV Charles (Bambamarca) [Not 24/7]
 https://media2.cdnlayer.biz:8081/8032/index.m3u8
-#EXTINF:-1 tvg-id="RadioTVJuanjui.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kn9w87L.png" group-title="Noticias",Radio TV Juanjui (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioTVJuanjui.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kn9w87L.png" group-title="Noticiass",Radio TV Juanjui (480p) [Not 24/7]
 https://tv.portalexpress.es:3611/live/radiotvjuanjuilive.m3u8
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Noticias",RadioInka (Abancay) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Noticiass",RadioInka (Abancay) (1080p) [Not 24/7]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="RadioTVOrienteYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Noticias",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioTVOrienteYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iHaFLHX.png" group-title="Noticiass",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English;German" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Deportes",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RCR.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DvRbrFy.png" group-title="Noticias",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RCR.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DvRbrFy.png" group-title="Noticiass",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Noticias",Región TV (Callao) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Noticiass",Región TV (Callao) (480p) [Not 24/7]
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus 2 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
@@ -1194,7 +1194,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Noticias",RPP (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-country="PE" tvg-language="" tvg-logo="" group-title="Noticiass",RPP (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0d8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
@@ -1202,123 +1202,123 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="Music",SanjuaneraTV (1080p) [Not 24/7]
 https://live.obslivestream.com/sanjuaneramux/playlist.m3u8
-#EXTINF:-1 tvg-id="SEOTV.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Noticias",SEO TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SEOTV.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Noticiass",SEO TV (720p) [Not 24/7]
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p) [Not 24/7]
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-#EXTINF:-1 tvg-id="Sistema1.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GaEfzuG.png" group-title="Noticias",Sistema 1 (Huaraz) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Sistema1.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GaEfzuG.png" group-title="Noticiass",Sistema 1 (Huaraz) (720p) [Not 24/7]
 https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
-#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L45zrbj.png" group-title="Noticias",Sol Stereo TV (Casma) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L45zrbj.png" group-title="Noticiass",Sol Stereo TV (Casma) (360p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pPNuVPt.png" group-title="Noticias",Solar Televisión (Abancay) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pPNuVPt.png" group-title="Noticiass",Solar Televisión (Abancay) (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/televisionsolar/index.m3u8
 #EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="StereoTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lHJCZfk.png" group-title="Music",Stereo TV (Peru) (720p) [Not 24/7]
 https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-#EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="Noticias",Sumac TV (Lima) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="SumacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H5Zhdbo.png" group-title="Noticiass",Sumac TV (Lima) (480p) [Not 24/7]
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 tvg-id="SuperCanalYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Noticias",Super Canal (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SuperCanalYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Noticiass",Super Canal (Yurimaguas) (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineClubTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5O42NQ.png" group-title="Movies",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YNZwq9N.png" group-title="Noticias",Tele2000 (Ayacucho) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YNZwq9N.png" group-title="Noticiass",Tele2000 (Ayacucho) (720p) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticias",Telesur (Camana) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticiass",Telesur (Camana) (480p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticias",Telesur (Ilo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticiass",Telesur (Ilo) (720p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticias",Telesur (Mollendo) (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticiass",Telesur (Mollendo) (240p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticias",Telesur (Moquegua) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticiass",Telesur (Moquegua) (360p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticias",Telesur (Tacna) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Noticiass",Telesur (Tacna) (720p) [Not 24/7]
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aSxZooE.png" group-title="Noticias",Televisión Tarapoto (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aSxZooE.png" group-title="Noticiass",Televisión Tarapoto (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Business",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="Noticias",Top FM TV (Atalaya) (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TopFMTVAtalaya.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="Noticiass",Top FM TV (Atalaya) (240p) [Not 24/7]
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="TopLatino.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WLZBeNQ.png" group-title="Music",Top Latino TV (404p) [Not 24/7]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TPTO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SC5xxMn.png" group-title="Noticias",TPTO TV (Tarapoto) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TPTO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SC5xxMn.png" group-title="Noticiass",TPTO TV (Tarapoto) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="Noticias",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vZwaV3J.png" group-title="Noticiass",Tropical TV (Puerto Maldonado) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="Noticias",Tumpis TV (Tumbes) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KZFWGwV.png" group-title="Noticiass",Tumpis TV (Tumbes) (720p) [Not 24/7]
 https://servilive.com:3531/live/tumpistvlive.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://tvcosmos.pe/includes/iso-cosmos.png" group-title="Noticias",TV Cosmos (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://tvcosmos.pe/includes/iso-cosmos.png" group-title="Noticiass",TV Cosmos (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMundoArequipa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KN4Hds2.png" group-title="Noticias",TV Mundo (Arequipa) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMundoArequipa.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KN4Hds2.png" group-title="Noticiass",TV Mundo (Arequipa) (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQH-6sv6ovHg4Nx-niZ_C1g/live
-#EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Wo3HEyl.png" group-title="Noticias",TV Norte (Chiclayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Wo3HEyl.png" group-title="Noticiass",TV Norte (Chiclayo) (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVNORTEHD
-#EXTINF:-1 tvg-id="TVNoticiass73.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticiass 7.3 (768p)
+#EXTINF:-1 tvg-id="TVNoticiasss73.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="News",TV Noticiasss 7.3 (768p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cen9l4e.png" group-title="Noticias",TV Palmeras (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cen9l4e.png" group-title="Noticiass",TV Palmeras (480p) [Not 24/7]
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Noticias",TV Perú (450p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Noticiass",TV Perú (450p) [Not 24/7]
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Noticias",TV Perú Internacional (460p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Noticiass",TV Perú Internacional (460p) [Not 24/7]
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="TVPeruNoticiass.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NoticiasS_PLAY.png" group-title="News",TV Perú Noticiass (768p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPeruNoticiasss.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NoticiassS_PLAY.png" group-title="News",TV Perú Noticiasss (768p) [Not 24/7]
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0bBxZ5x.png" group-title="Music",TV Peruanísima (720p) [Not 24/7]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="Noticias",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="Noticiass",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
-#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/le0Amyd.png" group-title="Noticias",TVenLinea (Cuzco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/le0Amyd.png" group-title="Noticiass",TVenLinea (Cuzco) (720p) [Not 24/7]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-id="TvfacesOnline.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aFad8KR.png" group-title="Entertainment",Tvfaces Online (360p) [Not 24/7]
 https://tvdatta.com:3211/stream/play.m3u8
-#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Noticias",TVG América (720p)
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Noticiass",TVG América (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="UchuTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tebr5wH.png" group-title="Noticias",Uchu TV (Cusco) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="UchuTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tebr5wH.png" group-title="Noticiass",Uchu TV (Cusco) (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/Cusco/index.m3u8
-#EXTINF:-1 tvg-id="UCI.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3KAm0lO.png" group-title="Noticias",UCI (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="UCI.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3KAm0lO.png" group-title="Noticiass",UCI (720p) [Not 24/7]
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-id="UCL.uy" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Noticias",UCL TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Noticiass",UCL TV (360p) [Not 24/7]
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="Unitel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Noticias",Unitel (Huancayo) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Unitel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Noticiass",Unitel (Huancayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-#EXTINF:-1 tvg-id="UniversitariaTVChanchamayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="Noticias",Universitaria TV (Chanchamayo) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="UniversitariaTVChanchamayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="Noticiass",Universitaria TV (Chanchamayo) (480p) [Not 24/7]
 https://tvdatta.com:3670/live/universitariatvlive.m3u8
-#EXTINF:-1 tvg-id="UranioTVYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Noticias",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="UranioTVYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Noticiass",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniomux/index.m3u8
-#EXTINF:-1 tvg-id="USILTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EPFmlV3.png" group-title="Noticias",USIL TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EPFmlV3.png" group-title="Noticiass",USIL TV (720p) [Not 24/7]
 https://video.servidor.stream:3366/live/redeslive.m3u8
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="Noticias",VamisaTV (Lima) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="VamisaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jxHTl2g.png" group-title="Noticiass",VamisaTV (Lima) (480p) [Not 24/7]
 https://vps1.lnx.pe/vamisa/envivo/index.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="Noticias",Vía Altomayo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="Noticiass",Vía Altomayo (720p) [Not 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Noticias",Vía Televisión (Tarapoto) [Not 24/7]
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="Noticiass",Vía Televisión (Tarapoto) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="VNP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fLk6TPY.png" group-title="News",Visión Noticiass Perú (VNP) (720p) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/vnpNoticiass/vnpNoticiass.m3u8
+#EXTINF:-1 tvg-id="VNP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fLk6TPY.png" group-title="News",Visión Noticiasss Perú (VNP) (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/vnpNoticiasss/vnpNoticiasss.m3u8
 #EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Music",Visión TV Musica (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mhR2bXC.png" group-title="Noticias",Willax (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mhR2bXC.png" group-title="Noticiass",Willax (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="PE;SV" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="Noticias",WOW TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="PE;SV" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="Noticiass",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="Noticias",X TV (Chachapoyas) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="Noticiass",X TV (Chachapoyas) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
 
 
