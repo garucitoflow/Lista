@@ -292,6 +292,10 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",Latina PE [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/97667
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPwHae5.png" group-title="Noticias",AMERICA HD PE [E]
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/97667
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
