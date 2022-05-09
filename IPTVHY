@@ -242,6 +242,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Musica",Onda Cero [E]
+https://live-audio.ondacero.es/radio/ondacero/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming",Energeek 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming",Energeek 2 [E]
