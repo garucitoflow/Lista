@@ -242,6 +242,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA PE [E]
+http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
+http://45.225.95.170:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMRCNA TV [E]
+http://45.225.95.170:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming",Energeek 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g36oYCC.jpeg" group-title="Anime & Gaming",Energeek 2 [E]
@@ -288,17 +298,6 @@ http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svjUIze.png" group-title="Musica",Onda Cero [E]
 https://live-audio.ondacero.es/radio/ondacero/bitrate_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA PE [E]
-http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
-http://45.225.95.170:8000/play/a0jh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMRCNA TV [E]
-http://45.225.95.170:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticias",11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TYXcmpO.png" group-title="Noticias",13-Sinart
