@@ -248,7 +248,7 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 http://45.225.95.170:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMRCNA TV [E]
 http://45.225.95.170:8000/play/a0ji/index.m3u8
