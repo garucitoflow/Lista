@@ -1698,44 +1698,158 @@ http://tvpremiumhd.club/lista-gratuita/214203/on/lives.php?id=archive.org/downlo
 
 
 #EXTM3U
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="LUCIFER" , LUCIFER
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="BLUE DRAGON" , BLUE DRAGON
 http://0.0.0.0
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 01
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP01.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 02
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP02.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 03
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP03.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 04
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP04.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 05
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP05.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 06
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP06.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 07
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP07.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 08
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP08.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 09
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP09.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 10
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP10.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 11
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP11.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 12
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP12.mp4
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZPoRQg1.jpg" group-title="LUCIFER" , 01 - EPISODIO 13
-http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/LCFRT01EP13.mp4
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 01
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/01.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 02
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/02.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 03
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/03.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 04
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/04.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 05
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/05.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 06
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/06.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 07
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/07.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 08
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/08.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 09
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/09.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 10
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/10.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 11
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/11.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 12
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/12.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 13
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/13.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 14
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/14.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 15
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/15.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 16
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/16.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 17
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/17.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 18
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/18.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 19
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/19.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 20
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/20.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 21
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/21.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 22
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/22.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 23
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/23.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 24
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/24.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 25
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/25.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 26
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/26.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 27
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/27.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 28
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/28.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 29
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/29.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 30
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/30.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 31
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/31.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 32
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/32.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 33
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/33.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 34
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/34.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 35
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/35.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 36
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/36.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 37
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/37.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 38
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/38.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 39
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/39.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 40
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/40.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 41
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/41.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 42
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/42.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 43
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/43.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 44
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/44.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 45
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/45.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 46
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/46.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 47
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/47.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 48
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/48.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 49
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/49.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 50
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/50.MP4
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/OnROOeh.jpg" group-title="BLUE DRAGON" , EPISODIO 51
+http://cdn1.animeai2.net/cdn/video?asd=1/B/blue-dragon-dublado/51.MP4
