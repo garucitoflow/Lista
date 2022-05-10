@@ -289,15 +289,16 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svjUIze.png" group-title="Musica",Onda Cero [E]
 https://live-audio.ondacero.es/radio/ondacero/bitrate_2.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",Latina PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA PE [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
 http://45.225.95.170:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMRCNA TV [E]
+http://45.225.95.170:8000/play/a0ji/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3uUc2z.png" group-title="Noticias",11 - Repretel
 http://190.83.119.67:8000/play/a0r0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TYXcmpO.png" group-title="Noticias",13-Sinart
@@ -732,8 +733,6 @@ http://tv.teleclub.xyz/live/ABRIL_01/AZTECA7/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlVaGFa.png" group-title="Noticias",Mega Chile [E]
 http://tv.teleclub.xyz/live/ABRIL_00/MEGA_CHILE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PanamericanaTV [E]
-http://tv.teleclub.xyz/live/ABRIL_00/PANAMERICANA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PE4CN0u.png" group-title="Noticias",TVN 24h [E]
 http://tv.teleclub.xyz/live/ABRIL_00/TVN_24H/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpsieSZ.png" group-title="Noticias",TVMax Panama [E]
@@ -1336,97 +1335,3 @@ https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAlvJwh.jpeg" group-title="Religion",Canal Dios Te Ve [HyTv]
 https://emisoras.hn:8081/diostevetv/index.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DXS6BXM.jpeg" group-title="Peliculas Anime",Naruto Shippuden Camino Ninja [E]
-https://www.youtube.com/embed/a20Qxh3-9DU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u3R4nri.jpeg" group-title="Peliculas Anime",Naruto Shippuden Pricion De Sangre [E]
-https://www.youtube.com/embed/QZxYHca94bU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B06T8Lo.jpeg" group-title="Peliculas Anime",Dragon Ball Z LBDLD Extendida [E]
-https://www.youtube.com/embed/SWMTPC4WWyQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tzkGNx2.jpeg" group-title="Peliculas Anime",Dragon Ball Z Broly [E
-https://www.youtube.com/embed/wqdCWoR_PnU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y3AeVhy.jpeg" group-title="Peliculas Anime",Dragon Ball Z El Regreso Del Gerrero Legendario [E]
-https://www.youtube.com/embed/-Cbo0-kQdDA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dgSBShn.jpg" group-title="Peliculas Anime",PETTER RABIT [E]
-https://www.youtube.com/embed/qBX4WwAo7pE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TX38hlX.jpg" group-title="Peliculas Anime",El libro de la vida [E]
-https://www.youtube.com/embed/Z8iBblJ4vH4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="Peliculas Classic",Vacaciones en Acapulco (1977)
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/asJJIHg.jpg" group-title="Peliculas",EL TORNADO [E]
-https://www.youtube.com/embed/0LmyNreeuGw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SYuZf9F.jpeg" group-title="Peliculas",Spiderman - Lejos De Casa [E]
-https://www.youtube.com/embed/BVEkE-VRLN4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ynt9ije.jpeg" group-title="Peliculas",Operación Zodíaco Jackie Chan [E]
-https://www.youtube.com/embed/m8ve9ZivrUg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9oFmpRN.jpeg" group-title="Peliculas",La Espada Del Destino [E]
-https://www.youtube.com/embed/NU8XoqzXgJ0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iguh3YQ.jpg" group-title="Peliculas",El Bombero Atómico Cantinflas [E]
-https://www.youtube.com/embed/T62WZMJXmgY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KutlEY6.jpg" group-title="Peliculas",Dos Pavos En Apuros 2013 [E]
-https://www.youtube.com/embed/GnF75UR7D9c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xiAE9KK.jpg" group-title="Peliculas",Rio [E]
-https://www.youtube.com/embed/sMMLyvJmhyA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MfX4hL7.jpg" group-title="Peliculas",Rio 2 [E]
-https://www.youtube.com/embed/1cPDfXU95Xw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2GxC3bz.jpg" group-title="Peliculas",ATRAPADOS EN EL TIEMPO [E]
-https://www.youtube.com/embed/mS35rG0N_MA
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9O0K7v.jpg" group-title="Documentary",EL FIN DE LOS DINOSAURIOS 2018 [E]
-https://www.youtube.com/embed/rMZKS8jqM6s
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vchFRY5.jpg" group-title="Documentary",Origen de la Tierra [E]
-https://www.youtube.com/embed/_Loq6OnPWWU
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bT8b9h9.png" group-title="Peliculas Classic",American Classics [HyTv]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaU5CXT.jpeg" group-title="Peliculas Classic",American Christmas Carol [HyTv]
-https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BzfCsyE.jpeg" group-title="Peliculas Classic",Bflix Peliculas [HyTv]
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixPeliculas.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiqWMYj.jpeg" group-title="Peliculas Classic",Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SFNk8Y4.jpeg" group-title="Peliculas Classic",Child's Play 2 (1990)
-https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="Peliculas Classic",Back to the Future Part II (1989)
-https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rgc7bfE.jpeg" group-title="Peliculas Classic",Pet Sematary (1989)
-https://ia801603.us.archive.org/6/items/06052017AQC06052017/06052017_AQC.avi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q2JFJcF.jpeg" group-title="Peliculas Classic",Child's Play (1988)
-https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ve7kKul.jpeg" group-title="Peliculas Classic",Porky's Revenge (1985)
-https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xyAxssy.jpeg" group-title="Peliculas Classic",La Presidenta Municipal (1975)
-https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/dM4R0r1.jpg" group-title="Peliculas Classic",El Libro de Piedra (1969)
-https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/kpaLtXk.jpg" group-title="Peliculas Classic",Caperucita y Pulgarcito Contra los Monstruos (1960)
-https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yrcEqm6.jpeg" group-title="Peliculas Classic",El Dolor de Pagar la Renta (1960)
-https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/U9RiSMD.jpg" group-title="Peliculas Classic",Macario (1960)
-https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg" group-title="Peliculas Classic",Angelitos del Trapecio (1959)
-https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/e4BzmDB.jpg" group-title="Peliculas Classic",Yo Soy Muy Macho (1953)
-https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/gVCnp2P.jpg" group-title="Peliculas Classic",El Bello Durmiente (1952)
-https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDaV1gY.jpeg" group-title="Peliculas Classic",Aca las Tortas (1951)
-https://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/OOGQjcp.jpg" group-title="Peliculas Classic",Simbad el Mareado (1950)
-https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/lzZMzXw.jpg" group-title="Peliculas Classic",La Familia Perez (1949)
-https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OFmL19Y.jpeg" group-title="Peliculas Classic",Una Familia de Tantas (1949)
-https://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="Peliculas Classic",Los Tres Huastecos (1948)
-https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/aOy8B0T.jpg" group-title="Peliculas Classic",Nosotros - los Pobres (1948)
-https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/9ZOU6Hq.jpg" group-title="Peliculas Classic",Si Adelita se Fuera con Otro (1948)
-https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/3S8RST5.jpg" group-title="Peliculas Classic",Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
