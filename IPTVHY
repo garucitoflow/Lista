@@ -242,20 +242,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62154548a2be360007cb02
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1,Los Simpson:En español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 1 [E]
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
-#EXTINF:-1,Los Simpson:En español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 2 [E]
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Marge%2C%20la%20pechugona.mp4
-#EXTINF:-1,Los Simpson:En español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 3 [E]
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Margie%2C%20puedo%20acostarme%20con%20el%20peligro.mp4
-#EXTINF:-1,Los Simpson:En español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 4 [E]
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Tal%20como%20no%20%C3%A9ramos.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
-http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
 http://45.225.95.170:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
+http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
 http://45.225.95.170:8000/play/a0jh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV SD PE [E]
@@ -268,11 +268,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 http://45.225.95.170:8000/play/a0ji/index.m3u8
 
 
-#EXTINF:0,13 C
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A89rLFA.png" group-title="Noticias",13 C [E]
 http://45.225.95.170:8000/play/a0kh/index.m3u8
-#EXTINF:0,24 Horas TVN
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Seyqx9.png" group-title="Noticias",24 Horas TVN [E]
 http://45.225.95.170:8000/play/a0j5/index.m3u8
 #EXTINF:0,A&E
 #EXTGRP:unsorted
@@ -283,8 +281,7 @@ http://45.225.95.170:8000/play/a0nn/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0n5/index.m3u8
-#EXTINF:0,ANTV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWdxuYH.png" group-title="Noticias",ANTV [E]
 http://45.225.95.170:8000/play/a0lg/index.m3u8
 #EXTINF:0,AXN
 #EXTGRP:unsorted
@@ -292,8 +289,7 @@ http://45.225.95.170:8000/play/a0ky/index.m3u8
 #EXTINF:0,Baby TV
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0or/index.m3u8
-#EXTINF:0,Canal 13
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/En6Xdyz.jpg" group-title="Noticias",Canal 13 [E]
 http://45.225.95.170:8000/play/a0iy/index.m3u8
 #EXTINF:0,Canal Capital
 #EXTGRP:unsorted
@@ -316,8 +312,7 @@ http://45.225.95.170:8000/play/a0my/index.m3u8
 #EXTINF:0,Cartoonito
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0lo/index.m3u8
-#EXTINF:0,CDO BÆsico
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rNvAYX.jpg" group-title="Noticias",CDO BÆsico [E]
 http://45.225.95.170:8000/play/a0kv/index.m3u8
 #EXTINF:0,CDO Premium
 #EXTGRP:unsorted
