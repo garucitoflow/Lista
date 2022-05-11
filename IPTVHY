@@ -270,20 +270,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v6fcxJc.jpg" group-title="USA",Pluto TV Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVBobEsponjaPlus.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2Wvx60R.jpg" group-title="USA",Pluto TV Bob Esponja Plus (720p)
+#EXTINF:-1 tvg-id="PlutoTVBobEsponjaPlus.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2Wvx60R.jpg" group-title="USA",Pluto TV Bob Esponja Plus
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVBobleponge.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4KsxBh6.jpg" group-title="USA",Pluto TV Bob l'éponge (720p)
+#EXTINF:-1 tvg-id="PlutoTVBobleponge.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4KsxBh6.jpg" group-title="USA",Pluto TV Bob l'éponge
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 1 [E]
-https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Los%20tres%20gays%20del%20bloque.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 2 [E]
-https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Marge%2C%20la%20pechugona.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 3 [E]
-https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Margie%2C%20puedo%20acostarme%20con%20el%20peligro.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Noticias",Los Simpson 4 [E]
-https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Tal%20como%20no%20%C3%A9ramos.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 1 [E]
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 2 [E]
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 3 [E]
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
