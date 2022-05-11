@@ -252,16 +252,21 @@ https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Si
 https://archive.org/download/LosSimpsonMargiePuedoAcostarmeConElPeligro/Los%20Simpson%20-%20Besos%20y%20confidencias%2FLos%20Simpson%20-%20Tal%20como%20no%20%C3%A9ramos.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
+http://45.225.95.170:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
 http://45.225.95.170:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV SD PE [E]
+http://45.225.95.170:8000/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMRCNA TV [E]
 http://45.225.95.170:8000/play/a0ji/index.m3u8
+
 
 #EXTINF:0,13 C
 #EXTGRP:unsorted
@@ -275,18 +280,12 @@ http://45.225.95.170:8000/play/a0p6/index.m3u8
 #EXTINF:0,AMC
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0nn/index.m3u8
-#EXTINF:0,AmØrica Televisiðn
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jh/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0n5/index.m3u8
 #EXTINF:0,ANTV
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0lg/index.m3u8
-#EXTINF:0,ATV
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jm/index.m3u8
 #EXTINF:0,AXN
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0ky/index.m3u8
@@ -467,9 +466,6 @@ http://45.225.95.170:8000/play/a0jo/index.m3u8
 #EXTINF:0,Las Estrellas
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0o5/index.m3u8
-#EXTINF:0,Latina
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jf/index.m3u8
 #EXTINF:0,MEGA
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0iw/index.m3u8
@@ -491,9 +487,6 @@ http://45.225.95.170:8000/play/a0k5/index.m3u8
 #EXTINF:0,Nickelodeon
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0ln/index.m3u8
-#EXTINF:0,Panamericana
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0ji/index.m3u8
 #EXTINF:0,Paramount Channel
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0lx/index.m3u8
@@ -554,9 +547,6 @@ http://45.225.95.170:8000/play/a0jr/index.m3u8
 #EXTINF:0,Telenovelas
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0kf/index.m3u8
-#EXTINF:0,Telenovelas
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0kn/index.m3u8
 #EXTINF:0,Telepacifico
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0on/index.m3u8
