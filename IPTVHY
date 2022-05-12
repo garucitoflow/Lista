@@ -468,7 +468,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="REMIX",DJ ROLL PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cs0jrDJ.jpg" group-title="REMIX",DJ ROLL PE [E]
 https://archive.org/download/MegaMesclasDj/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 1 [E]
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
