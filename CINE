@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",El regreso del guerrero legendario
+https://download940.mediafire.com/y9u7l6s10c6g/u7aox1pyth1zw76/El+regreso+del+guerrero+legendario.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",al tercer dia
 http://vod.tuxchannel.tv:80/peliculas/720/al%20tercer%20dia%202020.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",alerta máxima 1
@@ -275,8 +277,6 @@ http://vod.tuxchannel.tv:80/peliculas/720/peter%20rabbit%202%20the%20runaway%202
 http://vod.tuxchannel.tv:80/peliculas/720/four%20kids%20and%20it%202018.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",Proyecto power
 http://vod.tuxchannel.tv/peliculas/720/project%20power%202020.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",psycho
-http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/psycho%20goreman%202020%20sub.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",psycho
 http://vod.tuxchannel.tv:80/peliculas/720/subtituladas/psycho%20goreman%202020%20sub.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",que fue del señor
