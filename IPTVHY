@@ -591,7 +591,6 @@ http://45.225.95.170:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yeOPPJ7.jpg" group-title="Entretenimiento",HBO
 http://45.225.95.170:8000/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkoAVSV.png" group-title="Entretenimiento",HBO Family
-#EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0pb/index.m3u8
 #EXTINF:0,HBO MUNDI
 #EXTGRP:unsorted
@@ -626,7 +625,7 @@ http://45.225.95.170:8000/play/a0kk/index.m3u8
 #EXTINF:0,HTV
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0o6/index.m3u8
-#EXTINF:0,JUSTICIA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1waD0W.png" group-title="Entretenimiento",JUSTICIA TV
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0jo/index.m3u8
 #EXTINF:0,Las Estrellas
@@ -638,8 +637,7 @@ http://45.225.95.170:8000/play/a0iw/index.m3u8
 #EXTINF:0,Movistar Deportes
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0jg/index.m3u8
-#EXTINF:0,Movistar Plus
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE9RonD.png" group-title="Entretenimiento",Movistar Plus
 http://45.225.95.170:8000/play/a0jj/index.m3u8
 #EXTINF:0,Nat Geo Kids
 #EXTGRP:unsorted
@@ -656,14 +654,12 @@ http://45.225.95.170:8000/play/a0ln/index.m3u8
 #EXTINF:0,Paramount Channel
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0lx/index.m3u8
-#EXTINF:0,Perœ MÆgico
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ny2sMRr.jpg" group-title="Entretenimiento",Peru Magico
 http://45.225.95.170:8000/play/a0jv/index.m3u8
 #EXTINF:0,RCN
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0nw/index.m3u8
-#EXTINF:0,REC TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKxMrji.jpg" group-title="Entretenimiento",REC TV
 http://45.225.95.170:8000/play/a0l9/index.m3u8
 #EXTINF:0,RED Televisiðn
 #EXTGRP:unsorted
@@ -671,8 +667,7 @@ http://45.225.95.170:8000/play/a0kg/index.m3u8
 #EXTINF:0,RPP
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0ke/index.m3u8
-#EXTINF:0,Seæal Colombia
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VRr8ipi.png" group-title="Entretenimiento",Senal Colombia
 http://45.225.95.170:8000/play/a0nv/index.m3u8
 #EXTINF:0,Sextreme
 #EXTGRP:unsorted
@@ -683,11 +678,9 @@ http://45.225.95.170:8000/play/a0mj/index.m3u8
 #EXTINF:0,Space
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0oe/index.m3u8
-#EXTINF:0,STAR CHANNEL
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd8m9DZ.png" group-title="Entretenimiento",STAR CHANNEL
 http://45.225.95.170:8000/play/a0jb/index.m3u8
-#EXTINF:0,TBS Very Funny
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KS1cP0a.jpg" group-title="Entretenimiento",TBS Very Funny
 http://45.225.95.170:8000/play/a0mt/index.m3u8
 #EXTINF:0,TCM
 #EXTGRP:unsorted
@@ -710,8 +703,7 @@ http://45.225.95.170:8000/play/a0lm/index.m3u8
 #EXTINF:0,Telemundo
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0jr/index.m3u8
-#EXTINF:0,Telenovelas
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Uq7mhv.png" group-title="Entretenimiento",Telenovelas
 http://45.225.95.170:8000/play/a0kf/index.m3u8
 #EXTINF:0,Telepacifico
 #EXTGRP:unsorted
@@ -725,14 +717,11 @@ http://45.225.95.170:8000/play/a0p8/index.m3u8
 #EXTINF:0,TNT Series
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0p9/index.m3u8
-#EXTINF:0,TNT SPORTS 2
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p13nJQ3.png" group-title="Deporte",TNT SPORTS 2
 http://45.225.95.170:8000/play/a0oa/index.m3u8
-#EXTINF:0,TNT SPORTS 3
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O1LybNN.png" group-title="Deporte",TNT SPORTS 3
 http://45.225.95.170:8000/play/a0ng/index.m3u8
-#EXTINF:0,TV EPACO
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOywGTg.png" group-title="Deporte",TV EPACO
 http://45.225.95.170:8000/play/a0lj/index.m3u8
 #EXTINF:0,TV PERU
 #EXTGRP:unsorted
@@ -749,17 +738,13 @@ http://45.225.95.170:8000/play/a0k8/index.m3u8
 #EXTINF:0,Universal
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0kz/index.m3u8
-#EXTINF:0,VALE TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b20IUEW.png" group-title="Noticia",VALE TV
 http://45.225.95.170:8000/play/a0ld/index.m3u8
-#EXTINF:0,Venevisiðn
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60Ii5Qb.png" group-title="Noticia",Venevision
 http://45.225.95.170:8000/play/a0lb/index.m3u8
-#EXTINF:0,Venevision Plus
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RnYNRCu.png" group-title="Noticia",Venevision Plus
 http://45.225.95.170:8000/play/a0jq/index.m3u8
-#EXTINF:0,Via X
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5z4HoZi.png" group-title="Noticia",Via X
 http://45.225.95.170:8000/play/a0j0/index.m3u8
 #EXTINF:0,Warner Channel
 #EXTGRP:unsorted
