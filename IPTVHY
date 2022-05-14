@@ -661,11 +661,9 @@ http://45.225.95.170:8000/play/a0jv/index.m3u8
 http://45.225.95.170:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKxMrji.jpg" group-title="Entretenimiento",REC TV
 http://45.225.95.170:8000/play/a0l9/index.m3u8
-#EXTINF:0,RED Televisiðn
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaCUYLj.png" group-title="Noticia",RED Television
 http://45.225.95.170:8000/play/a0kg/index.m3u8
-#EXTINF:0,RPP
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRpzxnI.png" group-title="Noticia",RPP
 http://45.225.95.170:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRr8ipi.png" group-title="Entretenimiento",Senal Colombia
 http://45.225.95.170:8000/play/a0nv/index.m3u8
