@@ -470,12 +470,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f3977
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cs0jrDJ.jpg" group-title="REMIX",DJ ROLL PE [E]
 https://archive.org/download/MegaMesclasDj/videoplayback.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 1 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 2 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 3 [E]
-http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
@@ -524,7 +518,7 @@ http://45.225.95.170:8000/play/a0mx/index.m3u8
 http://45.225.95.170:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUQmMn2.jpg" group-title="Noticias",Caracol
 http://45.225.95.170:8000/play/a0my/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgajFgI.jpg" group-title="Kids",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgajFgI.jpg" group-title="Kids",Cartoonito
 http://45.225.95.170:8000/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rNvAYX.jpg" group-title="Noticias",CDO BÆsico [E]
 http://45.225.95.170:8000/play/a0kv/index.m3u8
@@ -562,58 +556,41 @@ http://45.225.95.170:8000/play/a0nz/index.m3u8
 http://45.225.95.170:8000/play/a0ma/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrBEYBg.png" group-title="Deporte",El Canal del Futbol SD
 http://45.225.95.170:8000/play/a0je/index.m3u8
-#EXTINF:0,ESPN
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Deportes",ESPN
 http://45.225.95.170:8000/play/a0mg/index.m3u8
-#EXTINF:0,ESPN 3
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0kx/index.m3u8
-#EXTINF:0,ESPN 4
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0ob/index.m3u8
-#EXTINF:0,ESPN2
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2
 http://45.225.95.170:8000/play/a0j9/index.m3u8
-#EXTINF:0,ESPN2
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2.2
 http://45.225.95.170:8000/play/a0mh/index.m3u8
-#EXTINF:0,ET Canal El Tiempo
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Deportes",ESPN 3
+http://45.225.95.170:8000/play/a0kx/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CWRax4b.png" group-title="Deportes",ESPN 4
+http://45.225.95.170:8000/play/a0ob/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XjxILz.jpg" group-title="Noticias",ET Canal El Tiempo
 http://45.225.95.170:8000/play/a0j4/index.m3u8
-#EXTINF:0,ETC TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2d1Eb5.jpg" group-title="Anime",ETC TV
 http://45.225.95.170:8000/play/a0j2/index.m3u8
-#EXTINF:0,EWTN
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ey5AFAx.jpg" group-title="Religion",EWTN
 http://45.225.95.170:8000/play/a0kr/index.m3u8
-#EXTINF:0,Fox Sports
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1SmiIXO.png" group-title="Deportes",Fox Sports
 http://45.225.95.170:8000/play/a0j6/index.m3u8
-#EXTINF:0,Fox Sports 1
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h63kH94.png" group-title="Deportes",Fox Sports 1
 http://45.225.95.170:8000/play/a0mi/index.m3u8
-#EXTINF:0,Fox Sports 2
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PxyPDPL.png" group-title="Deportes",Fox Sports 2
 http://45.225.95.170:8000/play/a0ls/index.m3u8
-#EXTINF:0,Fox Sports 3
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ERwloGG.jpg" group-title="Deportes",Fox Sports 3
 http://45.225.95.170:8000/play/a0p5/index.m3u8
-#EXTINF:0,Gol TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L3EHjnH.png" group-title="Deportes",Gol TV
 http://45.225.95.170:8000/play/a0p4/index.m3u8
-#EXTINF:0,Golden
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5wFzoi.gif" group-title="Entretenimiento",Golden
 http://45.225.95.170:8000/play/a0lu/index.m3u8
-#EXTINF:0,Golf Channel
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPN0ehf.png" group-title="Deportes",Golf Channel
 http://45.225.95.170:8000/play/a0l8/index.m3u8
-#EXTINF:0,GOLPERU
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOjzCNg.png" group-title="Deportes",GOLPERU
 http://45.225.95.170:8000/play/a0ol/index.m3u8
-#EXTINF:0,HBO
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yeOPPJ7.jpg" group-title="Entretenimiento",HBO
 http://45.225.95.170:8000/play/a0k0/index.m3u8
-#EXTINF:0,HBO Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkoAVSV.png" group-title="Entretenimiento",HBO Family
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0pb/index.m3u8
 #EXTINF:0,HBO MUNDI
@@ -760,9 +737,6 @@ http://45.225.95.170:8000/play/a0lj/index.m3u8
 #EXTINF:0,TV PERU
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0jk/index.m3u8
-#EXTINF:0,TV PERU 7.3
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0n3/index.m3u8
 #EXTINF:0,TV+
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0iu/index.m3u8
@@ -796,11 +770,9 @@ http://45.225.95.170:8000/play/a0nh/index.m3u8
 #EXTINF:0,Win Sports+
 #EXTGRP:unsorted
 http://45.225.95.170:8000/play/a0ja/index.m3u8
-#EXTINF:0,WOBI
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjcVVQ9.png" group-title="Noticia",WOBI
 http://45.225.95.170:8000/play/a0k7/index.m3u8
-#EXTINF:0,Zona Latina
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPvTfYX.png" group-title="Entretenimiento",Zona Latina
 http://45.225.95.170:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A89rLFA.png" group-title="Noticia",13 C [HyTv]
 http://45.225.95.170:8000/play/a0kh/index.m3u8
@@ -1583,7 +1555,7 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Noticias",TV Perú Internacional (460p) [Not 24/7]
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_Noticias_PLAY.png" group-title="News",TV Perú Noticias (768p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fytEG1u.png" group-title="News",TV Perú Noticias (768p) [Not 24/7]
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0bBxZ5x.png" group-title="Music",TV Peruanísima (720p) [Not 24/7]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
@@ -1630,7 +1602,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpi
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="PE;SV" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="Noticias",WOW TV (576p) [Not 24/7]
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="Noticias",X TV (Chachapoyas) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 1 [E]
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 2 [E]
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="Kids",Los Simpsons 3 [E]
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
