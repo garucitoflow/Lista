@@ -498,101 +498,69 @@ http://45.225.95.170:8000/play/a0ji/index.m3u8
 http://45.225.95.170:8000/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Seyqx9.png" group-title="Noticias",24 Horas TVN [E]
 http://45.225.95.170:8000/play/a0j5/index.m3u8
-#EXTINF:0,A&E
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6juCDB.png" group-title="Entretenimiento",A&E
 http://45.225.95.170:8000/play/a0p6/index.m3u8
-#EXTINF:0,AMC
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INs6suv.png" group-title="Entretenimiento",AMC
 http://45.225.95.170:8000/play/a0nn/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1e6XHw2.png" group-title="Noticias",Animal Planet
 http://45.225.95.170:8000/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWdxuYH.png" group-title="Noticias",ANTV [E]
 http://45.225.95.170:8000/play/a0lg/index.m3u8
-#EXTINF:0,AXN
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCEU6S3.png" group-title="Entretenimiento",AXN
 http://45.225.95.170:8000/play/a0ky/index.m3u8
-#EXTINF:0,Baby TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIMRZ0u.jpg" group-title="Noticias",Baby TV
 http://45.225.95.170:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/En6Xdyz.jpg" group-title="Noticias",Canal 13 [E]
 http://45.225.95.170:8000/play/a0iy/index.m3u8
-#EXTINF:0,Canal Capital
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWxMOhS.png" group-title="Noticias",Canal capital [E]
 http://45.225.95.170:8000/play/a0n2/index.m3u8
-#EXTINF:0,Canal del Congreso
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMBYd99.jpg" group-title="Noticias",Canal del Congreso
 http://45.225.95.170:8000/play/a0m5/index.m3u8
-#EXTINF:0,Canal Informativo
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLKtjMT.jpg" group-title="Noticias",Canal Informativo
 http://45.225.95.170:8000/play/a0la/index.m3u8
-#EXTINF:0,Canal Institucional
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDzIHzf.png" group-title="Noticias",Canal Institucional
 http://45.225.95.170:8000/play/a0mx/index.m3u8
-#EXTINF:0,Canal N
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HblKKh2.png" group-title="Noticias",Canal N
 http://45.225.95.170:8000/play/a0ka/index.m3u8
-#EXTINF:0,Caracol
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUQmMn2.jpg" group-title="Noticias",Caracol
 http://45.225.95.170:8000/play/a0my/index.m3u8
-#EXTINF:0,Cartoonito
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgajFgI.jpg" group-title="Kids",
 http://45.225.95.170:8000/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rNvAYX.jpg" group-title="Noticias",CDO BÆsico [E]
 http://45.225.95.170:8000/play/a0kv/index.m3u8
-#EXTINF:0,CDO Premium
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CmzAN0o.png" group-title="Noticias",CDO Premium
 http://45.225.95.170:8000/play/a0kw/index.m3u8
-#EXTINF:0,CHV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mSriok.png" group-title="Noticias",CHV
 http://45.225.95.170:8000/play/a0ix/index.m3u8
-#EXTINF:0,Cinecanal
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE8JysE.jpg" group-title="Entretenimiento",Cinecanal
 http://45.225.95.170:8000/play/a0jd/index.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lH6GCii.png" group-title="Entretenimiento",Cinemax
 http://45.225.95.170:8000/play/a0ly/index.m3u8
-#EXTINF:0,City TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sc2quIP.png" group-title="Entretenimiento",City TV
 http://45.225.95.170:8000/play/a0op/index.m3u8
-#EXTINF:0,CMD
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8L3KXB.png" group-title="Entretenimiento",CMD
 http://45.225.95.170:8000/play/a0k9/index.m3u8
-#EXTINF:0,CNN Chile
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DdFC12X.png" group-title="Entretenimiento",CNN Chile
 http://45.225.95.170:8000/play/a0me/index.m3u8
-#EXTINF:0,CNN Espaæol
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu2Ps5E.png" group-title="Entretenimiento",CNN Espaæol
 http://45.225.95.170:8000/play/a0ox/index.m3u8
-#EXTINF:0,CONGRESO
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0j1/index.m3u8
-#EXTINF:0,De PelŦcula
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrXoOjN.jpg" group-title="Entretenimiento",De Pelicula
 http://45.225.95.170:8000/play/a0og/index.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIiiiWX.jpg" group-title="Noticias",Discovery Channel
 http://45.225.95.170:8000/play/a0n8/index.m3u8
-#EXTINF:0,Discovery H&H
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKnjwxd.png" group-title="Noticias",Discovery H&H
 http://45.225.95.170:8000/play/a0kl/index.m3u8
-#EXTINF:0,Discovery Kids
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ho6qbV.jpg" group-title="Noticias",Discovery Kids
 http://45.225.95.170:8000/play/a0n4/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zU2slBw.png" group-title="Noticias",Discovery Science
 http://45.225.95.170:8000/play/a0lz/index.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwJtroY.png" group-title="Noticias",Discovery Turbo
 http://45.225.95.170:8000/play/a0oi/index.m3u8
-#EXTINF:0,Disney Channel
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ko5rMXi.png" group-title="Noticias",Disney Channel
 http://45.225.95.170:8000/play/a0nz/index.m3u8
-#EXTINF:0,E! Entertainment TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWruvuw.png" group-title="Entertainment",E! Entertainment TV
 http://45.225.95.170:8000/play/a0ma/index.m3u8
-#EXTINF:0,ElCanaldelFutbol SD
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PrBEYBg.png" group-title="Deporte",El Canal del Futbol SD
 http://45.225.95.170:8000/play/a0je/index.m3u8
 #EXTINF:0,ESPN
 #EXTGRP:unsorted
@@ -1666,4 +1634,3 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="Noticias",X TV (Chachapoyas) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
-
