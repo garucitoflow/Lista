@@ -1,4 +1,24 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cs0jrDJ.jpg" group-title="REMIX",DJ ROLL PE [E]
+https://archive.org/download/MegaMesclasDj/videoplayback.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
+http://45.225.95.170:8000/play/a0jf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
+http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
+http://45.225.95.170:8000/play/a0jh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV SD PE [E]
+http://45.225.95.170:8000/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMERICANATV [E]
+http://45.225.95.170:8000/play/a0ji/index.m3u8
+
+
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Comedia
@@ -466,26 +486,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVEVOReggeatonTrap.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="USA",Pluto TV VEVO Reggeaton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cs0jrDJ.jpg" group-title="REMIX",DJ ROLL PE [E]
-https://archive.org/download/MegaMesclasDj/videoplayback.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
-http://45.225.95.170:8000/play/a0jf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
-http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
-http://45.225.95.170:8000/play/a0jh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV SD PE [E]
-http://45.225.95.170:8000/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAMERICANATV [E]
-http://45.225.95.170:8000/play/a0ji/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A89rLFA.png" group-title="Noticias",13 C [E]
