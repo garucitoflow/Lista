@@ -1,98 +1,115 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="A3Bikini.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IBfTNOr.png" group-title="XXX" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",A3Bikini (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Anal (720p)
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Asian (720p)
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Ass (720p)
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Dick (720p)
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Big Tits (720p)
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blonde (720p)
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Blowjob (720p)
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Brunette (720p)
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Compilation (720p)
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Cuckold (720p)
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Fetish (720p)
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gangbang (720p)
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Gay (720p)
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Hardcore (720p)
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Interracial (720p)
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Latina (720p)
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Lesbian (720p)
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Live Cams (720p)
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net MILF (720p)
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Pornstar (720p)
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net POV (720p)
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Rough (720p)
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Russian (720p)
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Teen (720p)
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Threesome (720p)
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX",AdultIPTV.net Woman (720p)
-http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 tvg-id="ASTTV1.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 1 (PC) (1080p) [Not 24/7]
-https://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="ASTTV2.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" group-title="XXX",AST TV 2 (PC) (1080p) [Not 24/7]
-https://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-id="Babestation24.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.lyngsat.com/logo/tv/bb/babestation-24-uk-de.png" group-title="XXX",Babestation24 (720p)
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnite Secrets (1080p)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JasminTV.lu" tvg-country="LU" tvg-language="English" tvg-logo="https://i.imgur.com/MXgrurE.png" group-title="XXX",Jasmin TV (720p)
-http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Miami TV Jenny Live (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino (1080p)
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="XXX",Miami TV México (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Anal
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Asian
-http://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Ass
-http://live.mycamtv.com/defstream.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Big Tits
-http://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Blonde
-http://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Brunette
-http://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-id="MyCamTVEbony.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Ebony
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Latina
-http://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Skinny
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV Squirt
-http://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-country="CY" tvg-language="English" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White
-http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/oo/olala_ru.png" group-title="XXX",O-la-la (576p) [Not 24/7]
-http://194.9.27.164:8103/play/O_la_la/index.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-country="INT" tvg-language="German" tvg-logo="https://i.imgur.com/WPZ4F5Q.png" group-title="XXX",Visit-X TV (720p) [Not 24/7]
-https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,--- LISTA GRATIS achoAPPS.com
+http://www.achoTV.com
+#EXTINF:-1,--- Visita www.achoAPPS.com ---
+
+#EXTINF:-1,Miami TV achoAPPS.com
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1,Jasmin TV achoAPPS.com
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,BRAZZERS 1 achoAPPS.com
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1,BRAZZERS 2 achoAPPS.com
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:-1,BRAZZERS 3 achoAPPS.com
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1,BRAZZERS 4 achoAPPS.com
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1,XXX AdultosVOD3D-1+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1,XXX AdultosVOD3D-10+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-11+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-13+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-15+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-16+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-20+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-21+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-25+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-26+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-3+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-4+18 3D achoAPPS.com
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-5+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-6+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-7+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-8+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1,XXXVOD3D-9+18 3D achoAPPS.com
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+
+#EXTINF:-1,XXX-Babes 19 achoAPPS.com
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
+#EXTINF:-1,Chichi Medina achoAPPS.com
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+
+#EXTINF:-1,Chloe Foster achoAPPS.com
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+
+#EXTINF:-1,Dakota Skye achoAPPS.com
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+
+#EXTINF:-1,Demida achoAPPS.com
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+
+#EXTINF:-1,Dusya achoAPPS.com
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+
+#EXTINF:-1,Nubile2 achoAPPS.com
+http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
+
+#EXTINF:-1,Nubile3 achoAPPS.com
+http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
+
+#EXTINF:-1,Nubile5 achoAPPS.com
+http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
+
+#EXTINF:-1,SELEN achoAPPS.com
+http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+
+#EXTINF:-1,SIGNORE SC@ND@LOSE DI PROVINCI@ achoAPPS.com
+http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
+
+#EXTINF:-1,R@tte e Sf@ndate achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
+
+#EXTINF:-1,Le P@rcone Volanti achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
+
+#EXTINF:-1,Filomena M@rtusano achoAPPS.com
+http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
