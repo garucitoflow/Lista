@@ -621,36 +621,10 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 #EXTINF:0,ANIME 2022 SD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cIMRZ0u.jpg" group-title="Noticias",Baby TV
-http://45.225.95.170:8000/play/a0or/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgajFgI.jpg" group-title="Kids",Cartoonito
-http://45.225.95.170:8000/play/a0lo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ho6qbV.jpg" group-title="Noticias",Discovery Kids
-http://45.225.95.170:8000/play/a0n4/index.m3u8
-#EXTINF:0,Nat Geo Kids
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0n6/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0k5/index.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0ln/index.m3u8
+
 
 #EXTINF:0,DEPORTES 2022 SD
 
-#EXTINF:0,Movistar Deportes
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jg/index.m3u8
-#EXTINF:0,TyC Sports
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0k8/index.m3u8
-#EXTINF:0,Win Sports
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0nh/index.m3u8
-#EXTINF:0,Win Sports+
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0ja/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hv9qcBa.jpg" group-title="Deportes",Claro Deportes PAN
 http://190.83.119.67:8000/play/a0o2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Deportes SD
@@ -669,40 +643,8 @@ http://190.83.119.67:8000/play/a0rb/index.m3u8
 http://190.83.119.67:8000/play/a0rc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6InW4W.png" group-title="Deportes",FOX Deportes 3
 http://190.83.119.67:8000/play/a0pm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PrBEYBg.png" group-title="Deporte",El Canal del Futbol SD
-http://45.225.95.170:8000/play/a0je/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Deportes",ESPN
-http://45.225.95.170:8000/play/a0mg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2
-http://45.225.95.170:8000/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2.2
-http://45.225.95.170:8000/play/a0mh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Deportes",ESPN 3
-http://45.225.95.170:8000/play/a0kx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CWRax4b.png" group-title="Deportes",ESPN 4
-http://45.225.95.170:8000/play/a0ob/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1SmiIXO.png" group-title="Deportes",Fox Sports
-http://45.225.95.170:8000/play/a0j6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h63kH94.png" group-title="Deportes",Fox Sports 1
-http://45.225.95.170:8000/play/a0mi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PxyPDPL.png" group-title="Deportes",Fox Sports 2
-http://45.225.95.170:8000/play/a0ls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ERwloGG.jpg" group-title="Deportes",Fox Sports 3
-http://45.225.95.170:8000/play/a0p5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L3EHjnH.png" group-title="Deportes",Gol TV
-http://45.225.95.170:8000/play/a0p4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPN0ehf.png" group-title="Deportes",Golf Channel
-http://45.225.95.170:8000/play/a0l8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KOjzCNg.png" group-title="Deportes",GOLPERU
-http://45.225.95.170:8000/play/a0ol/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3XjxILz.jpg" group-title="Noticias",ET Canal El Tiempo
-http://45.225.95.170:8000/play/a0j4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p13nJQ3.png" group-title="Deporte",TNT SPORTS 2
-http://45.225.95.170:8000/play/a0oa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1LybNN.png" group-title="Deporte",TNT SPORTS 3
-http://45.225.95.170:8000/play/a0ng/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GOywGTg.png" group-title="Deporte",TV EPACO
-http://45.225.95.170:8000/play/a0lj/index.m3u8
+
+
 
 #EXTINF:0,CANALES SD 
 
@@ -764,10 +706,6 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal43Sudamericana.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uIukZcv.png" group-title="Noticias",Canal 43 Sudamericana (Ica) (360p) [Not 24/7]
 https://media2.cdnlayer.biz:8081/8014/index.m3u8
-#EXTINF:-1 tvg-id="CaribeTelevisionOtuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4MftJLp.png" group-title="Noticias",Caribe Televisión (Otuzco) (1080p) [Not 24/7]
-http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Latin America
-http://209.91.213.10:8088/play/a00k
 #EXTINF:-1 tvg-id="CentralTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YI9n4wL.png" group-title="Noticias",Central TV (Chosica) (614p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-country="INT" tvg-language="Chinese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
@@ -782,8 +720,6 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="CNCDigital.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Noticias",CNC Digital (Iquitos) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-country="LATAM;US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-http://209.91.213.10:8088/play/a014
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Noticias",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Deportes",Contacto Deportivo (720p) [Not 24/7]
@@ -824,8 +760,6 @@ https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="Noticias",FuegoTV (Lima) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
-#EXTINF:-1 tvg-id="FXPeru.us" tvg-country="PE" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="Entertainment",FX Peru
-http://209.91.213.10:8088/play/a01z
 #EXTINF:-1 tvg-id="GalacticaTVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV (Peru) (1080p) [Not 24/7]
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GeniosTVMoyobamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Noticias",Genios TV (Moyobamba) (720p) [Not 24/7]
@@ -842,8 +776,6 @@ https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
 https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
 #EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a2lP0Ma.png" group-title="Noticias",Imagen Televisión (Rioja) (720p) [Not 24/7]
-http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KIWejCA.png" group-title="Noticias",Impacto Televisión (Cajamarca) (720p)
 https://eu1.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eYXqkyN.png" group-title="Noticias",Imperial Televisión (Huancayo) (720p) [Not 24/7]
@@ -1084,221 +1016,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Wil
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c8UObjI.png" group-title="Noticias",X TV (Chachapoyas) (720p) [Not 24/7]
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZKgU9i.jpeg" group-title="Noticias",HTV
-http://190.83.119.67:8000/play/a0rg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A89rLFA.png" group-title="Noticias",13 C [E]
-http://45.225.95.170:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Seyqx9.png" group-title="Noticias",24 Horas TVN [E]
-http://45.225.95.170:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z6juCDB.png" group-title="Entretenimiento",A&E
-http://45.225.95.170:8000/play/a0p6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/INs6suv.png" group-title="Entretenimiento",AMC
-http://45.225.95.170:8000/play/a0nn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1e6XHw2.png" group-title="Noticias",Animal Planet
-http://45.225.95.170:8000/play/a0n5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WWdxuYH.png" group-title="Noticias",ANTV [E]
-http://45.225.95.170:8000/play/a0lg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCEU6S3.png" group-title="Entretenimiento",AXN
-http://45.225.95.170:8000/play/a0ky/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/En6Xdyz.jpg" group-title="Noticias",Canal 13 [E]
-http://45.225.95.170:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWxMOhS.png" group-title="Noticias",Canal capital [E]
-http://45.225.95.170:8000/play/a0n2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMBYd99.jpg" group-title="Noticias",Canal del Congreso
-http://45.225.95.170:8000/play/a0m5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLKtjMT.jpg" group-title="Noticias",Canal Informativo
-http://45.225.95.170:8000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cDzIHzf.png" group-title="Noticias",Canal Institucional
-http://45.225.95.170:8000/play/a0mx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HblKKh2.png" group-title="Noticias",Canal N
-http://45.225.95.170:8000/play/a0ka/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUQmMn2.jpg" group-title="Noticias",Caracol
-http://45.225.95.170:8000/play/a0my/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1rNvAYX.jpg" group-title="Noticias",CDO Basico [E]
-http://45.225.95.170:8000/play/a0kv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CmzAN0o.png" group-title="Noticias",CDO Premium
-http://45.225.95.170:8000/play/a0kw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4mSriok.png" group-title="Noticias",CHV
-http://45.225.95.170:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AE8JysE.jpg" group-title="Entretenimiento",Cinecanal
-http://45.225.95.170:8000/play/a0jd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lH6GCii.png" group-title="Entretenimiento",Cinemax
-http://45.225.95.170:8000/play/a0ly/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sc2quIP.png" group-title="Entretenimiento",City TV
-http://45.225.95.170:8000/play/a0op/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8L3KXB.png" group-title="Entretenimiento",CMD
-http://45.225.95.170:8000/play/a0k9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DdFC12X.png" group-title="Entretenimiento",CNN Chile
-http://45.225.95.170:8000/play/a0me/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu2Ps5E.png" group-title="Entretenimiento",CNN Espanol
-http://45.225.95.170:8000/play/a0ox/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MrXoOjN.jpg" group-title="Entretenimiento",De Pelicula
-http://45.225.95.170:8000/play/a0og/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIiiiWX.jpg" group-title="Noticias",Discovery Channel
-http://45.225.95.170:8000/play/a0n8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fKnjwxd.png" group-title="Noticias",Discovery H&H
-http://45.225.95.170:8000/play/a0kl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zU2slBw.png" group-title="Noticias",Discovery Science
-http://45.225.95.170:8000/play/a0lz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bwJtroY.png" group-title="Noticias",Discovery Turbo
-http://45.225.95.170:8000/play/a0oi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ko5rMXi.png" group-title="Noticias",Disney Channel
-http://45.225.95.170:8000/play/a0nz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OWruvuw.png" group-title="Entertainment",E! Entertainment TV
-http://45.225.95.170:8000/play/a0ma/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I2d1Eb5.jpg" group-title="Anime",ETC TV
-http://45.225.95.170:8000/play/a0j2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ey5AFAx.jpg" group-title="Religion",EWTN
-http://45.225.95.170:8000/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yeOPPJ7.jpg" group-title="Entretenimiento",HBO
-http://45.225.95.170:8000/play/a0k0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkoAVSV.png" group-title="Entretenimiento",HBO Family
-http://45.225.95.170:8000/play/a0pb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5wFzoi.gif" group-title="Entretenimiento",Golden
-http://45.225.95.170:8000/play/a0lu/index.m3u8
-#EXTINF:0,HBO MUNDI
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0oh/index.m3u8
-#EXTINF:0,HBO Plus
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0pd/index.m3u8
-#EXTINF:0,HBO POP
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0pi/index.m3u8
-#EXTINF:0,HBO SD
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0mm/index.m3u8
-#EXTINF:0,HBO Signature
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0pe/index.m3u8
-#EXTINF:0,HBO XTREME
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0pc/index.m3u8
-#EXTINF:0,HBO2
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0k1/index.m3u8
-#EXTINF:0,HGTV
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0o2/index.m3u8
-#EXTINF:0,History 2
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0m8/index.m3u8
-#EXTINF:0,History Channel
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0kk/index.m3u8
-#EXTINF:0,HTV
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0o6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B1waD0W.png" group-title="Entretenimiento",JUSTICIA TV
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jo/index.m3u8
-#EXTINF:0,Las Estrellas
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0o5/index.m3u8
-#EXTINF:0,MEGA
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0iw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE9RonD.png" group-title="Entretenimiento",Movistar Plus
-http://45.225.95.170:8000/play/a0jj/index.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0m9/index.m3u8
-#EXTINF:0,Paramount Channel
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0lx/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ny2sMRr.jpg" group-title="Entretenimiento",Peru Magico
-http://45.225.95.170:8000/play/a0jv/index.m3u8
-#EXTINF:0,RCN
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKxMrji.jpg" group-title="Entretenimiento",REC TV
-http://45.225.95.170:8000/play/a0l9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zaCUYLj.png" group-title="Noticia",RED Television
-http://45.225.95.170:8000/play/a0kg/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRpzxnI.png" group-title="Noticia",RPP
-http://45.225.95.170:8000/play/a0ke/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VRr8ipi.png" group-title="Entretenimiento",Senal Colombia
-http://45.225.95.170:8000/play/a0nv/index.m3u8
-#EXTINF:0,Sextreme
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0l5/index.m3u8
-#EXTINF:0,Sony
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0mj/index.m3u8
-#EXTINF:0,Space
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0oe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fd8m9DZ.png" group-title="Entretenimiento",STAR CHANNEL
-http://45.225.95.170:8000/play/a0jb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KS1cP0a.jpg" group-title="Entretenimiento",TBS Very Funny
-http://45.225.95.170:8000/play/a0mt/index.m3u8
-#EXTINF:0,TCM
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0lv/index.m3u8
-#EXTINF:0,Teleantioquia
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0oo/index.m3u8
-#EXTINF:0,Telecafe
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0n1/index.m3u8
-#EXTINF:0,Telecanal
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0m3/index.m3u8
-#EXTINF:0,Telecaribe
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0mz/index.m3u8
-#EXTINF:0,Teleislas
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0lm/index.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Uq7mhv.png" group-title="Entretenimiento",Telenovelas
-http://45.225.95.170:8000/play/a0kf/index.m3u8
-#EXTINF:0,Telepacifico
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0on/index.m3u8
-#EXTINF:0,Teletrak
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0j7/index.m3u8
-#EXTINF:0,TNT
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0p8/index.m3u8
-#EXTINF:0,TNT Series
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0p9/index.m3u8
-#EXTINF:0,TV PERU
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jk/index.m3u8
-#EXTINF:0,TV+
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0iu/index.m3u8
-#EXTINF:0,TVN
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0iv/index.m3u8
-#EXTINF:0,Universal
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0kz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b20IUEW.png" group-title="Noticia",VALE TV
-http://45.225.95.170:8000/play/a0ld/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60Ii5Qb.png" group-title="Noticia",Venevision
-http://45.225.95.170:8000/play/a0lb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RnYNRCu.png" group-title="Noticia",Venevision Plus
-http://45.225.95.170:8000/play/a0jq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5z4HoZi.png" group-title="Noticia",Via X
-http://45.225.95.170:8000/play/a0j0/index.m3u8
-#EXTINF:0,Warner Channel
-#EXTGRP:unsorted
-http://45.225.95.170:8000/play/a0jy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zjcVVQ9.png" group-title="Noticia",WOBI
-http://45.225.95.170:8000/play/a0k7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jPvTfYX.png" group-title="Entretenimiento",Zona Latina
-http://45.225.95.170:8000/play/a0iz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A89rLFA.png" group-title="Noticia",13 C [HyTv]
-http://45.225.95.170:8000/play/a0kh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/En6Xdyz.jpg" group-title="Noticia",Canal 13 [HyTv]
-http://45.225.95.170:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eYJSueP.jpeg" group-title="Kids",AnimeZoneTV [E]
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svjUIze.png" group-title="Musica",Onda Cero [E]
