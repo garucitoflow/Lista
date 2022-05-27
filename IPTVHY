@@ -3,8 +3,8 @@
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
-http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
+rtmp://sl100tb.cxnlive.com/live/america.stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
@@ -3831,3 +3831,5 @@ https://streams.cbnradio.com/news-128K
 https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
+
+
