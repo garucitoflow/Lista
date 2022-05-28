@@ -15,6 +15,8 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cs0jrDJ.jpg" group-title="DJ_2022",DJ ROLL PE [E]
 https://archive.org/download/MegaMesclasDj/videoplayback.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7",GRABACION DE UN ALIEN EN EL AREA 51 PRIMERA PARTE [E]
+https://video.flim9-1.fna.fbcdn.net/v/t42.1790-2/10000000_414806133826382_7831729552326275286_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjozNDY3LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=AnlDLRTeozwAX9qEebb&_nc_rml=0&_nc_ht=video.flim9-1.fna&oh=00_AT8n43jwRIfpFIyt8f6-xU8hSN2jeun325ebQ7-FwbJXaA&oe=6293FC42
 
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
