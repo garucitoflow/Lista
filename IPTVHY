@@ -3,10 +3,8 @@
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD PE [E]
-rtmp://wdc.cxnlive.com/live/americasd.stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
-rtmp://sl100tb.cxnlive.com/live/america.stream
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=ouzJLSwui5x3wgBocxbbu0hXZ0I9DOdu&pid=iuCXJIMueXbyfcW15yRnOcgB1ZFvsYsF&an=screen&at=web-app&av=v5.2.247&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=ER6f9BLsxIak2F5OqYrfsqUMiq7vMinJJlzDQd5WFwWQdiydqnb32Ye60K6O8ynP0ZlsA6au2bU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
@@ -15,9 +13,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cs0jrDJ.jpg" group-title="DJ_2022",DJ ROLL PE [E]
 https://archive.org/download/MegaMesclasDj/videoplayback.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="x24/7",GRABACION DE UN ALIEN EN EL AREA 51 PRIMERA PARTE [E]
-https://video.flim9-1.fna.fbcdn.net/v/t42.1790-2/10000000_414806133826382_7831729552326275286_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=985c63&efg=eyJybHIiOjMwMCwicmxhIjozNDY3LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=AnlDLRTeozwAX9qEebb&_nc_rml=0&_nc_ht=video.flim9-1.fna&oh=00_AT8n43jwRIfpFIyt8f6-xU8hSN2jeun325ebQ7-FwbJXaA&oe=6293FC42
-
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3836,17 +3831,4 @@ https://streams.cbnradio.com/news-128K
 https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
-
-
-
-
-
-
-
-
-
-
-
-
-
 
