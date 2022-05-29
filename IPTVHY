@@ -11,7 +11,7 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAM_TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93JDN2I.jpg" group-title="REMIX",Melody Mashup 2020
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C4O4E6TrxG8/mqdefault.jpg" group-title="REMIX",Melody Mashup 2020
 https://ia902500.us.archive.org/20/items/baile-del-gorila-gorillaz-ft.-melody-mashup-2020/Baile%20del%20Gorila%20-%20Gorillaz%20ft.%20Melody%20%28Mashup%202020%29.mp4
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
@@ -3831,6 +3831,9 @@ https://streams.cbnradio.com/news-128K
 https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
+
+
+
 
 
 
