@@ -4,7 +4,7 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
-https://b41837-p10-h54-afhisuzz.2.cdn.telefonica.com/_41837/live/disk1/AmericaTV/AMERICATV_CN_DASH_HD/AmericaTV.mpd
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=NH1WAwZNmYw3UOBJEkwNPnCVxg8DU5qj&pid=deO9l6ZPkalkeUCwXZusRbbMOqAuKMai&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=VhH1cD34iHn8pfMlmkWv85EkjkXJhQjMI9ZqjVjjfwd3bl904X8uHIICnaJnO5lEXQEHsxyNuBR&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1654457009504&ot=avr4ndYXkvilARh1N-EtFw&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
