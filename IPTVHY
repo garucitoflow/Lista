@@ -11,6 +11,8 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAME_TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C4O4E6TrxG8/mqdefault.jpg" group-title="REMIX",Melody Mashup 2020
 http://download1588.mediafire.com/6ye6sd8736sg/7brst444666dci7/Baile+del+Gorila+-+Gorillaz+ft.+Melody+%28Mashup+2020%29.mp4
 
