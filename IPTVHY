@@ -5,6 +5,11 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 https://vsd156.mycdn.me/hls/2463707695687.m3u8/sig/VBlFynorNYQ/expires/1654826405274/srcIp/181.66.151.161/clientType/0/srcAg/CHROME_ANDROID/mid/5513619971655/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="Kids",Los Simpsons Tv [HyTv]
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhYtobZ.jpg" group-title="Kids",Futurama Tv [HyTv]
+https://hls.live.fc2.com/hls/58207530/0/master_playlist?targets=20,90&session_token=980b4e59aa004d102467b43d8e6bb34abd9b36270995708f9e238adc2624f7c9&playlist_token=9e483a8d8876ce4d1b7b2405e94158e556256338a87abad9c1240055ed06a714&playlist_second_token=5185d1042c4978d15983734d90e687d2fd42187904314827cb5f1e449b60f7e3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrayyzj.jpg" group-title="Kids",Alf Tv [HyTv]
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=VNKzDEvvYnPHbMv934u_ew&expires=1654756987&ip=181.66.151.161
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
@@ -21,3 +26,40 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Pan
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mhR2bXC.png" group-title="Noticias",Willax
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
