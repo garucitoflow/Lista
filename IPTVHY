@@ -8,7 +8,7 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
-http://177.53.152.186:8000/play/a019/index.m3u8
+https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/hp6dZtAHspk/expires/1654830031867/srcIp/181.66.176.219/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
 https://vsd135.mycdn.me/hls/2285915605575.m3u8/sig/a6BcdZjMnsQ/expires/1654827006464/srcIp/181.66.151.161/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
@@ -21,23 +21,3 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Pan
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mhR2bXC.png" group-title="Noticias",Willax
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hv9qcBa.jpg" group-title="Deportes",Claro Deportes PAN
-http://190.83.119.67:8000/play/a0o2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Deportes SD
-http://190.83.119.67:8000/play/a0ra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hRpwdvK.png" group-title="Noticias",Movistar La liga
-http://190.83.119.67:8000/play/a0tj/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Deportes",ESPN
-http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Deportes",ESPN  +
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2
-http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Deportes",ESPN 3
-http://190.83.119.67:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gaNEha2.png" group-title="Deportes",FOX Deportes 2
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p6InW4W.png" group-title="Deportes",FOX Deportes 3
-http://190.83.119.67:8000/play/a0pm/index.m3u8
