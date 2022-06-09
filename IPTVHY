@@ -6,7 +6,7 @@ https://vsd156.mycdn.me/hls/2463707695687.m3u8/sig/VBlFynorNYQ/expires/165482640
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=ouzJLSwui5x3wgBocxbbu0hXZ0I9DOdu&pid=iuCXJIMueXbyfcW15yRnOcgB1ZFvsYsF&an=screen&at=web-app&av=v5.2.247&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=ER6f9BLsxIak2F5OqYrfsqUMiq7vMinJJlzDQd5WFwWQdiydqnb32Ye60K6O8ynP0ZlsA6au2bU
+https://vsd135.mycdn.me/hls/2285915605575.m3u8/sig/a6BcdZjMnsQ/expires/1654827006464/srcIp/181.66.151.161/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
@@ -3833,37 +3833,6 @@ https://streams.cbnradio.com/news-128K
 https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
