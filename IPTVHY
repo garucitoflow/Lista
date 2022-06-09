@@ -4,15 +4,15 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=NH1WAwZNmYw3UOBJEkwNPnCVxg8DU5qj&pid=deO9l6ZPkalkeUCwXZusRbbMOqAuKMai&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=VhH1cD34iHn8pfMlmkWv85EkjkXJhQjMI9ZqjVjjfwd3bl904X8uHIICnaJnO5lEXQEHsxyNuBR&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1654457009504&ot=avr4ndYXkvilARh1N-EtFw&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=ouzJLSwui5x3wgBocxbbu0hXZ0I9DOdu&pid=iuCXJIMueXbyfcW15yRnOcgB1ZFvsYsF&an=screen&at=web-app&av=v5.2.247&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=ER6f9BLsxIak2F5OqYrfsqUMiq7vMinJJlzDQd5WFwWQdiydqnb32Ye60K6O8ynP0ZlsA6au2bU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAME_TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAM_TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C4O4E6TrxG8/mqdefault.jpg" group-title="REMIX",Melody Mashup 2020
-http://download1588.mediafire.com/6ye6sd8736sg/7brst444666dci7/Baile+del+Gorila+-+Gorillaz+ft.+Melody+%28Mashup+2020%29.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="SIMPSON",BARTO DJ
+https://video.flim13-1.fna.fbcdn.net/v/t39.25447-2/286008480_736897834016716_5785118674903765491_n.mp4?_nc_cat=1&vs=e8ffa9d28c4e4c8e&_nc_vs=HBksFQAYJEdLQWtEQkhNMzZGbE5KNENBUE1SSHJISTNraFFibWRqQUFBRhUAAsgBABUAGCRHQnJfQ2hGRVNoNVM2NThDQUFtYXBObHdPSzhTYnJGcUFBQUYVAgLIAQBLBogScHJvZ3Jlc3NpdmVfcmVjaXBlATENc3Vic2FtcGxlX2ZwcwAQdm1hZl9lbmFibGVfbnN1YgAgbWVhc3VyZV9vcmlnaW5hbF9yZXNvbHV0aW9uX3NzaW0AKGNvbXB1dGVfc3NpbV9vbmx5X2F0X29yaWdpbmFsX3Jlc29sdXRpb24AEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcAAAmksrP9oz4tgEVAigCQzMYC3Z0c19wcmV2aWV3HBdAjjRDlYEGJRggZGFzaF92NF81c2VjZ29wX2hxMV9mcmFnXzJfdmlkZW8SABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9zZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlCnNkX3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAU4Mzg3NBFvZW1faXNfZXhwZXJpbWVudAAMb2VtX3ZpZGVvX2lkDzU0OTU2NDIyOTg4NDMzMxJvZW1fdmlkZW9fYXNzZXRfaWQPNDExMDU4MTYwOTA1MDcwFW9lbV92aWRlb19yZXNvdXJjZV9pZA80MDIyODU1NTE4MDkxNjEcb2VtX3NvdXJjZV92aWRlb19lbmNvZGluZ19pZA81NTkwMjcyMDkwNTU4MzMOdnRzX3JlcXVlc3RfaWQAJQIcACXEARsHiAFzBDY0MDYCY2QKMjAyMi0wNi0wOANyY2IFODM4MDADYXBwB1bDrWRlb3MCY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zCjk2Ni41NTM2NjcCdHMUcHJvZ3Jlc3NpdmVfb3JkZXJpbmcA&ccb=1-7&_nc_sid=2601c9&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_ohc=vFtcgZoDhbgAX-lQKPQ&_nc_rml=0&_nc_ht=video.flim13-1.fna&oh=00_AT-qRNf9j7lXYBzk954lxs6swEsBu0jgsdZsLYYlEe_Nkw&oe=62A59698&_nc_rid=466684082426007
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3831,6 +3831,17 @@ https://streams.cbnradio.com/news-128K
 https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
+
+
+
+
+
+
+
+
+
+
+
 
 
 
