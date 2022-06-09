@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Kids",Dragon ball Z Tv [HyTv]
+#EXTINF:-1 tvg-logo="https://www.telezumiko.com/img/dbz.png" group-title="Kids",Dragon ball Z Tv [HyTv]
 https://vsd156.mycdn.me/hls/2463707695687.m3u8/sig/VBlFynorNYQ/expires/1654826405274/srcIp/181.66.151.161/clientType/0/srcAg/CHROME_ANDROID/mid/5513619971655/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
@@ -3833,6 +3833,41 @@ https://streams.cbnradio.com/news-128K
 https://streams.cbnradio.com/christmas-128K
 #EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
 https://streams.cbnradio.com/country-christmas-128K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
