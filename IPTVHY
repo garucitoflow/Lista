@@ -6,13 +6,19 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
 https://vsd135.mycdn.me/hls/2285915605575.m3u8/sig/a6BcdZjMnsQ/expires/1654827006464/srcIp/181.66.151.161/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" group-title="Noticias",AMERICA HD [E]
-
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=2mF3fJ7DgD1jPCVNG1HPM89ne7kiLe2b&pid=C5kT2lYq7TXUatgZP93AcZmYaMmaR18X&an=screen&at=web-app&av=v5.2.251&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=c3c1tJa3EuidM332wbUPX4fLBVIbNNCYAd3g37Hj51hR6TLfI2RHv36kDUrF80e15MYqnqwrokH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",Panamericana [E]
 https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fytEG1u.png" group-title="News",TV Perú Noticias
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/URjtPLB.png" group-title="Noticias",Willax TV [E]
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0ecyELarWm-LgpiN11a3woyPyB1gVDWsmwHH2NiBpl_vS9EPtDs3hpDY3IorqjrYDA&dmTs=300271&dmV1st=0A64264C6A637BAD5DC92E43E5B65EC4
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ba4wF0N.png" group-title="Religion",EnlaceTV
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z Tv [HyTv]
