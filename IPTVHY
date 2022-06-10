@@ -23,7 +23,7 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 https://vsd122.mycdn.me/hls/2491531725383.m3u8/sig/c4R-8VIT-sU/expires/1654974262632/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543425941063/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpson Tv [HyTv]
 https://vsd153.mycdn.me/hls/2491525761607.m3u8/sig/r9mUzCD4RKQ/expires/1654974098220/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543413358151/video.m3u8?p
-#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/kK7yl4p.jpg" group-title="24/7",Dreiko TV
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/rwzauoZ.png" group-title="24/7",Looney Tooms [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
@@ -31,9 +31,9 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="24/7",Planetatv Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="206" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="Infantiles",Paka Paka
+#EXTINF:-1 tvg-id="206" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="24/7",Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="Infantiles",Pequeradio TV
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="24/7",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
 
