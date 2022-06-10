@@ -1,13 +1,17 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA HD [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
 https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/hp6dZtAHspk/expires/1654830031867/srcIp/181.66.176.219/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA HD PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
+http://177.53.152.186:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
 https://vsd135.mycdn.me/hls/2285915605575.m3u8/sig/a6BcdZjMnsQ/expires/1654827006464/srcIp/181.66.151.161/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD PE [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" group-title="Noticias",AMERICA HD [E]
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",PANAM_TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",Panamericana [E]
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
