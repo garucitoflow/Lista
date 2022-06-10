@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
-https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/hp6dZtAHspk/expires/1654830031867/srcIp/181.66.176.219/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
+https://vsd120.mycdn.me/hls/2285916392007.m3u8/sig/KRTy6r5jDBo/expires/1654973967795/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
-https://vsd64.mycdn.me/hls/2285915605575.m3u8/sig/pztBXkdTm-s/expires/1654915614590/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
+https://vsd143.mycdn.me/hls/2285915605575.m3u8/sig/OrVKqhke3qE/expires/1654974371847/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" group-title="Noticias",AMERICA HD [E]
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=2mF3fJ7DgD1jPCVNG1HPM89ne7kiLe2b&pid=C5kT2lYq7TXUatgZP93AcZmYaMmaR18X&an=screen&at=web-app&av=v5.2.251&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=c3c1tJa3EuidM332wbUPX4fLBVIbNNCYAd3g37Hj51hR6TLfI2RHv36kDUrF80e15MYqnqwrokH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD [E]
@@ -20,11 +20,21 @@ https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z Tv [HyTv]
-https://vsd155.mycdn.me/hls/2491531725383.m3u8/sig/8uNpf1RBJaQ/expires/1654915791976/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543425941063/video.m3u8?p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MREsQ0.jpg" group-title="24/7",Popeye Tv [HyTv]
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5e6bdcb13eca94001a594a6c/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=8a97c78e-ad0a-42f6-b2d6-c679494cafb3&clientModelNumber=1.0.0&country=PE&deviceDNT=false&deviceId=8a97c78e-ad0a-42f6-b2d6-c679494cafb3&deviceLat=-12.0464&deviceLon=-77.0428&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=86.0.4240&marketingRegion=VE&serverSideAds=true&sessionID=504222d5-e7fa-11ec-a32d-0242ac110003&sid=504222d5-e7fa-11ec-a32d-0242ac110003&userId=&resumeAt=0&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjY4NWIxNDZkLWJlZDMtNDU5YS04YjBmLTY1MjA0OTQwZGY4ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1MDQyMjJkNS1lN2ZhLTExZWMtYTMyZC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4MS42Ni4xNTEuMTY3IiwiY2l0eSI6IkxpbWEiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IlBFIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTEyLjA0NjQsImRldmljZUxvbiI6LTc3LjA0MjgsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijg2LjAuNDI0MCIsImRldmljZU1ha2UiOiJjaHJvbWl1bS13ZWJ2aWV3IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjhhOTdjNzhlLWFkMGEtNDJmNi1iMmQ2LWM2Nzk0OTRjYWZiMyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjU0ODExMDgxLCJqdGkiOiJjYjcxNTBiNC1hNzcxLTRmYzYtODMwMS1hZjhjODVhZjVmZGQiLCJpYXQiOjE2NTQ3ODIyODEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPR0U1TjJNM09HVXRZV1F3WVMwME1tWTJMV0l5WkRZdFl6WTNPVFE1TkdOaFptSXoifQ.UYZ_XvhK-Cq4rRYgLjyEw0iKeU-B9xWNe6GgQZl226Q&masterJWTPassthrough=true&paln=AQzzBGQEe2EqTi_r7rfngGdoPZlIseaYyzsXz6zdqAyY8wgLpX-Q5D7RQ_T2zbf7n2oMryDZE52UfOSlz2QsksuFouf_eorxFH_2C_0JWdKtrIeTsvpOX5Yn0QoRIib0assKxYFPjCtWZ6r3jpaktK47Qp6JV6h-B0IFiK2BuecdPPy3kiCIaNSFStM2BbMQ9fFVcNmbvoe5z_SFKjsMP1KJ-0g8N0pwFpLzrFUy6o3DgnpbnMYZQxQ4F95TknxsTXm8VrOCrL3A_HNsW7QwcJQ5lwVniICdLcvxLWTw1She3TQcjvcRXNNLGjsAraR18718Lij79tuzqqTPs4KgHBhPnLSbAM8rDN4uXRfhCbsPkDerYeCC3luq9NlrpR3Wz3ihrmgtUQ5BUdy0QrnjGfjCMpnNzQbzOQQuKhv6f1fptNoh_djAM-Q46R4jS8BV7IcUMYtIduxTuemeCkekdu2R0h72gMa5nbf3c7MLI8EcGupI01WPduUIO1GKEjYIstI4F-hsdTyhhrvEbb-jWkk0oVxkGblo2hShcFyTlUNtcdjTG4FcxZpz5-dvXg_q5tnVtNgPS3Om76RiNOGmqSWQipeIbox0w4sUSmjqO1CJmfa8Vl9nDOX_Mz1SZwOEXAWOPe-fHbPjqj3oAratuY59ajXCAtw6ghmvbXQS1MY6P79_Gs4WEi9IefH1dbF34W6-xKlPk33G79B4akIGistQaPvoUKENv3WHShLJcvMhUYDE9EdNGA2r_aTEoZ1_UJYVJBWBJQewSa7CnBBjujlBFLsAgKgiFGl6D-xNHIeJbnS8hlEVca1PA9UQKlCsXXS50seLnrIdSvwwO1jD5CyZeSV6LnYSR5kH7QkPqxtRl2g98Z9LpKFT-NDr5Fe0AdjH5neRK3M_JKavU_oNnzQdlNeyjvgkrZKFDSEc3yHA0wgqoCjvDVbiJbn9KX-saCEXC9goV9iEvp7PZtZVFwI-b04nwWLdVAMIllObFUpTIFdRGKPRSj2hWHGjR2iB1UHbG726TxBGqa2k4NTJ-Kp6qXOiVfYhac5xblRMfh3HGHlzDNWoHpnEBqyquklOd88itRNzPblfxdsg34wB09COBnyVL3ylMdXajTMwXHFQx4xaVxTssJIkVB5v19hjKLRqTn8Nh6YyYkLI3UVbtMknXBW5lBehx1n1v4D2ySEFMKcl0j6fzv3OxidQ5XxiAjLI2tdvD08VIkIYzBrou_oSwWi5_LTw_iI_nroWzbpZOT-6M4dlafN4luhLNViEVwNIq6DUlQou4m3Vbhh66Si32CDQXHD94baN-GcFQ-QSQu7ZzZKFXY-N1efPGRvIG_5DStt_8OYyiaUpDDi-gLZE3cHI_2YOHLpj5ITxOB4yqj7SBoi84fojLTBPA9IH8DiZa1R0eSf4gUmcTvuXAIg8IipCChjk-D8wDjpTPtwuGCidwb3IUV7EBdYP_69G-RDsPbY_SBWoi1OiJngmwgUmKSLFxZLPW7cj7v1mLosL1MbzjI7hW3rCCWBi94KD4NmhRZ0nTA2wfeeThgUvqWPEZeAJqt8DT13LkzrEwK5bzoDovzqwbTxI96bmyJBOo7wbrXB3o3uHDCvCZh51IYv2UROpsQYO4HQuSr89uWcEmDmAszEYsAHgVsU530OAZFtpsCt4inupowr2CELTSlz3aOO4HSHdocymefwqfGmlqx_bR3NMrehLDO23Tr9k9mn_OT0Cp9A2C-GgGvXTZe35FNh-_fHUphpkhroQOnez4UR7MIUXYi4.&eventVOD=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MREsQ0.jpg" group-title="24/7",Popeye 2 Tv [HyTv]
-https://www.youtube.com/embed/9sVwvH2WqdU
+https://vsd122.mycdn.me/hls/2491531725383.m3u8/sig/c4R-8VIT-sU/expires/1654974262632/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543425941063/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpson Tv [HyTv]
+https://vsd153.mycdn.me/hls/2491525761607.m3u8/sig/r9mUzCD4RKQ/expires/1654974098220/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543413358151/video.m3u8?p
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/kK7yl4p.jpg" group-title="24/7",Dreiko TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
+https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="48" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png" group-title="24/7",Loko Kids
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1015" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="24/7",Planetatv Kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="206" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="Infantiles",Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="Infantiles",Pequeradio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
