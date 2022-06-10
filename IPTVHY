@@ -24,7 +24,7 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ew3Ddk.jpg" group-title="24/7",Dragon ball Z Boo [HyTv]
 https://vsd122.mycdn.me/hls/2491531725383.m3u8/sig/c4R-8VIT-sU/expires/1654974262632/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543425941063/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMHtDcn.jpg" group-title="24/7",Dragonball Z Cell [HyTv]
-https://archive.org/details/gera22_20190809/118+-+Ese+Es+El+Planeta+Tierra+Pap%C3%A1+%5Bby+david93%5D.mp4?playset=1&autoplay=1
+https://archive.org/compress/gera22_20190809/formats=MPEG4&file=/gera22_20190809.zip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpson Tv [HyTv]
 https://vsd153.mycdn.me/hls/2491525761607.m3u8/sig/r9mUzCD4RKQ/expires/1654974098220/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543413358151/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9c86RNg.jpg" group-title="24/7",La Casa Del Anime Tv [HyTv]
@@ -520,3 +520,20 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
