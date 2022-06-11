@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
-https://vsd120.mycdn.me/hls/2285916392007.m3u8/sig/KRTy6r5jDBo/expires/1654973967795/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
+https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/Gjt7cRqEyG8/expires/1655051702941/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
-https://vsd143.mycdn.me/hls/2285915605575.m3u8/sig/OrVKqhke3qE/expires/1654974371847/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
+https://vsd135.mycdn.me/hls/2285915605575.m3u8/sig/9y7zjtio0DM/expires/1655051625111/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" group-title="Noticias",AMERICA HD [E]
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=2mF3fJ7DgD1jPCVNG1HPM89ne7kiLe2b&pid=C5kT2lYq7TXUatgZP93AcZmYaMmaR18X&an=screen&at=web-app&av=v5.2.251&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=c3c1tJa3EuidM332wbUPX4fLBVIbNNCYAd3g37Hj51hR6TLfI2RHv36kDUrF80e15MYqnqwrokH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD [E]
@@ -24,7 +24,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ew3Ddk.jpg" group-title="24/7",Dragon ball Z Boo [HyTv]
-https://vsd122.mycdn.me/hls/2491531725383.m3u8/sig/c4R-8VIT-sU/expires/1654974262632/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543425941063/video.m3u8?p
+https://vsd122.mycdn.me/hls/2491531725383.m3u8/sig/wf0jkvKT4AQ/expires/1655051769973/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543425941063/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpson Tv [HyTv]
 https://vsd153.mycdn.me/hls/2491525761607.m3u8/sig/r9mUzCD4RKQ/expires/1654974098220/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5543413358151/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/rwzauoZ.png" group-title="24/7",Looney Tooms [Dreiko]
@@ -516,14 +516,6 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-
-
-
-
-
-
-
-
 
 
 
