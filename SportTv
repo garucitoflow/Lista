@@ -1,0 +1,60 @@
+#EXTINF:0,DEPORTES 2022
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmoOak6.png" group-title="Noticias",Tigo Deportes HD
+http://190.83.119.67:8000/play/a0sn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hv9qcBa.jpg" group-title="Deportes",Claro Deportes PAN
+http://190.83.119.67:8000/play/a0o2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Deportes SD
+http://190.83.119.67:8000/play/a0ra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Deportes  HD
+http://190.83.119.67:8000/play/a0on/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hRpwdvK.png" group-title="Noticias",Movistar La liga
+http://190.83.119.67:8000/play/a0tj/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Deportes",ESPN
+http://190.83.119.67:8000/play/a0se/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Deportes",ESPN  +
+http://190.83.119.67:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2
+http://190.83.119.67:8000/play/a0sf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Deportes",ESPN 3
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IgUXJ5r.png" group-title="Deportes",ESPN HD
+http://190.83.119.67:8000/play/a0t4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xC0QnKT.png" group-title="Deportes",ESPN 2 HD
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHTtQ27.jpg" group-title="Deportes",ESPN 3 HD
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gaNEha2.png" group-title="Deportes",FOX Deportes 2
+http://190.83.119.67:8000/play/a0rc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6InW4W.png" group-title="Deportes",FOX Deportes 3
+http://190.83.119.67:8000/play/a0pm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eZ1yeDA.png" group-title="Deportes",FOX DeporteS 2 HD
+http://190.83.119.67:8000/play/a0sp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0hRkLH.png" group-title="Deportes",FOX DeporteS 3 HD
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSL6h8O.png" group-title="Deportes",BeinDeportes
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Deportes",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Deportes",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSarKEi.png" group-title="Deportes",Latin America Deporte
+http://190.83.119.67:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L4oMCG6.png" group-title="Deportes",Deport TV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Deportes",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Deportes",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Deportes",Insight TV
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes",El Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Deportes",Contacto Deportivo
+https://live.obslivestream.com/cdeportivomux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Deportes",Best Cable Deportes Perú
+https://tv.inka.net.pe/bestcableDeportes/bestcableDeportes/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Deportes",América Deportes
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
