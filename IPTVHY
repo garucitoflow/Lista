@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
-https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/Gjt7cRqEyG8/expires/1655051702941/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
+https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/E3iRLLJC9cQ/expires/1655119455014/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
-https://vsd135.mycdn.me/hls/2285915605575.m3u8/sig/9y7zjtio0DM/expires/1655051625111/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
+https://vsd64.mycdn.me/hls/2285915605575.m3u8/sig/Lv32BSYtcVk/expires/1655119400380/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" group-title="Noticias",AMERICA HD [E]
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=copqke4k2H86muXeK50lQBc0MOcvruGJ&sid=t5vzrV59WuTJUpC5qqq7wPgFIwFVGlNr&pid=GxvXpexQOxWvqyhNLJyPfKQSyll7cQAo&an=screen&at=web-app&av=v5.2.251&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=960x540&without_cookies=false&listenerid=&dnt=true&access_token=wrzoxdNgbokzTge6THOdDMehpGhBoVGpqWnTNvYCf8BD4xbpugBZ2PJ3sjChtoG7G27SWFgfGHC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD [E]
