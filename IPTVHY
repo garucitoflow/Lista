@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
 https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/E3iRLLJC9cQ/expires/1655119455014/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
@@ -19,7 +18,24 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/URjtPLB.png" group-title="Noticias",Willax TV [E]
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0ecyELarWm-LgpiN11a3woyPyB1gVDWsmwHH2NiBpl_vS9EPtDs3hpDY3IorqjrYDA&dmTs=300271&dmV1st=0A64264C6A637BAD5DC92E43E5B65EC4
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hv9qcBa.jpg" group-title="Deportes",Claro Deportes PAN
+http://190.83.119.67:8000/play/a0o2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvlVDPS.png" group-title="Deportes",Claro Deportes SD
+http://190.83.119.67:8000/play/a0ra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hRpwdvK.png" group-title="Noticias",Movistar La liga
+http://190.83.119.67:8000/play/a0tj/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqJZPGS.png" group-title="Deportes",ESPN
+http://190.83.119.67:8000/play/a0se/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AEp2ZYL.jpg" group-title="Deportes",ESPN  +
+http://190.83.119.67:8000/play/a0py/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pw1TtLg.png" group-title="Deportes",ESPN 2
+http://190.83.119.67:8000/play/a0sf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enZ0F8d.png" group-title="Deportes",ESPN 3
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gaNEha2.png" group-title="Deportes",FOX Deportes 2
+http://190.83.119.67:8000/play/a0rc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6InW4W.png" group-title="Deportes",FOX Deportes 3
+http://190.83.119.67:8000/play/a0pm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg" group-title="CINE",Top Cine [E]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
