@@ -1,4 +1,6 @@
-#EXTINF:0,DEPORTES 2022
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", ABRIL | Latino | Teleclub!
+http://tv.teleclub.xyz/hls/welcome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
