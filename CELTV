@@ -1,22 +1,23 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKYwDmj.jpeg" group-title="Noticias",LATINA SD [E]
-https://vsd94.mycdn.me/hls/2285916392007.m3u8/sig/E3iRLLJC9cQ/expires/1655119455014/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359537036871/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias",LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias",AMERICA SD [E]
 https://vsd64.mycdn.me/hls/2285915605575.m3u8/sig/Lv32BSYtcVk/expires/1655119400380/srcIp/181.66.151.167/clientType/0/srcAg/CHROME_ANDROID/mid/5359536512583/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="Noticias",ATV HD [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus + [E]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias",ATV Plus [E]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias",Panamericana [E]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fytEG1u.png" group-title="News",TV Perú Noticias
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/URjtPLB.png" group-title="Noticias",Willax TV [E]
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0ecyELarWm-LgpiN11a3woyPyB1gVDWsmwHH2NiBpl_vS9EPtDs3hpDY3IorqjrYDA&dmTs=300271&dmV1st=0A64264C6A637BAD5DC92E43E5B65EC4
 
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Más Cumbia
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Music
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg" group-title="CINE",Top Cine [E]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
@@ -28,14 +29,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="TOP",Chiquilines [E]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=1
-
-
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Más Cumbia
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Music
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
