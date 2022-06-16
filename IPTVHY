@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://vsd96.mycdn.me/hls/2515118262855.m3u8/sig/35gjr-q_5MU/expires/1655323953326/srcIp/181.66.177.167/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
+https://vsd76.mycdn.me/hls/2515118262855.m3u8/sig/l-58NDw5sLE/expires/1655429976641/srcIp/181.66.151.20/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias", ATV+ | PE
@@ -19,11 +19,11 @@ https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z Completo [HyTv]
-https://vsd135.mycdn.me/hls/2510740523591.m3u8/sig/MFxSKtzqqZg/expires/1655326522252/srcIp/181.66.177.167/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
-#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/rwzauoZ.png" group-title="24/7",Looney Toons [Dreiko]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
+https://vsd64.mycdn.me/hls/2510740523591.m3u8/sig/bCPAEpAMMqw/expires/1655430193235/srcIp/181.66.151.20/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
@@ -517,50 +517,3 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="TOP",Chiquilines [E]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
