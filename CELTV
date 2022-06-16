@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://vsd96.mycdn.me/hls/2515118262855.m3u8/sig/35gjr-q_5MU/expires/1655323953326/srcIp/181.66.177.167/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
+https://vsd76.mycdn.me/hls/2515118262855.m3u8/sig/l-58NDw5sLE/expires/1655429976641/srcIp/181.66.151.20/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias", ATV+ | PE
@@ -19,11 +19,11 @@ https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv [HyTv]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z Completo [HyTv]
-https://vsd135.mycdn.me/hls/2510740523591.m3u8/sig/MFxSKtzqqZg/expires/1655326522252/srcIp/181.66.177.167/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
-#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/rwzauoZ.png" group-title="24/7",Looney Toons [Dreiko]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
+https://vsd64.mycdn.me/hls/2510740523591.m3u8/sig/bCPAEpAMMqw/expires/1655430193235/srcIp/181.66.151.20/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
@@ -35,17 +35,6 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="24/7",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg" group-title="CINE",Top Cine [E]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE",Tu Cine [E]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/saber-ms/thumbh_20211119_205804.jpg" group-title="CINE",Saber Mas [E]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="TOP",Flash [E]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="TOP",Chiquilines [E]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=1
 
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
@@ -516,3 +505,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVEVOReggeatonTrap.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="USA",Pluto TV VEVO Reggeaton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg" group-title="CINE",Top Cine [E]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/playlist.m3u8?c_producer=topcinelatam&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE",Tu Cine [E]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8?c_producer=tucinelatam&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/saber-ms/thumbh_20211119_205804.jpg" group-title="CINE",Saber Mas [E]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8?c_producer=SaberMas&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="TOP",Flash [E]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="TOP",Chiquilines [E]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=1
