@@ -23,7 +23,7 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
 https://vsd64.mycdn.me/hls/2510740523591.m3u8/sig/sq6YWIoiLkg/expires/1655466224910/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simsoms | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms | PE
 https://vsd82.mycdn.me/hls/2510758808135.m3u8/sig/jQnX7Q8h1eo/expires/1655466315445/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5561539829319/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
