@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://vsd76.mycdn.me/hls/2515118262855.m3u8/sig/l-58NDw5sLE/expires/1655429976641/srcIp/181.66.151.20/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
+https://vsd100.mycdn.me/hls/2515118262855.m3u8/sig/HJm7RpbyLAk/expires/1655466136123/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias", ATV+ | PE
@@ -22,7 +22,9 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
-https://vsd64.mycdn.me/hls/2510740523591.m3u8/sig/bCPAEpAMMqw/expires/1655430193235/srcIp/181.66.151.20/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
+https://vsd64.mycdn.me/hls/2510740523591.m3u8/sig/sq6YWIoiLkg/expires/1655466224910/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simsoms | PE
+https://vsd82.mycdn.me/hls/2510758808135.m3u8/sig/jQnX7Q8h1eo/expires/1655466315445/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5561539829319/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
