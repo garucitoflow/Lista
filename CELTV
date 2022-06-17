@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQLVNSs.jpg" group-title="Pelicula",Batman Inicia
+https://sv06.pelisfile.net/videos/hls/HgdBSPpMVSv9LT0W-bUeZg/1655449584/28035/3aff79d9fd87209edba866bbfa3e25f8/EP.0.1.v0.1654357999.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mafvkrl.jpg" group-title="Pelicula",La Muerte de Superman
+https://sv08.pelisfile.net/videos/hls/uhmBmrLR7jdOqWYBt81x7A/1655449402/28137/ba2aa4af19956ed5f314e07925cf66c2/EP.0.1.v0.1654895794.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyZTKGp.jpg" group-title="Pelicula",Superman Regresa
+https://sv08.pelisfile.net/videos/hls/txzId_6PoYFgGq7BTM7bRg/1655449250/36767/281aa4242e16f85c4eb80868918c5c7b/EP.0.1.v0.1654532160.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjvsBXn.jpg" group-title="Pelicula",Pollonejo y el hámster de la oscuridad
+https://sv03.pelisfile.net/videos/hls/if3QtncHO-FHDN5fAgxkDQ/1655449046/149022/609eceacf75fad733e6a389c692427c0/EP.0.2.v0.1654950991.m3u8
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sonic_2_La_pel_cula-654800633-large.jpg" group-title="Pelicula",Sonic 2: La Película
 https://sv10.pelisfile.net/videos/hls/kIK5ND-dlZzesvWSy66h7Q/1655448535/146489/08758dd19d7e2c1d5b5e0c3f3b88ee17/EP.0.1.v2.1653918301.m3u8
 #EXTINF:-1 tvg-logo="https://i.blogs.es/2e407d/doctor-strange-en-el-multiverso-de-la-locura-cartel-poster/1366_2000.jpeg" group-title="Pelicula",Doctor Strange en el multiverso de la locura
