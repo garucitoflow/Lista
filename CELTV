@@ -1,4 +1,18 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OobIuNm.jpg" group-title="Pelicula",La Era de Hielo 1
+https://sv01.pelisfile.net/videos/hls/vETl8Mq5meJEfyWCcwDhrQ/1655451632/15440/87bddf36fd45b4f1bb041555f7f34826/EP.0.1.v0.1653998679.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShCJ6Bm.jpg" group-title="Pelicula",La Era de Hielo 2
+https://sv01.pelisfile.net/videos/hls/GeCFsf3jA872NO7vgi6_Fw/1655452634/28100/71cd8980f1c83d936d19e89a965f13dd/EP.0.1.v0.1654028832.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGgYdab.jpg" group-title="Pelicula",La Era de Hielo 3
+https://sv01.pelisfile.net/videos/hls/5vw39QZ5S3fea9dVwkZAXg/1655452749/28260/7d0a16ebf37bba7254683c8a04da5a8f/EP.0.0.v0.1654136718.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJ7keAC.jpg" group-title="Pelicula",La Era de Hielo 4
+https://sv06.pelisfile.net/videos/hls/eiir95t7deThRKpYv-shUw/1655452812/28515/0875cb84efab272f7e6a4c9ed298715a/EP.0.1.v0.1654012969.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cmfgQGc.jpg" group-title="Pelicula",La Era de Hielo 5
+https://sv05.pelisfile.net/videos/hls/7mKtrGgl1JVRA6_i5Clscg/1655452969/26974/c2b86ec410b62399d8a312fe8dac98c1/EP.0.1.v0.1654049721.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cInJZfH.jpg" group-title="Pelicula",Ocupación
+https://sv06.pelisfile.net/videos/hls/HgdBSPpMVSv9LT0W-bUeZg/1655449584/28035/3aff79d9fd87209edba866bbfa3e25f8/EP.0.1.v0.1654357999.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQLVNSs.jpg" group-title="Pelicula",Batman Inicia
 https://sv06.pelisfile.net/videos/hls/HgdBSPpMVSv9LT0W-bUeZg/1655449584/28035/3aff79d9fd87209edba866bbfa3e25f8/EP.0.1.v0.1654357999.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mafvkrl.jpg" group-title="Pelicula",La Muerte de Superman
