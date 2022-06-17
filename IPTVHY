@@ -18,11 +18,9 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r7vodFu.jpg" group-title="Cine", GaruNet Pelis Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7vodFu.jpg" group-title="Noticias",Variado Perú
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w2024391076.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QjCpta2.jpg" group-title="Cine", GaruNet Anime Perú
-https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1882979788.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" group-title="Musica", Djs En Vivo Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" group-title="Musica", MegaMix Tv Perú
 https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" group-title="Musica", Latin Mix Radio
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
@@ -30,8 +28,6 @@ https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chun
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dn9bLmC.png" group-title="24/7",Chavo Tv | CL
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1528554949.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
 https://vsd64.mycdn.me/hls/2510740523591.m3u8/sig/sq6YWIoiLkg/expires/1655466224910/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5561525280327/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms | PE
