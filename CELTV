@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sonic_2_La_pel_cula-654800633-large.jpg" group-title="Pelicula",Sonic 2: La Película
+https://sv10.pelisfile.net/videos/hls/kIK5ND-dlZzesvWSy66h7Q/1655448535/146489/08758dd19d7e2c1d5b5e0c3f3b88ee17/EP.0.1.v2.1653918301.m3u8
+#EXTINF:-1 tvg-logo="https://i.blogs.es/2e407d/doctor-strange-en-el-multiverso-de-la-locura-cartel-poster/1366_2000.jpeg" group-title="Pelicula",Doctor Strange en el multiverso de la locura
+https://sv02.pelisfile.net/videos/hls/YPeSTNwYTIOQ27Rs1rqhSQ/1655448432/145351/e6cdff8733f90bb82bf0f93051e686b9/EP.0.1.v1.1653910212.m3u8
+#EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/02/11/16445345407827.jpg" group-title="Pelicula",Jurassic World: Dominion 2022
+https://sv01.pelisfile.net/videos/hls/E3RCWuexviQoBlaAQ2ImqQ/1655448209/148520/7d0078d74fc11d36a7df72412b20d2c8/EP.0.2.v0.1654295452.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LNuXMuM.jpg" group-title="Pelicula",Hera De Hielo: Las Aventuras De Buck
 https://archive.org/download/laeradehielolasaventurasdebuck/La.era.de.hielo.las.aventuras.de.Buck.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_Los_Simpson_en_Plusniversario_C-358465468-large.jpg" group-title="Pelicula",Los Simpson en Plusniversario
@@ -9,20 +15,10 @@ https://www2253.ff-05.com/token=-ZxmdXqon8e7lkOj1vG3Ag/1652478973/181.66.0.0/186
 https://www199.ff-01.com/token=mTqQqXhgnOnBtJhyGZCgvA/1652478750/181.66.0.0/188/4/d3/f58456f3b76df754c39bf3ae9a546d34-1080p.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Monsterman_a-357035737-large.jpg" group-title="Pelicula",Monstermanía
 https://www773.ff-02.com/token=L3h_8RB8sDHozLu6DZJQaA/1652478699/181.66.0.0/192/d/52/102b6742ea0ecc45cffe2acd5f41552d-1080p.mp4
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/16700/16775/001_p.jpg" group-title="Pelicula",Hotel Transylvania: Transformanía
-https://www1858.ff-04.com/token=WkDF_h2RjDnjmGiujYruMw/1652478615/181.66.0.0/191/7/a8/c570d98b00ebacb4eba08a150132ca87-1080p.mp4
-#EXTINF:-1 tvg-logo="https://www.aventurasnerd.com/wp-content/uploads/2021/11/unnamed-29-scaled.jpg" group-title="Pelicula",Venom: Carnage liberado
-https://www580.ff-02.com/token=7UjH6L2I5JGh-OhsYwRdkQ/1652478294/181.66.0.0/179/7/49/0f5f277e84c60ce344168fa5923c4497-1080p.mp4
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/0/03/Resident_Evil_5la_Venganza.jpg/260px-Resident_Evil_5la_Venganza.jpg" group-title="Pelicula",Resident Evil 5: Venganza
-https://www1941.ff-04.com/token=WtDmJlFEOhLsBzAALNZilA/1652477930/181.66.0.0/17/9/24/b637348649f813587caf4c06a52e1249-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.blogs.es/c70857/guerra-z-cartel/450_1000.jpg" group-title="Pelicula",Guerra mundial Z
 https://www314.ff-01.com/token=Bb5qTlPf-HfDw5_ef93qbA/1652477806/181.66.0.0/18/e/36/e4ed0a710239808d0212efff6eb0036e-720p.mp4
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/336276/336276_173x256.jpg" group-title="Pelicula",Kingdom: Ashin del norte
 https://www1655.ff-04.com/token=A-w7eJ_PpKLApNIKY-llWw/1652473410/181.66.0.0/159/2/14/fdb56a726867f3f76665ce2b79d20142-720p.mp4
-#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/770x420/3/3/9/batman-vs-superman-cartel.jpg" group-title="Pelicula",Batman vs Superman
-https://www2237.ff-05.com/token=SYPYspflQlxeCNw6vl2duw/1652473136/181.66.0.0/18/f/1c/5e00c91c37638413a7c0a111379bf1cf-720p.mp4
-#EXTINF:-1 tvg-logo="https://pelisplus.mobi/storage/media-images/posters/630656.jpg" group-title="Pelicula",SUPERMAN: La muerte y el regreso.jpg
-https://www653.ff-02.com/token=q376T_AhX3CKBulARzB0Mg/1652472628/181.66.0.0/2/6/71/a17292ddfb9e83891179b7e1aaff8716-1080p.mp4
 #EXTINF:-1 tvg-logo="https://www.mundosuperman.com/wp-content/uploads/2021/03/mmjl-06bl_a12-scaled.jpg" group-title="Pelicula",SUPERMAN Zack Snyder's
 http://vod.tuxchannel.tv/peliculas/720/zack%20snyders%20justice%20league%202021.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82d3qag.jpg" group-title="Pelicula",La Mujer Maravilla
