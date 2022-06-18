@@ -1,5 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFzxqap.jpg" group-title="Pelicula",EVANGELION: 1.11 YOU ARE (NOT) ALONE - 1
+https://server09.cdnflv.net/server09/8ba37433f9aa6c97fbad02e4f54cc696/ep.11645033550.1645034634.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axOsdAt.gif" group-title="Pelicula",EVANGELION: 2.22 YOU CAN (NOT) ADVANCE - 1
+https://server02.cdnflv.net/server02/b8eecc1cddf2fa7aa6ea7a7e9c6ec118/ep.11644892619.1644894150.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjeOwBw.jpg" group-title="Pelicula",EVANGELION: 3.0 YOU CAN (NOT) REDO - 1
+https://server10.cdnflv.net/server10/a5cbe462693edc758f115b561e85ce7a/ep.11644949974.1644950340.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZic9jb.jpg" group-title="Pelicula",EVANGELION 3.0+1.0 THRICE UPON A TIME - 1
+https://server32.cdnflv.net/server32/5a56e25889085b8ea2080a61dd54daa3/ep.11644572205.1644574906.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOXfYkZ.jpg" group-title="Pelicula",Escaflowne The Movie 2000
+https://server31.cdnflv.net/server31/d9c1ed4b7d31abf5cef01c24cf1d3253/ep.11645353641.1645354107.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OobIuNm.jpg" group-title="Pelicula",La Era de Hielo 1
 https://sv01.pelisfile.net/videos/hls/vETl8Mq5meJEfyWCcwDhrQ/1655451632/15440/87bddf36fd45b4f1bb041555f7f34826/EP.0.1.v0.1653998679.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ShCJ6Bm.jpg" group-title="Pelicula",La Era de Hielo 2
