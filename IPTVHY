@@ -18,7 +18,7 @@ https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r7vodFu.jpg" group-title="Noticias",NETFLIX TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clbTCIJ.png" group-title="Noticias",NETFLIX TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w2024391076.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" group-title="Musica", MegaMix Tv Perú
 https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
