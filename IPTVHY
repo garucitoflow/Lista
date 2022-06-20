@@ -53,6 +53,45 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="24/7",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Infantil",LatinoKids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kexiwwP.png" group-title="Infantil", Toon Goggles
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-5eea605574085f0040ddc794.m3u8?X-Plex-Session-Identifier=pw3sftvz1j2vjcrqlc9w26oo&X-Plex-Product=Plex%20Web&X-Plex-Version=4.83.2&X-Plex-Client-Identifier=8gge70bp3umsftd83337f5is&X-Plex-Platform=Chrome&X-Plex-Platform-Version=86.0&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x417%2C960x540&X-Plex-Token=A-mmyz5UsDnGwA4R4Eim&X-Plex-Language=es&Accept-Language=es
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="Infantil", KidoodleTv
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-5eea605574085f0040ddc79a.m3u8?X-Plex-Session-Identifier=sufd7bt5uriohm2upma9ygtn&X-Plex-Product=Plex%20Web&X-Plex-Version=4.83.2&X-Plex-Client-Identifier=8gge70bp3umsftd83337f5is&X-Plex-Platform=Chrome&X-Plex-Platform-Version=86.0&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x417%2C960x540&X-Plex-Token=A-mmyz5UsDnGwA4R4Eim&X-Plex-Language=es&Accept-Language=es
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [1]
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [2]
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/DISNEY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" group-title="Infantil", NATGEO Kids [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/NATGEO_KIDS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nick [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/NICK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", Nick Jr [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/TOONCAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil", Cartoonito [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil", Discovery Kids [INDI]
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bf3aN5q.png" group-title="Infantil", BabyTV [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/BABY_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zTDBGo9.png" group-title="Infantil", Teen Nick [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/TEEN_NICK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jIVfWNP.png" group-title="Infantil", Nick Toons [Club]
+http://tv.teleclub.xyz/live/ABRIL_01/NICK_TOONS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FdqhRjB.png" group-title="Infantil", Jetix [E]
+http://tv.teleclub.xyz/live/ABRIL_00/JETIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", BITME [E]
+http://tv.teleclub.xyz/live/ABRIL_00/BITME/index.m3u8u
 
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
