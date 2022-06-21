@@ -4,7 +4,7 @@ https://www.facebook.com/farrotv/videos/972005880139837
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://vsd96.mycdn.me/hls/2515118262855.m3u8/sig/vDkJszkWwhU/expires/1655787762237/srcIp/181.66.150.126/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
+https://vsd100.mycdn.me/hls/2515118262855.m3u8/sig/DsotqDmtyGg/expires/1655907095434/srcIp/181.66.176.80/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias", ATV+ | PE
@@ -38,11 +38,11 @@ https://www.youtube.com/embed/RRutNeNWOHA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv 1 | PE
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1931542840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv 2 | PE
-https://vsd148.mycdn.me/hls/2538945448519.m3u8/sig/PAJnYlQ_z6Q/expires/1655787987614/srcIp/181.66.150.126/clientType/0/srcAg/CHROME_ANDROID/mid/5586024865351/video.m3u8?p
+https://vsd136.mycdn.me/hls/2538945448519.m3u8/sig/z2JKTDA5hb4/expires/1655907367399/srcIp/181.66.176.80/clientType/0/srcAg/CHROME_ANDROID/mid/5586024865351/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
-https://vsd66.mycdn.me/hls/2538947938887.m3u8/sig/u-Q3l_-uRbI/expires/1655787937479/srcIp/181.66.150.126/clientType/0/srcAg/CHROME_ANDROID/mid/5586027748935/video.m3u8?p
+https://vsd126.mycdn.me/hls/2538947938887.m3u8/sig/kqUQ94ggAE0/expires/1655907325683/srcIp/181.66.176.80/clientType/0/srcAg/CHROME_ANDROID/mid/5586027748935/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
