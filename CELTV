@@ -577,4 +577,32 @@ https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
 
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="Escaflowne" group-title="Anime",Escaflowne Ep1
+https://server40.cdnflv.net/server40/398d1f345dcbea326932a1378ea94f00/ep.11645016960.1645017016.m3u8
+#EXTINF:0 tvg-id="Escaflowne" group-title="Anime",Escaflowne Ep2
+https://server39.cdnflv.net/server39/398d1f345dcbea326932a1378ea94f00/ep.21645111448.1645111509.m3u8
+#EXTINF:0 tvg-id="Escaflowne" group-title="Anime",Escaflowne Ep3
+https://server38.cdnflv.net/server38/398d1f345dcbea326932a1378ea94f00/ep.31645018533.1645018592.m3u8
+#EXTINF:0 tvg-id="Escaflowne" group-title="Anime",Escaflowne Ep3
+https://server37.cdnflv.net/server37/398d1f345dcbea326932a1378ea94f00/ep.41645123370.1645123436.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
