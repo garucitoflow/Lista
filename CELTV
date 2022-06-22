@@ -53,30 +53,78 @@ https://server31.cdnflv.net/server31/398d1f345dcbea326932a1378ea94f00/ep.2516454
 https://server10.cdnflv.net/server10/398d1f345dcbea326932a1378ea94f00/ep.261645069694.1645070040.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sosq2WJ.jpg" group-title="Saitama Hero",Saitama Hero
+https://server43.cdnflv.net/server43/77c7b49a672839283aa3433bbfd121b2/ep.11644871164.1644871239.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp3GYWr.jpg" group-title="Saitama Sp1",Saitama Sp1 Ep1
+https://server43.cdnflv.net/server43/8d12bbef01d294442267b8798f097f23/ep.11644868175.1644868213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp3GYWr.jpg" group-title="Saitama Sp1",Saitama Sp1 Ep2
+https://server08.cdnflv.net/server08/8d12bbef01d294442267b8798f097f23/ep.21644790767.1644790801.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp3GYWr.jpg" group-title="Saitama Sp1",Saitama Sp1 Ep3
+https://server42.cdnflv.net/server42/8d12bbef01d294442267b8798f097f23/ep.31644879688.1644879757.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp3GYWr.jpg" group-title="Saitama Sp1",Saitama Sp1 Ep4
+https://server31.cdnflv.net/server31/8d12bbef01d294442267b8798f097f23/ep.41645047184.1645047224.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp3GYWr.jpg" group-title="Saitama Sp1",Saitama Sp1 Ep5
+https://mov.loadfast1.com/peliscdn2/anime-spanish/8d12bbef01d294442267b8798f097f23/EP.5.full.mp4?mac=ZZQEnmvvuABR0pTgl7cbVK3UqgYElIlJ%2F47V8xH%2FPJI%3D&expiry=1655883352534
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vp3GYWr.jpg" group-title="Saitama Sp1",Saitama Sp1 Ep6
+https://server39.cdnflv.net/server39/8d12bbef01d294442267b8798f097f23/ep.61644872639.1644872676.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep1
+https://server40.cdnflv.net/server40/f9534be08db4b6252f0c1ac729d575e2/ep.11644787887.1644788213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep2
+https://server42.cdnflv.net/server42/f9534be08db4b6252f0c1ac729d575e2/ep.21644908825.1644909009.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep3
+https://server32.cdnflv.net/server32/f9534be08db4b6252f0c1ac729d575e2/ep.31644827132.1644827482.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep4
+https://server47.cdnflv.net/server47/f9534be08db4b6252f0c1ac729d575e2/ep.41644793072.1644793155.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep5
+https://server46.cdnflv.net/server46/f9534be08db4b6252f0c1ac729d575e2/ep.51644857891.1644858296.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep6
+https://server10.cdnflv.net/server10/f9534be08db4b6252f0c1ac729d575e2/ep.61644820069.1644820163.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep7
+https://server32.cdnflv.net/server32/f9534be08db4b6252f0c1ac729d575e2/ep.71644821585.1644821943.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep8
+https://server40.cdnflv.net/server40/f9534be08db4b6252f0c1ac729d575e2/ep.81644779430.1644779744.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep9
+https://server38.cdnflv.net/server38/f9534be08db4b6252f0c1ac729d575e2/ep.91644780731.1644781061.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep10
+https://server45.cdnflv.net/server45/f9534be08db4b6252f0c1ac729d575e2/ep.101644883231.1644883649.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep11
+https://server05.cdnflv.net/server05/f9534be08db4b6252f0c1ac729d575e2/ep.111644880683.1644881036.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T1",Saitama T1 Ep12
+https://server37.cdnflv.net/server37/f9534be08db4b6252f0c1ac729d575e2/ep.121644850485.1644850979.m3u8
+
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep1
 https://fvs.io/redirector?token=b05rTVBHN1daUm9yNmpIdVZlRnZhUU5ybWgxZGVDTEtTQnhmNzV3V0Z3cG1rTndzMmk4YWVFUlVvc1NUZXlrWnp5WGhTMUlDU0JZbGhHTFZjVW1NWHR5SUJlUkdOMWIvSjZNMkQ1Wkt1S0FrS3JLeE0wWU1jYWtPNExwMGZQV2lNTW5CZ21oUjRBZ2lyZUJYR3NWTWR3RmdPeGZpZU1XMGZnbz06emxjVkNtZDRnRW1SN3FLOVZXanNlUT09QUeN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep2
 https://fvs.io/redirector?token=cTJLN1gvTmlYYW1vNk13Q2hsdm5lYkg3VW9TdzVscm1qcldRV012S3hMR1RrblBCem5kR0JDQVBCTTY1MnVIaHQ4V1pvRm9sV01Ec294Tk9sVWNoc1RuTmdlbFpQRnVoRWNGVENuUVNOWkJVVU1PemFnaElpd1ZTWHBvQlVYSXpVRStWWGtLZStUcE1QblpsSnFtcjlPNGd2NUZoa216OWt2cz06bzAweUNRSVpJWk9INS9QWVAzUlBNdz09yYpB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep3
 https://fvs.io/redirector?token=d3U4NnpMQy84b0F2QjdRSzhDWE1SWGhORm5wcllHbWJxZmlCSm1vMHd6U1RrQWw5U2dzSGlITEUyYUljM0lxUVZQenFSYU5hK3doNlFWTHgvTStiWVAwbmxYNFlTaGEwT3F2aDBUUVR5cXFiQUtNcDVmMys5ZEUzV0JiTU5NeGhmSmJhZ1VMSXJmYllUdmExUUdWeVZYaCtzamJjM21NczhRWT06L3QxMFhzcG0rVG1hNHlzM1ZubTZSdz09kERU
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep4
+https://fvs.io/redirector?token=VlEvVGVxckw4MURjSkNrNXVxMUt0RWtnR3NYcGQ3TFZaREJ4TjZOMzFOOEpEeCtmREpIby9mcVlFMEZ2aGJBVC9HSEU4YW5oL3ZCYWhEUVMrd2IwaDRYOUJxOWlQdHloY0o2YlJqOEQ5M3hEdGtzTU5zUW5DampPL2FvbW9Va2RHdDYxTFcydDdpY0lKWFpQN3EyMnZyYlFndU5qWEI2aFVuWT06WFBIM3BaYzVXZzdNMTVmL3V5WmJrQT09obuR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep5
+https://fvs.io/redirector?token=dTZQUVo3aDhNS1pRL3IzMDlESEZ6YXlFbEtDenp3b2I1L29sWm9IUzZ1Tm5IQno3VUFxbkhHR3lWcmFraW96ZHhCRFZQQ3J5UXlUcEdwM0NKUTFrY1poMmZwQnRKYzFEazE4Z3pTZWM2KzdHWXhwMXVXcnJ1QmdjZExMTUdmY21FQjN5ZDF1djcydzdSSDE2ejU4eURiWUcvSWFiR08rb3VoWT06bjVLYUtLMDE3ck9jTzBwY3N4eTM4QT090v9z
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep6
+https://fvs.io/redirector?token=WWZQamNUMks3cUN0WXZtV0Y1dVdaS0k4VU1ldnUzaEFVRERITXdFeDJVQmxJRDBOdUhwQnNXVHovSmlhMW9sZkhVUnRwMEZhY0s5ajhnSDNHWmU5Vk85TDlXR3Bra1BEdVpTVU9RSXdHYnpUU0Y2SFVXcnBvQkZaSnlmWVFWeldFRFIvbTBoYUFOZWM0S3BFTDQrcVZVKzhSMFovbjlFVUZrbz06NUQxUmhiT0ZHaElRKzVDOFJnV0tPZz09yzQP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep7
+https://fvs.io/redirector?token=VGJWczRBUU5HNTZSenBDNHJXVHdEWlp3aVpUUUMzNVRncEhmVnlQZU0vV0tlNEJQSzRPTW00R3h5ZWo0VG9WZEl5NWprN0hNRklsTVdVQUVVcWV0bmFCTU5ZdEdvWlRDWmp3VmJxUjNCdC94S2lISFc4Ym94cTJRM1UzOU1DdmxOR3JHRCt0R0VCZkkwMEZVWTdoaWtBOFJML05WZ1RnN2NLWT06UXVjMk5LRzlWc3hKRk1Yb1FLRnZmUT09MS7n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep8
+https://fvs.io/redirector?token=ektzTUdRKzFXdDJoaGZ1b2YwT3NrK2NzTnVGZ1ZObWJMQTlaNEdjdEtIKzRyTXBsM0h4YjVQR1ZjZ3JybWNmdklVNEFJWHZldE9Qbjk4dUkvZ2psTWFNVmRzOEszUHRPUzJ6Nm5Ja1NGblR5UDRYbEg5Nkg3eGE1ZzJBckI0c1NlRVZXdWw0VllidWRpeCtBS3V2bERDRE1oUGx6Qnl1eXNSTT06UFlScUoyVTlzR3VTUlJVWitBbWh0dz09B3h9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep9
+https://fvs.io/redirector?token=OExjbFhlb2JZN044cWhWcFBzelViWVhKSWVTUitNWDJlZHdROXBlRnovU1FPaFMvTkI2YWxZdEdJdG5uaVBUbXRPZFRlS3JjeGdnZjYyUzBhWDMzdW10SzZYRzRiVElnbG5HbUF0cnJrR09mN0RISHc4dUVTdWRVWUVIWll5MUNIWVBUdFJCL0hDS2Npb0hHVlFzWjJqZEY2S2h4WjQ3azFEVT06TjZXQmhBajBmaXpzeE5mTTZUUjNqQT09F5Gs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep10
+https://fvs.io/redirector?token=bzVuWXV1R3NiLzQrSGFLbE83dmpuKzU4R0ZYWVlEbFMyTklUbXlTZVZHMnB2QVZ3dTlaZ3JiblNPeDVaT2lOc3dkM3gxMmlMeUhET3kvMU1JVU96N045YTFESFBKNnFReUtCS0wyWlMvSklDcFRUbFZmR0dCK01XV3ZHbXNyUW16eXJrTHRjYnBNZDhzMnBlRFFOOENIUUhwM1NHa2phdE1tWT06MTlxYWQ4am5HdmdyOGNnb1FlemFkQT09tJGM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep11
+https://fvs.io/redirector?token=clJqaHZTdENUMHRSbTBCOStHSUY5ZDd5T0dLeVVEUHloaE9Wd2g4d3BKOXlFRWNiL0FBY0kza1ZFUHJOMVVjZHV3V2VmMU5DNUVsY25RZElKUnQ0Q0JlMGo2UDg5OEVZSUhnWEF5KzJxM0dVaTgyZmREQkEwRGV3OEVEZVhuVmd2cERIUURIS2NPYlR2djFEczY4QXZSell4b2R6eVc4N3pLQT06RWJYa3VleSs1d1FMV0FqK2Z4aWFhZz09QQz4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="Saitama T2",Saitama T2 Ep12
+https://fvs.io/redirector?token=L2NmUzI4TWVaVTBYMFNhc2JEZ0x1Z0FkNS9ldHJBTzNKZEZIcXE4UmQ4OUFtY2xRNUE4NWR6bU5NQUVKSHlydkl2aVdKMk9CdG11M2FONDNWNDhMeGJHUXF1SkdlWklxZzBSbG4vNW5namRUSmcvL0JLcDJmNmxzcHJYNDZha3JJTk13MUVpblNZMDQ5bWtxMHhmWEVNQlFpbE5teFZCL1pGUT06dzBjY3ltSjJWU2ZPeEgwODRBNU4zUT09403A
 
 
 
