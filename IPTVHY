@@ -4,11 +4,9 @@ https://www.facebook.com/farrotv/videos/972005880139837
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://vsd96.mycdn.me/hls/2515118262855.m3u8/sig/w1Vobjn6Lkk/expires/1656026024563/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5565460127303/video.m3u8?p
+https://usher.ttvnw.net/api/channel/hls/am_012x.m3u8?allow_source=true&fast_bread=true&p=9946434&play_session_id=7f7e504ab1dc0cf895c7771962262bce&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=bacc7f13e450a3c0c7e8ed36a6969364263d8fad&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22am_012x%22%2C%22channel_id%22%3A799532377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1655992688%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.177.45%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1wGm4jG.jpeg" group-title="Noticias", ATV+ | PE
-https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias", Panamericana | PE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fytEG1u.png" group-title="News", TV Perú Noticias | PE
@@ -32,15 +30,20 @@ https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" group-title="Musica", Latin Mix Radio
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrayyzj.jpg" group-title="24/7", Alf Tv | PE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=wuf4WMqxCieI4-Ps0-WaNw&expires=1656001654&ip=181.66.177.45
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv 1 | PE
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1931542840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv 2 | PE
-https://vsd148.mycdn.me/hls/2538945448519.m3u8/sig/R0ei-9HMjIk/expires/1656026161678/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5586024865351/video.m3u8?p
+https://vsd121.mycdn.me/hls/2538945448519.m3u8/sig/JCNQkbtarP8/expires/1656077968194/srcIp/181.66.177.45/clientType/0/srcAg/CHROME_ANDROID/mid/5586024865351/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Z | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dn9bLmC.png" group-title="24/7",Chavo Tv 2 | PE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=vJqOksezl1l2N1_ZtBFiLA&expires=1656001995&ip=181.66.177.45
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z | PE
 https://vsd126.mycdn.me/hls/2538947938887.m3u8/sig/yk-vLlOhVvM/expires/1656026099321/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5586027748935/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Super | PE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=BCOta-eKifD-SJmCcAorWg&expires=1656001885&ip=181.66.177.45
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
@@ -62,9 +65,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-5eea60557408
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-5eea605574085f0040ddc79a.m3u8?X-Plex-Session-Identifier=sufd7bt5uriohm2upma9ygtn&X-Plex-Product=Plex%20Web&X-Plex-Version=4.83.2&X-Plex-Client-Identifier=8gge70bp3umsftd83337f5is&X-Plex-Platform=Chrome&X-Plex-Platform-Version=86.0&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x417%2C960x540&X-Plex-Token=A-mmyz5UsDnGwA4R4Eim&X-Plex-Language=es&Accept-Language=es
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [1]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network 1 [1]
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1hFkTL4.jpg" group-title="Infantil", Cartoon Network [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hFkTL4.jpg" group-title="Infantil", Cartoon Network 2 [2]
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
 
