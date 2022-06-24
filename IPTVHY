@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqBFu3r.png" group-title="Variado", HUARMEY TV
-https://usher.ttvnw.net/api/channel/hls/tvhuarmey.m3u8?allow_source=true&fast_bread=true&p=181330&play_session_id=6111146c076247f88e546e2c48ee3e3e&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=85f24b75c452092f925ed762a37c8f1ce5727e83&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvhuarmey%22%2C%22channel_id%22%3A691395306%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1655992955%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.177.45%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+https://www.youtube.com/embed/e-uLbwl3464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://usher.ttvnw.net/api/channel/hls/am_012x.m3u8?allow_source=true&fast_bread=true&p=9946434&play_session_id=7f7e504ab1dc0cf895c7771962262bce&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=bacc7f13e450a3c0c7e8ed36a6969364263d8fad&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22am_012x%22%2C%22channel_id%22%3A799532377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1655992688%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.177.45%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+https://usher.ttvnw.net/api/channel/hls/am_012x.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22am_012x%22%2C%22channel_id%22%3A799532377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1656091054%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.177.1%22%2C%22version%22%3A2%7D&sig=ef0ce4dc6f2b9079fca3739ce98be3cb50403af5&cdm=wv&player_version=1.10.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias", Panamericana | PE
@@ -30,20 +30,12 @@ https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" group-title="Musica", Latin Mix Radio
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yrayyzj.jpg" group-title="24/7", Alf Tv | PE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=wuf4WMqxCieI4-Ps0-WaNw&expires=1656001654&ip=181.66.177.45
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv 1 | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv | PE
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1931542840.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv 2 | PE
-https://vsd121.mycdn.me/hls/2538945448519.m3u8/sig/JCNQkbtarP8/expires/1656077968194/srcIp/181.66.177.45/clientType/0/srcAg/CHROME_ANDROID/mid/5586024865351/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dn9bLmC.png" group-title="24/7",Chavo Tv 2 | PE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=vJqOksezl1l2N1_ZtBFiLA&expires=1656001995&ip=181.66.177.45
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z | PE
-https://vsd126.mycdn.me/hls/2538947938887.m3u8/sig/yk-vLlOhVvM/expires/1656026099321/srcIp/181.66.177.10/clientType/0/srcAg/CHROME_ANDROID/mid/5586027748935/video.m3u8?p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOibYW0.jpg" group-title="24/7",Dragon ball Super | PE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=BCOta-eKifD-SJmCcAorWg&expires=1656001885&ip=181.66.177.45
+https://vsd66.mycdn.me/hls/2538947938887.m3u8/sig/Mw8ljR_i61I/expires/1656176366972/srcIp/181.66.177.1/clientType/0/srcAg/CHROME_ANDROID/mid/5586027748935/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
