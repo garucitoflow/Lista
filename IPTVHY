@@ -49,7 +49,7 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv | PE
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1931542840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z | PE
 https://vsd156.mycdn.me/hls/2561327106631.m3u8/sig/XcSXTL3T06M/expires/1656256933575/srcIp/181.66.151.194/clientType/0/srcAg/CHROME_ANDROID/mid/5606271098439/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
