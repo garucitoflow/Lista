@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bqBFu3r.png" group-title="Variado", HUARMEY TV
-https://videostreaming.cloudserverlatam.com:443/bmqjfhjtrb/bmqjfhjtrb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqBFu3r.png" group-title="24/7", HUARMEY TV | SaitamaT2
+https://videostreaming.cloudserverlatam.com:443/wdwwmbbyjw/wdwwmbbyjw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://usher.ttvnw.net/api/channel/hls/am_012x.m3u8?allow_source=true&fast_bread=true&p=6855222&play_session_id=b3b004016c949e21a2e3921b47e519ed&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=4218f0422185288258a93718d18a40bf302d619e&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22am_012x%22%2C%22channel_id%22%3A799532377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1656171652%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.151.194%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+https://usher.ttvnw.net/api/channel/hls/am_012x.m3u8?allow_source=true&fast_bread=true&p=5372394&play_session_id=441bb2f796b6f6edd9e5e37c58555b77&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=8eda41db6250ff46787b1ebfed02b847631d62d4&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22am_012x%22%2C%22channel_id%22%3A799532377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1656253411%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.151.122%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" group-title="Noticias", ATV | PE
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias", Panamericana | PE
@@ -48,10 +48,12 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w2024391076.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv | PE
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1931542840.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv2 | PE
+https://vsd67.mycdn.me/hls/2561325140551.m3u8/sig/uFZ2Llx0Q2U/expires/1656338722521/srcIp/181.66.177.61/clientType/0/srcAg/CHROME_ANDROID/mid/5606269918791/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z | PE
-https://vsd156.mycdn.me/hls/2561327106631.m3u8/sig/XcSXTL3T06M/expires/1656256933575/srcIp/181.66.151.194/clientType/0/srcAg/CHROME_ANDROID/mid/5606271098439/video.m3u8?p
+https://vsd94.mycdn.me/hls/2561327106631.m3u8/sig/5CSw5dBNOrs/expires/1656338649714/srcIp/181.66.177.61/clientType/0/srcAg/CHROME_ANDROID/mid/5606271098439/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
