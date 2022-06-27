@@ -39,12 +39,16 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroCinema.co.png" group-title="CINE HD",CINE HD | CLARO CINEMA
+http://stalkertvlatinopanel.com:8080/antonio/123456/104191
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" group-title="General",Proyecta Televisión
 https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka (Abancay)
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clbTCIJ.png" group-title="24/7",NETFLIX TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w2024391076.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuVFDIX.png" group-title="24/7",Caso Cerrado Tv | PE
+http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=907&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv | PE
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv2 | PE
@@ -65,6 +69,13 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="24/7",Pequeradio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/07/mr-bean-serie-animada.jpg" group-title="24/7",MR BEAN ANIMADO
+http://stalkertvlatinopanel.com:8080/antonio/123456/104207
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/375/dest_1.jpg" group-title="24/7",BOB ESPONJA
+http://stalkertvlatinopanel.com:8080/antonio/123456/104209
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_rY6iL1dRW5w/RvQRDuba5WI/AAAAAAAAAZg/CpoXig5Y9dE/s320/Looney+Tunes,+3.jpg" group-title="24/7",LOONEY TUNES
+http://stalkertvlatinopanel.com:8080/antonio/123456/104210
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Infantil",LatinoKids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
@@ -72,6 +83,10 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" group-title="Infantil",Huacho TV
 https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="INFANTILES HD",INFANTIL HD | BABY FIRST
+http://stalkertvlatinopanel.com:8080/antonio/123456/104196
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="INFANTILES HD",INFANTIL HD | NICKELODEON
+http://stalkertvlatinopanel.com:8080/antonio/123456/104197
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kexiwwP.png" group-title="Infantil", Toon Goggles
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-5eea605574085f0040ddc794.m3u8?X-Plex-Session-Identifier=pw3sftvz1j2vjcrqlc9w26oo&X-Plex-Product=Plex%20Web&X-Plex-Version=4.83.2&X-Plex-Client-Identifier=8gge70bp3umsftd83337f5is&X-Plex-Platform=Chrome&X-Plex-Platform-Version=86.0&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x417%2C960x540&X-Plex-Token=A-mmyz5UsDnGwA4R4Eim&X-Plex-Language=es&Accept-Language=es
