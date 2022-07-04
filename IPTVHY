@@ -1,35 +1,17 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="24/7", SAITAMA TV | TEMPORADA2
-https://videostreaming.cloudserverlatam.com:443/wdwwmbbyjw/wdwwmbbyjw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
 https://usher.ttvnw.net/api/channel/hls/am_012x.m3u8?allow_source=true&fast_bread=true&p=5430565&play_session_id=c907ee1949ac972e4bbc466221092910&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a32ca593e14c2acb27a87356412b18e3778b7abf&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22am_012x%22%2C%22channel_id%22%3A799532377%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1656432406%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.151.240%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
-#EXTINF:-1 tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="PERU SD",PERU SD | AMERICA TV
-http://stalkertvlatinopanel.com:8080/antonio/123456/6857
-#EXTINF:-1 tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="PERU HD",PERU HD | AMERICA TV
-http://stalkertvlatinopanel.com:8080/antonio/123456/6846
-#EXTINF:-1 tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" group-title="PERU HD",PERU FHD | AMERICA TV
-http://stalkertvlatinopanel.com:8080/antonio/123456/124120
-#EXTINF:-1 tvg-logo="https://static.epg.best/pe/ATV.pe.png" group-title="PERU HD",PERU HD | ATV
-http://stalkertvlatinopanel.com:8080/antonio/123456/6847
 #EXTINF:-1 tvg-logo="https://static.epg.best/pe/ATV.pe.png" group-title="Noticias", ATV HD [E]
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-EXTINF:-1 tvg-logo="https://static.epg.best/pe/ATV.pe.png" group-title="Noticias",PERU HD | ATV
-http://stalkertvlatinopanel.com:8080/antonio/123456/118971
-EXTINF:-1 tvg-logo="https://static.epg.best/pe/ATVPlus.pe.png" group-title="Noticias",PERU HD | ATV +
-http://stalkertvlatinopanel.com:8080/antonio/123456/118972
 EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias", Panamericana | PE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" group-title="Noticias", TV Perú Noticias | PE
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/URjtPLB.png" group-title="Noticias",Willax TV | PE
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0W9w29U6k3W1YHYLQZhnu_8gq8L0oq7oCOojtNk0eHfkG4alcciTQAtlkdC4UesboQ&dmTs=746027&dmV1st=2C04B7968D37F320EDF9873F9B8BF662
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv.png" group-title="Noticias",Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/6a/23/746a2351b447660e738281490be3b50e.png" group-title="PERU HD",PERU HD | GOL PERU
-http://stalkertvlatinopanel.com:8080/antonio/123456/118066
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña
@@ -55,9 +37,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroCinema.co.png" group-title="CINE HD",CINE HD | CLARO CINEMA
-http://stalkertvlatinopanel.com:8080/antonio/123456/104191
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" group-title="General",Proyecta Televisión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" group-title="Entertainment",Proyecta Televisión
 https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka (Abancay)
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
@@ -84,150 +64,6 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="206" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="24/7",Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="24/7",Pequeradio TV
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2020/07/mr-bean-serie-animada.jpg" group-title="24/7",MR BEAN ANIMADO
-http://stalkertvlatinopanel.com:8080/antonio/123456/104207
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/series/posters/300/375/dest_1.jpg" group-title="24/7",BOB ESPONJA
-http://stalkertvlatinopanel.com:8080/antonio/123456/104209
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_rY6iL1dRW5w/RvQRDuba5WI/AAAAAAAAAZg/CpoXig5Y9dE/s320/Looney+Tunes,+3.jpg" group-title="24/7",LOONEY TUNES
-http://stalkertvlatinopanel.com:8080/antonio/123456/104210
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DRAGON BALL Z
-http://stalkertvlatinopanel.com:8080/antonio/123456/901
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | LOS SIMPSON
-http://stalkertvlatinopanel.com:8080/antonio/123456/948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | BOB ESPONJA
-http://stalkertvlatinopanel.com:8080/antonio/123456/6785
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Super.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DRAGON BALL SUPER
-http://stalkertvlatinopanel.com:8080/antonio/123456/6786
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DRAGON BALL GT
-http://stalkertvlatinopanel.com:8080/antonio/123456/6787
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DRAGON BALL Z
-http://stalkertvlatinopanel.com:8080/antonio/123456/6788
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | CHAVO DEL OCHO ANIMADO
-http://stalkertvlatinopanel.com:8080/antonio/123456/6789
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Lafamiliapluche.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | LA FAMILIA PELUCHE TEMPORADA 2 Y 3
-http://stalkertvlatinopanel.com:8080/antonio/123456/6790
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | CABALLERO DEL ZODIACO
-http://stalkertvlatinopanel.com:8080/antonio/123456/6792
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/MitM_credits_logo.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | MALCOM IN THE MIDDLE TEMPORADA 1 2 3
-http://stalkertvlatinopanel.com:8080/antonio/123456/6793
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | EL CHAVO DEL OCHO
-http://stalkertvlatinopanel.com:8080/antonio/123456/6795
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ben_10_reboot_logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | BEN 10
-http://stalkertvlatinopanel.com:8080/antonio/123456/6797
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Atkinson_Rowan.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | MR BEAN
-http://stalkertvlatinopanel.com:8080/antonio/123456/6798
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/All_3_eds.png/200px-All_3_eds.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | ED EDD Y EDDY
-http://stalkertvlatinopanel.com:8080/antonio/123456/6801
-#EXTINF:-1 tvg-logo="https://i.blogs.es/ef67e3/futurama/450_1000.jpeg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | FUTURAMA
-http://stalkertvlatinopanel.com:8080/antonio/123456/6802
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Yu-Gi-Oh%21_vol_01.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | YU-GI-OH!
-http://stalkertvlatinopanel.com:8080/antonio/123456/6803
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Animaniacs_2020_tv_series_cover.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | ANIMANIACS
-http://stalkertvlatinopanel.com:8080/antonio/123456/6804
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Thundercats.png/250px-Thundercats.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | THUNDERCATS
-http://stalkertvlatinopanel.com:8080/antonio/123456/87518
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | CABALLERO DEL ZODIACO
-http://stalkertvlatinopanel.com:8080/antonio/123456/87521
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | PICAPIEDRAS
-http://stalkertvlatinopanel.com:8080/antonio/123456/87523
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | POKEMON
-http://stalkertvlatinopanel.com:8080/antonio/123456/87525
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DISNEY PIXAR
-http://stalkertvlatinopanel.com:8080/antonio/123456/87528
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DREAMWORKS
-http://stalkertvlatinopanel.com:8080/antonio/123456/95181
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/05/El_bebe.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | EL BEBE JEFAZO
-http://stalkertvlatinopanel.com:8080/antonio/123456/95182
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | GARFIELD Y SUS AMIGOS
-http://stalkertvlatinopanel.com:8080/antonio/123456/95183
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gravity_Falls_logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | GRAVITY FALLS
-http://stalkertvlatinopanel.com:8080/antonio/123456/95184
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/HotelTransylvania.jpg/220px-HotelTransylvania.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | HOTEL TRANSILVANIA
-http://stalkertvlatinopanel.com:8080/antonio/123456/95185
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Johnny_Test_Title_Logo.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | JOHNNY TEST
-http://stalkertvlatinopanel.com:8080/antonio/123456/95186
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/08/10/11/590012.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | LA CASA DE MICKEY MOUSE
-http://stalkertvlatinopanel.com:8080/antonio/123456/95188
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/62/9f/9d/629f9d3a223489e76f710248ac0a826f.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | LA PRINCESA SOFIA
-http://stalkertvlatinopanel.com:8080/antonio/123456/95189
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/32yoyMPjw0tpPk4xmhkXT3gypkc.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | LADYBUG
-http://stalkertvlatinopanel.com:8080/antonio/123456/95190
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/52/Supercampeones.jpg/revision/latest?cb=20200915223659&path-prefix=es" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | SUPER CAMPEONES
-http://stalkertvlatinopanel.com:8080/antonio/123456/100826
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2a/Barbie_Dreamhouse_Adventures_Poster_2.jpg/revision/latest?cb=20180610211414&path-prefix=es" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | BARBIE DREAMHOUSE ADVENTURES
-http://stalkertvlatinopanel.com:8080/antonio/123456/100828
-#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/fonds/poster/a17e5a74619e5f5980c4f99a3483cb47.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | BIRDMAN THE GALAXY TRIO
-http://stalkertvlatinopanel.com:8080/antonio/123456/100829
-#EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/60600/60636/1.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DIGIMON ADVENTURE
-http://stalkertvlatinopanel.com:8080/antonio/123456/100830
-#EXTINF:-1 tvg-logo="https://www.srgeekarg.com/wp-content/uploads/2021/04/Disenchantment-s3-portada.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DISENCHATMENT
-http://stalkertvlatinopanel.com:8080/antonio/123456/100831
-#EXTINF:-1 tvg-logo="https://serieslan.com/tb/dyp.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | DON GATO Y SU PANDILLA
-http://stalkertvlatinopanel.com:8080/antonio/123456/100832
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4e/PosterChapulinAnimado.jpg/revision/latest/top-crop/width/360/height/450?cb=20160104002357&path-prefix=es" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | EL CHAPULIN COLORADO ANIMADO
-http://stalkertvlatinopanel.com:8080/antonio/123456/100833
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/08/23/15/40/2781440.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | HIGH SCHOOL MUSICAL
-http://stalkertvlatinopanel.com:8080/antonio/123456/100834
-#EXTINF:-1 tvg-logo="https://i.blogs.es/a03c27/lejanas/450_1000.jpeg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | HORA DE AVENTURA TEMPORADA 1 2 3
-http://stalkertvlatinopanel.com:8080/antonio/123456/100835
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/27/00/10/3716633.png" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | KUNG FU PANDA
-http://stalkertvlatinopanel.com:8080/antonio/123456/100836
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-h78nc3sxe1Q/Xv5BXQ0eIfI/AAAAAAAAA78/5_9ELS1lXYI8vJeN-7Us0AVUgv0ed-1mgCLcBGAsYHQ/s400/descargar-las-aventuras-de-super-mario-bros-3-serie-completa-latino-1990.jpg" group-title="24/7 SERIES INFANTILES (Dual Audio)",24/7 SERIES INFANTILES (Dual Audio) | PEPPA PIG
-http://stalkertvlatinopanel.com:8080/antonio/123456/100837
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Lafamiliapluche.jpg" group-title="24/7 SERIES COMEDIA (Dual Audio)",24/7 SERIES COMEDIA (Dual Audio) | LA FAMILIA PELUCHE TEMPORADA 1
-http://stalkertvlatinopanel.com:8080/antonio/123456/6796
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="24/7 SERIES COMEDIA (Dual Audio)",24/7 SERIES COMEDIA (Dual Audio) | KENAL Y KEL
-http://stalkertvlatinopanel.com:8080/antonio/123456/95187
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Walking_Dead_Season_3_Official_Poster.jpg/220px-Walking_Dead_Season_3_Official_Poster.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | THE WALKING DEAD
-http://stalkertvlatinopanel.com:8080/antonio/123456/87517
-#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/263818/263818_173x242.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | ORDEN SECRETA
-http://stalkertvlatinopanel.com:8080/antonio/123456/100839
-#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Outcast-2016.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | OUTCAST
-http://stalkertvlatinopanel.com:8080/antonio/123456/100840
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/2a/Parasyte_-the_maxim-.jpg/revision/latest/top-crop/width/360/height/450?cb=20160928145920&path-prefix=es" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | PARASYTE THE MAXIM
-http://stalkertvlatinopanel.com:8080/antonio/123456/100841
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/24/11/43/4884372.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | PENNY DREADFULL
-http://stalkertvlatinopanel.com:8080/antonio/123456/100842
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/02/23/15/43/145751.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | SLASHER
-http://stalkertvlatinopanel.com:8080/antonio/123456/100843
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/16/39/4888520.jpg?coixp=51&coiyp=36" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | STRANGER THINGS
-http://stalkertvlatinopanel.com:8080/antonio/123456/100844
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--LX0OO3Sl6Y/X6cuH7uLEMI/AAAAAAAABsU/R0M2vcCmdIEa3EUU4yWounsuAyKLXpUFgCLcBGAsYHQ/s16000/05x17.%2BEl%2BAmuleto%2Bde%2Bla%2BSuerte.avi_thumbs_%255B2020.11.07_06.07.13%255D.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | THE VAMPIRE DIARIES
-http://stalkertvlatinopanel.com:8080/antonio/123456/100845
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/iZombie_Serie_de_TV-400542199-mmed.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | !ZOMBIES TEMPORADA 1 2
-http://stalkertvlatinopanel.com:8080/antonio/123456/100846
-#EXTINF:-1 tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/04/al-borde-de-la-realidad-latinoamerica-poster.jpeg?fit=426%2C597&ssl=1" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | HAUNTED
-http://stalkertvlatinopanel.com:8080/antonio/123456/100847
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/13/09/31/063864.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | FROM DUSK TILL DAWN THE SERIES
-http://stalkertvlatinopanel.com:8080/antonio/123456/100848
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZkYTRjMWQtZThiOS00MjJlLWFkNDktNzNhODNhOWNlNjdjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | FEAR THE WALKING DEAD
-http://stalkertvlatinopanel.com:8080/antonio/123456/100849
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmViMGI3NDYtYzIzNi00OTVlLWI1YjMtNDJiNmVmMzE3NjUxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR93,0,630,1200_AL_.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | ESCALOFRIOS
-http://stalkertvlatinopanel.com:8080/antonio/123456/100850
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/22/02/56/2323749.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | EL MUNDO OCULTO DE SABRINA
-http://stalkertvlatinopanel.com:8080/antonio/123456/100851
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles-series/100/191/002_p.jpg" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | EL EXORCISTA
-http://stalkertvlatinopanel.com:8080/antonio/123456/100852
-#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/12/cartel-castle-rock-2.jpeg?itok=sVEIdVYt" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 | CATLE ROCK
-http://stalkertvlatinopanel.com:8080/antonio/123456/100853
-#EXTINF:-1 tvg-logo="https://menudocaramelito.files.wordpress.com/2017/01/ash-vs-evil-dead-season-2-poster1-1.jpg?w=900" group-title="24/7",24/7 SERIES TERROR (Dual Audio) | ASH VS EVIL DEAD
-http://stalkertvlatinopanel.com:8080/antonio/123456/100854
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="24/7 SERIES TERROR (Dual Audio)",24/7 SERIES TERROR (Dual Audio) | AMERICAN HORROR STORY
-http://stalkertvlatinopanel.com:8080/antonio/123456/100855
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/250px-Marvel_Logo.svg.png" group-title="24/7 SERIES ACCION (Dual Audio)",24/7 SERIES ACCION (Dual Audio) | MARVEL
-http://stalkertvlatinopanel.com:8080/antonio/123456/87513
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png" group-title="24/7 SERIES ACCION (Dual Audio)",24/7 SERIES ACCION (Dual Audio) | BREAKING BAD
-http://stalkertvlatinopanel.com:8080/antonio/123456/87520
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ElFinalDelPara%C3%ADsoLogo.png/245px-ElFinalDelPara%C3%ADsoLogo.png" group-title="24/7 TELENOVELAS (Dual Audio)",24/7 TELENOVELAS (Dual Audio) | EL FINAL DEL PARAISO
-http://stalkertvlatinopanel.com:8080/antonio/123456/88571
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="24/7 TELENOVELAS (Dual Audio)",24/7 TELENOVELAS (Dual Audio) | NARCO MEXICO
-http://stalkertvlatinopanel.com:8080/antonio/123456/88572
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Narcos_season_1.png/250px-Narcos_season_1.png" group-title="24/7 TELENOVELAS (Dual Audio)",24/7 TELENOVELAS (Dual Audio) | NARCO
-http://stalkertvlatinopanel.com:8080/antonio/123456/88573
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/El_Chapo_Netflix_poster.jpg" group-title="24/7 TELENOVELAS (Dual Audio)",24/7 TELENOVELAS (Dual Audio) | EL CHAPO
-http://stalkertvlatinopanel.com:8080/antonio/123456/88574
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Infantil",LatinoKids
