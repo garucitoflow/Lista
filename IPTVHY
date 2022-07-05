@@ -16,6 +16,8 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Música",Karibeña
 https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:0,Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nTHlKMR.png" group-title="Música",KBO Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Música",Radio Chalaca
@@ -70,12 +72,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?Playlis
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Infantil",Chicos IPe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" group-title="Infantil",Huacho TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="INFANTILES HD",INFANTIL HD | BABY FIRST
-http://stalkertvlatinopanel.com:8080/antonio/123456/104196
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="INFANTILES HD",INFANTIL HD | NICKELODEON
-http://stalkertvlatinopanel.com:8080/antonio/123456/104197
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kexiwwP.png" group-title="Infantil", Toon Goggles
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3df3-5eea605574085f0040ddc794.m3u8?X-Plex-Session-Identifier=pw3sftvz1j2vjcrqlc9w26oo&X-Plex-Product=Plex%20Web&X-Plex-Version=4.83.2&X-Plex-Client-Identifier=8gge70bp3umsftd83337f5is&X-Plex-Platform=Chrome&X-Plex-Platform-Version=86.0&X-Plex-Features=external-media%2Cindirect-media&X-Plex-Model=hosted&X-Plex-Device=Android&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=980x417%2C960x540&X-Plex-Token=A-mmyz5UsDnGwA4R4Eim&X-Plex-Language=es&Accept-Language=es
