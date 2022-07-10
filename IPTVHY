@@ -38,7 +38,6 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Música",Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" group-title="Entertainment",Proyecta Televisión
@@ -49,31 +48,38 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w2024391076.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuVFDIX.png" group-title="24/7",Caso Cerrado Tv | PE
 http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=907&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="Infantil",Los Simpsoms Tv | PE
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="24/7",Los Simpsoms Tv2 | PE
-https://vsd123.mycdn.me/hls/2602067429959.m3u8/sig/j82X4IUnAAM/expires/1657322645705/srcIp/181.66.151.211/clientType/0/srcAg/CHROME_ANDROID/mid/5640893439559/video.m3u8?p
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="24/7",Chavo Tv | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" group-title="Infantil",Los Simpsoms Tv2 | PE
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Infantil",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="24/7",Dragon ball Z | PE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="Infantil",Dragon ball Z | PE
 https://vsd138.mycdn.me/hls/2602065988167.m3u8/sig/3iuZEf_S3zs/expires/1657322589191/srcIp/181.66.151.211/clientType/0/srcAg/CHROME_ANDROID/mid/5640891735623/video.m3u8?p
-#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="24/7",Looney Toons [Dreiko]
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="Infantil",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="24/7",Kids90
+#EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Kids90.png" group-title="Infantil",Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="48" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png" group-title="24/7",Loko Kids
+#EXTINF:-1 tvg-id="48" tvg-logo="https://www.m3u.cl/logo/48_Cloud_Server_Kids.png" group-title="Infantil",Loko Kids
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1015" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="24/7",Planetatv Kids
+#EXTINF:-1 tvg-id="1015" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="Infantil",Planetatv Kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="206" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="24/7",Paka Paka
+#EXTINF:-1 tvg-id="206" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg" group-title="Infantil",Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="24/7",Pequeradio TV
-
-
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg" group-title="Infantil",PequeRadio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.imgur.com/khUQUCD.png" group-title="Infantil",Baby Shark V
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.imgur.com/DR21AGi.png" group-title="Infantil",Lego TV
+https://legochannel-roku.amagi.tv:443/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Infantil",LatinoKids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Infantil",Chicos IPe
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jfjCGOp.jpg" group-title="Infantil",Duck TV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network 1 [1]
@@ -82,6 +88,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E99QRTV.png" group-title="Sports", Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animé & Gaming",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
