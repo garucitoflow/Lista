@@ -14,12 +14,6 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dU22Sq.png" group-title="Movies",SpaceHD
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/knqYtNS.png" group-title="Movies",SyFyHD
-https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDYzTsN.png" group-title="Movies",A&EHD
-https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD-avc1_1344000=10001.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVArBYu.png" group-title="Religion",Bethel TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8
 
