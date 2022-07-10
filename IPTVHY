@@ -14,6 +14,10 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Noticias",Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39yO6k9.jpg" group-title="Entretenimiento",NatGeoHD
+https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoCgMf2.png" group-title="Entretenimiento",Discovery Chanel
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" group-title="Radio",Radio Moda
@@ -40,9 +44,9 @@ https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
 https://eu2.serviaudio.com/8008/stream
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Música",Karibeña
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Música",Karibeña TV
 https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y37ookm.jpg" group-title="Música",FoxMix | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y37ookm.jpg" group-title="Música",FoxMix TV
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Música",Best Cable Más Cumbia
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
