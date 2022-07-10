@@ -17,23 +17,25 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" group-title="Radio",Radio Moda
-https://23103.live.streamtheworld.com/CRP_MODAAC_TOKEN.aac?tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3Njk2OCwiZXhwIjoxNjU3NDc2OTgzLCJhdWQiOiJ0ZCIsImlzcyI6InBsYXllciIsInN1YiI6Ik9wZW5TdHJlYW1pbmcifQ.eJbO17S6BDBlUdMNDUWEOLfN_6-qWfLvDAM9lUvVcYY&csegid=1010&dist=1010&ttag=crp%3Ap1crp&tdsdk=js-%40td&lat=-12&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=6b25c4fe-92da-40ed-f311-73a84dcd1910
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
 #EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" group-title="Radio",Nueva Q
-https://18813.live.streamtheworld.com/CRP_NQ_ADP.aac?autoplay=1&tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJzdWIiOiJPcGVuU3RyZWFtaW5nQXBwIiwiaXNzIjoicGxheWVyIiwiYXVkIjoidGQiLCJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3NzIzOCwiZXhwIjoxNjU3NDc3Mjk4fQ.edrEvaaDTdYWEGDJl5cw2anlzAW8pv1PjCWoyRw62AE&csegid=40001&dist=1010&ttag=40001&tdsdk=js-%40td&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=e9562956-7945-4a5e-cb6a-df93ee5aa7cb
-#EXTINF:-1 tvg-logo="https://lainolvidable.pe/assets/images/logo-lainolvidable-2020.png" group-title="Radio",Radio La Inolvidable
-https://23043.live.streamtheworld.com/CRP_LIAAC_TOKEN.aac?tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3NzQyNCwiZXhwIjoxNjU3NDc3NDM5LCJhdWQiOiJ0ZCIsImlzcyI6InBsYXllciIsInN1YiI6Ik9wZW5TdHJlYW1pbmcifQ.pxT8U3OXZZqrjleWgy2cua-maxyhP52CfYwhuVj-aaU&csegid=1010&dist=1010&ttag=crp%3Ap1crp&tdsdk=js-%40td&lat=-12&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=5c0925cc-fe2a-46dd-e95c-72501e41bb6e
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" group-title="Radio",Radio La Zona
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="Radio",Radio Mar
-https://18443.live.streamtheworld.com/CRP_MARAAC_TOKEN.aac?tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3NzQ4MSwiZXhwIjoxNjU3NDc3NDk2LCJhdWQiOiJ0ZCIsImlzcyI6InBsYXllciIsInN1YiI6Ik9wZW5TdHJlYW1pbmcifQ.uiuAzm3xqKEJvKhIwSbBKeYHtXJ5UXj9KP8CTyAb6TY&csegid=1010&dist=1010&ttag=crp%3Ap1crp&tdsdk=js-%40td&lat=-12&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=cf99a4d5-0b2b-443d-d311-3c89e0589c95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
 #EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" group-title="Radio",Radio Oasis
-https://14003.live.streamtheworld.com/CRP_OASAAC_TOKEN.aac?tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3NzU5NCwiZXhwIjoxNjU3NDc3NjA5LCJhdWQiOiJ0ZCIsImlzcyI6InBsYXllciIsInN1YiI6Ik9wZW5TdHJlYW1pbmcifQ.8YkCS0VPq_6Za8Q8VD3___U5OHKfkV548biio53Wegs&csegid=1010&dist=1010&ttag=crp%3Ap1crp&tdsdk=js-%40td&lat=-12&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=4ce7790a-1f89-4f46-f17a-162dfca8ae05
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
 #EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" group-title="Radio",Radio Planeta
-https://18153.live.streamtheworld.com/CRP_PLAAAC_TOKEN.aac?tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3Nzc1NiwiZXhwIjoxNjU3NDc3NzcxLCJhdWQiOiJ0ZCIsImlzcyI6InBsYXllciIsInN1YiI6Ik9wZW5TdHJlYW1pbmcifQ.JS2PR8YZtSiYXYTfUiO1wraTwqfdYckveADchdoNVbo&csegid=1010&dist=1010&ttag=crp%3Ap1crp&tdsdk=js-%40td&lat=-12&long=-77&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=feee69b9-7c9d-4129-b2aa-cc01ec638298
-#EXTINF:-1 tvg-logo="http://radiomagica.pe/assets/images/logo-mediano.png" group-title="Radio",Radio Magica
-http://19263.live.streamtheworld.com/MAGAAC_TOKEN.aac?tdtok=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkRHODNKIn0.eyJ0ZC1yZWciOnRydWUsImlhdCI6MTY1NzQ3Nzg0MSwiZXhwIjoxNjU3NDc3ODU2LCJhdWQiOiJ0ZCIsImlzcyI6InBsYXllciIsInN1YiI6Ik9wZW5TdHJlYW1pbmcifQ.rYyxWg8CfhSbTmBTOqMLHdoeLzRZUwyD_ccm-xE14T0&csegid=1010&dist=1010&ttag=crp%3Ap1crp&tdsdk=js-%40td&pname=TDSdk&pversion=%40td&banners=300x250%2C728x90&sbmid=c466b37c-9dd7-4566-87d0-84b0e8681563
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" group-title="Radio",Radio Onda Cero
+https://www.planetaradios.com/radios-lima/13/onda-cero
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Radio",Radio Chalaca
 https://conectperu.com/8084/stream
 #EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" group-title="Radio",Radio La Ribereña
 http://167.114.118.120:7274/;stream
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" group-title="Radio",Radio Nova
+https://eu2.serviaudio.com/8008/stream
 #EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/jerusalen454444d.png" group-title="Radio",Radio Jerusalen
 https://eu2.serviaudio.com/8008/stream
 
