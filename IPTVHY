@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" group-title="Noticias", LATINA HD [E]
-https://livev2-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8?aid=5ce70c587398b977dc0743b5&uid=copqke4k2h86muxek50lqbc0mocvrugj&sid=5iqoaod5eul04tj4num7yefpxnqg2ftc&pid=nqizmaqcv6fbcpsnk6bcwh5swlhyenkv&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&listenerid=&dnt=true&es=livev2-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=hhdhtrxxzopndinjk14chetujuo1dpvhzosimig8ep1nivpjf8ard8vxnkemc9muelty4gi3yyq&manifestfilter=video_height:360-480&hash=0be05b555043eb6e4fd2e
+https://vsd75.mycdn.me/hls/2577509583431.m3u8/sig/bx5unMVQ-m8/expires/1657672018174/srcIp/181.66.151.50/clientType/0/srcAg/CHROME_ANDROID/mid/5619659775559/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EwEy63.png" group-title="Noticias", AMERICA SD [E]
-https://usher.ttvnw.net/api/channel/hls/me_015.m3u8?allow_source=true&fast_bread=true&p=2513814&play_session_id=5865370b7957728bccbc0e0c398278ab&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=b4285fd6f7fbc26a60805617675c7e70aa9d8db2&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22me_015%22%2C%22channel_id%22%3A806551533%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1657480010%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.177.33%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+https://usher.ttvnw.net/api/channel/hls/me_015.m3u8?allow_source=true&fast_bread=true&p=6256105&play_session_id=f9c55f1d3de41b1723e65100eea0f65b&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=c80f22353ff0047daefcff1a48a440fb2fe13512&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22me_015%22%2C%22channel_id%22%3A806551533%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78e42912002cf76%22%2C%22expires%22%3A1657586777%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.176.70%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
 #EXTINF:-1 tvg-logo="https://static.epg.best/pe/ATV.pe.png" group-title="Noticias", ATV HD [E]
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" group-title="Noticias", Panamericana | PE
@@ -16,29 +16,6 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVArBYu.png" group-title="Religion",Bethel TV
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" group-title="Radio",Radio Moda
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
-#EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" group-title="Radio",Radio Nueva Q
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" group-title="Radio",Radio La Zona
-https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
-#EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="Radio",Radio Mar
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
-#EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" group-title="Radio",Radio Oasis
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
-#EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" group-title="Radio",Radio Planeta
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" group-title="Radio",Radio Onda Cero
-https://streaming.gometri.com/stream/8011/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Radio",Radio Chalaca
-https://conectperu.com/8084/stream
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" group-title="Radio",Radio La Ribereña
-http://167.114.118.120:7274/;stream
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" group-title="Radio",Radio Nova
-https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/jerInfantillen454444d.png" group-title="Radio",Radio JerInfantillen
-https://eu2.serviaudio.com/8008/stream
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Música",Karibeña TV
@@ -78,7 +55,7 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" group-title="Infantil",Chavo Tv | PE
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3KpTfTA.jpg" group-title="Infantil",Dragon ball Z | PE
-https://vsd75.mycdn.me/hls/2613234371143.m3u8/sig/nhJlwW49VWg/expires/1657565278620/srcIp/181.66.177.33/clientType/0/srcAg/CHROME_ANDROID/mid/5650562358855/video.m3u8?p
+https://vsd123.mycdn.me/hls/2613234371143.m3u8/sig/ElgnZ3U5z7s/expires/1657672069202/srcIp/181.66.151.50/clientType/0/srcAg/CHROME_ANDROID/mid/5650562358855/video.m3u8?p
 #EXTINF:-1 tvg-id="52" tvg-logo="https://i.imgur.com/FCMLq9A.png" group-title="Infantil",Looney Toons [Dreiko]
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1035" tvg-logo="https://www.m3u.cl/logo/1035_Infantil90.png" group-title="Infantil",Infantil90
@@ -593,3 +570,24 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympInfantilt-sabermas-distr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympInfantilt-flash-distro/playlist.m3u8?c_producer=Flash&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=0
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="Películas",Chiquilines [E]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympInfantilt-chiquilines-distro/playlist.m3u8?c_producer=Chiquilines&dnt=0&app_bundle=&app_name=DistroTV&app_store_url=&did=59d3295f-04ce-40a8-ae0c-9eeb030665a3&app_domain=&device_make=&device_model=&coppa=1
+
+#EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" group-title="Radio",Radio Moda
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
+#EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" group-title="Radio",Radio Nueva Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" group-title="Radio",Radio La Zona
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" group-title="Radio",Radio Mar
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
+#EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" group-title="Radio",Radio Oasis
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" group-title="Radio",Radio Planeta
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" group-title="Radio",Radio Onda Cero
+https://streaming.gometri.com/stream/8011/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Radio",Radio Chalaca
+https://conectperu.com/8084/stream
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" group-title="Radio",Radio La Ribereña
+http://167.114.118.120:7274/;stream
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" group-title="Radio",Radio Nova
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
