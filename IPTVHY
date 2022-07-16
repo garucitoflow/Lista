@@ -19,8 +19,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe
 http://bgapp.live/play/14--703.php?c=515&dir=blaackcghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230953" tvg-name="La Rosa de Guadalupe 24/7" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png", La Rosa de Guadalupe 24/7
 http://bgapp.live/play/14--703.php?c=886&dir=blaackcghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
-#EXTINF:-1 tvg-id="230952" tvg-name="La Pequeña Lulu 24/7" tvg-logo="http://x.playerlatino.live/lapequenalulu.png", La Pequeña Lulu 24/7
-http://bgapp.live/play/14--703.php?c=792&dir=blaackcghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230951" tvg-name="Le Temes a la Oscuridad 24/7" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png", Le Temes a la Oscuridad 24/7
 http://bgapp.live/play/14--703.php?c=888&dir=blaackcghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230959" tvg-name="Bleach 24/7" tvg-logo="http://x.playerlatino.live/bleach.png", Bleach 24/7
