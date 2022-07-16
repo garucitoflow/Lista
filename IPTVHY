@@ -1,5 +1,3 @@
-#EXTM3U 
-
 #EXTINF:-1 tvg-id="225471" tvg-name="LATINA TV HD" tvg-logo="https://i.imgur.com/4VrEFIN.png", LATINA TV HD
 http://bgapp.live/play/14--777.php?c=317&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230805" tvg-name="AMERICA TV HD" tvg-logo="https://i.imgur.com/WrizX55.png", AMERICA TV HD
@@ -20,8 +18,6 @@ http://bgapp.live/play/14--777.php?c=515&dir=blaaackghost&f=.m3u8|user-agent=Dal
 http://bgapp.live/play/14--777.php?c=886&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230951" tvg-name="Le Temes a la Oscuridad 24/7" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png", Le Temes a la Oscuridad 24/7
 http://bgapp.live/play/14--777.php?c=888&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
-#EXTINF:-1 tvg-id="230959" tvg-name="Bleach 24/7" tvg-logo="http://x.playerlatino.live/bleach.png", Bleach 24/7
-http://bgapp.live/play/14--777.php?c=883&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230949" tvg-name="One Punch Man 24/7" tvg-logo="http://x.playerlatino.live/onepunchman.png", One Punch Man 24/7
 http://bgapp.live/play/14--777.php?c=661&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230945" tvg-name="Smallville 24/7" tvg-logo="http://x.playerlatino.live/smallville.png", Smallville 24/7
@@ -36,6 +32,8 @@ http://bgapp.live/play/14--777.php?c=417&dir=blaaackghost&f=.m3u8|user-agent=Dal
 http://bgapp.live/play/14--777.php?c=418&dir=blaackcghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230911" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png", Naruto 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
+#EXTINF:-1 tvg-id="230985" tvg-name="Animaniacs 24/7" tvg-logo="http://x.playerlatino.live/animaniacs.png", Animaniacs 24/7
+http://bgapp.live/play/14--777.php?c=677&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230969" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="http://x.playerlatino.live/yugioh.png", Yu-Gi-Oh! 24/7
 http://bgapp.live/play/14--777.php?c=664&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230915" tvg-name="Yu-Gi-Oh 24/7" tvg-logo="https://i.imgur.com/UunUcyi.jpg", Yu-Gi-Oh 24/7
@@ -84,6 +82,8 @@ https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230131" tvg-name="Los Simpsoms 24/7" tvg-logo="https://i.imgur.com/bmEU4pe.png", Los Simpsoms 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="231002" tvg-name="Futurama 24/7" tvg-logo="https://i.imgur.com/u8H8LVZ.jpg", Futurama 24/7
+http://bgapp.live/play/14--777.php?c=793&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230123" tvg-name="Cartoon Network 1" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="230126" tvg-name="Cartoon Network 2" tvg-logo="https://i.imgur.com/HYBD4CM.png", Cartoon Network 2
