@@ -1,1183 +1,893 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 03", BLACKGHOST 03
-http://bgapp.live/TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 03",  http://paypal.me/blackghost
-http://bgapp.live/TV
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" nada="Peru" group-title="Lista 01", America
+http://bgapp.live/play/14--703.php?c=780&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" nada="Peru" group-title="Lista 01", Latina TV
+http://bgapp.live/play/14--703.php?c=317&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="https://static.epg.best/pe/ATV.pe.png" nada="Peru" group-title="Lista 01", ATV HD [E]
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Peru" group-title="Lista 01", Panamericana | PE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Peru" group-title="Lista 01", TV Perú Noticias | PE
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 
 
-#EXTINF:-1 group-title="Lista 03", A&E
-http://gratis.shortgod.com/noratonespppp/tv3.php?c=26270
-#EXTINF:-1 group-title="Lista 03", ADN 40
-http://el-pe/?c=26271
-#EXTINF:-1 group-title="Lista 03", AMC
-http://el-pe/?c=26272
-#EXTINF:-1 group-title="Lista 03", Animal Planet
-http://el-pe/?c=26273
-#EXTINF:-1 group-title="Lista 03", Antena 3
-http://el-pe/?c=26274
-#EXTINF:-1 group-title="Lista 03", A+
-http://el-pe/?c=26275
-#EXTINF:-1 group-title="Lista 03", AXN
-http://el-pe/?c=26276
-#EXTINF:-1 group-title="Lista 03", AyM Sports
-http://el-pe/?c=26277
-#EXTINF:-1 group-title="Lista 03", Az Cinema
-http://el-pe/?c=26278
-#EXTINF:-1 group-title="Lista 03", Az Clic
-http://el-pe/?c=26279
-#EXTINF:-1 group-title="Lista 03", Az Corazon
-http://el-pe/?c=26280
-#EXTINF:-1 group-title="Lista 03", Az Mundo
-http://el-pe/?c=26281
-#EXTINF:-1 group-title="Lista 03", Azteca 7
-http://el-pe/?c=26282
-#EXTINF:-1 group-title="Lista 03", Azteca UNO
-http://el-pe/?c=26283
-#EXTINF:-1 group-title="Lista 03", Baby TV
-http://el-pe/?c=26284
-#EXTINF:-1 group-title="Lista 03", Bandamax
-http://el-pe/?c=26285
-#EXTINF:-1 group-title="Lista 03", BitMe
-http://el-pe/?c=26286
-#EXTINF:-1 group-title="Lista 03", Boomerang
-http://el-pe/?c=26287
-#EXTINF:-1 group-title="Lista 03", Canal 11
-http://el-pe/?c=26288
-#EXTINF:-1 group-title="Lista 03", Canal 5
-http://el-pe/?c=26289
-#EXTINF:-1 group-title="Lista 03", Cartoon Network
-http://el-pe/?c=26290
-#EXTINF:-1 group-title="Lista 03", Cinecanal
-http://el-pe/?c=26291
-#EXTINF:-1 group-title="Lista 03", Cinemax
-http://el-pe/?c=26292
-#EXTINF:-1 group-title="Lista 03", CNN en Espanol
-http://el-pe/?c=26293
-#EXTINF:-1 group-title="Lista 03", CNN USA
-http://el-pe/?c=26294
-#EXTINF:-1 group-title="Lista 03", Comedy Central
-http://el-pe/?c=26295
-#EXTINF:-1 group-title="Lista 03", De Pelicula
-http://el-pe/?c=26296
-#EXTINF:-1 group-title="Lista 03", De Pelicula Clasico
-http://el-pe/?c=26297
-#EXTINF:-1 group-title="Lista 03", De Pelicula Plus
-http://el-pe/?c=26298
-#EXTINF:-1 group-title="Lista 03", Discovery Channel
-http://el-pe/?c=26299
-#EXTINF:-1 group-title="Lista 03", Discovery H&H
-http://el-pe/?c=26300
-#EXTINF:-1 group-title="Lista 03", Investigation Discovery
-http://el-pe/?c=26301
-#EXTINF:-1 group-title="Lista 03", Discovery KIDS
-http://el-pe/?c=26302
-#EXTINF:-1 group-title="Lista 03", Discovery Science
-http://el-pe/?c=26303
-#EXTINF:-1 group-title="Lista 03", Discovery Theater
-http://el-pe/?c=26304
-#EXTINF:-1 group-title="Lista 03", Discovery TLC
-http://el-pe/?c=26305
-#EXTINF:-1 group-title="Lista 03", Discovery Turbo
-http://el-pe/?c=26306
-#EXTINF:-1 group-title="Lista 03", Discovery World
-http://el-pe/?c=26307
-#EXTINF:-1 group-title="Lista 03", Disney Channel
-http://el-pe/?c=26308
-#EXTINF:-1 group-title="Lista 03", Disney Junior
-http://el-pe/?c=26309
-#EXTINF:-1 group-title="Lista 03", Distrito Comedia
-http://el-pe/?c=26310
-#EXTINF:-1 group-title="Lista 03", DW
-http://el-pe/?c=26311
-#EXTINF:-1 group-title="Lista 03", E!
-http://el-pe/?c=26312
-#EXTINF:-1 group-title="Lista 03", El Gourmet
-http://el-pe/?c=26313
-#EXTINF:-1 group-title="Lista 03", ESPN +
-http://el-pe/?c=26314
-#EXTINF:-1 group-title="Lista 03", ESPN 1
-http://el-pe/?c=26315
-#EXTINF:-1 group-title="Lista 03", ESPN 2
-http://el-pe/?c=26316
-#EXTINF:-1 group-title="Lista 03", ESPN 3
-http://el-pe/?c=26317
-#EXTINF:-1 group-title="Lista 03", ESPN U
-http://el-pe/?c=26318
-#EXTINF:-1 group-title="Lista 03", Film & Arts
-http://el-pe/?c=26319
-#EXTINF:-1 group-title="Lista 03", Food Network
-http://el-pe/?c=26320
-#EXTINF:-1 group-title="Lista 03", Foro TV
-http://el-pe/?c=26321
-#EXTINF:-1 group-title="Lista 03", FOX (Star Channel)
-http://el-pe/?c=26322
-#EXTINF:-1 group-title="Lista 03", FOX Sports 1
-http://el-pe/?c=26323
-#EXTINF:-1 group-title="Lista 03", FOX Sports 2
-http://el-pe/?c=26324
-#EXTINF:-1 group-title="Lista 03", FOX Sports 3
-http://el-pe/?c=26325
-#EXTINF:-1 group-title="Lista 03", FX
-http://el-pe/?c=26326
-#EXTINF:-1 group-title="Lista 03", Canal 9 (Gala TV)
-http://el-pe/?c=26327
-#EXTINF:-1 group-title="Lista 03", Garage TV
-http://el-pe/?c=26328
-#EXTINF:-1 group-title="Lista 03", Glitz
-http://el-pe/?c=26329
-#EXTINF:-1 group-title="Lista 03", Golden
-http://el-pe/?c=26330
-#EXTINF:-1 group-title="Lista 03", Golden EDGE
-http://el-pe/?c=26331
-#EXTINF:-1 group-title="Lista 03", Golden Plus
-http://el-pe/?c=26332
-#EXTINF:-1 group-title="Lista 03", Golden Premier
-http://el-pe/?c=26333
-#EXTINF:-1 group-title="Lista 03", Golf Channel Latinoamerica
-http://el-pe/?c=26334
-#EXTINF:-1 group-title="Lista 03", HGTV
-http://el-pe/?c=26335
-#EXTINF:-1 group-title="Lista 03", History
-http://el-pe/?c=26336
-#EXTINF:-1 group-title="Lista 03", Hola TV
-http://el-pe/?c=26337
-#EXTINF:-1 group-title="Lista 03", Imagen Television
-http://el-pe/?c=26338
-#EXTINF:-1 group-title="Lista 03", Ingenio TV
-http://el-pe/?c=26339
-#EXTINF:-1 group-title="Lista 03", Las Estrellas
-http://el-pe/?c=26340
-#EXTINF:-1 group-title="Lista 03", Lifetime
-http://el-pe/?c=26341
-#EXTINF:-1 group-title="Lista 03", Mas chic
-http://el-pe/?c=26342
-#EXTINF:-1 group-title="Lista 03", Mexiquense TV
-http://el-pe/?c=26343
-#EXTINF:-1 group-title="Lista 03", Milenio
-http://el-pe/?c=26344
-#EXTINF:-1 group-title="Lista 03", MTV
-http://el-pe/?c=26345
-#EXTINF:-1 group-title="Lista 03", MTV Hits
-http://el-pe/?c=26346
-#EXTINF:-1 group-title="Lista 03", MTV Live
-http://el-pe/?c=26347
-#EXTINF:-1 group-title="Lista 03", NatGeo
-http://el-pe/?c=26348
-#EXTINF:-1 group-title="Lista 03", Nickelodeon
-http://el-pe/?c=26349
-#EXTINF:-1 group-title="Lista 03", Nick 2 (TeenNick)
-http://el-pe/?c=26350
-#EXTINF:-1 group-title="Lista 03", Nick JR
-http://el-pe/?c=26351
-#EXTINF:-1 group-title="Lista 03", Nicktoons
-http://el-pe/?c=26352
-#EXTINF:-1 group-title="Lista 03", Outdoor Channel
-http://el-pe/?c=26353
-#EXTINF:-1 group-title="Lista 03", Paramount Channel
-http://el-pe/?c=26354
-#EXTINF:-1 group-title="Lista 03", Telehit Urbano (Telehit Musica)
-http://el-pe/?c=26355
-#EXTINF:-1 group-title="Lista 03", RT en Espal
-http://el-pe/?c=26356
-#EXTINF:-1 group-title="Lista 03", Sony
-http://el-pe/?c=26357
-#EXTINF:-1 group-title="Lista 03", Space
-http://el-pe/?c=26358
-#EXTINF:-1 group-title="Lista 03", Studio Universal
-http://el-pe/?c=26359
-#EXTINF:-1 group-title="Lista 03", Sundance Channel
-http://el-pe/?c=26360
-#EXTINF:-1 group-title="Lista 03", SyFy
-http://el-pe/?c=26361
-#EXTINF:-1 group-title="Lista 03", TBS
-http://el-pe/?c=26362
-#EXTINF:-1 group-title="Lista 03", TCM
-http://el-pe/?c=26363
-#EXTINF:-1 group-title="Lista 03", Teleformula
-http://el-pe/?c=26364
-#EXTINF:-1 group-title="Lista 03", Telehit
-http://el-pe/?c=26365
-#EXTINF:-1 group-title="Lista 03", Telemundo Internacional
-http://el-pe/?c=26366
-#EXTINF:-1 group-title="Lista 03", Televisa Monterrey
-http://el-pe/?c=26367
-#EXTINF:-1 group-title="Lista 03", Tlnovelas
-http://el-pe/?c=26368
-#EXTINF:-1 group-title="Lista 03", TNT
-http://el-pe/?c=26369
-#EXTINF:-1 group-title="Lista 03", TNT Series
-http://el-pe/?c=26370
-#EXTINF:-1 group-title="Lista 03", Tooncast
-http://el-pe/?c=26371
-#EXTINF:-1 group-title="Lista 03", TruTV
-http://el-pe/?c=26372
-#EXTINF:-1 group-title="Lista 03", TVC Deportes
-http://el-pe/?c=26373
-#EXTINF:-1 group-title="Lista 03", TVE
-http://el-pe/?c=26374
-#EXTINF:-1 group-title="Lista 03", Unicable
-http://el-pe/?c=26375
-#EXTINF:-1 group-title="Lista 03", Universal Channel
-http://el-pe/?c=26376
-#EXTINF:-1 group-title="Lista 03", VH1
-http://el-pe/?c=26377
-#EXTINF:-1 group-title="Lista 03", VH1 Classics
-http://el-pe/?c=26378
-#EXTINF:-1 group-title="Lista 03", Warner
-http://el-pe/?c=26379
-#EXTINF:-1 group-title="Lista 03", A+
-http://el-pe/?c=26380
-#EXTINF:-1 group-title="Lista 03", Azteca 7
-http://el-pe/?c=26381
-#EXTINF:-1 group-title="Lista 03", Azteca UNO
-http://el-pe/?c=26382
-#EXTINF:-1 group-title="Lista 03", Azteca Uno -2 Horas
-http://el-pe/?c=26383
-#EXTINF:-1 group-title="Lista 03", Canal 11
-http://el-pe/?c=26384
-#EXTINF:-1 group-title="Lista 03", Canal 22
-http://el-pe/?c=26385
-#EXTINF:-1 group-title="Lista 03", Canal 5
-http://el-pe/?c=26386
-#EXTINF:-1 group-title="Lista 03", Canal del Congreso
-http://el-pe/?c=26387
-#EXTINF:-1 group-title="Lista 03", JusticiaTV
-http://el-pe/?c=26388
-#EXTINF:-1 group-title="Lista 03", Canal 9 (Gala TV)
-http://el-pe/?c=26389
-#EXTINF:-1 group-title="Lista 03", Imagen Television
-http://el-pe/?c=26390
-#EXTINF:-1 group-title="Lista 03", Ingenio TV
-http://el-pe/?c=26391
-#EXTINF:-1 group-title="Lista 03", Las Estrellas
-http://el-pe/?c=26392
-#EXTINF:-1 group-title="Lista 03", Mexiquense TV
-http://el-pe/?c=26393
-#EXTINF:-1 group-title="Lista 03", Multimedios MTY
-http://el-pe/?c=26394
-#EXTINF:-1 group-title="Lista 03", Teleformula
-http://el-pe/?c=26395
-#EXTINF:-1 group-title="Lista 03", Televisa Monterrey
-http://el-pe/?c=26396
-#EXTINF:-1 group-title="Lista 03", TVC
-http://el-pe/?c=26397
-#EXTINF:-1 group-title="Lista 03", RCN Nuestra Tele Internacional
-http://el-pe/?c=26398
-#EXTINF:-1 group-title="Lista 03", A3 Series
-http://el-pe/?c=26399
-#EXTINF:-1 group-title="Lista 03", A&E
-http://el-pe/?c=26400
-#EXTINF:-1 group-title="Lista 03", AMC
-http://el-pe/?c=26401
-#EXTINF:-1 group-title="Lista 03", Antena 3
-http://el-pe/?c=26402
-#EXTINF:-1 group-title="Lista 03", AXN
-http://el-pe/?c=26403
-#EXTINF:-1 group-title="Lista 03", Az Clic
-http://el-pe/?c=26404
-#EXTINF:-1 group-title="Lista 03", Az Corazon
-http://el-pe/?c=26405
-#EXTINF:-1 group-title="Lista 03", Az Mundo
-http://el-pe/?c=26406
-#EXTINF:-1 group-title="Lista 03", BitMe
-http://el-pe/?c=26407
-#EXTINF:-1 group-title="Lista 03", Caracol
-http://el-pe/?c=26408
-#EXTINF:-1 group-title="Lista 03", Comedy Central
-http://el-pe/?c=26409
-#EXTINF:-1 group-title="Lista 03", DHE
-http://el-pe/?c=26410
-#EXTINF:-1 group-title="Lista 03", Distrito Comedia
-http://el-pe/?c=26411
-#EXTINF:-1 group-title="Lista 03", E!
-http://el-pe/?c=26412
-#EXTINF:-1 group-title="Lista 03", El Gourmet
-http://el-pe/?c=26413
-#EXTINF:-1 group-title="Lista 03", Estrella TV
-http://el-pe/?c=26414
-#EXTINF:-1 group-title="Lista 03", Food Network
-http://el-pe/?c=26415
-#EXTINF:-1 group-title="Lista 03", FOX (Star Channel)
-http://el-pe/?c=26416
-#EXTINF:-1 group-title="Lista 03", FX
-http://el-pe/?c=26417
-#EXTINF:-1 group-title="Lista 03", Garage TV
-http://el-pe/?c=26418
-#EXTINF:-1 group-title="Lista 03", Glitz
-http://el-pe/?c=26419
-#EXTINF:-1 group-title="Lista 03", Hola TV
-http://el-pe/?c=26420
-#EXTINF:-1 group-title="Lista 03", Lifetime
-http://el-pe/?c=26421
-#EXTINF:-1 group-title="Lista 03", Mas Chic
-http://el-pe/?c=26422
-#EXTINF:-1 group-title="Lista 03", Pasiones
-http://el-pe/?c=26423
-#EXTINF:-1 group-title="Lista 03", RCN
-http://el-pe/?c=26424
-#EXTINF:-1 group-title="Lista 03", Sony
-http://el-pe/?c=26425
-#EXTINF:-1 group-title="Lista 03", TBS
-http://el-pe/?c=26426
-#EXTINF:-1 group-title="Lista 03", Telemundo Internacional
-http://el-pe/?c=26427
-#EXTINF:-1 group-title="Lista 03", Tlnovelas
-http://el-pe/?c=26428
-#EXTINF:-1 group-title="Lista 03", TNT Series
-http://el-pe/?c=26429
-#EXTINF:-1 group-title="Lista 03", TruTV
-http://el-pe/?c=26430
-#EXTINF:-1 group-title="Lista 03", Unicable
-http://el-pe/?c=26431
-#EXTINF:-1 group-title="Lista 03", Univision 41
-http://el-pe/?c=26432
-#EXTINF:-1 group-title="Lista 03", Warner
-http://el-pe/?c=26433
-#EXTINF:-1 group-title="Lista 03", Adrenalina Sports Network
-http://el-pe/?c=26434
-#EXTINF:-1 group-title="Lista 03", Afizzionados
-http://el-pe/?c=26435
-#EXTINF:-1 group-title="Lista 03", AyM Sports
-http://el-pe/?c=26436
-#EXTINF:-1 group-title="Lista 03", BeinSports 
-http://el-pe/?c=26437
-#EXTINF:-1 group-title="Lista 03", BeinSports USA
-http://el-pe/?c=26438
-#EXTINF:-1 group-title="Lista 03", Canal Toros
-http://el-pe/?c=26439
-#EXTINF:-1 group-title="Lista 03", Claro Sports
-http://el-pe/?c=26440
-#EXTINF:-1 group-title="Lista 03", ESPN 1
-http://el-pe/?c=26441
-#EXTINF:-1 group-title="Lista 03", ESPN 2
-http://el-pe/?c=26442
-#EXTINF:-1 group-title="Lista 03", ESPN 3
-http://el-pe/?c=26443
-#EXTINF:-1 group-title="Lista 03", ESPN +
-http://el-pe/?c=26444
-#EXTINF:-1 group-title="Lista 03", ESPN Deportes
-http://el-pe/?c=26445
-#EXTINF:-1 group-title="Lista 03", FOX Deportes
-http://el-pe/?c=26446
-#EXTINF:-1 group-title="Lista 03", FOX Sports 1
-http://el-pe/?c=26447
-#EXTINF:-1 group-title="Lista 03", FOX Sports 2
-http://el-pe/?c=26448
-#EXTINF:-1 group-title="Lista 03", FOX Sports 3
-http://el-pe/?c=26449
-#EXTINF:-1 group-title="Lista 03", Golf Channel Latinoamerica
-http://el-pe/?c=26450
-#EXTINF:-1 group-title="Lista 03", Movistar F1 TV
-http://el-pe/?c=26451
-#EXTINF:-1 group-title="Lista 03", Movistar Golf
-http://el-pe/?c=26452
-#EXTINF:-1 group-title="Lista 03", NFL Network
-http://el-pe/?c=26453
-#EXTINF:-1 group-title="Lista 03", Outdoor Channel
-http://el-pe/?c=26454
-#EXTINF:-1 group-title="Lista 03", SEC ESPN Network
-http://el-pe/?c=26455
-#EXTINF:-1 group-title="Lista 03", TUDN MX
-http://el-pe/?c=26456
-#EXTINF:-1 group-title="Lista 03", TUDN USA
-http://el-pe/?c=26457
-#EXTINF:-1 group-title="Lista 03", TVC Deportes
-http://el-pe/?c=26458
-#EXTINF:-1 group-title="Lista 03", TyC Sports
-http://el-pe/?c=26459
-#EXTINF:-1 group-title="Lista 03", UFC Fight Pass
-http://el-pe/?c=26460
-#EXTINF:-1 group-title="Lista 03", WinSports
-http://el-pe/?c=26461
-#EXTINF:-1 group-title="Lista 03", Barca TV
-http://el-pe/?c=26462
-#EXTINF:-1 group-title="Lista 03", Eurosport 1
-http://el-pe/?c=26463
-#EXTINF:-1 group-title="Lista 03", Eurosport 2
-http://el-pe/?c=26464
-#EXTINF:-1 group-title="Lista 03", Movistar Deportes
-http://el-pe/?c=26465
-#EXTINF:-1 group-title="Lista 03", Movistar Deportes 2
-http://el-pe/?c=26466
-#EXTINF:-1 group-title="Lista 03", Movistar F1
-http://el-pe/?c=26467
-#EXTINF:-1 group-title="Lista 03", Movistar Golf
-http://el-pe/?c=26468
-#EXTINF:-1 group-title="Lista 03", Movistar Liga de Campeones
-http://el-pe/?c=26469
-#EXTINF:-1 group-title="Lista 03", Real Madrid TV
-http://el-pe/?c=26470
-#EXTINF:-1 group-title="Lista 03", Toros TV
-http://el-pe/?c=26471
-#EXTINF:-1 group-title="Lista 03", Argentina - ESPN
-http://el-pe/?c=26472
-#EXTINF:-1 group-title="Lista 03", Argentina - ESPN 2
-http://el-pe/?c=26473
-#EXTINF:-1 group-title="Lista 03", Argentina - ESPN 3
-http://el-pe/?c=26474
-#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports
-http://el-pe/?c=26475
-#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports 2
-http://el-pe/?c=26476
-#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports 3
-http://el-pe/?c=26477
-#EXTINF:-1 group-title="Lista 03", Argentina - FOX Sports Premium
-http://el-pe/?c=26478
-#EXTINF:-1 group-title="Lista 03", Argentina - TNT Sports
-http://el-pe/?c=26479
-#EXTINF:-1 group-title="Lista 03", Argentina - TYC Sports
-http://el-pe/?c=26480
-#EXTINF:-1 group-title="Lista 03", Brasil - Sport TV 1
-http://el-pe/?c=26481
-#EXTINF:-1 group-title="Lista 03", Colombia - Win Sports
-http://el-pe/?c=26482
-#EXTINF:-1 group-title="Lista 03", Colombia - Win Sports +
-http://el-pe/?c=26483
-#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports
-http://el-pe/?c=26484
-#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports 2
-http://el-pe/?c=26485
-#EXTINF:-1 group-title="Lista 03", Sudamerica - DirecTV Sports +
-http://el-pe/?c=26486
-#EXTINF:-1 group-title="Lista 03", Animal Planet
-http://el-pe/?c=26487
-#EXTINF:-1 group-title="Lista 03", Discovery Channel
-http://el-pe/?c=26488
-#EXTINF:-1 group-title="Lista 03", Discovery H&H
-http://el-pe/?c=26489
-#EXTINF:-1 group-title="Lista 03", Discovery Science
-http://el-pe/?c=26490
-#EXTINF:-1 group-title="Lista 03", Discovery Theater
-http://el-pe/?c=26491
-#EXTINF:-1 group-title="Lista 03", Discovery TLC
-http://el-pe/?c=26492
-#EXTINF:-1 group-title="Lista 03", Discovery Turbo
-http://el-pe/?c=26493
-#EXTINF:-1 group-title="Lista 03", Discovery World
-http://el-pe/?c=26494
-#EXTINF:-1 group-title="Lista 03", H2
-http://el-pe/?c=26495
-#EXTINF:-1 group-title="Lista 03", HGTV
-http://el-pe/?c=26496
-#EXTINF:-1 group-title="Lista 03", History
-http://el-pe/?c=26497
-#EXTINF:-1 group-title="Lista 03", Investigation Discovery
-http://el-pe/?c=26498
-#EXTINF:-1 group-title="Lista 03", NatGeo
-http://el-pe/?c=26499
-#EXTINF:-1 group-title="Lista 03", Baby TV
-http://el-pe/?c=26500
-#EXTINF:-1 group-title="Lista 03", Boomerang
-http://el-pe/?c=26501
-#EXTINF:-1 group-title="Lista 03", Cartoon Network
-http://el-pe/?c=26502
-#EXTINF:-1 group-title="Lista 03", Discovery KIDS
-http://el-pe/?c=26503
-#EXTINF:-1 group-title="Lista 03", Disney Channel
-http://el-pe/?c=26504
-#EXTINF:-1 group-title="Lista 03", Disney Junior
-http://el-pe/?c=26505
-#EXTINF:-1 group-title="Lista 03", Nickelodeon
-http://el-pe/?c=26506
-#EXTINF:-1 group-title="Lista 03", Nick 2 (TeenNick)
-http://el-pe/?c=26507
-#EXTINF:-1 group-title="Lista 03", Nick JR
-http://el-pe/?c=26508
-#EXTINF:-1 group-title="Lista 03", Nicktoons
-http://el-pe/?c=26509
-#EXTINF:-1 group-title="Lista 03", Tooncast
-http://el-pe/?c=26510
-#EXTINF:-1 group-title="Lista 03", Az Cinema
-http://el-pe/?c=26511
-#EXTINF:-1 group-title="Lista 03", Cinelatino
-http://el-pe/?c=26512
-#EXTINF:-1 group-title="Lista 03", Cinecanal
-http://el-pe/?c=26513
-#EXTINF:-1 group-title="Lista 03", Cinemax
-http://el-pe/?c=26514
-#EXTINF:-1 group-title="Lista 03", De Pelicula
-http://el-pe/?c=26515
-#EXTINF:-1 group-title="Lista 03", De Pelicula Clasico
-http://el-pe/?c=26516
-#EXTINF:-1 group-title="Lista 03", De Pelicula Plus
-http://el-pe/?c=26517
-#EXTINF:-1 group-title="Lista 03", Film & Arts
-http://el-pe/?c=26518
-#EXTINF:-1 group-title="Lista 03", Golden
-http://el-pe/?c=26519
-#EXTINF:-1 group-title="Lista 03", Golden EDGE
-http://el-pe/?c=26520
-#EXTINF:-1 group-title="Lista 03", Golden Plus
-http://el-pe/?c=26521
-#EXTINF:-1 group-title="Lista 03", Golden Premier
-http://el-pe/?c=26522
-#EXTINF:-1 group-title="Lista 03", HBO
-http://el-pe/?c=26523
-#EXTINF:-1 group-title="Lista 03", HBO 2
-http://el-pe/?c=26524
-#EXTINF:-1 group-title="Lista 03", HBO Family
-http://el-pe/?c=26525
-#EXTINF:-1 group-title="Lista 03", HBO Mundi
-http://el-pe/?c=26526
-#EXTINF:-1 group-title="Lista 03", HBO Plus
-http://el-pe/?c=26527
-#EXTINF:-1 group-title="Lista 03", HBO Signature
-http://el-pe/?c=26528
-#EXTINF:-1 group-title="Lista 03", HBO Xtreme
-http://el-pe/?c=26529
-#EXTINF:-1 group-title="Lista 03", HBO POP
-http://el-pe/?c=26530
-#EXTINF:-1 group-title="Lista 03", Paramount Channel
-http://el-pe/?c=26531
-#EXTINF:-1 group-title="Lista 03", Space
-http://el-pe/?c=26532
-#EXTINF:-1 group-title="Lista 03", Studio Universal
-http://el-pe/?c=26533
-#EXTINF:-1 group-title="Lista 03", Sundance Channel
-http://el-pe/?c=26534
-#EXTINF:-1 group-title="Lista 03", SyFy
-http://el-pe/?c=26535
-#EXTINF:-1 group-title="Lista 03", TCM
-http://el-pe/?c=26536
-#EXTINF:-1 group-title="Lista 03", TNT
-http://el-pe/?c=26537
-#EXTINF:-1 group-title="Lista 03", Universal Channel
-http://el-pe/?c=26538
-#EXTINF:-1 group-title="Lista 03", Bandamax
-http://el-pe/?c=26539
-#EXTINF:-1 group-title="Lista 03", MTV
-http://el-pe/?c=26540
-#EXTINF:-1 group-title="Lista 03", MTV Hits
-http://el-pe/?c=26541
-#EXTINF:-1 group-title="Lista 03", MTV Live
-http://el-pe/?c=26542
-#EXTINF:-1 group-title="Lista 03", Telehit Urbano (Telehit Musica)
-http://el-pe/?c=26543
-#EXTINF:-1 group-title="Lista 03", Telehit
-http://el-pe/?c=26544
-#EXTINF:-1 group-title="Lista 03", Telehit Plus
-http://el-pe/?c=26545
-#EXTINF:-1 group-title="Lista 03", VH1
-http://el-pe/?c=26546
-#EXTINF:-1 group-title="Lista 03", VH1 Classics
-http://el-pe/?c=26547
-#EXTINF:-1 group-title="Lista 03", Maria Vision
-http://el-pe/?c=26548
-#EXTINF:-1 group-title="Lista 03", ADN 40
-http://el-pe/?c=26549
-#EXTINF:-1 group-title="Lista 03", CNN en Espanol
-http://el-pe/?c=26550
-#EXTINF:-1 group-title="Lista 03", CNN USA
-http://el-pe/?c=26551
-#EXTINF:-1 group-title="Lista 03", DW
-http://el-pe/?c=26552
-#EXTINF:-1 group-title="Lista 03", Foro TV
-http://el-pe/?c=26553
-#EXTINF:-1 group-title="Lista 03", Milenio
-http://el-pe/?c=26554
-#EXTINF:-1 group-title="Lista 03", RT en Espal
-http://el-pe/?c=26555
-#EXTINF:-1 group-title="Lista 03", Antena 3
-http://el-pe/?c=26556
 
-#EXTINF:-1 group-title="Lista 03", 24/7 Caso Cerrado
-http://el-pe/?c=26557
-#EXTINF:-1 group-title="Lista 03", 24/7 La Familia P. Luche
-http://el-pe/?c=26558
-#EXTINF:-1 group-title="Lista 03", 24/7 La Rosa de Guadalupe
-http://el-pe/?c=26559
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 01
-http://el-pe/?c=26560
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 02
-http://el-pe/?c=26561
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 03
-http://el-pe/?c=26562
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 05
-http://el-pe/?c=26563
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 06
-http://el-pe/?c=26564
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 07
-http://el-pe/?c=26565
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 08
-http://el-pe/?c=26566
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 09
-http://el-pe/?c=26567
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 10
-http://el-pe/?c=26568
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 11
-http://el-pe/?c=26569
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 12
-http://el-pe/?c=26570
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 13
-http://el-pe/?c=26571
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 14
-http://el-pe/?c=26572
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 15
-http://el-pe/?c=26573
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 16
-http://el-pe/?c=26574
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 17
-http://el-pe/?c=26575
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 18
-http://el-pe/?c=26576
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 19
-http://el-pe/?c=26577
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 20
-http://el-pe/?c=26578
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 21
-http://el-pe/?c=26579
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 22
-http://el-pe/?c=26580
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 23
-http://el-pe/?c=26581
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 24
-http://el-pe/?c=26582
-#EXTINF:-1 group-title="Lista 03", 24/7 M| Cinema 25
-http://el-pe/?c=26583
-#EXTINF:-1 group-title="Lista 03", 24/7 M|Moviecenter Premium Oeste ????
-http://el-pe/?c=26584
-#EXTINF:-1 group-title="Lista 03", 24/7 M|Peliculas Marvel
-http://el-pe/?c=26585
-#EXTINF:-1 group-title="Lista 03", 24/7 M|Pelulas Fantas
-http://el-pe/?c=26586
-#EXTINF:-1 group-title="Lista 03", 24/7 M|Pelulas Romance
-http://el-pe/?c=26587
-#EXTINF:-1 group-title="Lista 03", 24/7 S| Alerta Aeropuerto
-http://el-pe/?c=26588
-#EXTINF:-1 group-title="Lista 03", 24/7 NARCOS
-http://el-pe/?c=26589
-#EXTINF:-1 group-title="Lista 03", 24/7 | Acapulco Shore FHD
-http://el-pe/?c=26590
-#EXTINF:-1 group-title="Lista 03", 24/7 | Desaf de fuego
-http://el-pe/?c=26591
-#EXTINF:-1 group-title="Lista 03", 24/7 | Como Dice El Dicho
-http://el-pe/?c=26592
-#EXTINF:-1 group-title="Lista 03", 24/7 | CSI Miami
-http://el-pe/?c=26593
-#EXTINF:-1 group-title="Lista 03", 24/7 | Death Note
-http://el-pe/?c=26594
-#EXTINF:-1 group-title="Lista 03", 24/7 | DesEncanto
-http://el-pe/?c=26595
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dr. House
-http://el-pe/?c=26596
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dragon Ball
-http://el-pe/?c=26597
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dragon Ball Super 1
-http://el-pe/?c=26598
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dragon Ball Super 2
-http://el-pe/?c=26599
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dragon Ball Z Saga Cell
-http://el-pe/?c=26600
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Mentalista
-http://el-pe/?c=26601
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Principe del Rap
-http://el-pe/?c=26602
-#EXTINF:-1 group-title="Lista 03", 24/7 | Escobar: el patron del mal
-http://el-pe/?c=26603
-#EXTINF:-1 group-title="Lista 03", 24/7 | Extranormal
-http://el-pe/?c=26604
-#EXTINF:-1 group-title="Lista 03", 24/7 | Futurama
-http://el-pe/?c=26605
-#EXTINF:-1 group-title="Lista 03", 24/7 | Juego del Calamar
-http://el-pe/?c=26606
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Casa de Papel
-http://el-pe/?c=26607
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Familia Peluche
-http://el-pe/?c=26608
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Hora Pico
-http://el-pe/?c=26609
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Rosa de Guadalupe
-http://el-pe/?c=26610
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Simpson
-http://el-pe/?c=26611
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Simpson HD
-http://el-pe/?c=26612
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Simpson New HD
-http://el-pe/?c=26613
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Simpsons Casitas del Horror
-http://el-pe/?c=26614
-#EXTINF:-1 group-title="Lista 03", 24/7 | The Big Bang Theory
-http://el-pe/?c=26615
-#EXTINF:-1 group-title="Lista 03", 24/7 | The Walking Dead
-http://el-pe/?c=26616
-#EXTINF:-1 group-title="Lista 03", 24/7 | Rick y Morty
-http://el-pe/?c=26617
-#EXTINF:-1 group-title="Lista 03", 24/7 | South Park
-http://el-pe/?c=26618
-#EXTINF:-1 group-title="Lista 03", 24/7 Padre de familia
-http://el-pe/?c=26619
-#EXTINF:-1 group-title="Lista 03", 24/7: Smallville
-http://el-pe/?c=26620
-#EXTINF:-1 group-title="Lista 03", 24/7: Strangerthings
-http://el-pe/?c=26621
-#EXTINF:-1 group-title="Lista 03", 24/7: South Park
-http://el-pe/?c=26622
-#EXTINF:-1 group-title="Lista 03", 24/7: Malcolm
-http://el-pe/?c=26623
-#EXTINF:-1 group-title="Lista 03", 24/7: El chavo del 8
-http://el-pe/?c=26624
-#EXTINF:-1 group-title="Lista 03", 24/7 La casa de los Dibujos
-http://el-pe/?c=26625
-#EXTINF:-1 group-title="Lista 03", 24/7 :CINE ACCION
-http://el-pe/?c=26626
-#EXTINF:-1 group-title="Lista 03", 24/7 :CINE ACCION SAGAS
-http://el-pe/?c=26627
-#EXTINF:-1 group-title="Lista 03", 24/7 :CINE SAGAS INFANTIL
-http://el-pe/?c=26628
-#EXTINF:-1 group-title="Lista 03", 24/7 MARVEL
-http://el-pe/?c=26629
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE ACCION HD
-http://el-pe/?c=26630
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE COMEDIA 1
-http://el-pe/?c=26631
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE COMEDIA 2
-http://el-pe/?c=26632
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE FANTASIA 2
-http://el-pe/?c=26633
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE FANTASIA HD
-http://el-pe/?c=26634
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE FANTASIA SAGAS
-http://el-pe/?c=26635
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE INFANTIL HD
-http://el-pe/?c=26636
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE ROMANCE
-http://el-pe/?c=26637
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE ROMANCE HD
-http://el-pe/?c=26638
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE TERROR
-http://el-pe/?c=26639
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE TERROR HD
-http://el-pe/?c=26640
-#EXTINF:-1 group-title="Lista 03", 24/7: CINE ZOMBIES
-http://el-pe/?c=26641
-#EXTINF:-1 group-title="Lista 03", 24/7: peliculas estrenos
-http://el-pe/?c=26642
-#EXTINF:-1 group-title="Lista 03", 24/7 Cantinflas
-http://el-pe/?c=26643
-#EXTINF:-1 group-title="Lista 03", 24/7 Clasicos de Disney (Latino)
-http://el-pe/?c=26644
-#EXTINF:-1 group-title="Lista 03", 24/7 Disney Live Action
-http://el-pe/?c=26645
-#EXTINF:-1 group-title="Lista 03", 24/7 Movies Jackie Chan
-http://el-pe/?c=26646
-#EXTINF:-1 group-title="Lista 03", 24/7 Movies Jim Carrey
-http://el-pe/?c=26647
-#EXTINF:-1 group-title="Lista 03", 24/7 Pedro Infante
-http://el-pe/?c=26648
-#EXTINF:-1 group-title="Lista 03", 24/7 | Aaahhh Monstruos
-http://el-pe/?c=26649
-#EXTINF:-1 group-title="Lista 03", 24/7 | Animaniacs
-http://el-pe/?c=26650
-#EXTINF:-1 group-title="Lista 03", 24/7 | Bleyblade
-http://el-pe/?c=26651
-#EXTINF:-1 group-title="Lista 03", 24/7 | Bob Esponja
-http://el-pe/?c=26652
-#EXTINF:-1 group-title="Lista 03", 24/7 | Buzz Lightyear
-http://el-pe/?c=26653
-#EXTINF:-1 group-title="Lista 03", 24/7 | Castores Cascarravias
-http://el-pe/?c=26654
-#EXTINF:-1 group-title="Lista 03", 24/7 | Cat Dog
-http://el-pe/?c=26655
-#EXTINF:-1 group-title="Lista 03", 24/7 | Coraje El Perro Cobarde
-http://el-pe/?c=26656
-#EXTINF:-1 group-title="Lista 03", 24/7 | Digimon
-http://el-pe/?c=26657
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dinosaurios
-http://el-pe/?c=26658
-#EXTINF:-1 group-title="Lista 03", 24/7 | Dora la Exploradora
-http://el-pe/?c=26659
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Chavo Animado
-http://el-pe/?c=26660
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Laboratorio de Dexter
-http://el-pe/?c=26661
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Mundo de Beakman
-http://el-pe/?c=26662
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Pajaro Loco
-http://el-pe/?c=26663
-#EXTINF:-1 group-title="Lista 03", 24/7 | En Familia con Chabelo
-http://el-pe/?c=26664
-#EXTINF:-1 group-title="Lista 03", 24/7 | Escandalosos
-http://el-pe/?c=26665
-#EXTINF:-1 group-title="Lista 03", 24/7 | Jimmy Neutron
-http://el-pe/?c=26666
-#EXTINF:-1 group-title="Lista 03", 24/7 | Johnny Bravo
-http://el-pe/?c=26667
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Casa de Micky Mouse
-http://el-pe/?c=26668
-#EXTINF:-1 group-title="Lista 03", 24/7 | Ladybug
-http://el-pe/?c=26669
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Gatos Samurai
-http://el-pe/?c=26670
-#EXTINF:-1 group-title="Lista 03", 24/7 | Peppa Pig
-http://el-pe/?c=26671
-#EXTINF:-1 group-title="Lista 03", 24/7 | Phineas y Ferb
-http://el-pe/?c=26672
-#EXTINF:-1 group-title="Lista 03", 24/7 | Pokemon
-http://el-pe/?c=26673
-#EXTINF:-1 group-title="Lista 03", 24/7 | Power Rangers
-http://el-pe/?c=26674
-#EXTINF:-1 group-title="Lista 03", 24/7 | Teen Titans Go
-http://el-pe/?c=26675
-#EXTINF:-1 group-title="Lista 03", 24/7 | Vaca y Pollito
-http://el-pe/?c=26676
-#EXTINF:-1 group-title="Lista 03", 24/7 | Yu Gi Oh
-http://el-pe/?c=26677
-#EXTINF:-1 group-title="Lista 03", 24/7 | El show de los Looney Tunes
-http://el-pe/?c=26678
-#EXTINF:-1 group-title="Lista 03", 24/7 | Sailor Moon Crystal
-http://el-pe/?c=26679
-#EXTINF:-1 group-title="Lista 03", 24/7: pinky
-http://el-pe/?c=26680
-#EXTINF:-1 group-title="Lista 03", 24/7: naruto
-http://el-pe/?c=26681
-#EXTINF:-1 group-title="Lista 03", 24/7 | GRAVITY FALL
-http://el-pe/?c=26682
-#EXTINF:-1 group-title="Lista 03", 24/7 Hannah Montana Temp 1
-http://el-pe/?c=26683
-#EXTINF:-1 group-title="Lista 03", 24/7 Hey Arnold
-http://el-pe/?c=26684
-#EXTINF:-1 group-title="Lista 03", 24/7 Las Pistas de Blue
-http://el-pe/?c=26685
-#EXTINF:-1 group-title="Lista 03", 24/7 Los Backyardigans
-http://el-pe/?c=26686
-#EXTINF:-1 group-title="Lista 03", 24/7 Los Castores Cascarrabias
-http://el-pe/?c=26687
-#EXTINF:-1 group-title="Lista 03", 24/7 Los Padrinos Magicos
-http://el-pe/?c=26688
-#EXTINF:-1 group-title="Lista 03", 24/7 Los Muppet Babys
-http://el-pe/?c=26689
-#EXTINF:-1 group-title="Lista 03", 24/7 Mi Peque Pony
-http://el-pe/?c=26690
-#EXTINF:-1 group-title="Lista 03", 24/7 Paw Patroll
-http://el-pe/?c=26691
-#EXTINF:-1 group-title="Lista 03", 24/7 Pocoyo
-http://el-pe/?c=26692
-#EXTINF:-1 group-title="Lista 03", 24/7 Scooby Doo
-http://el-pe/?c=26693
-#EXTINF:-1 group-title="Lista 03", 24/7 Tom Y Jerry
-http://el-pe/?c=26694
-#EXTINF:-1 group-title="Lista 03", 24/7 Timon & Pumbaa
-http://el-pe/?c=26695
-#EXTINF:-1 group-title="Lista 03", 24/7 DAVE Y EVA
-http://el-pe/?c=26696
-#EXTINF:-1 group-title="Lista 03", 24/7 | MASHA Y EL OSO
-http://el-pe/?c=26697
-#EXTINF:-1 group-title="Lista 03", 24/7 HISTORIAS
-http://el-pe/?c=26698
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Coyote y el Correcaminos
-http://el-pe/?c=26699
-#EXTINF:-1 group-title="Lista 03", 24/7 | DON GATO Y SU PANDILLA
-http://el-pe/?c=26700
-#EXTINF:-1 group-title="Lista 03", 24/7 Capitan America y Los Planetarios
-http://el-pe/?c=26701
-#EXTINF:-1 group-title="Lista 03", 24/7 Donde esta Wally
-http://el-pe/?c=26702
-#EXTINF:-1 group-title="Lista 03", 24/7: Mazingerz
-http://el-pe/?c=26703
-#EXTINF:-1 group-title="Lista 03", 24/7 El Gallo Claudio
-http://el-pe/?c=26704
-#EXTINF:-1 group-title="Lista 03", 24/7 Fenomenoide
-http://el-pe/?c=26705
-#EXTINF:-1 group-title="Lista 03", 24/7: robotech
-http://el-pe/?c=26706
-#EXTINF:-1 group-title="Lista 03", 24/7: Super campeones
-http://el-pe/?c=26707
-#EXTINF:-1 group-title="Lista 03", 24/7: he man
-http://el-pe/?c=26708
-#EXTINF:-1 group-title="Lista 03", 24/7:  xmen
-http://el-pe/?c=26709
-#EXTINF:-1 group-title="Lista 03", 24/7 Garfield
-http://el-pe/?c=26710
-#EXTINF:-1 group-title="Lista 03", 24/7 Gargolas Heroes Goticos
-http://el-pe/?c=26711
-#EXTINF:-1 group-title="Lista 03", 24/7 Gasparin y sus Amigos
-http://el-pe/?c=26712
-#EXTINF:-1 group-title="Lista 03", 24/7 Halcones Galacticos
-http://el-pe/?c=26713
-#EXTINF:-1 group-title="Lista 03", 24/7 Heidi
-http://el-pe/?c=26714
-#EXTINF:-1 group-title="Lista 03", 24/7 Las Tortugas Ninja
-http://el-pe/?c=26715
-#EXTINF:-1 group-title="Lista 03", 24/7: shera
-http://el-pe/?c=26716
-#EXTINF:-1 group-title="Lista 03", 24/7: Spiderman
-http://el-pe/?c=26717
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Pantera Rosa
-http://el-pe/?c=26718
-#EXTINF:-1 group-title="Lista 03", 24/7 | Le Temes a la Oscuridad
-http://el-pe/?c=26719
-#EXTINF:-1 group-title="Lista 03", 24/7 | Alf
-http://el-pe/?c=26720
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Chapulin Colorado
-http://el-pe/?c=26721
-#EXTINF:-1 group-title="Lista 03", 24/7 | El Chavo del 8
-http://el-pe/?c=26722
-#EXTINF:-1 group-title="Lista 03", 24/7 | Hechizada
-http://el-pe/?c=26723
-#EXTINF:-1 group-title="Lista 03", 24/7 | La Ninera
-http://el-pe/?c=26724
-#EXTINF:-1 group-title="Lista 03", 24/7 | Mi Bella Genio
-http://el-pe/?c=26725
-#EXTINF:-1 group-title="Lista 03", 24/7 Chespirito
-http://el-pe/?c=26726
-#EXTINF:-1 group-title="Lista 03", 24/7: El chapulin colorado
-http://el-pe/?c=26727
-#EXTINF:-1 group-title="Lista 03", 24/7: Los locos Addams
-http://el-pe/?c=26728
-#EXTINF:-1 group-title="Lista 03", 24/7 El Auto Fantastico
-http://el-pe/?c=26729
-#EXTINF:-1 group-title="Lista 03", 24/7 Hercules
-http://el-pe/?c=26730
-#EXTINF:-1 group-title="Lista 03", 24/7 Los As Maravillosos
-http://el-pe/?c=26731
-#EXTINF:-1 group-title="Lista 03", 24/7 Walker Texas Ranger
-http://el-pe/?c=26732
-#EXTINF:-1 group-title="Lista 03", 24/7 Xena La Princesa Guerrera Temp 1
-http://el-pe/?c=26733
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Thundercats
-http://el-pe/?c=26734
-#EXTINF:-1 group-title="Lista 03", 24/7 | Mr Bean
-http://el-pe/?c=26735
-#EXTINF:-1 group-title="Lista 03", 24/7 | Los Picapiedra
-http://el-pe/?c=26736
-#EXTINF:-1 group-title="Lista 03", 24/7 Los Supersonicos
-http://el-pe/?c=26737
-#EXTINF:-1 group-title="Lista 03", 24/7 Harry Potter & Animales Fantticos
-http://el-pe/?c=26738
-#EXTINF:-1 group-title="Lista 03", Cine Estelar
-http://el-pe/?c=6588
-#EXTINF:-1 group-title="Lista 03", Cine Accion
-http://el-pe/?c=6589
-#EXTINF:-1 group-title="Lista 03", Estrellas en Acción
-http://el-pe/?c=6590
-#EXTINF:-1 group-title="Lista 03", Cine Comedia
-http://el-pe/?c=6591
-#EXTINF:-1 group-title="Lista 03", Cine Drama
-http://el-pe/?c=6592
-#EXTINF:-1 group-title="Lista 03", Cine Romance
-http://el-pe/?c=6593
-#EXTINF:-1 group-title="Lista 03", Cine Suspenso
-http://el-pe/?c=6594
-#EXTINF:-1 group-title="Lista 03", Cine Terror
-http://el-pe/?c=6595
-#EXTINF:-1 group-title="Lista 03", Cine
-http://el-pe/?c=6596
-#EXTINF:-1 group-title="Lista 03", Cine Familia
-http://el-pe/?c=6597
-#EXTINF:-1 group-title="Lista 03", Series
-http://el-pe/?c=6598
-#EXTINF:-1 group-title="Lista 03", Series Retro
-http://el-pe/?c=6599
-#EXTINF:-1 group-title="Lista 03", Series Latinas
-http://el-pe/?c=6600
-#EXTINF:-1 group-title="Lista 03", Novelas
-http://el-pe/?c=6601
-#EXTINF:-1 group-title="Lista 03", Telefe clasico
-http://el-pe/?c=6602
-#EXTINF:-1 group-title="Lista 03", Mtv Classic
-http://el-pe/?c=6603
-#EXTINF:-1 group-title="Lista 03", MTV Pranks
-http://el-pe/?c=6604
-#EXTINF:-1 group-title="Lista 03", MTV Animaciones
-http://el-pe/?c=6605
-#EXTINF:-1 group-title="Lista 03", People are Awesome
-http://el-pe/?c=6606
-#EXTINF:-1 group-title="Lista 03", Teen
-http://el-pe/?c=6607
-#EXTINF:-1 group-title="Lista 03", Degrassi
-http://el-pe/?c=6608
-#EXTINF:-1 group-title="Lista 03", Anime
-http://el-pe/?c=6609
-#EXTINF:-1 group-title="Lista 03", Anime Accion
-http://el-pe/?c=6610
-#EXTINF:-1 group-title="Lista 03", Naruto
-http://el-pe/?c=6611
-#EXTINF:-1 group-title="Lista 03", SCIFI
-http://el-pe/?c=6612
-#EXTINF:-1 group-title="Lista 03", Competencias
-http://el-pe/?c=6613
-#EXTINF:-1 group-title="Lista 03", Noticias
-http://el-pe/?c=6614
-#EXTINF:-1 group-title="Lista 03", Reality
-http://el-pe/?c=6615
-#EXTINF:-1 group-title="Lista 03", Investiga
-http://el-pe/?c=6616
-#EXTINF:-1 group-title="Lista 03", Historias de Ultratumba
-http://el-pe/?c=6617
-#EXTINF:-1 group-title="Lista 03", Misterios Medicos
-http://el-pe/?c=6618
-#EXTINF:-1 group-title="Lista 03", Vida Real
-http://el-pe/?c=6619
-#EXTINF:-1 group-title="Lista 03", Naturaleza
-http://el-pe/?c=6620
-#EXTINF:-1 group-title="Lista 03", Animales
-http://el-pe/?c=6621
-#EXTINF:-1 group-title="Lista 03", Oh My Pet
-http://el-pe/?c=6622
-#EXTINF:-1 group-title="Lista 03", Velocidad
-http://el-pe/?c=6623
-#EXTINF:-1 group-title="Lista 03", Historia
-http://el-pe/?c=6624
-#EXTINF:-1 group-title="Lista 03", Los archivos del FBI
-http://el-pe/?c=6625
-#EXTINF:-1 group-title="Lista 03", Archivos Forenses
-http://el-pe/?c=6626
-#EXTINF:-1 group-title="Lista 03", The New Detectives
-http://el-pe/?c=6627
-#EXTINF:-1 group-title="Lista 03", Misterios Sin Resolver
-http://el-pe/?c=6628
-#EXTINF:-1 group-title="Lista 03", Minuto para Ganar
-http://el-pe/?c=6629
-#EXTINF:-1 group-title="Lista 03", MasterChef
-http://el-pe/?c=6630
-#EXTINF:-1 group-title="Lista 03", Latin Angels
-http://el-pe/?c=6631
-#EXTINF:-1 group-title="Lista 03", Deportes
-http://el-pe/?c=6632
-#EXTINF:-1 group-title="Lista 03", Futbol para Fans
-http://el-pe/?c=6633
-#EXTINF:-1 group-title="Lista 03", Peleas
-http://el-pe/?c=6634
-#EXTINF:-1 group-title="Lista 03", All Elite Wrestling
-http://el-pe/?c=6635
-#EXTINF:-1 group-title="Lista 03", FailArmy
-http://el-pe/?c=6636
-#EXTINF:-1 group-title="Lista 03", The Pet Collective
-http://el-pe/?c=6637
-#EXTINF:-1 group-title="Lista 03", Humor
-http://el-pe/?c=6638
-#EXTINF:-1 group-title="Lista 03", Viajes
-http://el-pe/?c=6639
-#EXTINF:-1 group-title="Lista 03", Cocina
-http://el-pe/?c=6640
-#EXTINF:-1 group-title="Lista 03", Hogar
-http://el-pe/?c=6641
-#EXTINF:-1 group-title="Lista 03", Fashion Box
-http://el-pe/?c=6642
-#EXTINF:-1 group-title="Lista 03", Baby First
-http://el-pe/?c=6643
-#EXTINF:-1 group-title="Lista 03", Junior
-http://el-pe/?c=6644
-#EXTINF:-1 group-title="Lista 03", Nick Jr Club
-http://el-pe/?c=6645
-#EXTINF:-1 group-title="Lista 03", Barney
-http://el-pe/?c=6646
-#EXTINF:-1 group-title="Lista 03", BABAR
-http://el-pe/?c=6647
-#EXTINF:-1 group-title="Lista 03", El Reino Infantil
-http://el-pe/?c=6648
-#EXTINF:-1 group-title="Lista 03", Rugrats Crecidos
-http://el-pe/?c=6649
-#EXTINF:-1 group-title="Lista 03", Kids
-http://el-pe/?c=6650
-#EXTINF:-1 group-title="Lista 03", Nick Clasico
-http://el-pe/?c=6651
-#EXTINF:-1 group-title="Lista 03", Animales| SD
-http://el-pe/?c=6652
-#EXTINF:-1 group-title="Lista 03", Anime | SD
-http://el-pe/?c=6653
-#EXTINF:-1 group-title="Lista 03", Anime Acción | SD
-http://el-pe/?c=6654
-#EXTINF:-1 group-title="Lista 03", Archivos Forenses | SD
-http://el-pe/?c=6655
-#EXTINF:-1 group-title="Lista 03", Babar | SD
-http://el-pe/?c=6656
-#EXTINF:-1 group-title="Lista 03", Babyfirst | SD
-http://el-pe/?c=6657
-#EXTINF:-1 group-title="Lista 03", Barney | SD
-http://el-pe/?c=6658
-#EXTINF:-1 group-title="Lista 03", Ciencia | SD
-http://el-pe/?c=6659
-#EXTINF:-1 group-title="Lista 03", Cine| SD
-http://el-pe/?c=6660
-#EXTINF:-1 group-title="Lista 03", Cine Acción| SD
-http://el-pe/?c=6661
-#EXTINF:-1 group-title="Lista 03", Cine Comedia | SD
-http://el-pe/?c=6662
-#EXTINF:-1 group-title="Lista 03", Cine Drama | SD
-http://el-pe/?c=6663
-#EXTINF:-1 group-title="Lista 03", Cine Estelar | SD
-http://el-pe/?c=6664
-#EXTINF:-1 group-title="Lista 03", Cine Familia | SD
-http://el-pe/?c=6665
-#EXTINF:-1 group-title="Lista 03", Cine Romance| SD
-http://el-pe/?c=6666
-#EXTINF:-1 group-title="Lista 03", Cine Suspenso| SD
-http://el-pe/?c=6667
-#EXTINF:-1 group-title="Lista 03", Cine Terror| SD
-http://el-pe/?c=6668
-#EXTINF:-1 group-title="Lista 03", Cocina| SD
-http://el-pe/?c=6669
-#EXTINF:-1 group-title="Lista 03", Combate World
-http://el-pe/?c=6670
-#EXTINF:-1 group-title="Lista 03", Competencias| SD
-http://el-pe/?c=6671
-#EXTINF:-1 group-title="Lista 03", Deportes| SD
-http://el-pe/?c=6672
-#EXTINF:-1 group-title="Lista 03", Empeños a lo Bestia| SD
-http://el-pe/?c=6673
-#EXTINF:-1 group-title="Lista 03", Fútbol para Fans | SD
-http://el-pe/?c=6674
-#EXTINF:-1 group-title="Lista 03", Historia | SD
-http://el-pe/?c=6675
-#EXTINF:-1 group-title="Lista 03", Historias de Ultratumba | SD
-http://el-pe/?c=6676
-#EXTINF:-1 group-title="Lista 03", Hogar | SD
-http://el-pe/?c=6677
-#EXTINF:-1 group-title="Lista 03", Investiga | SD
-http://el-pe/?c=6678
-#EXTINF:-1 group-title="Lista 03", Junior| SD
-http://el-pe/?c=6679
-#EXTINF:-1 group-title="Lista 03", Kids | SD
-http://el-pe/?c=6680
-#EXTINF:-1 group-title="Lista 03", Latin Angels | SD
-http://el-pe/?c=6681
-#EXTINF:-1 group-title="Lista 03", Los Archivos del FBI | SD
-http://el-pe/?c=6682
-#EXTINF:-1 group-title="Lista 03", Master Chef | SD
-http://el-pe/?c=6683
-#EXTINF:-1 group-title="Lista 03", Minuto para Ganar | SD
-http://el-pe/?c=6684
-#EXTINF:-1 group-title="Lista 03", Misterios | SD
-http://el-pe/?c=6685
-#EXTINF:-1 group-title="Lista 03", Misterios Médicos | SD
-http://el-pe/?c=6686
-#EXTINF:-1 group-title="Lista 03", MTV Animaciones| SD
-http://el-pe/?c=6687
-#EXTINF:-1 group-title="Lista 03", MTV Classic| SD
-http://el-pe/?c=6688
-#EXTINF:-1 group-title="Lista 03", MTV Pranks| SD
-http://el-pe/?c=6689
-#EXTINF:-1 group-title="Lista 03", Mundo
-http://el-pe/?c=6690
-#EXTINF:-1 group-title="Lista 03", Narcos
-http://el-pe/?c=6691
-#EXTINF:-1 group-title="Lista 03", Naruto| SD
-http://el-pe/?c=6692
-#EXTINF:-1 group-title="Lista 03", Naturaleza| SD
-http://el-pe/?c=6693
-#EXTINF:-1 group-title="Lista 03", Nick Clásico| SD
-http://el-pe/?c=6694
-#EXTINF:-1 group-title="Lista 03", Nick Junior| SD
-http://el-pe/?c=6695
-#EXTINF:-1 group-title="Lista 03", Novelas| SD
-http://el-pe/?c=6696
-#EXTINF:-1 group-title="Lista 03", Peleas| SD
-http://el-pe/?c=6697
-#EXTINF:-1 group-title="Lista 03", Las Pistas de Blue | SD
-http://el-pe/?c=6698
-#EXTINF:-1 group-title="Lista 03", Pluto TV Teen| SD
-http://el-pe/?c=6699
-#EXTINF:-1 group-title="Lista 03", Reality| SD
-http://el-pe/?c=6700
-#EXTINF:-1 group-title="Lista 03", Realities en Español | SD
-http://el-pe/?c=6701
-#EXTINF:-1 group-title="Lista 03", Rugrats Crecidos | SD
-http://el-pe/?c=6702
-#EXTINF:-1 group-title="Lista 03", Series | SD
-http://el-pe/?c=6703
-#EXTINF:-1 group-title="Lista 03", Series Retro| SD
-http://el-pe/?c=6704
-#EXTINF:-1 group-title="Lista 03", A3 Series
-http://el-pe/?c=26269
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" nada="24/7" group-title="Lista 01", Doraemon 24/7
+http://bgapp.live/play/14--703.php?c=521&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" nada="24/7" group-title="Lista 01", Dragon Ball 24/7
+http://bgapp.live/play/14--703.php?c=425&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" nada="24/7" group-title="Lista 01", Dragon Ball GT 24/7
+http://bgapp.live/play/14--703.php?c=520&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" nada="24/7" group-title="Lista 01", Dragon Ball Super 24/7
+http://bgapp.live/play/14--703.php?c=424&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="Lista 01", Dragon Ball Z 24/7
+http://bgapp.live/play/14--703.php?c=329&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="Lista 01", Alf 24/7
+http://bgapp.live/play/14--703.php?c=426&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" nada="24/7" group-title="Lista 01", Animaniacs 24/7
+http://bgapp.live/play/14--703.php?c=677&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Entretenimiento" group-title="Lista 01", Anime 24H
+http://bgapp.live/play/14--703.php?c=269&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" nada="Infantiles" group-title="Lista 01", Baby TV
+http://bgapp.live/play/14--703.php?c=7&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", Barbie 24/7
+http://bgapp.live/play/14--703.php?c=788&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" nada="24/7" group-title="Lista 01", Bleach 24/7
+http://bgapp.live/play/14--703.php?c=883&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" nada="24/7" group-title="Lista 01", Bob Esponja 24/7
+http://bgapp.live/play/14--703.php?c=518&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" nada="Entretenimiento" group-title="Lista 01", Breaking Bad 24/7
+http://bgapp.live/play/14--703.php?c=846&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", Brickleberry 24/7
+http://bgapp.live/play/14--703.php?c=789&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" nada="24/7" group-title="Lista 01", Caballeros del Zodiaco 24/7
+http://bgapp.live/play/14--703.php?c=427&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="Lista 01", Candy Candy 24/7
+http://bgapp.live/play/14--703.php?c=808&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" nada="24/7" group-title="Lista 01", Cantinflas 24/7
+http://bgapp.live/play/14--703.php?c=428&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" nada="24/7" group-title="Lista 01", CatDog 24/7
+http://bgapp.live/play/14--703.php?c=785&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" nada="24/7" group-title="Lista 01", Chapulin Colorado 24/7
+http://bgapp.live/play/14--703.php?c=418&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" nada="24/7" group-title="Lista 01", Chespirito 24/7
+http://bgapp.live/play/14--703.php?c=417&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" nada="24/7" group-title="Lista 01", Coraje el Perro Cobarde 24/7
+http://bgapp.live/play/14--703.php?c=519&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" nada="24/7" group-title="Lista 01", Dinosaurios 24/7
+http://bgapp.live/play/14--703.php?c=670&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" nada="24/7" group-title="Lista 01", El Chavo Animado 24/7
+http://bgapp.live/play/14--703.php?c=790&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" nada="24/7" group-title="Lista 01", El Chavo del 8 24/7
+http://bgapp.live/play/14--703.php?c=400&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" nada="24/7" group-title="Lista 01", El Coyote y el Correcaminos 24/7
+http://bgapp.live/play/14--703.php?c=429&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" nada="Entretenimiento" group-title="Lista 01", El Gallo Claudio 24/7
+http://bgapp.live/play/14--703.php?c=845&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" nada="24/7" group-title="Lista 01", El Increible Mundo de Gumball 24/7
+http://bgapp.live/play/14--703.php?c=791&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" nada="24/7" group-title="Lista 01", El Pajaro Loco 24/7
+http://bgapp.live/play/14--703.php?c=525&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" nada="24/7" group-title="Lista 01", El Principel del Rap 24/7
+http://bgapp.live/play/14--703.php?c=430&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" nada="Entretenimiento" group-title="Lista 01", El Señor de los Cielos 24/7
+http://bgapp.live/play/14--703.php?c=820&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" nada="24/7" group-title="Lista 01", Game of Thrones 24/7
+http://bgapp.live/play/14--703.php?c=515&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="Lista 01", Garfield 24/7
+http://bgapp.live/play/14--703.php?c=812&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" nada="24/7" group-title="Lista 01", Johnny Bravo 24/7
+http://bgapp.live/play/14--703.php?c=786&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", La Casa de Papel 24/7
+http://bgapp.live/play/14--703.php?c=403&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="Lista 01", La Familia PeLuche 24/7
+http://bgapp.live/play/14--703.php?c=811&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" nada="24/7" group-title="Lista 01", La Hora Pico 24/7
+http://bgapp.live/play/14--703.php?c=887&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" nada="24/7" group-title="Lista 01", La Pantera Rosa 24/7
+http://bgapp.live/play/14--703.php?c=671&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" nada="24/7" group-title="Lista 01", La Pequeña Lulu 24/7
+http://bgapp.live/play/14--703.php?c=792&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="Lista 01", La Rosa de Guadalupe 24/7
+http://bgapp.live/play/14--703.php?c=886&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" nada="Entretenimiento" group-title="Lista 01", La Vaca y ElPollito 24/7
+http://bgapp.live/play/14--703.php?c=809&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="Lista 01", Le Temes a la Oscuridad 24/7
+http://bgapp.live/play/14--703.php?c=888&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="Lista 01", Looney Tunes 24/7
+http://bgapp.live/play/14--703.php?c=524&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" nada="24/7" group-title="Lista 01", Los 3 Chiflados 24/7
+http://bgapp.live/play/14--703.php?c=423&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Entretenimiento" group-title="Lista 01", Los Años Maravillosos 24/7
+http://bgapp.live/play/14--703.php?c=810&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" nada="Entretenimiento" group-title="Lista 01", Los Padrinos Magicos 24/7
+http://bgapp.live/play/14--703.php?c=813&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="Lista 01", Los Picapiedra 24/7
+http://bgapp.live/play/14--703.php?c=669&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" nada="24/7" group-title="Lista 01", Los Pinguinos de Madagascar 24/7
+http://bgapp.live/play/14--703.php?c=794&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" nada="24/7" group-title="Lista 01", Los Pitufos 24/7
+http://bgapp.live/play/14--703.php?c=795&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" nada="24/7" group-title="Lista 01", Los Reyes de la Colina 24/7
+http://bgapp.live/play/14--703.php?c=796&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" nada="24/7" group-title="Lista 01", Los Simpson 24/7
+http://bgapp.live/play/14--703.php?c=357&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" nada="24/7" group-title="Lista 01", Los Supersonicos 24/7
+http://bgapp.live/play/14--703.php?c=797&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" nada="Entretenimiento" group-title="Lista 01", Los Vengadores Unidos 24/7
+http://bgapp.live/play/14--703.php?c=818&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" nada="24/7" group-title="Lista 01", Malcolm 24/7
+http://bgapp.live/play/14--703.php?c=798&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" nada="Entretenimiento" group-title="Lista 01", Más chic
+http://bgapp.live/play/14--703.php?c=180&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" nada="Entretenimiento" group-title="Lista 01", Max Steel 24/7
+http://bgapp.live/play/14--703.php?c=880&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" nada="24/7" group-title="Lista 01", Mr. Bean 24/7
+http://bgapp.live/play/14--703.php?c=431&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="24/7" group-title="Lista 01", Naruto 24/7
+http://bgapp.live/play/14--703.php?c=523&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="Lista 01", Cartoon Network
+http://bgapp.live/play/14--703.php?c=17&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="Lista 01", Cartoon Network Sur
+http://bgapp.live/play/14--703.php?c=737&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="HD" group-title="Lista 01", Cartoon Network
+http://bgapp.live/play/14--703.php?c=637&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="Lista 01", Cartoonito (Boomerang)
+http://bgapp.live/play/14--703.php?c=11&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="HD" group-title="Lista 01", Cartoonito (Boomerang)
+http://bgapp.live/play/14--703.php?c=824&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" nada="Infantiles" group-title="Lista 01", Cartoonito Sur
+http://bgapp.live/play/14--703.php?c=735&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" nada="Infantiles" group-title="Lista 01", CBeebies
+http://bgapp.live/play/14--703.php?c=13&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" nada="Colombia" group-title="Lista 01", CHV Chilevision
+http://bgapp.live/play/14--703.php?c=198&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" nada="Peliculas" group-title="Lista 01", Cine 2020
+http://bgapp.live/play/14--703.php?c=857&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion
+http://bgapp.live/play/14--703.php?c=699&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Accion
+http://bgapp.live/play/14--703.php?c=706&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Accion Sagas
+http://bgapp.live/play/14--703.php?c=700&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Infantil
+http://bgapp.live/play/14--703.php?c=687&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Infantil
+http://bgapp.live/play/14--703.php?c=702&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Infantil Sagas
+http://bgapp.live/play/14--703.php?c=694&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/infantil_sagas_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Infantil Sagas
+http://bgapp.live/play/14--703.php?c=703&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" nada="Peliculas" group-title="Lista 01", Cine Latino
+http://bgapp.live/play/14--703.php?c=295&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Marvel
+http://bgapp.live/play/14--703.php?c=697&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Marvel
+http://bgapp.live/play/14--703.php?c=701&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Terror
+http://bgapp.live/play/14--703.php?c=693&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" nada="HD" group-title="Lista 01", Cine Terror
+http://bgapp.live/play/14--703.php?c=704&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" nada="Peliculas" group-title="Lista 01", Cine Zombis
+http://bgapp.live/play/14--703.php?c=688&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="Lista 01", Cinecanal
+http://bgapp.live/play/14--703.php?c=18&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="Lista 01", Cinecanal Sur
+http://bgapp.live/play/14--703.php?c=738&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="HD" group-title="Lista 01", Cinecanal
+http://bgapp.live/play/14--703.php?c=479&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="Peliculas" group-title="Lista 01", Cinemax
+http://bgapp.live/play/14--703.php?c=20&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="Peliculas" group-title="Lista 01", Cinemax Sur
+http://bgapp.live/play/14--703.php?c=739&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" nada="HD" group-title="Lista 01", Cinemax
+http://bgapp.live/play/14--703.php?c=638&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" nada="Noticias" group-title="Lista 01", CNN en Español
+http://bgapp.live/play/14--703.php?c=136&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Chile" group-title="Lista 01", CTNI
+http://bgapp.live/play/14--703.php?c=160&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" nada="Peliculas" group-title="Lista 01", De Película
+http://bgapp.live/play/14--703.php?c=21&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" nada="HD" group-title="Lista 01", De Pelicula
+http://bgapp.live/play/14--703.php?c=481&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" nada="Deportes" group-title="Lista 01", DirectTV Sports
+http://bgapp.live/play/14--703.php?c=259&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" nada="Deportes" group-title="Lista 01", DirectTV Sports 2
+http://bgapp.live/play/14--703.php?c=667&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" nada="HD" group-title="Lista 01", DirectTV Sports Peru
+http://bgapp.live/play/14--703.php?c=879&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="Lista 01", Discovery Channel
+http://bgapp.live/play/14--703.php?c=22&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="Lista 01", Discovery Channel Sur
+http://bgapp.live/play/14--703.php?c=741&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="HD" group-title="Lista 01", Discovery Channel
+http://bgapp.live/play/14--703.php?c=639&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="Lista 01", Discovery Civilization
+http://bgapp.live/play/14--703.php?c=23&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="Cultura" group-title="Lista 01", Discovery H&H
+http://bgapp.live/play/14--703.php?c=24&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="Cultura" group-title="Lista 01", Discovery H&H Sur
+http://bgapp.live/play/14--703.php?c=742&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" nada="HD" group-title="Lista 01", Discovery H&H
+http://bgapp.live/play/14--703.php?c=640&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="Lista 01", Discovery Kids
+http://bgapp.live/play/14--703.php?c=25&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="HD" group-title="Lista 01", Discovery Kids
+http://bgapp.live/play/14--703.php?c=641&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" nada="Cultura" group-title="Lista 01", Discovery SCI
+http://bgapp.live/play/14--703.php?c=26&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" nada="Cultura" group-title="Lista 01", Discovery Theater
+http://bgapp.live/play/14--703.php?c=27&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="Cultura" group-title="Lista 01", Discovery Turbo
+http://bgapp.live/play/14--703.php?c=28&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="HD" group-title="Lista 01", Discovery Turbo
+http://bgapp.live/play/14--703.php?c=727&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" nada="Cultura" group-title="Lista 01", Discovery World
+http://bgapp.live/play/14--703.php?c=187&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" nada="Infantiles" group-title="Lista 01", Disney Channel
+http://bgapp.live/play/14--703.php?c=29&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="Lista 01", Disney Junior
+http://bgapp.live/play/14--703.php?c=30&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="Lista 01", Disney Junior Sur
+http://bgapp.live/play/14--703.php?c=743&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="HD" group-title="Lista 01", Disney Junior
+http://bgapp.live/play/14--703.php?c=826&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" nada="Infantiles" group-title="Lista 01", Disney XD
+http://bgapp.live/play/14--703.php?c=31&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" nada="Infantiles" group-title="Lista 01", Disney XD Sur
+http://bgapp.live/play/14--703.php?c=744&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" nada="HD" group-title="Lista 01", Disney XD
+http://bgapp.live/play/14--703.php?c=827&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" nada="Entretenimiento" group-title="Lista 01", Distrito Comedia
+http://bgapp.live/play/14--703.php?c=32&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" nada="Musica" group-title="Lista 01", Djing Ibiza
+http://bgapp.live/play/14--703.php?c=277&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" nada="Entretenimiento" group-title="Lista 01", E!
+http://bgapp.live/play/14--703.php?c=33&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" nada="HD" group-title="Lista 01", E!
+http://bgapp.live/play/14--703.php?c=483&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="Lista 01", Ecuavisa
+http://bgapp.live/play/14--703.php?c=319&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" nada="Noticias" group-title="Lista 01", Efekto TV
+http://bgapp.live/play/14--703.php?c=275&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" nada="Argentina" group-title="Lista 01", El 13 Argentina
+http://bgapp.live/play/14--703.php?c=239&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" nada="Entretenimiento" group-title="Lista 01", El Gourmet
+http://bgapp.live/play/14--703.php?c=157&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" nada="Argentina" group-title="Lista 01", El Nueve
+http://bgapp.live/play/14--703.php?c=772&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="Lista 01", El Trece
+http://bgapp.live/play/14--703.php?c=765&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Argentina" group-title="Lista 01", El Trece
+http://bgapp.live/play/14--703.php?c=767&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Religion" group-title="Lista 01", Enlace Juvenil
+http://bgapp.live/play/14--703.php?c=162&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Religion" group-title="Lista 01", Enlace TV
+http://bgapp.live/play/14--703.php?c=161&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN
+http://bgapp.live/play/14--703.php?c=34&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="Deportes" group-title="Lista 01", ESPN 2
+http://bgapp.live/play/14--703.php?c=35&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="HD" group-title="Lista 01", ESPN 2
+http://bgapp.live/play/14--703.php?c=484&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" nada="Deportes" group-title="Lista 01", ESPN 2 MX
+http://bgapp.live/play/14--703.php?c=531&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" nada="HD" group-title="Lista 01", ESPN 3
+http://bgapp.live/play/14--703.php?c=485&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN Chile
+http://bgapp.live/play/14--703.php?c=842&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="HD" group-title="Lista 01", ESPN
+http://bgapp.live/play/14--703.php?c=486&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" nada="Deportes" group-title="Lista 01", ESPN MX
+http://bgapp.live/play/14--703.php?c=530&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" nada="Deportes" group-title="Lista 01", ESPN Plus
+http://bgapp.live/play/14--703.php?c=37&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" nada="HD" group-title="Lista 01", ESPN Plus
+http://bgapp.live/play/14--703.php?c=487&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" nada="Entretenimiento" group-title="Lista 01", Estrella TV
+http://bgapp.live/play/14--703.php?c=177&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" nada="Deportes" group-title="Lista 01", Eurosport
+http://bgapp.live/play/14--703.php?c=39&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" nada="Religion" group-title="Lista 01", EWTN
+http://bgapp.live/play/14--703.php?c=38&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" nada="HD" group-title="Lista 01", Film & Arts
+http://bgapp.live/play/14--703.php?c=149&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" nada="HD" group-title="Lista 01", Film & Arts (EN)
+http://bgapp.live/play/14--703.php?c=729&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="Peliculas" group-title="Lista 01", FM Hot TV
+http://bgapp.live/play/14--703.php?c=731&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" nada="Deportes" group-title="Lista 01", Formula 1 TV (F1)
+http://bgapp.live/play/14--703.php?c=192&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" nada="Entretenimiento" group-title="Lista 01", Fox Sur
+http://bgapp.live/play/14--703.php?c=750&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" nada="Entretenimiento" group-title="Lista 01", Fox Life Sur
+http://bgapp.live/play/14--703.php?c=746&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports
+http://bgapp.live/play/14--703.php?c=52&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports 2
+http://bgapp.live/play/14--703.php?c=53&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="HD" group-title="Lista 01", Fox Sports 2 Argentina
+http://bgapp.live/play/14--703.php?c=770&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="HD" group-title="Lista 01", Fox Sports 2
+http://bgapp.live/play/14--703.php?c=494&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports 2 MX
+http://bgapp.live/play/14--703.php?c=528&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="Deportes" group-title="Lista 01", Fox Sports 3
+http://bgapp.live/play/14--703.php?c=54&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="HD" group-title="Lista 01", Fox Sports 3
+http://bgapp.live/play/14--703.php?c=839&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="HD" group-title="Lista 01", Fox Sports Argentina
+http://bgapp.live/play/14--703.php?c=769&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="HD" group-title="Lista 01", Fox Sports
+http://bgapp.live/play/14--703.php?c=493&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports MX
+http://bgapp.live/play/14--703.php?c=527&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports MX Sur
+http://bgapp.live/play/14--703.php?c=748&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" nada="Deportes" group-title="Lista 01", Fox Sports Premium
+http://bgapp.live/play/14--703.php?c=512&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" nada="HD" group-title="Lista 01", Fox Sports Premium
+http://bgapp.live/play/14--703.php?c=658&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" nada="Deportes" group-title="Lista 01", Fox Sports Sur
+http://bgapp.live/play/14--703.php?c=402&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" nada="Deportes" group-title="Lista 01", Fox Sports Sur 2
+http://bgapp.live/play/14--703.php?c=410&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" nada="Deportes" group-title="Lista 01", Fox Sports Sur 3
+http://bgapp.live/play/14--703.php?c=511&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", Futurama 24/7
+http://bgapp.live/play/14--703.php?c=793&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX
+http://bgapp.live/play/14--703.php?c=42&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="Lista 01", FX Sur
+http://bgapp.live/play/14--703.php?c=749&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="HD" group-title="Lista 01", FX
+http://bgapp.live/play/14--703.php?c=495&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="Peliculas" group-title="Lista 01", FXM
+http://bgapp.live/play/14--703.php?c=43&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="HD" group-title="Lista 01", FXM
+http://bgapp.live/play/14--703.php?c=488&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" nada="Mexico" group-title="Lista 01", Gala TV
+http://bgapp.live/play/14--703.php?c=56&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" nada="HD" group-title="Lista 01", Gala TV
+http://bgapp.live/play/14--703.php?c=651&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" nada="Ecuador" group-title="Lista 01", Gamavision
+http://bgapp.live/play/14--703.php?c=891&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" nada="Entretenimiento" group-title="Lista 01", Glitz
+http://bgapp.live/play/14--703.php?c=158&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" nada="Deportes" group-title="Lista 01", Gol Peru
+http://bgapp.live/play/14--703.php?c=686&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="Deportes" group-title="Lista 01", Gol TV
+http://bgapp.live/play/14--703.php?c=287&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="HD" group-title="Lista 01", Gol TV
+http://bgapp.live/play/14--703.php?c=514&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="Lista 01", Golden
+http://bgapp.live/play/14--703.php?c=57&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="Lista 01", Golden Edge
+http://bgapp.live/play/14--703.php?c=58&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="HD" group-title="Lista 01", Golden
+http://bgapp.live/play/14--703.php?c=496&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="Lista 01", H2
+http://bgapp.live/play/14--703.php?c=61&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="Lista 01", H2 Sur
+http://bgapp.live/play/14--703.php?c=760&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="Peliculas" group-title="Lista 01", HBO
+http://bgapp.live/play/14--703.php?c=62&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="Peliculas" group-title="Lista 01", HBO (EN)
+http://bgapp.live/play/14--703.php?c=723&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="Peliculas" group-title="Lista 01", HBO 2
+http://bgapp.live/play/14--703.php?c=300&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="Peliculas" group-title="Lista 01", HBO 2 (EN)
+http://bgapp.live/play/14--703.php?c=724&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="HD" group-title="Lista 01", HBO 2
+http://bgapp.live/play/14--703.php?c=732&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" nada="HD" group-title="Lista 01", HBO 2 (EN)
+http://bgapp.live/play/14--703.php?c=733&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" nada="Peliculas" group-title="Lista 01", HBO Family
+http://bgapp.live/play/14--703.php?c=63&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" nada="HD" group-title="Lista 01", HBO
+http://bgapp.live/play/14--703.php?c=654&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="Lista 01", HBO Plus
+http://bgapp.live/play/14--703.php?c=64&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="Lista 01", HBO Plus (EN)
+http://bgapp.live/play/14--703.php?c=722&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus
+http://bgapp.live/play/14--703.php?c=655&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="HD" group-title="Lista 01", HBO Plus Oeste
+http://bgapp.live/play/14--703.php?c=728&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" nada="Peliculas" group-title="Lista 01", HBO Xtreme
+http://bgapp.live/play/14--703.php?c=814&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" nada="Peliculas" group-title="Lista 01", HBO Xtreme
+http://bgapp.live/play/14--703.php?c=841&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" nada="Honduras" group-title="Lista 01", HCH
+http://bgapp.live/play/14--703.php?c=779&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" nada="24/7" group-title="Lista 01", Hey Arnold 24/7
+http://bgapp.live/play/14--703.php?c=522&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" nada="España" group-title="Lista 01", Historia (ES)
+http://bgapp.live/play/14--703.php?c=718&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" nada="Cultura" group-title="Lista 01", History Channel
+http://bgapp.live/play/14--703.php?c=67&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" nada="HD" group-title="Lista 01", History Channel
+http://bgapp.live/play/14--703.php?c=642&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" nada="Musica" group-title="Lista 01", Hit TV
+http://bgapp.live/play/14--703.php?c=201&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" nada="Entretenimiento" group-title="Lista 01", Hola TV
+http://bgapp.live/play/14--703.php?c=189&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" nada="Musica" group-title="Lista 01", HTV
+http://bgapp.live/play/14--703.php?c=66&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" nada="Peliculas" group-title="Lista 01", I.Sat
+http://bgapp.live/play/14--703.php?c=153&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" nada="Mexico" group-title="Lista 01", Imagen Television
+http://bgapp.live/play/14--703.php?c=341&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" nada="HD" group-title="Lista 01", Imagen Televisión
+http://bgapp.live/play/14--703.php?c=643&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" nada="Cultura" group-title="Lista 01", Investigation Discovery
+http://bgapp.live/play/14--703.php?c=68&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" nada="HD" group-title="Lista 01", Investigation Discovery
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="HD" group-title="Lista 01", Max Up
+http://bgapp.live/play/14--703.php?c=659&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Chile" group-title="Lista 01", Mega
+http://bgapp.live/play/14--703.php?c=766&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Puerto Rico" group-title="Lista 01", Mega
+http://bgapp.live/play/14--703.php?c=784&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="España" group-title="Lista 01", Mega (ES)
+http://bgapp.live/play/14--703.php?c=352&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peliculas" group-title="Lista 01", MegaCine
+http://bgapp.live/play/14--703.php?c=517&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png" nada="Musica" group-title="Lista 01", Mi Musica
+http://bgapp.live/play/14--703.php?c=172&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Entretenimiento" group-title="Lista 01", Miami TV
+http://bgapp.live/play/14--703.php?c=251&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" nada="Noticias" group-title="Lista 01", Milenio
+http://bgapp.live/play/14--703.php?c=140&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" nada="Deportes" group-title="Lista 01", MLB Network
+http://bgapp.live/play/14--703.php?c=293&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" nada="Peliculas" group-title="Lista 01", Movie Max
+http://bgapp.live/play/14--703.php?c=678&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" nada="España" group-title="Lista 01", Movistar Comedia
+http://bgapp.live/play/14--703.php?c=370&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" nada="Deportes" group-title="Lista 01", Movistar Deportes
+http://bgapp.live/play/14--703.php?c=366&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" nada="Deportes" group-title="Lista 01", Movistar Deportes 2
+http://bgapp.live/play/14--703.php?c=367&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" nada="España" group-title="Lista 01", Movistar Xtra
+http://bgapp.live/play/14--703.php?c=372&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="Entretenimiento" group-title="Lista 01", MTV
+http://bgapp.live/play/14--703.php?c=69&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="España" group-title="Lista 01", MTV (ES)
+http://bgapp.live/play/14--703.php?c=803&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="HD" group-title="Lista 01", MTV
+http://bgapp.live/play/14--703.php?c=828&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" nada="Musica" group-title="Lista 01", MTV Live
+http://bgapp.live/play/14--703.php?c=70&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" nada="Entretenimiento" group-title="Lista 01", MTV Sur
+http://bgapp.live/play/14--703.php?c=823&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" nada="Mexico" group-title="Lista 01", Multimedios
+http://bgapp.live/play/14--703.php?c=155&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" nada="Peliculas" group-title="Lista 01", MultiPremier
+http://bgapp.live/play/14--703.php?c=294&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Music Now
+http://bgapp.live/play/14--703.php?c=690&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" nada="Musica" group-title="Lista 01", MusicTop
+http://bgapp.live/play/14--703.php?c=691&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" nada="Noticias" group-title="Lista 01", MVS Noticias
+http://bgapp.live/play/14--703.php?c=448&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" nada="Cultura" group-title="Lista 01", Nat Geo
+http://bgapp.live/play/14--703.php?c=76&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" nada="HD" group-title="Lista 01", Nat Geo
+http://bgapp.live/play/14--703.php?c=644&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" nada="Infantiles" group-title="Lista 01", Nat Geo Kids
+http://bgapp.live/play/14--703.php?c=412&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" nada="Cultura" group-title="Lista 01", Nat Geo Wild
+http://bgapp.live/play/14--703.php?c=77&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" nada="HD" group-title="Lista 01", Nat Geo Wild
+http://bgapp.live/play/14--703.php?c=497&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" nada="Deportes" group-title="Lista 01", NBA
+http://bgapp.live/play/14--703.php?c=838&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" nada="España" group-title="Lista 01", Neox (ES)
+http://bgapp.live/play/14--703.php?c=353&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" nada="Deportes" group-title="Lista 01", NFL Network
+http://bgapp.live/play/14--703.php?c=204&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="Infantiles" group-title="Lista 01", Nick
+http://bgapp.live/play/14--703.php?c=78&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" nada="HD" group-title="Lista 01", Nick 2
+http://bgapp.live/play/14--703.php?c=646&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="HD" group-title="Lista 01", Nick
+http://bgapp.live/play/14--703.php?c=645&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" nada="Infantiles" group-title="Lista 01", Nick JR
+http://bgapp.live/play/14--703.php?c=79&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" nada="HD" group-title="Lista 01", Nick JR
+http://bgapp.live/play/14--703.php?c=829&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" nada="Infantiles" group-title="Lista 01", Nick Toons
+http://bgapp.live/play/14--703.php?c=80&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" nada="Infantiles" group-title="Lista 01", Nickelodeon
+http://bgapp.live/play/14--703.php?c=184&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" nada="España" group-title="Lista 01", Nova (ES)
+http://bgapp.live/play/14--703.php?c=717&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="Lista 01", One Punch Man 24/7
+http://bgapp.live/play/14--703.php?c=661&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Argentina" group-title="Lista 01", ORBE 21
+http://bgapp.live/play/14--703.php?c=242&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" nada="24/7" group-title="Lista 01", Padre de Familia 24/7
+http://bgapp.live/play/14--703.php?c=416&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="Peliculas" group-title="Lista 01", Paramount
+http://bgapp.live/play/14--703.php?c=200&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="HD" group-title="Lista 01", Paramount
+http://bgapp.live/play/14--703.php?c=647&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" nada="HD" group-title="Lista 01", Pasiones
+http://bgapp.live/play/14--703.php?c=755&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" nada="Entretenimiento" group-title="Lista 01", Patoaventuras 24/7
+http://bgapp.live/play/14--703.php?c=819&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" nada="Entretenimiento" group-title="Lista 01", Patrulla Canina 24/7
+http://bgapp.live/play/14--703.php?c=807&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" nada="24/7" group-title="Lista 01", Peppa Pig 24/7
+http://bgapp.live/play/14--703.php?c=787&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" nada="Peru" group-title="Lista 01", PERU: América TV
+http://bgapp.live/play/14--703.php?c=304&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: Antares TV
+http://bgapp.live/play/14--703.php?c=451&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: BHTV
+http://bgapp.live/play/14--703.php?c=399&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: La Luz
+http://bgapp.live/play/14--703.php?c=338&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" nada="Peru" group-title="Lista 01", PERU: Latina
+http://bgapp.live/play/14--703.php?c=317&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: Plus TV
+http://bgapp.live/play/14--703.php?c=337&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: RBC
+http://bgapp.live/play/14--703.php?c=220&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" nada="Peru" group-title="Lista 01", PERU: RPP
+http://bgapp.live/play/14--703.php?c=336&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: TV Peru
+http://bgapp.live/play/14--703.php?c=306&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Peru" group-title="Lista 01", PERU: Willax TV
+http://bgapp.live/play/14--703.php?c=334&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" nada="24/7" group-title="Lista 01", Pinky y Cerebro 24/7
+http://bgapp.live/play/14--703.php?c=721&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" nada="24/7" group-title="Lista 01", Pocoyo 24/7
+http://bgapp.live/play/14--703.php?c=799&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" nada="24/7" group-title="Lista 01", Pokemon 24/7
+http://bgapp.live/play/14--703.php?c=420&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 1
+http://bgapp.live/play/14--703.php?c=847&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 10
+http://bgapp.live/play/14--703.php?c=856&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 11
+http://bgapp.live/play/14--703.php?c=858&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 12
+http://bgapp.live/play/14--703.php?c=859&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 13
+http://bgapp.live/play/14--703.php?c=860&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 14
+http://bgapp.live/play/14--703.php?c=862&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 15
+http://bgapp.live/play/14--703.php?c=863&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 16
+http://bgapp.live/play/14--703.php?c=864&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 17
+http://bgapp.live/play/14--703.php?c=865&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 18
+http://bgapp.live/play/14--703.php?c=866&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 19
+http://bgapp.live/play/14--703.php?c=861&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 2
+http://bgapp.live/play/14--703.php?c=848&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 20
+http://bgapp.live/play/14--703.php?c=867&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 21
+http://bgapp.live/play/14--703.php?c=868&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 22
+http://bgapp.live/play/14--703.php?c=869&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 23
+http://bgapp.live/play/14--703.php?c=870&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 24
+http://bgapp.live/play/14--703.php?c=871&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 25
+http://bgapp.live/play/14--703.php?c=873&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 26
+http://bgapp.live/play/14--703.php?c=874&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 27
+http://bgapp.live/play/14--703.php?c=876&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 28
+http://bgapp.live/play/14--703.php?c=875&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 29
+http://bgapp.live/play/14--703.php?c=872&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 3
+http://bgapp.live/play/14--703.php?c=849&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 30
+http://bgapp.live/play/14--703.php?c=877&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 4
+http://bgapp.live/play/14--703.php?c=850&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 5
+http://bgapp.live/play/14--703.php?c=851&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 6
+http://bgapp.live/play/14--703.php?c=852&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 7
+http://bgapp.live/play/14--703.php?c=853&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 8
+http://bgapp.live/play/14--703.php?c=854&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" nada="Entretenimiento" group-title="Lista 01", PPV 9
+http://bgapp.live/play/14--703.php?c=855&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" nada="24/7" group-title="Lista 01", Prison Break 24/7
+http://bgapp.live/play/14--703.php?c=884&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" nada="Deportes" group-title="Lista 01", PX TV
+http://bgapp.live/play/14--703.php?c=193&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" nada="24/7" group-title="Lista 01", Ranma 1/2 24/7
+http://bgapp.live/play/14--703.php?c=419&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Mexico" group-title="Lista 01", RCG TV Coahuila
+http://bgapp.live/play/14--703.php?c=346&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" nada="Colombia" group-title="Lista 01", RCN
+http://bgapp.live/play/14--703.php?c=390&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" nada="Colombia" group-title="Lista 01", RCN Novelas
+http://bgapp.live/play/14--703.php?c=279&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Deportes" group-title="Lista 01", Real Madrid TV
+http://bgapp.live/play/14--703.php?c=270&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" nada="Musica" group-title="Lista 01", Retro Music
+http://bgapp.live/play/14--703.php?c=692&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" nada="Musica" group-title="Lista 01", Ritmoson Latino
+http://bgapp.live/play/14--703.php?c=154&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rt.png" nada="HD" group-title="Lista 01", RT
+http://bgapp.live/play/14--703.php?c=142&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" nada="Bolivia" group-title="Lista 01", RTP
+http://bgapp.live/play/14--703.php?c=781&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" nada="24/7" group-title="Lista 01", Sakura Card Captor 24/7
+http://bgapp.live/play/14--703.php?c=672&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" nada="24/7" group-title="Lista 01", Samurai X 24/7
+http://bgapp.live/play/14--703.php?c=663&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" nada="24/7" group-title="Lista 01", Scooby Doo 24/7
+http://bgapp.live/play/14--703.php?c=422&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" nada="Peliculas" group-title="Lista 01", Showtime
+http://bgapp.live/play/14--703.php?c=679&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="Lista 01", Smallville 24/7
+http://bgapp.live/play/14--703.php?c=673&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="Entretenimiento" group-title="Lista 01", Sony
+http://bgapp.live/play/14--703.php?c=145&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="HD" group-title="Lista 01", Sony
+http://bgapp.live/play/14--703.php?c=498&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" nada="24/7" group-title="Lista 01", South Park 24/7
+http://bgapp.live/play/14--703.php?c=674&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="Lista 01", Space
+http://bgapp.live/play/14--703.php?c=83&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="Lista 01", Space Sur
+http://bgapp.live/play/14--703.php?c=751&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="HD" group-title="Lista 01", Space
+http://bgapp.live/play/14--703.php?c=499&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" nada="24/7" group-title="Lista 01", Spiderman 24/7
+http://bgapp.live/play/14--703.php?c=889&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="Entretenimiento" group-title="Lista 01", Star
+http://bgapp.live/play/14--703.php?c=45&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" nada="Peliculas" group-title="Lista 01", Star Action
+http://bgapp.live/play/14--703.php?c=46&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" nada="HD" group-title="Lista 01", Star Action
+http://bgapp.live/play/14--703.php?c=490&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" nada="Peliculas" group-title="Lista 01", Star Cinema
+http://bgapp.live/play/14--703.php?c=47&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png" nada="Peliculas" group-title="Lista 01", Star Classics
+http://bgapp.live/play/14--703.php?c=48&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png" nada="Peliculas" group-title="Lista 01", Star Comedy
+http://bgapp.live/play/14--703.php?c=150&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" nada="Peliculas" group-title="Lista 01", Star Fun
+http://bgapp.live/play/14--703.php?c=49&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" nada="HD" group-title="Lista 01", Star Fun
+http://bgapp.live/play/14--703.php?c=840&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="HD" group-title="Lista 01", Star
+http://bgapp.live/play/14--703.php?c=489&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" nada="Peliculas" group-title="Lista 01", Star Hits
+http://bgapp.live/play/14--703.php?c=51&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" nada="Peliculas" group-title="Lista 01", Star Hits Sur
+http://bgapp.live/play/14--703.php?c=747&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" nada="HD" group-title="Lista 01", Star Hits
+http://bgapp.live/play/14--703.php?c=491&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" nada="Entretenimiento" group-title="Lista 01", Star Life
+http://bgapp.live/play/14--703.php?c=50&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" nada="HD" group-title="Lista 01", Star Life
+http://bgapp.live/play/14--703.php?c=652&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" nada="Entretenimiento" group-title="Lista 01", Star Series
+http://bgapp.live/play/14--703.php?c=303&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" nada="Entretenimiento" group-title="Lista 01", Star Series Sur
+http://bgapp.live/play/14--703.php?c=745&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" nada="HD" group-title="Lista 01", Star Series
+http://bgapp.live/play/14--703.php?c=492&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" nada="Peliculas" group-title="Lista 01", Starz Cinema
+http://bgapp.live/play/14--703.php?c=680&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" nada="Peliculas" group-title="Lista 01", Starz Comedy
+http://bgapp.live/play/14--703.php?c=681&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" nada="Peliculas" group-title="Lista 01", Starz Encore Action
+http://bgapp.live/play/14--703.php?c=682&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" nada="Peliculas" group-title="Lista 01", Starz Encore Black
+http://bgapp.live/play/14--703.php?c=683&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" nada="Peliculas" group-title="Lista 01", Starz Encore Family
+http://bgapp.live/play/14--703.php?c=684&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_hd.png" nada="HD" group-title="Lista 01", Starz
+http://bgapp.live/play/14--703.php?c=685&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="Peliculas" group-title="Lista 01", Studio Universal
+http://bgapp.live/play/14--703.php?c=84&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="HD" group-title="Lista 01", Studio Universal
+http://bgapp.live/play/14--703.php?c=830&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" nada="24/7" group-title="Lista 01", Super Campeones 24/7
+http://bgapp.live/play/14--703.php?c=432&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="Lista 01", SyFy
+http://bgapp.live/play/14--703.php?c=151&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="Lista 01", SyFy Sur
+http://bgapp.live/play/14--703.php?c=758&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="HD" group-title="Lista 01", SyFy
+http://bgapp.live/play/14--703.php?c=648&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="Entretenimiento" group-title="Lista 01", TBS Very Funny
+http://bgapp.live/play/14--703.php?c=171&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="HD" group-title="Lista 01", TBS Very Funny
+http://bgapp.live/play/14--703.php?c=831&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" nada="Entretenimiento" group-title="Lista 01", TC Ecuador
+http://bgapp.live/play/14--703.php?c=885&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" nada="Peliculas" group-title="Lista 01", TCM
+http://bgapp.live/play/14--703.php?c=85&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" nada="Infantiles" group-title="Lista 01", TeenNick
+http://bgapp.live/play/14--703.php?c=882&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Uruguay" group-title="Lista 01", Tele
+http://bgapp.live/play/14--703.php?c=778&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" nada="Ecuador" group-title="Lista 01", TeleAmazonas
+http://bgapp.live/play/14--703.php?c=320&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" nada="Argentina" group-title="Lista 01", Telefe
+http://bgapp.live/play/14--703.php?c=771&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" nada="Entretenimiento" group-title="Lista 01", TeleFórmula
+http://bgapp.live/play/14--703.php?c=182&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" nada="Musica" group-title="Lista 01", Telehit
+http://bgapp.live/play/14--703.php?c=91&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" nada="HD" group-title="Lista 01", Telehit
+http://bgapp.live/play/14--703.php?c=649&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" nada="Colombia" group-title="Lista 01", Telemedellin
+http://bgapp.live/play/14--703.php?c=197&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="Entretenimiento" group-title="Lista 01", Telemundo
+http://bgapp.live/play/14--703.php?c=92&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="HD" group-title="Lista 01", Telemundo
+http://bgapp.live/play/14--703.php?c=660&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" nada="Ecuador" group-title="Lista 01", Televicentro
+http://bgapp.live/play/14--703.php?c=776&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" nada="24/7" group-title="Lista 01", The Big Bang Theory 24/7
+http://bgapp.live/play/14--703.php?c=676&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="" nada="24/7" group-title="Lista 01", The Walking Dead 24/7
+http://bgapp.live/play/14--703.php?c=800&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" nada="Deportes" group-title="Lista 01", TigoSports Bolivia
+http://bgapp.live/play/14--703.php?c=764&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" nada="Deportes" group-title="Lista 01", TigoSports Paraguay
+http://bgapp.live/play/14--703.php?c=843&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" nada="Infantiles" group-title="Lista 01", Tiin
+http://bgapp.live/play/14--703.php?c=93&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" nada="Entretenimiento" group-title="Lista 01", TLC
+http://bgapp.live/play/14--703.php?c=87&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="Entretenimiento" group-title="Lista 01", Tlnovelas
+http://bgapp.live/play/14--703.php?c=94&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="HD" group-title="Lista 01", Tlnovelas
+http://bgapp.live/play/14--703.php?c=832&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="Lista 01", TNT
+http://bgapp.live/play/14--703.php?c=179&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="Lista 01", TNT Sur
+http://bgapp.live/play/14--703.php?c=752&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="España" group-title="Lista 01", TNT (ES)
+http://bgapp.live/play/14--703.php?c=716&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="HD" group-title="Lista 01", TNT
+http://bgapp.live/play/14--703.php?c=500&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" nada="Entretenimiento" group-title="Lista 01", TNT Series
+http://bgapp.live/play/14--703.php?c=90&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" nada="Entretenimiento" group-title="Lista 01", TNT Series Sur
+http://bgapp.live/play/14--703.php?c=757&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" nada="HD" group-title="Lista 01", TNT Series
+http://bgapp.live/play/14--703.php?c=650&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" nada="Deportes" group-title="Lista 01", TNT Sports
+http://bgapp.live/play/14--703.php?c=509&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" nada="24/7" group-title="Lista 01", Tom y Jerry 24/7
+http://bgapp.live/play/14--703.php?c=421&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" nada="Infantiles" group-title="Lista 01", Tooncast
+http://bgapp.live/play/14--703.php?c=95&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" nada="Colombia" group-title="Lista 01", Trece
+http://bgapp.live/play/14--703.php?c=774&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" nada="24/7" group-title="Lista 01", TrollHunters 24/7
+http://bgapp.live/play/14--703.php?c=662&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="Entretenimiento" group-title="Lista 01", TruTV
+http://bgapp.live/play/14--703.php?c=96&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="HD" group-title="Lista 01", TruTv
+http://bgapp.live/play/14--703.php?c=501&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tumusicahd.png" nada="Musica" group-title="Lista 01", Tu Musica
+http://bgapp.live/play/14--703.php?c=516&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="Deportes" group-title="Lista 01", TUDN 
+http://bgapp.live/play/14--703.php?c=698&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="Deportes" group-title="Lista 01", TUDN (Pocos Datos)
+http://bgapp.live/play/14--703.php?c=822&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="HD" group-title="Lista 01", TUDN
+http://bgapp.live/play/14--703.php?c=801&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="Deportes" group-title="Lista 01", TUDN USA
+http://bgapp.live/play/14--703.php?c=86&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" nada="HD" group-title="Lista 01", TUDN USA
+http://bgapp.live/play/14--703.php?c=821&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" nada="Deportes" group-title="Lista 01", TVC Deportes
+http://bgapp.live/play/14--703.php?c=837&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" nada="España" group-title="Lista 01", TVE
+http://bgapp.live/play/14--703.php?c=195&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" nada="24/7" group-title="Lista 01", Two And a Half Men 24/7
+http://bgapp.live/play/14--703.php?c=675&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" nada="Deportes" group-title="Lista 01", Tyc Sports
+http://bgapp.live/play/14--703.php?c=274&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" nada="Deportes" group-title="Lista 01", UFC Network
+http://bgapp.live/play/14--703.php?c=97&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="Entretenimiento" group-title="Lista 01", Unicable
+http://bgapp.live/play/14--703.php?c=98&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="HD" group-title="Lista 01", Unicable
+http://bgapp.live/play/14--703.php?c=653&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="Peliculas" group-title="Lista 01", Universal
+http://bgapp.live/play/14--703.php?c=137&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="HD" group-title="Lista 01", Universal
+http://bgapp.live/play/14--703.php?c=502&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" nada="Entretenimiento" group-title="Lista 01", Univision
+http://bgapp.live/play/14--703.php?c=99&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" nada="Deportes" group-title="Lista 01", Univisión Deportes
+http://bgapp.live/play/14--703.php?c=373&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Deportes" group-title="Lista 01", Univisión TDN
+http://bgapp.live/play/14--703.php?c=100&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Entretenimiento" group-title="Lista 01", Univision Tlnovelas
+http://bgapp.live/play/14--703.php?c=413&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Colombia" group-title="Lista 01", Uno
+http://bgapp.live/play/14--703.php?c=775&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="Musica" group-title="Lista 01", VH1
+http://bgapp.live/play/14--703.php?c=101&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="HD" group-title="Lista 01", VH1
+http://bgapp.live/play/14--703.php?c=632&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" nada="Musica" group-title="Lista 01", Video Rola
+http://bgapp.live/play/14--703.php?c=359&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Videos: 1Music
+http://bgapp.live/play/14--703.php?c=433&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Videos: Company Radio TV
+http://bgapp.live/play/14--703.php?c=435&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Videos: Dream TV
+http://bgapp.live/play/14--703.php?c=439&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="Lista 01", Virgin TV
+http://bgapp.live/play/14--703.php?c=315&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" nada="Uruguay" group-title="Lista 01", VTV Uruaguay
+http://bgapp.live/play/14--703.php?c=708&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" nada="Chile" group-title="Lista 01", VTV2 Chile
+http://bgapp.live/play/14--703.php?c=321&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" nada="Puerto Rico" group-title="Lista 01", Wapa PR
+http://bgapp.live/play/14--703.php?c=327&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="Lista 01", Warner Channel
+http://bgapp.live/play/14--703.php?c=102&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="Lista 01", Warner Channel Sur
+http://bgapp.live/play/14--703.php?c=759&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="HD" group-title="Lista 01", Warner Channel
+http://bgapp.live/play/14--703.php?c=503&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" nada="Deportes" group-title="Lista 01", Win Sports
+http://bgapp.live/play/14--703.php?c=292&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" nada="HD" group-title="Lista 01", Win Sports +
+http://bgapp.live/play/14--703.php?c=881&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" nada="HD" group-title="Lista 01", Win Sports +
+http://bgapp.live/play/14--703.php?c=802&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" nada="HD" group-title="Lista 01", Win Sports
+http://bgapp.live/play/14--703.php?c=754&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" nada="Deportes" group-title="Lista 01", WWE Network
+http://bgapp.live/play/14--703.php?c=276&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" nada="24/7" group-title="Lista 01", Yu-Gi-Oh! 24/7
+http://bgapp.live/play/14--703.php?c=664&tkn=blaaccghost&f=.m3u8|user-agent=Dalvik/2.1.0
+
