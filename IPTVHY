@@ -1,9 +1,9 @@
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="231074" tvg-name="TV Huarmey" tvg-logo="https://i.imgur.com/1koeKbJ.png", TV Huarmey
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey&PlaylistM3UCL
 #EXTINF:-1 tvg-id="225471" tvg-name="LATINA TV HD" tvg-logo="https://i.imgur.com/4VrEFIN.png", LATINA TV HD
-http://bgapp.live/play/14--730.php?c=317&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=780&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230805" tvg-name="AMERICA TV HD" tvg-logo="https://i.imgur.com/WrizX55.png", AMERICA TV HD
 http://bgapp.live/play/14--730.php?c=304&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="225478" tvg-name="ATV" tvg-logo="https://i.imgur.com/ZqZmTv0.png", ATV
@@ -64,6 +64,28 @@ http://bgapp.live/play/14--730.php?c=641&dir=blackghooost&f=.m3u8|user-agent=sta
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="230929" tvg-name="Nick Jr TV" tvg-logo="https://i.imgur.com/cVO94dE.jpg", Nick Jr TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231678" tvg-name="A&E TV" tvg-logo="http://x.playerlatino.live/ae.png", A&E TV
+http://bgapp.live/play/14--730.php?c=1&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231679" tvg-name="A+ TV" tvg-logo="http://x.playerlatino.live/aplus.png", A+ TV
+http://bgapp.live/play/14--730.php?c=406&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231684" tvg-name="AXN TV" tvg-logo="http://x.playerlatino.live/axn.png", AXN TV
+http://bgapp.live/play/14--730.php?c=146&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231682" tvg-name="AMC TV" tvg-logo="http://x.playerlatino.live/amc.png", AMC TV
+http://bgapp.live/play/14--730.php?c=183&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231677" tvg-name="TNT TV" tvg-logo="http://x.playerlatino.live/tnt.png", TNT TV
+http://bgapp.live/play/14--730.php?c=179&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231680" tvg-name="A3Series TV" tvg-logo="http://x.playerlatino.live/a3series.png", A3Series TV
+http://bgapp.live/play/14--730.php?c=444&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231681" tvg-name="ADN 40 TV" tvg-logo="http://x.playerlatino.live/adn40.png", ADN 40 TV
+http://bgapp.live/play/14--730.php?c=447&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231687" tvg-name="Cine Marvel TV" tvg-logo="https://eloutput.com/app/uploads-eloutput.com/2022/02/poscreditos-marvel.jpg", Cine Marvel TV
+http://bgapp.live/play/14--730.php?c=701&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231690" tvg-name="Cine Zombis TV" tvg-logo="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551568360l/44177154._SX318_.jpg", Cine Zombis TV
+http://bgapp.live/play/14--730.php?c=688&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231688" tvg-name="Cine Terror TV" tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg", Cine Terror TV
+http://bgapp.live/play/14--730.php?c=693&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="230154" tvg-name="Retro Plus 3" tvg-logo="https://i.imgur.com/i0rZsgG.png", Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="230954" tvg-name="Game of Thrones 24/7" tvg-logo="http://x.playerlatino.live/gameofthrones.png", Game of Thrones 24/7
 http://bgapp.live/play/14--730.php?c=515&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230953" tvg-name="La Rosa de Guadalupe 24/7" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png", La Rosa de Guadalupe 24/7
@@ -72,6 +94,8 @@ http://bgapp.live/play/14--730.php?c=886&dir=blackghooost&f=.m3u8|user-agent=sta
 http://bgapp.live/play/14--730.php?c=888&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230949" tvg-name="One Punch Man 24/7" tvg-logo="http://x.playerlatino.live/onepunchman.png", One Punch Man 24/7
 http://bgapp.live/play/14--730.php?c=661&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+#EXTINF:-1 tvg-id="231686" tvg-name="Barbie 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/1200px-Barbie_Logo.svg.png", Barbie 24/7
+http://bgapp.live/play/14--730.php?c=788&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230945" tvg-name="Smallville 24/7" tvg-logo="http://x.playerlatino.live/smallville.png", Smallville 24/7
 http://bgapp.live/play/14--730.php?c=673&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230791" tvg-name="Alf 24/7" tvg-logo="http://x.playerlatino.live/alf.png", Alf 24/7
@@ -210,5 +234,3 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
 https://conectperu.com/8084/stream?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231035" tvg-name="Radio Oasis" tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png", Radio Oasis
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?PlaylistM3UCL
-#EXTINF:-1 tvg-id="230154" tvg-name="Retro Plus 3" tvg-logo="https://i.imgur.com/i0rZsgG.png", Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
