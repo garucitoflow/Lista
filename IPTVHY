@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="231074" tvg-name="TV Huarmey" tvg-logo="https://i.imgur.com/1koeKbJ.png", TV Huarmey
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey&PlaylistM3UCL
 #EXTINF:-1 tvg-id="225471" tvg-name="LATINA TV HD" tvg-logo="https://i.imgur.com/4VrEFIN.png", LATINA TV HD
-http://bgapp.live/play/14--777.php?c=317&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=317&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230805" tvg-name="AMERICA TV HD" tvg-logo="https://i.imgur.com/WrizX55.png", AMERICA TV HD
-http://bgapp.live/play/14--777.php?c=780&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=304&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="225478" tvg-name="ATV" tvg-logo="https://i.imgur.com/ZqZmTv0.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="225479" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/d9BLB8Z.png", Panamericana
@@ -57,77 +57,77 @@ https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231046" tvg-name="CharapaTV" tvg-logo="https://i.imgur.com/TxEBT6I.png", CharapaTV
 https://cloudvideo.servers10.com:8081/8168/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231017" tvg-name="Disney Channel" tvg-logo="http://x.playerlatino.live/disneychannel.png", Disney Channel
-http://bgapp.live/play/14--777.php?c=29&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=29&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231016" tvg-name="Discovery Kids" tvg-logo="http://x.playerlatino.live/discoverykids.png", Discovery Kids
-http://bgapp.live/play/14--777.php?c=25&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=641&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230122" tvg-name="Anime Zone TV" tvg-logo="https://i.imgur.com/8DWQeMz.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="230929" tvg-name="Nick Jr TV" tvg-logo="https://i.imgur.com/cVO94dE.jpg", Nick Jr TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230954" tvg-name="Game of Thrones 24/7" tvg-logo="http://x.playerlatino.live/gameofthrones.png", Game of Thrones 24/7
-http://bgapp.live/play/14--777.php?c=515&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=515&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230953" tvg-name="La Rosa de Guadalupe 24/7" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14--777.php?c=886&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=886&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230951" tvg-name="Le Temes a la Oscuridad 24/7" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14--777.php?c=888&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=888&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230949" tvg-name="One Punch Man 24/7" tvg-logo="http://x.playerlatino.live/onepunchman.png", One Punch Man 24/7
-http://bgapp.live/play/14--777.php?c=661&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=661&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230945" tvg-name="Smallville 24/7" tvg-logo="http://x.playerlatino.live/smallville.png", Smallville 24/7
-http://bgapp.live/play/14--777.php?c=673&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=673&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230791" tvg-name="Alf 24/7" tvg-logo="http://x.playerlatino.live/alf.png", Alf 24/7
-http://bgapp.live/play/14--777.php?c=426&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=426&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="225485" tvg-name="Chavo 24/7" tvg-logo="https://i.imgur.com/ApBADFc.png", Chavo 24/7
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230958" tvg-name="Chespirito 24/7" tvg-logo="http://x.playerlatino.live/chespirito.jpg", Chespirito 24/7
-http://bgapp.live/play/14--777.php?c=417&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=417&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230820" tvg-name="Chapulin Colorado 24/7" tvg-logo="http://x.playerlatino.live/chapulincolorado.png", Chapulin Colorado 24/7
-http://bgapp.live/play/14--777.php?c=418&dir=blaackcghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=418&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231012" tvg-name="Looney Tunes 24/7" tvg-logo="http://x.playerlatino.live/looneytunes.png", Looney Tunes 24/7
-http://bgapp.live/play/14--777.php?c=524&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=524&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230911" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png", Naruto 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231014" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png", Naruto 24/7
-http://bgapp.live/play/14--777.php?c=523&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=523&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230985" tvg-name="Animania 24/7" tvg-logo="http://x.playerlatino.live/animaniacs.png", Animania 24/7
-http://bgapp.live/play/14--777.php?c=677&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=677&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231015" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="http://x.playerlatino.live/yugioh.png", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14--777.php?c=664&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=664&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230915" tvg-name="Yu-Gi-Oh 24/7" tvg-logo="https://i.imgur.com/UunUcyi.jpg", Yu-Gi-Oh 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230918" tvg-name="One Piece 24/7" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png", One Piece 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231011" tvg-name="Hey Arnold 24/7" tvg-logo="http://x.playerlatino.live/heyarnold.png", Hey Arnold 24/7
-http://bgapp.live/play/14--777.php?c=522&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=522&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231019" tvg-name="Garfield 24/7" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png", Garfield 24/7
-http://bgapp.live/play/14--777.php?c=812&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=812&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230912" tvg-name="Los Tres Chiflados 24/7" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png", Los Tres Chiflados 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230818" tvg-name="Doraemon 24/7" tvg-logo="http://x.playerlatino.live/doraemon.png", Doraemon 24/7
-http://bgapp.live/play/14--777.php?c=521&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=521&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230984" tvg-name="Dragon Ball 24/7" tvg-logo="http://x.playerlatino.live/dragonball.png", Dragon Ball 24/7
-http://bgapp.live/play/14--777.php?c=425&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=425&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230957" tvg-name="Dragon Ball Z 24/7" tvg-logo="http://x.playerlatino.live/dragonballz.png", Dragon Ball Z 24/7
-http://bgapp.live/play/14--777.php?c=329&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=329&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230942" tvg-name="Dragon Ball GT 24/7" tvg-logo="http://x.playerlatino.live/dragonballgt.png", Dragon Ball GT 24/7
-http://bgapp.live/play/14--777.php?c=520&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=520&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230943" tvg-name="Dragon Ball Super 24/7" tvg-logo="http://x.playerlatino.live/dragonballsuper.png", Dragon Ball Super 24/7
-http://bgapp.live/play/14--777.php?c=424&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=424&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230941" tvg-name="Spiderman 24/7" tvg-logo="http://x.playerlatino.live/spiderman.png", Spiderman 24/7
-http://bgapp.live/play/14--777.php?c=889&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=889&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230946" tvg-name="Scooby Doo 24/7" tvg-logo="http://x.playerlatino.live/scoobydoo.png", Scooby Doo 24/7
-http://bgapp.live/play/14--777.php?c=422&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=422&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230822" tvg-name="La Pantera Rosa 24/7" tvg-logo="http://x.playerlatino.live/lapanterarosa.png", La Pantera Rosa 24/7
-http://bgapp.live/play/14--777.php?c=671&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=671&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230947" tvg-name="Ranma 1/2 24/7" tvg-logo="http://x.playerlatino.live/ranma.png", Ranma 1/2 24/7
-http://bgapp.live/play/14--777.php?c=419&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=419&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230807" tvg-name="Caballeros del Zodiaco 24/7" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14--777.php?c=427&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=427&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230944" tvg-name="Tom y Jerry 24/7" tvg-logo="http://x.playerlatino.live/tomyjerry.png", Tom y Jerry 24/7
-http://bgapp.live/play/14--777.php?c=421&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=421&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230948" tvg-name="Patoaventuras 24/7" tvg-logo="http://x.playerlatino.live/patoaventuras.png", Patoaventuras 24/7
-http://bgapp.live/play/14--777.php?c=819&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=819&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230964" tvg-name="Super Campeones 24/7" tvg-logo="http://x.playerlatino.live/supercampeones.png", Super Campeones 24/7
-http://bgapp.live/play/14--777.php?c=432&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=432&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230936" tvg-name="Barney 24/7" tvg-logo="https://i.imgur.com/BUGdVLb.jpg", Barney 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230935" tvg-name="Rugrats 24/7" tvg-logo="https://i.imgur.com/zu8Iw5s.jpg", Rugrats 24/7
@@ -135,7 +135,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e812
 #EXTINF:-1 tvg-id="230920" tvg-name="Bob Esponja 24/7" tvg-logo="https://i.imgur.com/v6fcxJc.jpg", Bob Esponja 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230821" tvg-name="Dinosaurios 24/7" tvg-logo="http://x.playerlatino.live/dinosaurios.png", Dinosaurios 24/7
-http://bgapp.live/play/14--777.php?c=670&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=670&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230127" tvg-name="Baby Shark 24/7" tvg-logo="https://i.imgur.com/khUQUCD.png", Baby Shark 24/7
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231179" tvg-name="Los Simpson 24/7" tvg-logo="http://x.playerlatino.live/lossimpsons.png", Los Simpson 24/7
@@ -145,11 +145,11 @@ https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="230131" tvg-name="Los Simpsoms 24/7" tvg-logo="https://i.imgur.com/bmEU4pe.png", Los Simpsoms 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231002" tvg-name="Futurama 24/7" tvg-logo="https://i.imgur.com/u8H8LVZ.jpg", Futurama 24/7
-http://bgapp.live/play/14--777.php?c=793&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=793&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231013" tvg-name="Mr. Bean 24/7" tvg-logo="http://x.playerlatino.live/mrbean.png", Mr. Bean 24/7
-http://bgapp.live/play/14--777.php?c=431&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=431&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="231184" tvg-name="Bleach 24/7" tvg-logo="http://x.playerlatino.live/bleach.png", Bleach 24/7
-http://bgapp.live/play/14--777.php?c=883&dir=blaaackghost&f=.m3u8|user-agent=Dalvik/2.1.0&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=883&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
 #EXTINF:-1 tvg-id="230123" tvg-name="Cartoon Network 1" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="230126" tvg-name="Cartoon Network 2" tvg-logo="https://i.imgur.com/HYBD4CM.png", Cartoon Network 2
