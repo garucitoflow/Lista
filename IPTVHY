@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="231074" tvg-name="TV Huarmey" tvg-logo="https://i.imgur.com/1koeKbJ.png", TV Huarmey
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey&PlaylistM3UCL
 #EXTINF:-1 tvg-id="225471" tvg-name="LATINA TV HD" tvg-logo="https://i.imgur.com/4VrEFIN.png", LATINA TV HD
-http://bgapp.live/play/14--730.php?c=780&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=317&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-id="230805" tvg-name="AMERICA TV HD" tvg-logo="https://i.imgur.com/WrizX55.png", AMERICA TV HD
-http://bgapp.live/play/14--730.php?c=304&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=780&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-id="225478" tvg-name="ATV" tvg-logo="https://i.imgur.com/ZqZmTv0.png", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="225479" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/d9BLB8Z.png", Panamericana
