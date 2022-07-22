@@ -1,151 +1,147 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="231074" tvg-name="TV Huarmey" tvg-logo="https://i.imgur.com/1koeKbJ.png", TV Huarmey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1koeKbJ.png" nada="Noticias" group-title="Lista 01", TV Huarmey
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
-#EXTINF:-1 tvg-id="225471" tvg-name="LATINA TV HD" tvg-logo="https://i.imgur.com/4VrEFIN.png", LATINA TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="Lista 01", LATINA TV HD
 http://bgapp.live/play/14--730.php?c=317&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-id="230805" tvg-name="AMERICA TV HD" tvg-logo="https://i.imgur.com/WrizX55.png", AMERICA TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="Lista 01", AMERICA TV HD
 http://bgapp.live/play/14--730.php?c=304&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-id="225478" tvg-name="ATV" tvg-logo="https://i.imgur.com/ZqZmTv0.png", ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="Lista 01", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="225479" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/d9BLB8Z.png", Panamericana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="Lista 01", Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="225480" tvg-name="Perú TV" tvg-logo="https://i.imgur.com/fytEG1u.png", Perú TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="Lista 01", Perú TV
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="231053" tvg-name="Huacho Perú TV" tvg-logo="https://i.imgur.com/oC6tuLn.png", Huacho Perú TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" nada="Noticias" group-title="Lista 01", Huacho Perú TV
 https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
-#EXTINF:-1 tvg-id="231193" tvg-name="Piura TV " tvg-logo="https://i.imgur.com/oew9unJ.png", Piura TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oew9unJ.png" nada="Noticias" group-title="Lista 01", Piura TV 
 http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="231071" tvg-name="Visión Noticias Perú TV" tvg-logo="https://i.imgur.com/fLk6TPY.png", Visión Noticias Perú TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLk6TPY.png" nada="Noticias" group-title="Lista 01", Visión Noticias Perú TV
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="231068" tvg-name="Controversia TV" tvg-logo="https://i.imgur.com/X7cPyP2.png", Controversia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" nada="Noticias" group-title="Lista 01", Controversia TV
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="231064" tvg-name="CNC Digital TV" tvg-logo="https://i.imgur.com/4fSkmoA.png", CNC Digital TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fSkmoA.png" nada="Noticias" group-title="Lista 01", CNC Digital TV
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-id="231073" tvg-name="Uranio TV" tvg-logo="https://i.imgur.com/EeNpfIr.png", Uranio TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" nada="Noticias" group-title="Lista 01", Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-id="231189" tvg-name="Super Canal TV" tvg-logo="https://i.imgur.com/eotfCMd.png", Super Canal TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" nada="Noticias" group-title="Lista 01", Super Canal TV
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:-1 tvg-id="231197" tvg-name="Quattro TV" tvg-logo="https://i.imgur.com/692XHPO.jpg", Quattro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/692XHPO.jpg" nada="Noticias" group-title="Lista 01", Quattro TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
-#EXTINF:-1 tvg-id="231190" tvg-name="Sistema 1 TV" tvg-logo="https://i.imgur.com/GaEfzuG.png", Sistema 1 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaEfzuG.png" nada="Noticias" group-title="Lista 01", Sistema 1 TV
 https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
-#EXTINF:-1 tvg-id="231195" tvg-name="Quillavision TV" tvg-logo="https://i.imgur.com/ngNSzHe.png", Quillavision TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngNSzHe.png" nada="Noticias" group-title="Lista 01", Quillavision TV
 http://v4.tustreaming.cl/quillavision/index.m3u8
-#EXTINF:-1 tvg-id="231198" tvg-name="Proyecta TV" tvg-logo="https://i.imgur.com/pXspBga.png", Proyecta TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" nada="Noticias" group-title="Lista 01", Proyecta TV
 https://servilive.com:3194/live/proyectatvlive.m3u8
-#EXTINF:-1 tvg-id="231196" tvg-name="QT Televisión TV" tvg-logo="https://i.imgur.com/xVcnmE3.png", QT Televisión TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVcnmE3.png" nada="Noticias" group-title="Lista 01", QT Televisión TV
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="231070" tvg-name="Uchu TV" tvg-logo="https://i.imgur.com/tebr5wH.png", Uchu TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tebr5wH.png" nada="Noticias" group-title="Lista 01", Uchu TV
 http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="231065" tvg-name="Cable Netword TV" tvg-logo="https://i.imgur.com/bVTjvp6.png", Cable Netword TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVTjvp6.png" nada="Noticias" group-title="Lista 01", Cable Netword TV
 https://tv.inka.net.pe/cntv/index.m3u8
-#EXTINF:-1 tvg-id="231187" tvg-name="TecSatel Cine TV" tvg-logo="https://i.imgur.com/x5O42NQ.png", TecSatel Cine TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5O42NQ.png" nada="Noticias" group-title="Lista 01", TecSatel Cine TV
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 tvg-id="231191" tvg-name="SEO TV SERIES" tvg-logo="https://i.imgur.com/5IPjtJk.png", SEO TV SERIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" nada="Noticias" group-title="Lista 01", SEO TV SERIES
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-#EXTINF:-1 tvg-id="231069" tvg-name="CreoTV" tvg-logo="https://i.imgur.com/DI7ZTi9.png", CreoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DI7ZTi9.png" nada="Noticias" group-title="Lista 01", CreoTV
 https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-#EXTINF:-1 tvg-id="231057" tvg-name="Lima Live TV" tvg-logo="https://i.imgur.com/cVUmoKE.png", Lima Live TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cVUmoKE.png" nada="Noticias" group-title="Lista 01", Lima Live TV
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1 tvg-id="231045" tvg-name="Cajamarca TV" tvg-logo="https://i.imgur.com/3VkobI4.png", Cajamarca TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VkobI4.png" nada="Noticias" group-title="Lista 01", Cajamarca TV
 https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-#EXTINF:-1 tvg-id="231188" tvg-name="Super TV" tvg-logo="https://i.imgur.com/F166GPP.png", Super TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F166GPP.png" nada="Noticias" group-title="Lista 01", Super TV
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 tvg-id="231060" tvg-name="Clips TV" tvg-logo="https://i.imgur.com/TitYGtR.png", Clips TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TitYGtR.png" nada="Noticias" group-title="Lista 01", Clips TV
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:-1 tvg-id="231046" tvg-name="CharapaTV" tvg-logo="https://i.imgur.com/TxEBT6I.png", CharapaTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxEBT6I.png" nada="Noticias" group-title="Lista 01", CharapaTV
 https://cloudvideo.servers10.com:8081/8168/index.m3u8
-#EXTINF:-1 tvg-id="230123" tvg-name="Cartoon Network 1" tvg-logo="https://i.imgur.com/wx6s0Wq.jpg", Cartoon Network 1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="230126" tvg-name="Cartoon Network 2" tvg-logo="https://i.imgur.com/HYBD4CM.png", Cartoon Network 2
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="230129" tvg-name="Latino Infantil TV" tvg-logo="https://i.imgur.com/CBUf3K1.png", Latino Infantil TV
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-id="225481" tvg-name="Best Cable Perú" tvg-logo="https://i.imgur.com/7aKGKsy.png", Best Cable Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" nada="Noticias" group-title="Lista 01", Best Cable Perú
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-id="230151" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/i0rZsgG.png", Retro Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="Lista 01", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="230152" tvg-name="Retro Plus 2" tvg-logo="https://i.imgur.com/i0rZsgG.png", Retro Plus 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="Lista 01", Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="230136" tvg-name="Karibena TV" tvg-logo="https://i.imgur.com/cgHjg1e.png", Karibena TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="Lista 01", Karibena TV
 https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-id="225482" tvg-name="Best Cable Más Cumbia" tvg-logo="https://i.imgur.com/pNUJ0qM.png", Best Cable Más Cumbia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="Lista 01", Best Cable Más Cumbia
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="225483" tvg-name="Best Cable Music" tvg-logo="https://i.imgur.com/pNUJ0qM.png", Best Cable Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="Lista 01", Best Cable Music
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-id="231050" tvg-name="Conecta2TV" tvg-logo="https://i.imgur.com/cEx1LP9.png", Conecta2TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEx1LP9.png" nada="Noticias" group-title="Lista 01", Conecta2TV
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-id="230137" tvg-name="Hatun Tv" tvg-logo="https://i.imgur.com/q6zqmnG.png", Hatun Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6zqmnG.png" nada="Noticias" group-title="Lista 01",  Hatun Tv
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
-#EXTINF:-1 tvg-id="230140" tvg-name="Latin Mix Radio" tvg-logo="https://i.imgur.com/vWuahSR.png", Latin Mix Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" nada="Noticias" group-title="Lista 01", Latin Mix Radio
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
-#EXTINF:-1 tvg-id="231042" tvg-name="Radio San Borja TV" tvg-logo="https://i.imgur.com/xvMDTe9.png", Radio San Borja TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xvMDTe9.png" nada="Noticias" group-title="Lista 01", Radio San Borja TV
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="230135" tvg-name="FoxMix TV" tvg-logo="https://i.imgur.com/y37ookm.jpg", FoxMix TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y37ookm.jpg" nada="Noticias" group-title="Lista 01", FoxMix TV
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="231072" tvg-name="Vallenato Internacional TV" tvg-logo="https://i.imgur.com/svgW3Fr.png", Vallenato Internacional TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svgW3Fr.png" nada="Noticias" group-title="Lista 01", Vallenato Internacional TV
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-id="231040" tvg-name="SanjuaneraTV" tvg-logo="https://i.imgur.com/QB3tz0d.png", SanjuaneraTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" nada="Noticias" group-title="Lista 01", SanjuaneraTV
 https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-id="231036" tvg-name="Sumac TV" tvg-logo="https://i.imgur.com/H5Zhdbo.png", Sumac TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" nada="Noticias" group-title="Lista 01", Sumac TV
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 tvg-id="231038" tvg-name="Sol Stereo TV" tvg-logo="https://i.imgur.com/L45zrbj.png", Sol Stereo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L45zrbj.png" nada="Noticias" group-title="Lista 01", Sol Stereo TV
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-id="230138" tvg-name="MegaMix Tv" tvg-logo="https://i.imgur.com/7EcL9FE.jpg", MegaMix Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" nada="Noticias" group-title="Lista 01", MegaMix Tv
 https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
-#EXTINF:-1 tvg-id="230141" tvg-name="Top Latino TV" tvg-logo="https://i.imgur.com/VMMNhkf.png", Top Latino TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMMNhkf.png" nada="Noticias" group-title="Lista 01", Top Latino TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="231020" tvg-name="Radio Moda" tvg-logo="https://moda.com.pe/assets/images/logo-solo.png", Radio Moda
+#EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="Lista 01", Radio Moda
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
-#EXTINF:-1 tvg-id="231021" tvg-name="Radio Nueva Q" tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png", Radio Nueva Q
+#EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" nada="Noticias" group-title="Lista 01", Radio Nueva Q
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-id="231022" tvg-name="Radio La Zona" tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png", Radio La Zona
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" nada="Noticias" group-title="Lista 01", Radio La Zona
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
-#EXTINF:-1 tvg-id="231024" tvg-name="Radio La Ribereña" tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png", Radio La Ribereña
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" nada="Noticias" group-title="Lista 01", Radio La Ribereña
 http://167.114.118.120:7274/;stream
-#EXTINF:-1 tvg-id="231025" tvg-name="Radio Nova" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png", Radio Nova
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" nada="Noticias" group-title="Lista 01", Radio Nova
 https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
-#EXTINF:-1 tvg-id="231028" tvg-name="Radio Mar" tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png", Radio Mar
+#EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" nada="Noticias" group-title="Lista 01", Radio Mar
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
-#EXTINF:-1 tvg-id="231029" tvg-name="Radio Onda Cero" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png", Radio Onda Cero
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" nada="Noticias" group-title="Lista 01", Radio Onda Cero
 https://streaming.gometri.com/stream/8011/;
-#EXTINF:-1 tvg-id="231031" tvg-name="Radio Planeta" tvg-logo="https://planeta.pe/assets/images/logo-planeta.png", Radio Planeta
+#EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" nada="Noticias" group-title="Lista 01", Radio Planeta
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
-#EXTINF:-1 tvg-id="231044" tvg-name="Radio Chalaca" tvg-logo="https://i.imgur.com/KZHsrU4.png", Radio Chalaca
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" nada="Noticias" group-title="Lista 01", Radio Chalaca
 https://conectperu.com/8084/stream
-#EXTINF:-1 tvg-id="231035" tvg-name="Radio Oasis" tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png", Radio Oasis
+#EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="Lista 01", Radio Oasis
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
-#EXTINF:-1 tvg-id="231688" tvg-name="Cine Terror TV" tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg", Cine Terror TV
+#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg" nada="Noticias" group-title="Lista 01", Cine Terror TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230154" tvg-name="Retro Plus 3" tvg-logo="https://i.imgur.com/i0rZsgG.png", Retro Plus 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="Lista 01", Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="225485" tvg-name="Chavo 24/7" tvg-logo="https://i.imgur.com/ApBADFc.png", Chavo 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="Lista 01", Chavo 24/7
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-id="230911" tvg-name="Naruto 24/7" tvg-logo="http://x.playerlatino.live/naruto.png", Naruto 24/7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="Noticias" group-title="Lista 01", Naruto 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230915" tvg-name="Yu-Gi-Oh 24/7" tvg-logo="https://i.imgur.com/UunUcyi.jpg", Yu-Gi-Oh 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="Lista 01", Yu-Gi-Oh 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230918" tvg-name="One Piece 24/7" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png", One Piece 24/7
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png", One Piece 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230912" tvg-name="Los Tres Chiflados 24/7" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png", Los Tres Chiflados 24/7
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png", Los Tres Chiflados 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230936" tvg-name="Barney 24/7" tvg-logo="https://i.imgur.com/BUGdVLb.jpg", Barney 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUGdVLb.jpg" nada="Noticias" group-title="Lista 01", Barney 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230935" tvg-name="Rugrats 24/7" tvg-logo="https://i.imgur.com/zu8Iw5s.jpg", Rugrats 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zu8Iw5s.jpg" nada="Noticias" group-title="Lista 01", Rugrats 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="230920" tvg-name="Bob Esponja 24/7" tvg-logo="https://i.imgur.com/v6fcxJc.jpg", Bob Esponja 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6fcxJc.jpg" nada="Noticias" group-title="Lista 01", Bob Esponja 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="230821" tvg-name="Dinosaurios 24/7" tvg-logo="http://x.playerlatino.live/dinosaurios.png", Dinosaurios 24/7
-http://bgapp.live/play/14--730.php?c=670&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-id="230127" tvg-name="Baby Shark 24/7" tvg-logo="https://i.imgur.com/khUQUCD.png", Baby Shark 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khUQUCD.png" nada="Noticias" group-title="Lista 01", Baby Shark 24/7
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="230130" tvg-name="Los Simpsoms 24/7" tvg-logo="https://i.imgur.com/bmEU4pe.png", Los Simpsoms 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="Lista 01", Los Simpsoms 24/7
 https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-id="230131" tvg-name="Los Simpsoms 24/7" tvg-logo="https://i.imgur.com/bmEU4pe.png", Los Simpsoms 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="Lista 01", Los Simpsoms 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" nada="Noticias" group-title="Lista 01", Cartoon Network 1
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYBD4CM.png" nada="Noticias" group-title="Lista 01", Cartoon Network 2
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" nada="Noticias" group-title="Lista 01", Latino Infantil TV
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="Lista 01", A&E
 http://bgapp.live/play/14--730.php?c=1&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
