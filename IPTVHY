@@ -57,9 +57,9 @@ https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231046" tvg-name="CharapaTV" tvg-logo="https://i.imgur.com/TxEBT6I.png", CharapaTV
 https://cloudvideo.servers10.com:8081/8168/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="231017" tvg-name="Disney Channel" tvg-logo="http://x.playerlatino.live/disneychannel.png", Disney Channel
-http://bgapp.live/play/14--730.php?c=29&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=29&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-id="231016" tvg-name="Discovery Kids" tvg-logo="http://x.playerlatino.live/discoverykids.png", Discovery Kids
-http://bgapp.live/play/14--730.php?c=641&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2&PlaylistM3UCL
+http://bgapp.live/play/14--730.php?c=641&dir=blackghooost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-id="230122" tvg-name="Anime Zone TV" tvg-logo="https://i.imgur.com/8DWQeMz.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="230929" tvg-name="Nick Jr TV" tvg-logo="https://i.imgur.com/cVO94dE.jpg", Nick Jr TV
