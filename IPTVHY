@@ -147,12 +147,12 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 http://bgapp.live/play/14--730.php?c=521&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" nada="24/7" group-title="TELE CABLE", Dragon Ball 24/7
 http://bgapp.live/play/14--730.php?c=425&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Z 24/7
+http://bgapp.live/play/14--730.php?c=329&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" nada="24/7" group-title="TELE CABLE", Dragon Ball GT 24/7
 http://bgapp.live/play/14--730.php?c=520&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Super 24/7
 http://bgapp.live/play/14--730.php?c=424&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Z 24/7
-http://bgapp.live/play/14--730.php?c=329&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="TELE CABLE", Alf 24/7
 http://bgapp.live/play/14--730.php?c=426&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" nada="24/7" group-title="TELE CABLE", Animaniacs 24/7
@@ -165,8 +165,6 @@ http://bgapp.live/play/14--730.php?c=427&dir=BLACKGHOSTD&f=.m3u8|user-agent=stag
 http://bgapp.live/play/14--730.php?c=808&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" nada="24/7" group-title="TELE CABLE", Cantinflas 24/7
 http://bgapp.live/play/14--730.php?c=428&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="TELE CABLE", Barbie 24/7
-http://bgapp.live/play/14--730.php?c=788&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" nada="24/7" group-title="TELE CABLE", Chapulin Colorado 24/7
 http://bgapp.live/play/14--730.php?c=418&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" nada="24/7" group-title="TELE CABLE", Chespirito 24/7
@@ -175,115 +173,51 @@ http://bgapp.live/play/14--730.php?c=417&dir=BLACKGHOSTD&f=.m3u8|user-agent=stag
 http://bgapp.live/play/14--730.php?c=519&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" nada="24/7" group-title="TELE CABLE", Dinosaurios 24/7
 http://bgapp.live/play/14--730.php?c=670&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" nada="24/7" group-title="TELE CABLE", CatDog 24/7
-http://bgapp.live/play/14--730.php?c=785&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" nada="24/7" group-title="TELE CABLE", El Chavo Animado 24/7
-http://bgapp.live/play/14--730.php?c=790&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" nada="24/7" group-title="TELE CABLE", El Chavo del 8 24/7
 http://bgapp.live/play/14--730.php?c=400&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" nada="24/7" group-title="TELE CABLE", El Coyote y el Correcaminos 24/7
-http://bgapp.live/play/14--730.php?c=429&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" nada="Entretenimiento" group-title="TELE CABLE", El Gallo Claudio 24/7
 http://bgapp.live/play/14--730.php?c=845&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" nada="Entretenimiento" group-title="TELE CABLE", El Gourmet
-http://bgapp.live/play/14--730.php?c=157&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" nada="24/7" group-title="TELE CABLE", El Increible Mundo de Gumball 24/7
-http://bgapp.live/play/14--730.php?c=791&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" nada="Argentina" group-title="TELE CABLE", El Nueve
-http://bgapp.live/play/14--730.php?c=772&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" nada="24/7" group-title="TELE CABLE", El Pajaro Loco 24/7
 http://bgapp.live/play/14--730.php?c=525&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" nada="24/7" group-title="TELE CABLE", El Principel del Rap 24/7
 http://bgapp.live/play/14--730.php?c=430&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" nada="Entretenimiento" group-title="TELE CABLE", El Señor de los Cielos 24/7
-http://bgapp.live/play/14--730.php?c=820&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="TELE CABLE", Futurama 24/7
-http://bgapp.live/play/14--730.php?c=793&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" nada="24/7" group-title="TELE CABLE", Game of Thrones 24/7
 http://bgapp.live/play/14--730.php?c=515&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="TELE CABLE", Garfield 24/7
 http://bgapp.live/play/14--730.php?c=812&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" nada="24/7" group-title="TELE CABLE", Hey Arnold 24/7
 http://bgapp.live/play/14--730.php?c=522&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" nada="24/7" group-title="TELE CABLE", Johnny Bravo 24/7
-http://bgapp.live/play/14--730.php?c=786&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Musica" group-title="TELE CABLE", Juce TV
-http://bgapp.live/play/14--730.php?c=263&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="TELE CABLE", La Casa de Papel 24/7
-http://bgapp.live/play/14--730.php?c=403&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="" nada="Entretenimiento" group-title="TELE CABLE", La Familia PeLuche 24/7
-http://bgapp.live/play/14--730.php?c=811&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="24/7" group-title="TELE CABLE", Naruto 24/7
 http://bgapp.live/play/14--730.php?c=523&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" nada="24/7" group-title="TELE CABLE", Mr. Bean 24/7
 http://bgapp.live/play/14--730.php?c=431&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="TELE CABLE", One Punch Man 24/7
 http://bgapp.live/play/14--730.php?c=661&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" nada="24/7" group-title="TELE CABLE", Padre de Familia 24/7
-http://bgapp.live/play/14--730.php?c=416&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" nada="Entretenimiento" group-title="TELE CABLE", Patoaventuras 24/7
 http://bgapp.live/play/14--730.php?c=819&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" nada="Entretenimiento" group-title="TELE CABLE", Patrulla Canina 24/7
-http://bgapp.live/play/14--730.php?c=807&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" nada="24/7" group-title="TELE CABLE", Peppa Pig 24/7
-http://bgapp.live/play/14--730.php?c=787&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" nada="24/7" group-title="TELE CABLE", Spiderman 24/7
 http://bgapp.live/play/14--730.php?c=889&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" nada="24/7" group-title="TELE CABLE", Super Campeones 24/7
 http://bgapp.live/play/14--730.php?c=432&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" nada="24/7" group-title="TELE CABLE", The Big Bang Theory 24/7
-http://bgapp.live/play/14--730.php?c=676&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" nada="24/7" group-title="TELE CABLE", Tom y Jerry 24/7
 http://bgapp.live/play/14--730.php?c=421&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" nada="24/7" group-title="TELE CABLE", TrollHunters 24/7
 http://bgapp.live/play/14--730.php?c=662&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" nada="24/7" group-title="TELE CABLE", Two And a Half Men 24/7
-http://bgapp.live/play/14--730.php?c=675&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" nada="24/7" group-title="TELE CABLE", Yu-Gi-Oh! 24/7
 http://bgapp.live/play/14--730.php?c=664&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="" nada="24/7" group-title="TELE CABLE", The Walking Dead 24/7
-http://bgapp.live/play/14--730.php?c=800&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" nada="24/7" group-title="TELE CABLE", Pinky y Cerebro 24/7
 http://bgapp.live/play/14--730.php?c=721&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" nada="24/7" group-title="TELE CABLE", Prison Break 24/7
-http://bgapp.live/play/14--730.php?c=884&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" nada="24/7" group-title="TELE CABLE", Ranma 1/2 24/7
 http://bgapp.live/play/14--730.php?c=419&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" nada="24/7" group-title="TELE CABLE", La Hora Pico 24/7
-http://bgapp.live/play/14--730.php?c=887&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" nada="24/7" group-title="TELE CABLE", La Pantera Rosa 24/7
 http://bgapp.live/play/14--730.php?c=671&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" nada="24/7" group-title="TELE CABLE", La Pequeña Lulu 24/7
-http://bgapp.live/play/14--730.php?c=792&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="TELE CABLE", La Rosa de Guadalupe 24/7
 http://bgapp.live/play/14--730.php?c=886&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" nada="Entretenimiento" group-title="TELE CABLE", La Vaca y ElPollito 24/7
-http://bgapp.live/play/14--730.php?c=809&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="TELE CABLE", Le Temes a la Oscuridad 24/7
 http://bgapp.live/play/14--730.php?c=888&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="TELE CABLE", Looney Tunes 24/7
 http://bgapp.live/play/14--730.php?c=524&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" nada="24/7" group-title="TELE CABLE", Los 3 Chiflados 24/7
-http://bgapp.live/play/14--730.php?c=423&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Entretenimiento" group-title="TELE CABLE", Los Años Maravillosos 24/7
 http://bgapp.live/play/14--730.php?c=810&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" nada="Entretenimiento" group-title="TELE CABLE", Los Padrinos Magicos 24/7
-http://bgapp.live/play/14--730.php?c=813&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="TELE CABLE", Los Picapiedra 24/7
 http://bgapp.live/play/14--730.php?c=669&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" nada="24/7" group-title="TELE CABLE", Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/14--730.php?c=794&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" nada="24/7" group-title="TELE CABLE", Los Pitufos 24/7
-http://bgapp.live/play/14--730.php?c=795&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" nada="24/7" group-title="TELE CABLE", Los Reyes de la Colina 24/7
-http://bgapp.live/play/14--730.php?c=796&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" nada="24/7" group-title="TELE CABLE", Los Simpson 24/7
-http://bgapp.live/play/14--730.php?c=357&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" nada="24/7" group-title="TELE CABLE", Los Supersonicos 24/7
-http://bgapp.live/play/14--730.php?c=797&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" nada="Entretenimiento" group-title="TELE CABLE", Los Vengadores Unidos 24/7
-http://bgapp.live/play/14--730.php?c=818&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" nada="24/7" group-title="TELE CABLE", Malcolm 24/7
-http://bgapp.live/play/14--730.php?c=798&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" nada="Entretenimiento" group-title="TELE CABLE", Max Steel 24/7
-http://bgapp.live/play/14--730.php?c=880&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9
