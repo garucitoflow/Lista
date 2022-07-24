@@ -503,11 +503,11 @@ https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Guardianes de la Galaxia | .
 https://goo.gl/sFaEVq
-#EXTINF:-1,LOS POWER RANGERS
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", LOS POWER RANGERS
 http://bit.ly/2gbHp2p?JoCaRoMovie
-#EXTINF:-1,Varias Lat:Colossal
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Varias Lat:Colossal
 http://ow.ly/FXZ930eWtrs
-#EXTINF:-1,Varias Lat:Volver al Futuro III
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Varias Lat:Volver al Futuro III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", VOD FREE: EL MAL DENTRO 2017
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
@@ -515,20 +515,18 @@ https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Peli
 https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", VOD FREE: SAHARA
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:-1,Estrenos:Espiando A Los Vecinos
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Estrenos:Espiando A Los Vecinos
 http://cecegeek@goo.gl/n6SNxR
-#EXTINF:-1,Estrenos:Moana
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Estrenos:Moana
 http://cecegeek@goo.gl/FQ2PRH
-#EXTINF:-1,Intensamente |
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Intensamente |
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1,Sand Castle
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Sand Castle
 http://cecegeek@goo.gl/FDyHpL
-#EXTINF:-1,Sandy Wexler
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Sandy Wexler
 http://cecegeek@goo.gl/kyH56Z
-#EXTINF:-1,Terminus |
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Terminus |
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1,Todo Poderoso |
-https://bit.ly/2GajoTS
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", ELLA EN MI CUERPO Y EL EN EL MIO
 https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", ELLOS SIEMPRE REGRESAN
@@ -537,7 +535,7 @@ https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen
 http://bit.ly/MRAQCSAND
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", ESTRENOS: THE MINE (2017)
 http://bit.ly/THEMINE
-#EXTINF:-1,Chucky el Muñeco Diabolico II
+#EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Chucky el Muñeco Diabolico II
 http://bit.ly/MRAQCCHUK2
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", La Fuerza De La Ilusion
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
@@ -679,5 +677,3 @@ http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-logo="" nada="Películas" group-title="Películas", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-
