@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", IPTVHUARMEY
-https://archive.org/download/intro-iptvhy/INTRO_IPTVHY.mkv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1koeKbJ.png" nada="Noticias" group-title="TELE CABLE", TV Huarmey
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV HD
