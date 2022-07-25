@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", IPTVHUARMEY
-https://www.twitch.tv/IPTVHY?sr=a
+https://www.youtube.com/embed/x9PskgsOydI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV HD
 http://bgapp.live/play/14--730.php?c=317&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV HD
