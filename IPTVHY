@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", IPTVHUARMEY
-https://usher.ttvnw.net/api/channel/hls/iptvhy.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22iptvhy%22%2C%22channel_id%22%3A791056472%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22rSbTcAhHsWuFChkRdXcejJ5UtVq0TANQ%22%2C%22expires%22%3A1658756364%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.151.74%22%2C%22version%22%3A2%7D&sig=2976d47f95202f2c29afb8738463c74610ce1de8&cdm=wv&player_version=1.11.0
+https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV HD
-http://bgapp.live/play/14--730.php?c=317&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=317&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV HD
-http://bgapp.live/play/14--730.php?c=780&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=780&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana
@@ -58,162 +58,163 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="TELE CABLE", A&E
-http://bgapp.live/play/14--730.php?c=1&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=1&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" nada="Mexico" group-title="TELE CABLE", A+
-http://bgapp.live/play/14--730.php?c=406&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=406&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" nada="España" group-title="TELE CABLE", A3Series
-http://bgapp.live/play/14--730.php?c=444&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=444&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" nada="Noticias" group-title="TELE CABLE", ADN 40
-http://bgapp.live/play/14--730.php?c=447&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=447&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="Entretenimiento" group-title="TELE CABLE", AMC
-http://bgapp.live/play/14--730.php?c=183&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=183&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="España" group-title="TELE CABLE", AMC ES
-http://bgapp.live/play/14--730.php?c=715&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=715&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="TELE CABLE", AXN
-http://bgapp.live/play/14--730.php?c=146&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=146&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="TELE CABLE", AXN Sur
-http://bgapp.live/play/14--730.php?c=804&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=804&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="España" group-title="TELE CABLE", AXN WHITE (ES)
-http://bgapp.live/play/14--730.php?c=714&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=714&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" nada="Peliculas" group-title="TELE CABLE", Az Cinema
-http://bgapp.live/play/14--730.php?c=186&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=186&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" nada="Entretenimiento" group-title="TELE CABLE", Az Clic
-http://bgapp.live/play/14--730.php?c=165&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=165&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="Entretenimiento" group-title="TELE CABLE", Az Corazón
-http://bgapp.live/play/14--730.php?c=166&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=166&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" nada="Infantiles" group-title="TELE CABLE", Baby TV
-http://bgapp.live/play/14--730.php?c=7&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=7&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="Musica" group-title="TELE CABLE", Bandamax
-http://bgapp.live/play/14--730.php?c=8&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=8&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="TELE CABLE", Canal de las Estrellas
-http://bgapp.live/play/14--730.php?c=411&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=411&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" nada="Deportes" group-title="TELE CABLE", Canal+ Toros
-http://bgapp.live/play/14--730.php?c=369&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=369&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" nada="Colombia" group-title="TELE CABLE", Caracol
-http://bgapp.live/play/14--730.php?c=391&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=391&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="TELE CABLE", Cartoon Network
-http://bgapp.live/play/14--730.php?c=17&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=17&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="TELE CABLE", Cartoonito (Boomerang)
-http://bgapp.live/play/14--730.php?c=11&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=11&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" nada="Infantiles" group-title="TELE CABLE", Cartoonito Sur
-http://bgapp.live/play/14--730.php?c=735&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=735&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" nada="Deportes" group-title="TELE CABLE", CDO Premium
-http://bgapp.live/play/14--730.php?c=401&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=401&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Accion
-http://bgapp.live/play/14--730.php?c=699&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=699&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Accion Sagas
-http://bgapp.live/play/14--730.php?c=700&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=700&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Comedia 1
-http://bgapp.live/play/14--730.php?c=695&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=695&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Ficcion/Fantasia 1
-http://bgapp.live/play/14--730.php?c=709&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=709&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Ficcion/Fantasia 2
-http://bgapp.live/play/14--730.php?c=710&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=710&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" nada="HD" group-title="TELE CABLE", Cine Ficcion/Fantasia
-http://bgapp.live/play/14--730.php?c=712&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=712&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Infantil
-http://bgapp.live/play/14--730.php?c=687&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=687&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Romance
-http://bgapp.live/play/14--730.php?c=689&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=689&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Terror
-http://bgapp.live/play/14--730.php?c=693&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=693&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Zombis
-http://bgapp.live/play/14--730.php?c=688&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=688&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="TELE CABLE", Cinecanal
-http://bgapp.live/play/14--730.php?c=18&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=18&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="HD" group-title="TELE CABLE", Cinecanal
-http://bgapp.live/play/14--730.php?c=479&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=479&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="TELE CABLE", Discovery Channel
-http://bgapp.live/play/14--730.php?c=22&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=22&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="TELE CABLE", Discovery Civilization
-http://bgapp.live/play/14--730.php?c=23&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=23&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="TELE CABLE", Discovery Kids
-http://bgapp.live/play/14--730.php?c=25&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=25&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" nada="Cultura" group-title="TELE CABLE", Discovery SCI
-http://bgapp.live/play/14--730.php?c=26&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=26&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" nada="Cultura" group-title="TELE CABLE", Discovery Theater
-http://bgapp.live/play/14--730.php?c=27&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=27&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="Cultura" group-title="TELE CABLE", Discovery Turbo
-http://bgapp.live/play/14--730.php?c=28&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=28&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" nada="Cultura" group-title="TELE CABLE", Discovery World
-http://bgapp.live/play/14--730.php?c=187&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=187&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" nada="Infantiles" group-title="TELE CABLE", Disney Channel
-http://bgapp.live/play/14--730.php?c=29&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=29&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="TELE CABLE", Disney Junior
-http://bgapp.live/play/14--730.php?c=30&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=30&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="TELE CABLE", Disney Junior Sur
-http://bgapp.live/play/14--730.php?c=743&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=743&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="TELE CABLE", FX
-http://bgapp.live/play/14--730.php?c=42&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=42&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="TELE CABLE", FX Sur
-http://bgapp.live/play/14--730.php?c=749&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=749&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="Peliculas" group-title="TELE CABLE", FXM
-http://bgapp.live/play/14--730.php?c=43&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=43&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="Deportes" group-title="TELE CABLE", Gol TV
-http://bgapp.live/play/14--730.php?c=287&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=287&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="TELE CABLE", Golden
-http://bgapp.live/play/14--730.php?c=57&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=57&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="TELE CABLE", Golden Edge
-http://bgapp.live/play/14--730.php?c=58&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=58&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="TELE CABLE", H2
-http://bgapp.live/play/14--730.php?c=61&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=61&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="TELE CABLE", HBO Plus
-http://bgapp.live/play/14--730.php?c=64&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=64&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Chile" group-title="TELE CABLE", Mega
-http://bgapp.live/play/14--730.php?c=766&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=766&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="Infantiles" group-title="TELE CABLE", Nick
-http://bgapp.live/play/14--730.php?c=78&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=78&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" nada="Infantiles" group-title="TELE CABLE", Nick Toons
-http://bgapp.live/play/14--730.php?c=80&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=80&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" nada="Infantiles" group-title="TELE CABLE", Nickelodeon
-http://bgapp.live/play/14--730.php?c=184&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=184&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="Peliculas" group-title="TELE CABLE", Paramount
-http://bgapp.live/play/14--730.php?c=200&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=200&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="Entretenimiento" group-title="TELE CABLE", Sony
-http://bgapp.live/play/14--730.php?c=145&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=145&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="TELE CABLE", Space
-http://bgapp.live/play/14--730.php?c=83&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=83&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="TELE CABLE", Space Sur
-http://bgapp.live/play/14--730.php?c=751&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=751&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="Entretenimiento" group-title="TELE CABLE", Star
-http://bgapp.live/play/14--730.php?c=45&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=45&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="Peliculas" group-title="TELE CABLE", Studio Universal
-http://bgapp.live/play/14--730.php?c=84&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=84&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="TELE CABLE", SyFy
-http://bgapp.live/play/14--730.php?c=151&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=151&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="Entretenimiento" group-title="TELE CABLE", TBS Very Funny
-http://bgapp.live/play/14--730.php?c=171&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=171&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" nada="Peliculas" group-title="TELE CABLE", TCM
-http://bgapp.live/play/14--730.php?c=85&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=85&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" nada="Infantiles" group-title="TELE CABLE", TeenNick
-http://bgapp.live/play/14--730.php?c=882&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=882&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="Entretenimiento" group-title="TELE CABLE", Telemundo
-http://bgapp.live/play/14--730.php?c=92&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=92&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" nada="Ecuador" group-title="TELE CABLE", Televicentro
-http://bgapp.live/play/14--730.php?c=776&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=776&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" nada="Entretenimiento" group-title="TELE CABLE", TLC
-http://bgapp.live/play/14--730.php?c=87&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=87&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="Entretenimiento" group-title="TELE CABLE", Tlnovelas
-http://bgapp.live/play/14--730.php?c=94&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=94&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="TELE CABLE", TNT
-http://bgapp.live/play/14--730.php?c=179&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=179&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" nada="Infantiles" group-title="TELE CABLE", Tooncast
-http://bgapp.live/play/14--730.php?c=95&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=95&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="Entretenimiento" group-title="TELE CABLE", TruTV
-http://bgapp.live/play/14--730.php?c=96&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=96&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" nada="Deportes" group-title="TELE CABLE", UFC Network
-http://bgapp.live/play/14--730.php?c=97&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=97&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="Entretenimiento" group-title="TELE CABLE", Unicable
-http://bgapp.live/play/14--730.php?c=98&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=98&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="Peliculas" group-title="TELE CABLE", Universal
-http://bgapp.live/play/14--730.php?c=137&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=137&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Colombia" group-title="TELE CABLE", Uno
-http://bgapp.live/play/14--730.php?c=775&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=775&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="Musica" group-title="TELE CABLE", VH1
-http://bgapp.live/play/14--730.php?c=101&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=101&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="TELE CABLE", Warner Channel
-http://bgapp.live/play/14--730.php?c=102&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=102&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="TELE CABLE", Karibena TV
@@ -270,11 +271,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", DEATH NOTE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="Noticias" group-title="TELE CABLE", Naruto 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="Noticias" group-title="TELE CABLE", Naruto2 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh2 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", One Piece 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -286,6 +298,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v6fcxJc.jpg" nada="Noticias" group-title="TELE CABLE", Bob Esponja 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", LAS TORTUGAS NINJA (ESPAÑA)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Anime Tv 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khUQUCD.png" nada="Noticias" group-title="TELE CABLE", Baby Shark 24/7
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
@@ -298,87 +314,95 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" nada="Noticias" group-title="TELE CABLE", Latino Infantil TV
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" nada="24/7" group-title="TELE CABLE", Doraemon 24/7
-http://bgapp.live/play/14--730.php?c=521&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=521&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" nada="24/7" group-title="TELE CABLE", Dragon Ball 24/7
-http://bgapp.live/play/14--730.php?c=425&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=425&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Z 24/7
-http://bgapp.live/play/14--730.php?c=329&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=329&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" nada="24/7" group-title="TELE CABLE", Dragon Ball GT 24/7
-http://bgapp.live/play/14--730.php?c=520&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=520&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Super 24/7
-http://bgapp.live/play/14--730.php?c=424&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=424&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="TELE CABLE", Alf 24/7
-http://bgapp.live/play/14--730.php?c=426&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=426&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" nada="24/7" group-title="TELE CABLE", Animaniacs 24/7
-http://bgapp.live/play/14--730.php?c=677&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=677&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" nada="24/7" group-title="TELE CABLE", Bob Esponja 24/7
-http://bgapp.live/play/14--730.php?c=518&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=518&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" nada="24/7" group-title="TELE CABLE", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14--730.php?c=427&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=427&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Candy Candy 24/7
-http://bgapp.live/play/14--730.php?c=808&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=808&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" nada="24/7" group-title="TELE CABLE", Cantinflas 24/7
-http://bgapp.live/play/14--730.php?c=428&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=428&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" nada="24/7" group-title="TELE CABLE", Chapulin Colorado 24/7
-http://bgapp.live/play/14--730.php?c=418&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=418&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" nada="24/7" group-title="TELE CABLE", Chespirito 24/7
-http://bgapp.live/play/14--730.php?c=417&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=417&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" nada="24/7" group-title="TELE CABLE", Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/14--730.php?c=519&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=519&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" nada="24/7" group-title="TELE CABLE", Dinosaurios 24/7
-http://bgapp.live/play/14--730.php?c=670&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=670&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" nada="24/7" group-title="TELE CABLE", El Chavo del 8 24/7
-http://bgapp.live/play/14--730.php?c=400&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=400&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" nada="Noticias" group-title="TELE CABLE", El Gallo Claudio 24/7
-http://bgapp.live/play/14--730.php?c=845&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=845&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" nada="24/7" group-title="TELE CABLE", El Pajaro Loco 24/7
-http://bgapp.live/play/14--730.php?c=525&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=525&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" nada="24/7" group-title="TELE CABLE", El Principel del Rap 24/7
-http://bgapp.live/play/14--730.php?c=430&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=430&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" nada="24/7" group-title="TELE CABLE", Game of Thrones 24/7
-http://bgapp.live/play/14--730.php?c=515&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=515&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Garfield 24/7
-http://bgapp.live/play/14--730.php?c=812&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=812&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" nada="24/7" group-title="TELE CABLE", Hey Arnold 24/7
-http://bgapp.live/play/14--730.php?c=522&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=522&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="24/7" group-title="TELE CABLE", Naruto 24/7
-http://bgapp.live/play/14--730.php?c=523&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=523&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" nada="24/7" group-title="TELE CABLE", Mr. Bean 24/7
-http://bgapp.live/play/14--730.php?c=431&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=431&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="TELE CABLE", One Punch Man 24/7
-http://bgapp.live/play/14--730.php?c=661&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=661&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" nada="Noticias" group-title="TELE CABLE", Patoaventuras 24/7
-http://bgapp.live/play/14--730.php?c=819&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=819&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" nada="24/7" group-title="TELE CABLE", Spiderman 24/7
-http://bgapp.live/play/14--730.php?c=889&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=889&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" nada="24/7" group-title="TELE CABLE", Super Campeones 24/7
-http://bgapp.live/play/14--730.php?c=432&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=432&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" nada="24/7" group-title="TELE CABLE", Tom y Jerry 24/7
-http://bgapp.live/play/14--730.php?c=421&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=421&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" nada="24/7" group-title="TELE CABLE", TrollHunters 24/7
-http://bgapp.live/play/14--730.php?c=662&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=662&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" nada="24/7" group-title="TELE CABLE", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14--730.php?c=664&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=664&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" nada="24/7" group-title="TELE CABLE", Pinky y Cerebro 24/7
-http://bgapp.live/play/14--730.php?c=721&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=721&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" nada="24/7" group-title="TELE CABLE", Ranma 1/2 24/7
-http://bgapp.live/play/14--730.php?c=419&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=419&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" nada="24/7" group-title="TELE CABLE", La Pantera Rosa 24/7
-http://bgapp.live/play/14--730.php?c=671&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=671&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="TELE CABLE", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14--730.php?c=886&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=886&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="TELE CABLE", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14--730.php?c=888&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=888&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="TELE CABLE", Looney Tunes 24/7
-http://bgapp.live/play/14--730.php?c=524&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=524&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Noticias" group-title="TELE CABLE", Los Años Maravillosos 24/7
-http://bgapp.live/play/14--730.php?c=810&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=810&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="TELE CABLE", Los Picapiedra 24/7
-http://bgapp.live/play/14--730.php?c=669&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=669&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="TELE CABLE", Smallville 24/7
-http://bgapp.live/play/14--730.php?c=673&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--729.php?c=673&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 
 
 
@@ -1321,7 +1345,3 @@ http://tutv.online:2080/movie/cliente2_abril_00f/RFsCdZYG929L/11250.mkv
 http://tutv.online:2080/movie/cliente1_abril_00f/Xvuf6NDP2LPs/11502.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Transformers: La venganza de los caídos (2009)" tvg-logo="http://54.39.156.227:2080/images/db843be6a726ed05639dffe25ec5ed94.jpg" group-title="CIENCIA FICCION",Transformers: La venganza de los caídos (2009)
 http://tutv.online:2080/movie/cliente2_abril_00f/RFsCdZYG929L/11564.mkv
-
-
-
-
