@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", IPTVHUARMEY
-https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
+https://archive.org/compress/one-punch-man-2-latino/formats=MPEG4&file=/one-punch-man-2-latino.zip
+https://ia802500.us.archive.org/20/items/baile-del-gorila-gorillaz-ft.-melody-mashup-2020/Baile%20del%20Gorila%20-%20Gorillaz%20ft.%20Melody%20%28Mashup%202020%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV HD
 http://bgapp.live/play/14--729.php?c=317&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV HD
