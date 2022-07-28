@@ -1,642 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", HY | IPTVHUARMEY
-https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV1
-http://bgapp.live/play/14--799.php?c=317&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV2
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/73033
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV3
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/73034
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV1
-http://bgapp.live/play/14--799.php?c=780&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV2
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/73027
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV3
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/73028
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV1
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV2
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/73029
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV3
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/73030
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV +
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/73031
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="TELE CABLE", Perú TV
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" nada="Noticias" group-title="TELE CABLE", Huacho Perú TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oew9unJ.png" nada="Noticias" group-title="TELE CABLE", Piura TV 
-http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLk6TPY.png" nada="Noticias" group-title="TELE CABLE", Visión Noticias Perú TV
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" nada="Noticias" group-title="TELE CABLE", Controversia TV
-https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fSkmoA.png" nada="Noticias" group-title="TELE CABLE", CNC Digital TV
-https://cloudvideo.servers10.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" nada="Noticias" group-title="TELE CABLE", Uranio TV
-https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" nada="Noticias" group-title="TELE CABLE", Super Canal TV
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GaEfzuG.png" nada="Noticias" group-title="TELE CABLE", Sistema 1 TV
-https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" nada="Noticias" group-title="TELE CABLE", Proyecta TV
-https://servilive.com:3194/live/proyectatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xVcnmE3.png" nada="Noticias" group-title="TELE CABLE", QT Televisión TV
-https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tebr5wH.png" nada="Noticias" group-title="TELE CABLE", Uchu TV
-http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVTjvp6.png" nada="Noticias" group-title="TELE CABLE", Cable Netword TV
-https://tv.inka.net.pe/cntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5O42NQ.png" nada="Noticias" group-title="TELE CABLE", TecSatel Cine TV
-https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" nada="Noticias" group-title="TELE CABLE", SEO TV SERIES
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DI7ZTi9.png" nada="Noticias" group-title="TELE CABLE", CreoTV
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cVUmoKE.png" nada="Noticias" group-title="TELE CABLE", Lima Live TV
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VkobI4.png" nada="Noticias" group-title="TELE CABLE", Cajamarca TV
-https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F166GPP.png" nada="Noticias" group-title="TELE CABLE", Super TV
-https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TitYGtR.png" nada="Noticias" group-title="TELE CABLE", Clips TV
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TxEBT6I.png" nada="Noticias" group-title="TELE CABLE", CharapaTV
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" nada="Noticias" group-title="TELE CABLE", Best Cable Perú
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="TELE CABLE", A&E
-http://bgapp.live/play/14--799.php?c=1&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" nada="Mexico" group-title="TELE CABLE", A+
-http://bgapp.live/play/14--799.php?c=406&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" nada="España" group-title="TELE CABLE", A3Series
-http://bgapp.live/play/14--799.php?c=444&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" nada="Noticias" group-title="TELE CABLE", ADN 40
-http://bgapp.live/play/14--799.php?c=447&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="Entretenimiento" group-title="TELE CABLE", AMC
-http://bgapp.live/play/14--799.php?c=183&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="España" group-title="TELE CABLE", AMC ES
-http://bgapp.live/play/14--799.php?c=715&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="TELE CABLE", AXN
-http://bgapp.live/play/14--799.php?c=146&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="TELE CABLE", AXN Sur
-http://bgapp.live/play/14--799.php?c=804&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="España" group-title="TELE CABLE", AXN WHITE (ES)
-http://bgapp.live/play/14--799.php?c=714&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" nada="Peliculas" group-title="TELE CABLE", Az Cinema
-http://bgapp.live/play/14--799.php?c=186&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" nada="Entretenimiento" group-title="TELE CABLE", Az Clic
-http://bgapp.live/play/14--799.php?c=165&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="Entretenimiento" group-title="TELE CABLE", Az Corazón
-http://bgapp.live/play/14--799.php?c=166&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" nada="Infantiles" group-title="TELE CABLE", Baby TV
-http://bgapp.live/play/14--799.php?c=7&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="Musica" group-title="TELE CABLE", Bandamax
-http://bgapp.live/play/14--799.php?c=8&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="TELE CABLE", Canal de las Estrellas
-http://bgapp.live/play/14--799.php?c=411&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" nada="Deportes" group-title="TELE CABLE", Canal+ Toros
-http://bgapp.live/play/14--799.php?c=369&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" nada="Colombia" group-title="TELE CABLE", Caracol
-http://bgapp.live/play/14--799.php?c=391&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="TELE CABLE", Cartoon Network
-http://bgapp.live/play/14--799.php?c=17&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="TELE CABLE", Cartoonito (Boomerang)
-http://bgapp.live/play/14--799.php?c=11&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" nada="Infantiles" group-title="TELE CABLE", Cartoonito Sur
-http://bgapp.live/play/14--799.php?c=735&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" nada="Deportes" group-title="TELE CABLE", CDO Premium
-http://bgapp.live/play/14--799.php?c=401&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Accion
-http://bgapp.live/play/14--799.php?c=699&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Accion Sagas
-http://bgapp.live/play/14--799.php?c=700&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Comedia 1
-http://bgapp.live/play/14--799.php?c=695&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Ficcion/Fantasia 1
-http://bgapp.live/play/14--799.php?c=709&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Ficcion/Fantasia 2
-http://bgapp.live/play/14--799.php?c=710&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" nada="HD" group-title="TELE CABLE", Cine Ficcion/Fantasia
-http://bgapp.live/play/14--799.php?c=712&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Infantil
-http://bgapp.live/play/14--799.php?c=687&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Romance
-http://bgapp.live/play/14--799.php?c=689&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Terror
-http://bgapp.live/play/14--799.php?c=693&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Zombis
-http://bgapp.live/play/14--799.php?c=688&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="TELE CABLE", Cinecanal
-http://bgapp.live/play/14--799.php?c=18&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="HD" group-title="TELE CABLE", Cinecanal
-http://bgapp.live/play/14--799.php?c=479&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="TELE CABLE", Discovery Channel
-http://bgapp.live/play/14--799.php?c=22&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="TELE CABLE", Discovery Civilization
-http://bgapp.live/play/14--799.php?c=23&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="TELE CABLE", Discovery Kids
-http://bgapp.live/play/14--799.php?c=25&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" nada="Cultura" group-title="TELE CABLE", Discovery SCI
-http://bgapp.live/play/14--799.php?c=26&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" nada="Cultura" group-title="TELE CABLE", Discovery Theater
-http://bgapp.live/play/14--799.php?c=27&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="Cultura" group-title="TELE CABLE", Discovery Turbo
-http://bgapp.live/play/14--799.php?c=28&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" nada="Cultura" group-title="TELE CABLE", Discovery World
-http://bgapp.live/play/14--799.php?c=187&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" nada="Infantiles" group-title="TELE CABLE", Disney Channel
-http://bgapp.live/play/14--799.php?c=29&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="TELE CABLE", Disney Junior
-http://bgapp.live/play/14--799.php?c=30&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="TELE CABLE", Disney Junior Sur
-http://bgapp.live/play/14--799.php?c=743&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="TELE CABLE", FX
-http://bgapp.live/play/14--799.php?c=42&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="TELE CABLE", FX Sur
-http://bgapp.live/play/14--799.php?c=749&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="Peliculas" group-title="TELE CABLE", FXM
-http://bgapp.live/play/14--799.php?c=43&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="Deportes" group-title="TELE CABLE", Gol TV
-http://bgapp.live/play/14--799.php?c=287&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="TELE CABLE", Golden
-http://bgapp.live/play/14--799.php?c=57&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="TELE CABLE", Golden Edge
-http://bgapp.live/play/14--799.php?c=58&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="TELE CABLE", H2
-http://bgapp.live/play/14--799.php?c=61&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="TELE CABLE", HBO Plus
-http://bgapp.live/play/14--799.php?c=64&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Chile" group-title="TELE CABLE", Mega
-http://bgapp.live/play/14--799.php?c=766&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="Infantiles" group-title="TELE CABLE", Nick
-http://bgapp.live/play/14--799.php?c=78&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" nada="Infantiles" group-title="TELE CABLE", Nick Toons
-http://bgapp.live/play/14--799.php?c=80&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" nada="Infantiles" group-title="TELE CABLE", Nickelodeon
-http://bgapp.live/play/14--799.php?c=184&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="Peliculas" group-title="TELE CABLE", Paramount
-http://bgapp.live/play/14--799.php?c=200&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="Entretenimiento" group-title="TELE CABLE", Sony
-http://bgapp.live/play/14--799.php?c=145&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="TELE CABLE", Space
-http://bgapp.live/play/14--799.php?c=83&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="TELE CABLE", Space Sur
-http://bgapp.live/play/14--799.php?c=751&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="Entretenimiento" group-title="TELE CABLE", Star
-http://bgapp.live/play/14--799.php?c=45&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="Peliculas" group-title="TELE CABLE", Studio Universal
-http://bgapp.live/play/14--799.php?c=84&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="TELE CABLE", SyFy
-http://bgapp.live/play/14--799.php?c=151&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="Entretenimiento" group-title="TELE CABLE", TBS Very Funny
-http://bgapp.live/play/14--799.php?c=171&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" nada="Peliculas" group-title="TELE CABLE", TCM
-http://bgapp.live/play/14--799.php?c=85&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" nada="Infantiles" group-title="TELE CABLE", TeenNick
-http://bgapp.live/play/14--799.php?c=882&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="Entretenimiento" group-title="TELE CABLE", Telemundo
-http://bgapp.live/play/14--799.php?c=92&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" nada="Ecuador" group-title="TELE CABLE", Televicentro
-http://bgapp.live/play/14--799.php?c=776&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" nada="Entretenimiento" group-title="TELE CABLE", TLC
-http://bgapp.live/play/14--799.php?c=87&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="Entretenimiento" group-title="TELE CABLE", Tlnovelas
-http://bgapp.live/play/14--799.php?c=94&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="TELE CABLE", TNT
-http://bgapp.live/play/14--799.php?c=179&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" nada="Infantiles" group-title="TELE CABLE", Tooncast
-http://bgapp.live/play/14--799.php?c=95&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="Entretenimiento" group-title="TELE CABLE", TruTV
-http://bgapp.live/play/14--799.php?c=96&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" nada="Deportes" group-title="TELE CABLE", UFC Network
-http://bgapp.live/play/14--799.php?c=97&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="Entretenimiento" group-title="TELE CABLE", Unicable
-http://bgapp.live/play/14--799.php?c=98&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="Peliculas" group-title="TELE CABLE", Universal
-http://bgapp.live/play/14--799.php?c=137&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Colombia" group-title="TELE CABLE", Uno
-http://bgapp.live/play/14--799.php?c=775&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="Musica" group-title="TELE CABLE", VH1
-http://bgapp.live/play/14--799.php?c=101&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="TELE CABLE", Warner Channel
-http://bgapp.live/play/14--799.php?c=102&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SD | Animal planet" tvg-logo="http://tutv.online:2080/images/baca836dfda1fb29c2f9d31f3347b72f.jpg" group-title="CANALES SD (3Mbps)",SD | Animal planet
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72602
-#EXTINF:-1 tvg-id="" tvg-name="SD | AXN" tvg-logo="http://tutv.online:2080/images/afeda469188fbc964d949faa482b7b57.png" group-title="CANALES SD (3Mbps)",SD | AXN
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72603
-#EXTINF:-1 tvg-id="" tvg-name="SD | AXN 2" tvg-logo="http://tutv.online:2080/images/7786bacd7989b343e43033b2e5616035.jpg" group-title="CANALES SD (3Mbps)",SD | AXN 2
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72604
-#EXTINF:-1 tvg-id="" tvg-name="SD | Baby tv" tvg-logo="http://tutv.online:2080/images/19c4dcafb60bb07440ff8e81735860d2.jpg" group-title="CANALES SD (3Mbps)",SD | Baby tv
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72605
-#EXTINF:-1 tvg-id="" tvg-name="SD | Boomerang" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Boomerang
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72606
-#EXTINF:-1 tvg-id="" tvg-name="SD | Cartoon network" tvg-logo="http://tutv.online:2080/images/5c16401b009f76b3c6b8ad1a4171e707.jpg" group-title="CANALES SD (3Mbps)",SD | Cartoon network
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72607
-#EXTINF:-1 tvg-id="" tvg-name="SD | Cinecanal" tvg-logo="http://tutv.online:2080/images/e2b1aada153348f9705db085595b49c1.jpg" group-title="CANALES SD (3Mbps)",SD | Cinecanal
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72608
-#EXTINF:-1 tvg-id="" tvg-name="SD | Cinemax" tvg-logo="http://tutv.online:2080/images/428278e380ff2c85fee8977372367fa0.jpg" group-title="CANALES SD (3Mbps)",SD | Cinemax
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72609
-#EXTINF:-1 tvg-id="" tvg-name="SD | Comedy Central" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Comedy Central
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72610
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery H&H" tvg-logo="http://tutv.online:2080/images/63819d180e2d5f365485a1d9aba559f6.jpg" group-title="CANALES SD (3Mbps)",SD | Discovery H&H
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72611
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery HH" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Discovery HH
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72612
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery ID" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Discovery ID
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72613
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery Kids" tvg-logo="http://tutv.online:2080/images/53ce0cccbcc6eec4db62288aaea23fd5.jpg" group-title="CANALES SD (3Mbps)",SD | Discovery Kids
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72614
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery science" tvg-logo="http://tutv.online:2080/images/86ab9c19f186006e2b997c52a50ab2e8.jpg" group-title="CANALES SD (3Mbps)",SD | Discovery science
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72615
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery Theater" tvg-logo="http://tutv.online:2080/images/89f8987e601e3ea4a2d854a474f98b66.jpg" group-title="CANALES SD (3Mbps)",SD | Discovery Theater
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72616
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery Turbo" tvg-logo="http://tutv.online:2080/images/3bb400c2c435054c15c573ab53b240f4.jpg" group-title="CANALES SD (3Mbps)",SD | Discovery Turbo
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72617
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery world" tvg-logo="http://tutv.online:2080/images/b0d8d0ebcb36494c77c526c4ad2a76ff.jpg" group-title="CANALES SD (3Mbps)",SD | Discovery world
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72618
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney" tvg-logo="http://tutv.online:2080/images/ff3b46a2d552e4ddeb97b85c9722f212.jpg" group-title="CANALES SD (3Mbps)",SD | Disney
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72619
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Channel" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Disney Channel
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72620
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Jr" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Disney Jr
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72621
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney XD" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Disney XD
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72622
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Xd" tvg-logo="http://tutv.online:2080/images/497c41befd7a868339c1e6c78d35fe00.jpg" group-title="CANALES SD (3Mbps)",SD | Disney Xd
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72623
-#EXTINF:-1 tvg-id="" tvg-name="SD | E!" tvg-logo="http://tutv.online:2080/images/4e16cbaaa77524b40ed305e7636551c9.jpg" group-title="CANALES SD (3Mbps)",SD | E!
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72624
-#EXTINF:-1 tvg-id="" tvg-name="SD | ESPN 2" tvg-logo="http://tutv.online:2080/images/13407b161144a92582fb561b82afff8c.jpg" group-title="CANALES SD (3Mbps)",SD | ESPN 2
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72625
-#EXTINF:-1 tvg-id="" tvg-name="SD | ESPN 2 SD" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | ESPN 2 SD
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72626
-#EXTINF:-1 tvg-id="" tvg-name="SD | Espn 3 MX" tvg-logo="http://tutv.online:2080/images/3e99c57a516c085d9c222e40aebc7129.jpg" group-title="CANALES SD (3Mbps)",SD | Espn 3 MX
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72627
-#EXTINF:-1 tvg-id="" tvg-name="SD | FoodNetwork" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | FoodNetwork
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72628
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox" tvg-logo="http://tutv.online:2080/images/1e6dd5dfab2ebc2be769b1f4b6061161.jpg" group-title="CANALES SD (3Mbps)",SD | Fox
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72629
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 2" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Fox Sports 2
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72636
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 2" tvg-logo="http://tutv.online:2080/images/2cf5d5fc31884936f0cae9a785231988.jpg" group-title="CANALES SD (3Mbps)",SD | Fox Sports 2
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72637
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 3" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Fox Sports 3
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72638
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 3" tvg-logo="http://tutv.online:2080/images/2adcf887829af7bd2edbcf8ee30ee15b.jpg" group-title="CANALES SD (3Mbps)",SD | Fox Sports 3
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72639
-#EXTINF:-1 tvg-id="" tvg-name="SD | FX" tvg-logo="http://tutv.online:2080/images/ee3af9c759b504ff68489f373faf4395.jpg" group-title="CANALES SD (3Mbps)",SD | FX
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72640
-#EXTINF:-1 tvg-id="" tvg-name="SD | FXM" tvg-logo="http://tutv.online:2080/images/e74bd9e67dd3d79a45a6f2e87a38f440.jpg" group-title="CANALES SD (3Mbps)",SD | FXM
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72641
-#EXTINF:-1 tvg-id="" tvg-name="SD | Garage tv" tvg-logo="http://tutv.online:2080/images/5f766a864a6ae36a07070942dcd40ac6.jpg" group-title="CANALES SD (3Mbps)",SD | Garage tv
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72642
-#EXTINF:-1 tvg-id="" tvg-name="SD | Glitz" tvg-logo="http://tutv.online:2080/images/b2f8348d8546a77d41ccdd1a44f31302.jpg" group-title="CANALES SD (3Mbps)",SD | Glitz
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72643
-#EXTINF:-1 tvg-id="" tvg-name="SD | Golden Edge" tvg-logo="http://tutv.online:2080/images/9b7fe2293350be0d0d8a40f3ddebc79f.jpg" group-title="CANALES SD (3Mbps)",SD | Golden Edge
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72644
-#EXTINF:-1 tvg-id="" tvg-name="SD | Golden premier" tvg-logo="http://tutv.online:2080/images/6b319af52d51829cb8696c6e2cb01df8.jpg" group-title="CANALES SD (3Mbps)",SD | Golden premier
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72645
-#EXTINF:-1 tvg-id="" tvg-name="SD | Gourmet" tvg-logo="http://tutv.online:2080/images/e544abcb7a2358e3a0a976fc7a1304c6.jpg" group-title="CANALES SD (3Mbps)",SD | Gourmet
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72646
-#EXTINF:-1 tvg-id="" tvg-name="SD | H2" tvg-logo="http://tutv.online:2080/images/f74ac322ccadd655e02f4047887c190f.jpg" group-title="CANALES SD (3Mbps)",SD | H2
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72647
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | HBO
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72648
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO" tvg-logo="http://tutv.online:2080/images/02533372af53048a55cf973c53c4ce87.jpg" group-title="CANALES SD (3Mbps)",SD | HBO
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72649
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO 2" tvg-logo="http://tutv.online:2080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CANALES SD (3Mbps)",SD | HBO 2
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72650
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO Family" tvg-logo="http://tutv.online:2080/images/481ec90131b0e092cbd876838ebe470b.jpg" group-title="CANALES SD (3Mbps)",SD | HBO Family
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72651
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO Mundi" tvg-logo="http://tutv.online:2080/images/8a45b9998a48dba0d9c10c36a53bea5a.jpg" group-title="CANALES SD (3Mbps)",SD | HBO Mundi
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72652
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO Plus" tvg-logo="http://tutv.online:2080/images/a86efb16e5fd6c4c0088e6e9b4395516.jpg" group-title="CANALES SD (3Mbps)",SD | HBO Plus
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72653
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO plus" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | HBO plus
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72654
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO Signature" tvg-logo="http://tutv.online:2080/images/a20f8ec39496fe46ee53029da3857b51.jpg" group-title="CANALES SD (3Mbps)",SD | HBO Signature
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72655
-#EXTINF:-1 tvg-id="" tvg-name="SD | History" tvg-logo="http://tutv.online:2080/images/0be1813f97b44c06f7a1dea0375c3347.jpg" group-title="CANALES SD (3Mbps)",SD | History
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72656
-#EXTINF:-1 tvg-id="" tvg-name="SD | ID" tvg-logo="http://tutv.online:2080/images/a4c7dc56186aaf14cb52b6ad6e320d91.jpg" group-title="CANALES SD (3Mbps)",SD | ID
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72657
-#EXTINF:-1 tvg-id="" tvg-name="SD | ISAT" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | ISAT
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72658
-#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Las Estrellas
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72659
-#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="http://tutv.online:2080/images/5a179f36e05be5de5f11a6d9b18cd974.jpg" group-title="CANALES SD (3Mbps)",SD | Las Estrellas
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72660
-#EXTINF:-1 tvg-id="" tvg-name="SD | Lifetime" tvg-logo="http://tutv.online:2080/images/af6d5979d026e2ff72e59b6c07d43c99.jpg" group-title="CANALES SD (3Mbps)",SD | Lifetime
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72661
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv" tvg-logo="http://tutv.online:2080/images/01028a1c1f5e370cb8810b4fdabf0a0c.jpg" group-title="CANALES SD (3Mbps)",SD | Mtv
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72662
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv hits" tvg-logo="http://tutv.online:2080/images/217134c2e76727ea441f8c8921d1e077.jpg" group-title="CANALES SD (3Mbps)",SD | Mtv hits
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72663
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv live" tvg-logo="http://tutv.online:2080/images/cd8cef52185d44f663e1bdffc5e0c105.jpg" group-title="CANALES SD (3Mbps)",SD | Mtv live
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72664
-#EXTINF:-1 tvg-id="" tvg-name="SD | NatGeo" tvg-logo="http://tutv.online:2080/images/58a3e93c4e5150ac365bdbb797c5e0aa.jpg" group-title="CANALES SD (3Mbps)",SD | NatGeo
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72665
-#EXTINF:-1 tvg-id="" tvg-name="SD | NatGeo Kids" tvg-logo="http://tutv.online:2080/images/8d4016cf2ed774f49016d73db5e6de35.jpg" group-title="CANALES SD (3Mbps)",SD | NatGeo Kids
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72666
-#EXTINF:-1 tvg-id="" tvg-name="SD | Natgeo wild" tvg-logo="http://tutv.online:2080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="CANALES SD (3Mbps)",SD | Natgeo wild
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72667
-#EXTINF:-1 tvg-id="" tvg-name="SD | Nick" tvg-logo="http://tutv.online:2080/images/2c6133653c1d5a9ac1d218496b5df791.jpg" group-title="CANALES SD (3Mbps)",SD | Nick
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72668
-#EXTINF:-1 tvg-id="" tvg-name="SD | Nick 2" tvg-logo="http://tutv.online:2080/images/873617b13e37ed8f7555877af676d66b.jpg" group-title="CANALES SD (3Mbps)",SD | Nick 2
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72669
-#EXTINF:-1 tvg-id="" tvg-name="SD | Nick jr" tvg-logo="http://tutv.online:2080/images/260731e2014e244eefeb75fd1e0d3186.jpg" group-title="CANALES SD (3Mbps)",SD | Nick jr
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72670
-#EXTINF:-1 tvg-id="" tvg-name="SD | Nickelodeon" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Nickelodeon
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72671
-#EXTINF:-1 tvg-id="" tvg-name="SD | Paramount" tvg-logo="http://tutv.online:2080/images/79e39a2873e546b47535d61bf529f84c.jpg" group-title="CANALES SD (3Mbps)",SD | Paramount
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72672
-#EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Sony
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72673
-#EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="http://tutv.online:2080/images/1a93dd997a0fb83af2396ef410d17ca8.jpg" group-title="CANALES SD (3Mbps)",SD | Sony
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72674
-#EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="" group-title="CANALES SD (3Mbps)",SD | Space
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72675
-#EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="http://tutv.online:2080/images/b78785f9ed11ffb7b7870d7cde89e079.jpg" group-title="CANALES SD (3Mbps)",SD | Space
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72676
-#EXTINF:-1 tvg-id="" tvg-name="SD | Studio Universal" tvg-logo="http://tutv.online:2080/images/1a0a994e9d87e0e303421d0089195907.jpg" group-title="CANALES SD (3Mbps)",SD | Studio Universal
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72677
-#EXTINF:-1 tvg-id="" tvg-name="SD | SYFY" tvg-logo="http://tutv.online:2080/images/84f295a8a30196aa3b3fad1728e34417.png" group-title="CANALES SD (3Mbps)",SD | SYFY
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72678
-#EXTINF:-1 tvg-id="" tvg-name="SD | TCM" tvg-logo="http://tutv.online:2080/images/2069b17df0a3ad6902ee27ee67d9fc20.jpg" group-title="CANALES SD (3Mbps)",SD | TCM
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72679
-#EXTINF:-1 tvg-id="" tvg-name="SD | TLC" tvg-logo="http://tutv.online:2080/images/ebf0da5a2d0f1eb1dd3be6cded326926.jpg" group-title="CANALES SD (3Mbps)",SD | TLC
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72680
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT" tvg-logo="http://tutv.online:2080/images/fcf30b01227bfe3588de50820bd4df12.jpg" group-title="CANALES SD (3Mbps)",SD | TNT
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72681
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT" tvg-logo="http://tutv.online:2080/images/fcf30b01227bfe3588de50820bd4df12.jpg" group-title="CANALES SD (3Mbps)",SD | TNT
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72682
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT Series" tvg-logo="http://tutv.online:2080/images/84f295a8a30196aa3b3fad1728e34417.png" group-title="CANALES SD (3Mbps)",SD | TNT Series
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72683
-#EXTINF:-1 tvg-id="" tvg-name="SD | Tooncast" tvg-logo="http://tutv.online:2080/images/ced66c004ca531439a9e498bea0815b3.jpg" group-title="CANALES SD (3Mbps)",SD | Tooncast
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72684
-#EXTINF:-1 tvg-id="" tvg-name="SD | TUDN" tvg-logo="http://tutv.online:2080/images/b4981328e694a736689950ca93ad944a.jpg" group-title="CANALES SD (3Mbps)",SD | TUDN
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72685
-#EXTINF:-1 tvg-id="" tvg-name="SD | Unicable" tvg-logo="http://tutv.online:2080/images/c7c67e2bf38a525cc809364bf60eea9c.jpg" group-title="CANALES SD (3Mbps)",SD | Unicable
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72686
-#EXTINF:-1 tvg-id="" tvg-name="SD | Universal" tvg-logo="http://tutv.online:2080/images/0e2bcebdc68d2c85a8db50aaa1f981fe.png" group-title="CANALES SD (3Mbps)",SD | Universal
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72687
-#EXTINF:-1 tvg-id="" tvg-name="SD | Universal Channel" tvg-logo="http://tutv.online:2080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="CANALES SD (3Mbps)",SD | Universal Channel
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72688
-#EXTINF:-1 tvg-id="" tvg-name="SD | Vh1" tvg-logo="http://tutv.online:2080/images/013797fd8e6f04603cff4a729269fa31.png" group-title="CANALES SD (3Mbps)",SD | Vh1
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72689
-#EXTINF:-1 tvg-id="" tvg-name="SD | Warner" tvg-logo="http://tutv.online:2080/images/4fdd874941dc0f539644a3e3b2d4570d.png" group-title="CANALES SD (3Mbps)",SD | Warner
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72690
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="TELE CABLE", Karibena TV
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Más Cumbia
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Music
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cEx1LP9.png" nada="Noticias" group-title="TELE CABLE", Conecta2TV
-https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6zqmnG.png" nada="Noticias" group-title="TELE CABLE",  Hatun Tv
-https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" nada="Noticias" group-title="TELE CABLE", Latin Mix Radio
-https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xvMDTe9.png" nada="Noticias" group-title="TELE CABLE", Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y37ookm.jpg" nada="Noticias" group-title="TELE CABLE", FoxMix TV
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/svgW3Fr.png" nada="Noticias" group-title="TELE CABLE", Vallenato Internacional TV
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" nada="Noticias" group-title="TELE CABLE", SanjuaneraTV
-https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" nada="Noticias" group-title="TELE CABLE", Sumac TV
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L45zrbj.png" nada="Noticias" group-title="TELE CABLE", Sol Stereo TV
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" nada="Noticias" group-title="TELE CABLE", MegaMix Tv
-https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VMMNhkf.png" nada="Noticias" group-title="TELE CABLE", Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
-#EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" nada="Noticias" group-title="TELE CABLE", Radio Nueva Q
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" nada="Noticias" group-title="TELE CABLE", Radio La Zona
-https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" nada="Noticias" group-title="TELE CABLE", Radio La Ribereña
-http://167.114.118.120:7274/;stream
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" nada="Noticias" group-title="TELE CABLE", Radio Nova
-https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
-#EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" nada="Noticias" group-title="TELE CABLE", Radio Mar
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" nada="Noticias" group-title="TELE CABLE", Radio Onda Cero
-https://streaming.gometri.com/stream/8011/;
-#EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" nada="Noticias" group-title="TELE CABLE", Radio Planeta
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" nada="Noticias" group-title="TELE CABLE", Radio Chalaca
-https://conectperu.com/8084/stream
-#EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="TELE CABLE", Radio Oasis
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
-#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg" nada="Noticias" group-title="TELE CABLE", Cine Terror TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", DEATH NOTE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="Noticias" group-title="TELE CABLE", Naruto2 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh2 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", One Piece 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", Los Tres Chiflados 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUGdVLb.jpg" nada="Noticias" group-title="TELE CABLE", Barney 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zu8Iw5s.jpg" nada="Noticias" group-title="TELE CABLE", Rugrats 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6fcxJc.jpg" nada="Noticias" group-title="TELE CABLE", Bob Esponja 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", LAS TORTUGAS NINJA (ESPAÑA)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Anime Tv 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/khUQUCD.png" nada="Noticias" group-title="TELE CABLE", Baby Shark 24/7
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
-https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" nada="Noticias" group-title="TELE CABLE", Cartoon Network 1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HYBD4CM.png" nada="Noticias" group-title="TELE CABLE", Cartoon Network 2
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" nada="Noticias" group-title="TELE CABLE", Latino Infantil TV
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" nada="24/7" group-title="TELE CABLE", Doraemon 24/7
-http://bgapp.live/play/14--799.php?c=521&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" nada="24/7" group-title="TELE CABLE", Dragon Ball 24/7
-http://bgapp.live/play/14--799.php?c=425&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Z 24/7
-http://bgapp.live/play/14--799.php?c=329&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" nada="24/7" group-title="TELE CABLE", Dragon Ball GT 24/7
-http://bgapp.live/play/14--799.php?c=520&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Super 24/7
-http://bgapp.live/play/14--799.php?c=424&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="TELE CABLE", Alf 24/7
-http://bgapp.live/play/14--799.php?c=426&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" nada="24/7" group-title="TELE CABLE", Animaniacs 24/7
-http://bgapp.live/play/14--799.php?c=677&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" nada="24/7" group-title="TELE CABLE", Bob Esponja 24/7
-http://bgapp.live/play/14--799.php?c=518&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" nada="24/7" group-title="TELE CABLE", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14--799.php?c=427&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Candy Candy 24/7
-http://bgapp.live/play/14--799.php?c=808&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" nada="24/7" group-title="TELE CABLE", Cantinflas 24/7
-http://bgapp.live/play/14--799.php?c=428&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" nada="24/7" group-title="TELE CABLE", Chapulin Colorado 24/7
-http://bgapp.live/play/14--799.php?c=418&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" nada="24/7" group-title="TELE CABLE", Chespirito 24/7
-http://bgapp.live/play/14--799.php?c=417&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" nada="24/7" group-title="TELE CABLE", Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/14--799.php?c=519&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" nada="24/7" group-title="TELE CABLE", Dinosaurios 24/7
-http://bgapp.live/play/14--799.php?c=670&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" nada="24/7" group-title="TELE CABLE", El Chavo del 8 24/7
-http://bgapp.live/play/14--799.php?c=400&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" nada="Noticias" group-title="TELE CABLE", El Gallo Claudio 24/7
-http://bgapp.live/play/14--799.php?c=845&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" nada="24/7" group-title="TELE CABLE", El Pajaro Loco 24/7
-http://bgapp.live/play/14--799.php?c=525&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" nada="24/7" group-title="TELE CABLE", El Principel del Rap 24/7
-http://bgapp.live/play/14--799.php?c=430&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" nada="24/7" group-title="TELE CABLE", Game of Thrones 24/7
-http://bgapp.live/play/14--799.php?c=515&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Garfield 24/7
-http://bgapp.live/play/14--799.php?c=812&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" nada="24/7" group-title="TELE CABLE", Hey Arnold 24/7
-http://bgapp.live/play/14--799.php?c=522&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="24/7" group-title="TELE CABLE", Naruto 24/7
-http://bgapp.live/play/14--799.php?c=523&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" nada="24/7" group-title="TELE CABLE", Mr. Bean 24/7
-http://bgapp.live/play/14--799.php?c=431&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="TELE CABLE", One Punch Man 24/7
-http://bgapp.live/play/14--799.php?c=661&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" nada="Noticias" group-title="TELE CABLE", Patoaventuras 24/7
-http://bgapp.live/play/14--799.php?c=819&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" nada="24/7" group-title="TELE CABLE", Spiderman 24/7
-http://bgapp.live/play/14--799.php?c=889&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" nada="24/7" group-title="TELE CABLE", Super Campeones 24/7
-http://bgapp.live/play/14--799.php?c=432&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" nada="24/7" group-title="TELE CABLE", Tom y Jerry 24/7
-http://bgapp.live/play/14--799.php?c=421&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" nada="24/7" group-title="TELE CABLE", TrollHunters 24/7
-http://bgapp.live/play/14--799.php?c=662&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" nada="24/7" group-title="TELE CABLE", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14--799.php?c=664&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" nada="24/7" group-title="TELE CABLE", Pinky y Cerebro 24/7
-http://bgapp.live/play/14--799.php?c=721&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" nada="24/7" group-title="TELE CABLE", Ranma 1/2 24/7
-http://bgapp.live/play/14--799.php?c=419&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" nada="24/7" group-title="TELE CABLE", La Pantera Rosa 24/7
-http://bgapp.live/play/14--799.php?c=671&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="TELE CABLE", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14--799.php?c=886&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="TELE CABLE", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14--799.php?c=888&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="TELE CABLE", Looney Tunes 24/7
-http://bgapp.live/play/14--799.php?c=524&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Noticias" group-title="TELE CABLE", Los Años Maravillosos 24/7
-http://bgapp.live/play/14--799.php?c=810&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="TELE CABLE", Los Picapiedra 24/7
-http://bgapp.live/play/14--799.php?c=669&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="TELE CABLE", Smallville 24/7
-http://bgapp.live/play/14--799.php?c=673&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2 (Linux;Android 9)
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Billy y Mandy (ES)" tvg-logo="http://tutv.online:36995/images/6ac459b4a53a585c91b77b2e0576567b.jpg" group-title="24/7 Kids",24/7 |  Billy y Mandy (ES)
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18048
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |  |  Teen Titans Go" tvg-logo="http://tutv.online:36995/images/aa7946ef8c3a1ed82e9091ee16702d76.jpg" group-title="24/7 Kids",24/7 |  |  Teen Titans Go
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/18064
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ben 10" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054" group-title="24/7 Kids",24/7 | Ben 10
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/18065
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CANTINFLAS (M)" tvg-logo="http://tutv.online:36995/images/4e6d910e3738558558003debe412c834.jpg" group-title="24/7 Kids",24/7 | CANTINFLAS (M)
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18052
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dora, la exploradora" tvg-logo="http://tutv.online:36995/images/5e8ed822c3ebe4a6554a72762cb2d853.jpg" group-title="24/7 Kids",24/7 | Dora, la exploradora
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/18045
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon ball GT (M)" tvg-logo="http://tutv.online:36995/images/b3dfe4623fb71f1bad44506f7d0dbba2.jpg" group-title="24/7 Kids",24/7 | Dragon ball GT (M)
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/18054
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" group-title="24/7 Kids",24/7 | Dragon Ball Super
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/18058
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chapulin Colorado Animado (p)(480)" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4e/PosterChapulinAnimado.jpg/revision/latest/top-crop/width/360/height/450?cb=20160104002357&path-prefix=es" group-title="24/7 Kids",24/7 | El Chapulin Colorado Animado (p)(480)
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18091
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El proyecto Z" tvg-logo="http://tutv.online:36995/images/2097d6862f3da52b6466f02efcc21bb2.jpg" group-title="24/7 Kids",24/7 | El proyecto Z
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/18086
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Garfield" tvg-logo="http://tutv.online:36995/images/8527ee6866dca446da3ce1e70a33f914.jpg" group-title="24/7 Kids",24/7 | Garfield
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/18068
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Garfield Y Amigos" tvg-logo="http://tutv.online:36995/images/691673130caa4bed8b39d712cea0fbc6.jpg" group-title="24/7 Kids",24/7 | Garfield Y Amigos
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/18044
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Gravity Falls (ES)" tvg-logo="http://tutv.online:36995/images/e98e976c2851a5bbc3e7e9c24b992504.jpg" group-title="24/7 Kids",24/7 | Gravity Falls (ES)
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18089
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Infantiles" tvg-logo="http://tutv.online:36995/images/a571ea386eb1fad2c7094ffae02e70e7.jpg" group-title="24/7 Kids",24/7 | Infantiles
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/18075
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pequeña LuLu" tvg-logo="http://tutv.online:36995/images/80552b154194f5acf56f9929b4983308.jpg" group-title="24/7 Kids",24/7 | La Pequeña LuLu
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/18066
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 4 Fantásticos" tvg-logo="http://tutv.online:36995/images/499dc2b5746bc988fe7bd907b6c2239f.jpg" group-title="24/7 Kids",24/7 | Los 4 Fantásticos
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18087
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los misterios de Moville" tvg-logo="https://pics.filmaffinity.com/moville_mysteries_tv_series-293137444-large.jpg" group-title="24/7 Kids",24/7 | Los misterios de Moville
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/18047
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los padrinos mágicos" tvg-logo="http://tutv.online:36995/images/fd72feacb37230be1bd6cffe405145c0.jpg" group-title="24/7 Kids",24/7 | Los padrinos mágicos
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/18049
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg" group-title="24/7 Kids",24/7 | Los Picapiedra
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/18061
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg" group-title="24/7 Kids",24/7 | Los Picapiedra
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/18077
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg" group-title="24/7 Kids",24/7 | Peppa Pig
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18043
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Ranma 1/2" tvg-logo="http://tutv.online:36995/images/a2418877e3987d8d69aa7f33e7560e20.jpg" group-title="24/7 Kids",24/7 | Ranma 1/2
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/18079
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Scooby-Doo (p)(1080)" tvg-logo="http://tutv.online:36995/images/eb4d76bbe367f7cbb272b07ed3212755.jpg" group-title="24/7 Kids",24/7 | Scooby-Doo (p)(1080)
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/18060
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Static Shock" tvg-logo="http://tutv.online:36995/images/ec287575f8cf7c49926abf0250d3b287.jpg" group-title="24/7 Kids",24/7 | Static Shock
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/18088
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Street Sharks" tvg-logo="http://tutv.online:36995/images/e94e32c6475e8bfec7cc842e9f6e18eb.jpg" group-title="24/7 Kids",24/7 | Street Sharks
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/18085
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | ThunderCats (ES)" tvg-logo="http://tutv.online:36995/images/efdd3651d74aa035f9af4beac330de5c.png" group-title="24/7 Kids",24/7 | ThunderCats (ES)
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/18046
-
-#EXTM3U
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="SERIE ANIME", HY | IPTVHUARMEY
 https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
 
@@ -695,796 +57,444 @@ https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Lati
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="PE | Directv Sports + Peru" tvg-logo="http://tutv.online:2080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title=" **DEPORTES PERU**⚽ ",PE | Directv Sports + Peru
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/17739
-#EXTINF:-1 tvg-id="" tvg-name="PE | Directv Sports 2 Peru" tvg-logo="http://tutv.online:2080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title=" **DEPORTES PERU**⚽ ",PE | Directv Sports 2 Peru
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/17738
-#EXTINF:-1 tvg-id="" tvg-name="PE | Directv Sports Peru" tvg-logo="http://tutv.online:2080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title=" **DEPORTES PERU**⚽ ",PE | Directv Sports Peru
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17737
-#EXTINF:-1 tvg-id="" tvg-name="PE | Espn 2 Peru" tvg-logo="http://tutv.online:2080/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title=" **DEPORTES PERU**⚽ ",PE | Espn 2 Peru
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/17741
-#EXTINF:-1 tvg-id="" tvg-name="PE | Espn 3 Peru" tvg-logo="http://tutv.online:2080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title=" **DEPORTES PERU**⚽ ",PE | Espn 3 Peru
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/17742
-#EXTINF:-1 tvg-id="" tvg-name="PE | Espn Peru" tvg-logo="http://tutv.online:2080/images/250124906e29f14ae64a4748f4ae406c.png" group-title=" **DEPORTES PERU**⚽ ",PE | Espn Peru
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/17740
-#EXTINF:-1 tvg-id="" tvg-name="PE | Fox Sports 2 Peru" tvg-logo="http://tutv.online:2080/images/1314d4c37fd8fe8a3b175d3f784949a5.png" group-title=" **DEPORTES PERU**⚽ ",PE | Fox Sports 2 Peru
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17745
-#EXTINF:-1 tvg-id="" tvg-name="PE | Fox Sports 3 Peru" tvg-logo="http://tutv.online:2080/images/e758968361c4eb53a63cd2630a04fbfd.png" group-title=" **DEPORTES PERU**⚽ ",PE | Fox Sports 3 Peru
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/17746
-#EXTINF:-1 tvg-id="" tvg-name="PE | Fox Sports Peru" tvg-logo="http://tutv.online:2080/images/0bc0dc56189bc06df245f2c7c6ffc601.png" group-title=" **DEPORTES PERU**⚽ ",PE | Fox Sports Peru
-http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/17744
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru" tvg-logo="http://tutv.online:2080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title=" **DEPORTES PERU**⚽ ",PE | Gol Peru
-http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/17747
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru HD" tvg-logo="http://tutv.online:2080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title=" **DEPORTES PERU**⚽ ",PE | Gol Peru HD
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/17748
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="http://tutv.online:2080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title=" **DEPORTES PERU**⚽ ",PE | Gol TV  Peru
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17749
-#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Deportes HD" tvg-logo="http://tutv.online:2080/images/178ef2f7470b66b624e2301e73822078.png" group-title=" **DEPORTES PERU**⚽ ",PE | Movistar Deportes HD
-http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/17753
-#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Plus" tvg-logo="http://tutv.online:2080/images/178ef2f7470b66b624e2301e73822078.png" group-title=" **DEPORTES PERU**⚽ ",PE | Movistar Plus
-http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17754
-
+#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="SERIE ANIME", HY | IPTVHUARMEY
+https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Eternals (2022)" tvg-logo="http://54.39.156.227:2080/images/6584c148e9f83503861bab39feafc2b2.jpg" group-title=" **ESTRENOS 2022**",Eternals (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/66739.mkv
+https://www1434.ff-03.com/token=EWIbETeMauneLbOygze43g/1658990647/181.66.0.0/191/5/e6/979662bde132a12dbfc768e5571a1e65-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="¡Canta! 2 (2022)" tvg-logo="http://54.39.156.227:2080/images/1e629dcb383b639af140feafa3577c24.jpg" group-title=" **ESTRENOS 2022**",¡Canta! 2 (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/64849.mkv
+https://www757.ff-02.com/token=EoRwgLL2quZzUF0dx8LmmA/1658990829/181.66.0.0/188/7/35/fa1e30cf6822cd9424ec3c4d454d7357-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022) SUB" tvg-logo="http://54.39.156.227:2080/images/3a1a3826e634a92ab8c78b61c0ac0f1f.jpg" group-title=" **ESTRENOS 2022**",Harry Potter, 20º Aniversario: Regreso a Hogwarts (2022) SUB
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/63686.mkv
+https://www2200.ff-05.com/token=ZSdVfoyMmGjKfxLTlvbssw/1658990906/181.66.0.0/190/3/0a/67d6d141198582b139b1ab061dcec0a3-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas: Más allá (2022)" tvg-logo="http://54.39.156.227:2080/images/9b451ba8504c4e93fcb145ce5dabe3e1.jpg" group-title=" **ESTRENOS 2022**",Cazafantasmas: Más allá (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/63862.mkv
+https://www582.ff-02.com/token=ey2KwEdYMKJic60ogcjMBA/1658990994/181.66.0.0/183/e/35/5d1c4793801829f9a2e588b6e3f1835e-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Naked Singularity (2021)" tvg-logo="http://54.39.156.227:2080/images/06e629a6ebad704ccb880219d10b756d.jpg" group-title=" **ESTRENOS 2022**",Naked Singularity (2021)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/64172.mkv
+https://www1508.ff-04.com/token=egf89xJQGHCUaP4vUeDuxw/1658991145/181.66.0.0/183/2/35/eb03d3899d58f545934a54e8b60d6352-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chief Daddy 2: Going for Broke (2022)" tvg-logo="http://54.39.156.227:2080/images/6b8c7c718bd16890627188f2bbce7460.jpg" group-title=" **ESTRENOS 2022**",Chief Daddy 2: Going for Broke (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/64252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quattro metà (2022)" tvg-logo="http://54.39.156.227:2080/images/caea2ab08259dc3c833a31fe676e231c.jpg" group-title=" **ESTRENOS 2022**",Quattro metà (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/64253.mkv
+https://www1365.ff-03.com/token=RR-yNPMOIk-NFxx0kVam9A/1658991193/181.66.0.0/189/b/df/010df49f793e4e7e95b38b679cc28dfb-720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder" tvg-logo="https://image.tmdb.org/t/p/w185/kf9Bib75eduxt0QiVJO4pawfd9p.jpg" group-title=" **ESTRENOS 2022**",Thor: Love and Thunder (2022)
+https://www1527.ff-04.com/token=eyXBi55plliTUuRTTIjR0Q/1658991311/181.66.0.0/202/0/a2/d6f00313299a920a299512866a8f1a20-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Spin (2021)" tvg-logo="http://54.39.156.227:2080/images/a4530875f6fe34bdc5ae390bccae5acc.jpg" group-title=" **ESTRENOS 2022**",Spin (2021)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/64254.mkv
+https://www823.ff-02.com/token=BWtJutsJX6-UzEnYpEeQhQ/1658991447/181.66.0.0/173/1/13/c32a1a3e49943e8483580f3c6de3f131-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El bar de las grandes esperanzas (2022)" tvg-logo="http://54.39.156.227:2080/images/7b36a362b716dbfb606eb31a9dbf6eee.jpg" group-title=" **ESTRENOS 2022**",El bar de las grandes esperanzas (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/65088.mkv
+https://www1766.ff-04.com/token=n6hQ4WGEAZjGgkBSMhek8w/1658991502/181.66.0.0/192/a/be/223f045a67e68e664b74f699dff9dbea-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cómo me enamoré de un gánster (2022)" tvg-logo="http://54.39.156.227:2080/images/82a1ac9315579a3205696bd9f382974d.jpg" group-title=" **ESTRENOS 2022**",Cómo me enamoré de un gánster (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/66813.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin pudor (2022)" tvg-logo="http://54.39.156.227:2080/images/99689e01f5de020745df4d02054ce544.jpg" group-title=" **ESTRENOS 2022**",Sin pudor (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/66895.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Copshop (2022)" tvg-logo="http://54.39.156.227:2080/images/bd57d69004df93cdea39ea675da94014.jpg" group-title=" **ESTRENOS 2022**",Copshop (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/66896.mkv
-#EXTINF:-1 tvg-id="" tvg-name="One Shot (2022)" tvg-logo="http://54.39.156.227:2080/images/a6719d327676d3fe7cecf7a5269ab133.jpg" group-title=" **ESTRENOS 2022**",One Shot (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/66897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Penyalin Cahaya (2022)" tvg-logo="http://54.39.156.227:2080/images/f2fe8da929016667ef58867f743f4537.jpg" group-title=" **ESTRENOS 2022**",Penyalin Cahaya (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/66898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ray Donovan: The Movie (2022)" tvg-logo="http://54.39.156.227:2080/images/86eb9ee7b2619cb6d0ae3f9742bf7248.jpg" group-title=" **ESTRENOS 2022**",Ray Donovan: The Movie (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/66921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La tragedia de Macbeth (2022)" tvg-logo="https://pics.filmaffinity.com/La_tragedia_de_Macbeth-644358466-large.jpg" group-title=" **ESTRENOS 2022**",La tragedia de Macbeth (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/66922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Castle in the Ground (2022)" tvg-logo="http://54.39.156.227:2080/images/0731ef2ea772ba73ae284a6ee1fe6889.jpg" group-title=" **ESTRENOS 2022**",Castle in the Ground (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/67731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Siege (2022)" tvg-logo="http://54.39.156.227:2080/images/b81f3429061ac28f5eda1f4ea3cb2bfe.jpg" group-title=" **ESTRENOS 2022**",American Siege (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/67732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atrapada en las profundidades (2022)" tvg-logo="http://54.39.156.227:2080/images/e2d41a0022df0fbf4a87e6602b23765c.jpg" group-title=" **ESTRENOS 2022**",Atrapada en las profundidades (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/67733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El violín de mi padre (2022)" tvg-logo="http://54.39.156.227:2080/images/510fdbb24fd8f738acc1367d5a5e53b9.jpg" group-title=" **ESTRENOS 2022**",El violín de mi padre (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/67734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Popular (2022)" tvg-logo="http://54.39.156.227:2080/images/4517e3614f5bfd392f503eb19cdc2e03.jpg" group-title=" **ESTRENOS 2022**",Popular (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/67736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Múnich en vísperas de una guerra (2022)" tvg-logo="http://54.39.156.227:2080/images/4cb58036d25b554fcabd0c4bf9b3619e.jpg" group-title=" **ESTRENOS 2022**",Múnich en vísperas de una guerra (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/67737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi Hijo (2022)" tvg-logo="http://54.39.156.227:2080/images/d46e1ae8515e3196de1d049556b471e3.jpg" group-title=" **ESTRENOS 2022**",Mi Hijo (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/67738.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Reunion (2022)" tvg-logo="http://54.39.156.227:2080/images/7fc2579693f6c3c966073d7be39b1a92.jpg" group-title=" **ESTRENOS 2022**",Reunion (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/67739.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shark Season (2022)" tvg-logo="http://54.39.156.227:2080/images/64a1c318c7a1700b9b73869f17dc5cca.jpg" group-title=" **ESTRENOS 2022**",Shark Season (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/67740.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siren (2022)" tvg-logo="http://54.39.156.227:2080/images/8e253bb698ba5a8c68d059b974b8817a.jpg" group-title=" **ESTRENOS 2022**",Siren (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/67741.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Verano del 85" tvg-logo="http://54.39.156.227:2080/images/86c22e087bb654685b1a48c0405560c7.jpg" group-title=" **ESTRENOS 2022**",Verano del 85
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/67742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La última gran estafa (2022)" tvg-logo="http://54.39.156.227:2080/images/f55510835404cbea1f771c351ed60991.jpg" group-title=" **ESTRENOS 2022**",La última gran estafa (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/67743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Electrical Life of Louis Wain (2022)" tvg-logo="http://54.39.156.227:2080/images/4c16c8eb9112c5613613a08aa66e9bd4.jpg" group-title=" **ESTRENOS 2022**",The Electrical Life of Louis Wain (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/67744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tratamiento real (2022)" tvg-logo="http://54.39.156.227:2080/images/a7762841e29c983f417f4da30a5637fe.jpg" group-title=" **ESTRENOS 2022**",Tratamiento real (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/67745.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cosmética del enemigo (2022)" tvg-logo="http://54.39.156.227:2080/images/442d4ee9c8b3b09dc4ccb2c7d141d068.jpg" group-title=" **ESTRENOS 2022**",Cosmética del enemigo (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/68009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Corre, Escóndete, Pelea! (2022)" tvg-logo="http://54.39.156.227:2080/images/e67cf269a91777f496e379568d956969.jpg" group-title=" **ESTRENOS 2022**",¡Corre, Escóndete, Pelea! (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/68010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La casa de las profundidades (2022)" tvg-logo="http://54.39.156.227:2080/images/1ebee8a02e88bdb75a73b79eeec162f8.jpg" group-title=" **ESTRENOS 2022**",La casa de las profundidades (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/68011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Eyes of Tammy Faye (2022)" tvg-logo="http://54.39.156.227:2080/images/b64243c959e429f79e7fb9aa41ff195c.jpg" group-title=" **ESTRENOS 2022**",The Eyes of Tammy Faye (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/68012.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Triumph (2022)" tvg-logo="http://54.39.156.227:2080/images/26365363f6b60be41158072ff914527c.jpg" group-title=" **ESTRENOS 2022**",Triumph (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/68013.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Queenpins (2022)" tvg-logo="http://54.39.156.227:2080/images/8b23de233e03c64c12943abdb36488b4.jpg" group-title=" **ESTRENOS 2022**",Queenpins (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/68014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Take Back (2022)" tvg-logo="http://54.39.156.227:2080/images/87b3642942059c17b3e2fe2cdf7d09b5.jpg" group-title=" **ESTRENOS 2022**",Take Back (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/68015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Fallout (2022)" tvg-logo="http://54.39.156.227:2080/images/2adfa0d5e5707b40ecf8433fcae95665.jpg" group-title=" **ESTRENOS 2022**",The Fallout (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/68016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tierras altas (2022)" tvg-logo="http://54.39.156.227:2080/images/e750bc3f2906d32be4583db4f798552a.jpg" group-title=" **ESTRENOS 2022**",Tierras altas (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/68017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jugar en casa (2022)" tvg-logo="http://54.39.156.227:2080/images/85b0dd11fb69b9ae68c691721c5b9964.jpg" group-title=" **ESTRENOS 2022**",Jugar en casa (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/68278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sharkwater (2022)" tvg-logo="http://54.39.156.227:2080/images/dc01e5b9ef3e9a23ecd3a09398b2d96b.jpg" group-title=" **ESTRENOS 2022**",Sharkwater (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/68279.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ice Age: Las aventuras de Buck (2022)" tvg-logo="http://54.39.156.227:2080/images/3981faa2fd198f602fd3098733d12689.jpg" group-title=" **ESTRENOS 2022**",Ice Age: Las aventuras de Buck (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/68280.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Agentes 355 (2022)" tvg-logo="http://54.39.156.227:2080/images/3ef41958fb27a53889ebdb5b92691913.jpg" group-title=" **ESTRENOS 2022**",Agentes 355 (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/68597.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A través de mi ventana (2022)" tvg-logo="http://54.39.156.227:2080/images/0684d9bd77be155d2452cff5dbc07745.jpg" group-title=" **ESTRENOS 2022**",A través de mi ventana (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/68926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un bucle sin fin (2022)" tvg-logo="http://54.39.156.227:2080/images/ebe6fe63ac21fea066f2400b880551aa.jpg" group-title=" **ESTRENOS 2022**",Un bucle sin fin (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/68927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sexo, pudor y lágrimas 2 (2022)" tvg-logo="http://54.39.156.227:2080/images/eecaf1fd94f9ea5501a15d1f485a62d3.jpg" group-title=" **ESTRENOS 2022**",Sexo, pudor y lágrimas 2 (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/68928.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Manual de la buena esposa (2022)" tvg-logo="http://54.39.156.227:2080/images/ce0ba2527b6f7c06a0e7658de49259ee.jpg" group-title=" **ESTRENOS 2022**",Manual de la buena esposa (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/68932.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi gran amiga Ana Frank (2022)" tvg-logo="http://54.39.156.227:2080/images/a2628a52c69c03933fe093407703d790.jpg" group-title=" **ESTRENOS 2022**",Mi gran amiga Ana Frank (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/68933.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Agente Z - Misterio En El Zoo (2022)" tvg-logo="http://54.39.156.227:2080/images/d6d98dfbdead220350ca7c75ec83f661.jpg" group-title=" **ESTRENOS 2022**",Agente Z - Misterio En El Zoo (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/68934.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Reina de picas (2022)" tvg-logo="http://54.39.156.227:2080/images/8c78d6eb4768456a3b8cc7f5066c7701.jpg" group-title=" **ESTRENOS 2022**",La Reina de picas (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/68935.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Winter Lake (2022)" tvg-logo="http://54.39.156.227:2080/images/3096c9d4bdfbd2d6c602da77b4b5761c.jpg" group-title=" **ESTRENOS 2022**",The Winter Lake (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/68936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El estafador de Tinder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg" group-title=" **ESTRENOS 2022**",El estafador de Tinder (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/68937.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El callejón de las almas perdidas (2022)" tvg-logo="http://54.39.156.227:2080/images/04feed107c48e91d3982a6749a04b935.jpg" group-title=" **ESTRENOS 2022**",El callejón de las almas perdidas (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/69349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kimi (2022)" tvg-logo="http://54.39.156.227:2080/images/46a3ea5cee3e6fcb4c98d156f96b26f0.jpg" group-title=" **ESTRENOS 2022**",Kimi (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/69644.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El privilegio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AMLEymHvOgYJYBhKufvfsyPrwU.jpg" group-title=" **ESTRENOS 2022**",El privilegio (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/69783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al viento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snc089VFfKJToYfTjxlvAuLcT4S.jpg" group-title=" **ESTRENOS 2022**",Al viento (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/69784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cásate conmigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WdURWXQCsVpwy4OfA2uxk4Jkci.jpg" group-title=" **ESTRENOS 2022**",Cásate conmigo (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/69785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El cielo está en cualquier lugar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7gkTKPJ5lssacKTrhA3gOU1n0s.jpg" group-title=" **ESTRENOS 2022**",El cielo está en cualquier lugar (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/69820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A mi altura 2 (Tall Girl 2) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taszGO33Dka43RxvG1BB9gEAFt0.jpg" group-title=" **ESTRENOS 2022**",A mi altura 2 (Tall Girl 2) (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/69822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amarrados al amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oD1D1jTeZq5bCp22Me3GMndEjvi.jpg" group-title=" **ESTRENOS 2022**",Amarrados al amor (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/69823.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Quiero que vuelvas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIVYu8GlxughoV9PBWjxf1MVSrH.jpg" group-title=" **ESTRENOS 2022**",Quiero que vuelvas (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/69824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Happily (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNa1S8TQrloNM7IUNatP8O3DaL8.jpg" group-title=" **ESTRENOS 2022**",Happily (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/69825.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigbug (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eh6OYVImLCHKMjtBQZRH4hauaND.jpg" group-title=" **ESTRENOS 2022**",Bigbug (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/69826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anne+: La película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch6G66SUe80YWEvTFe6mAKAwmdt.jpg" group-title=" **ESTRENOS 2022**",Anne+: La película (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/69827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hide and Seek (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4osu6px7spCjIP8ZkS4IJ8K0ZyW.jpg" group-title=" **ESTRENOS 2022**",Hide and Seek (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/69828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Hija del Rey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgTW8fnDEVppYjv6Xxa7P0Uo23G.jpg" group-title=" **ESTRENOS 2022**",La Hija del Rey (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/69829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tácticas en el amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKlw8J7qJxOFyQYkLIPCAb1iYUp.jpg" group-title=" **ESTRENOS 2022**",Tácticas en el amor (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/69830.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Belfast (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eUyUe3yLWsvx9yYfqwg4wQXeng.jpg" group-title=" **ESTRENOS 2022**",Belfast (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/69831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dating & New York (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title=" **ESTRENOS 2022**",Dating & New York (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/69832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eiffel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg" group-title=" **ESTRENOS 2022**",Eiffel (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/69833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La panelista: el circo de la realidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOg2VBXG9cBDyarB6nECr8s7Fk.jpg" group-title=" **ESTRENOS 2022**",La panelista: el circo de la realidad (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/69834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Hating Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLZhgPtOLHr2dmr2mHS0DbHYvv2.jpg" group-title=" **ESTRENOS 2022**",The Hating Game (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/69835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="TQM (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LYFm81KacJv8CN1p8MC6ZZclgD.jpg" group-title=" **ESTRENOS 2022**",TQM (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/69836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream (2022) Audio LINE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg" group-title=" **ESTRENOS 2022**",Scream (2022) Audio LINE
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Matanza de Texas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg" group-title=" **ESTRENOS 2022**",La Matanza de Texas (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor Artificial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIJzuZpCzsCTcHISMWbAwDt2LGc.jpg" group-title=" **ESTRENOS 2022**",Amor Artificial (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70569.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Underdog (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg" group-title=" **ESTRENOS 2022**",American Underdog (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadlock (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiSoCt2DxNQmzrLtgV54DfYOkyH.jpg" group-title=" **ESTRENOS 2022**",Deadlock (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/70571.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Erax (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMp04rYhy4yfOfjZq5F9R3wkeqo.jpg" group-title=" **ESTRENOS 2022**",Erax (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/70572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Venganza a golpes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg" group-title=" **ESTRENOS 2022**",Venganza a golpes (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/70573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Perdona nuestras ofensas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEhppGwHUk2LUBup1X8W2AW5UeZ.jpg" group-title=" **ESTRENOS 2022**",Perdona nuestras ofensas (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Joe Bell (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyU2NBaiUAvPD0QOz7Any3GsXfA.jpg" group-title=" **ESTRENOS 2022**",Joe Bell (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Heart Shot (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg" group-title=" **ESTRENOS 2022**",Heart Shot (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/70576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Madres paralelas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxp4W9QtHOOdi2VfgUmB9AtljvA.jpg" group-title=" **ESTRENOS 2022**",Madres paralelas (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/70577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ride the Eagle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLQk1rKQ6dZOle3ElEFIIche6O4.jpg" group-title=" **ESTRENOS 2022**",Ride the Eagle (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/70578.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Años de sequía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqiU8KRXam19VQ6hMI1rgV4gK1O.jpg" group-title=" **ESTRENOS 2022**",Años de sequía (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cruzando la Línea (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znyk4uvq9eduQCVMOSDJwJBMRdF.jpg" group-title=" **ESTRENOS 2022**",Cruzando la Línea (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No me mates (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V65tNvVB5pcABiYohOEKy5ghvU.jpg" group-title=" **ESTRENOS 2022**",No me mates (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/70654.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El buen patrón (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfUBHRYmbzkIw7lQZ3ZcptbW3VI.jpg" group-title=" **ESTRENOS 2022**",El buen patrón (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/70655.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El gran salto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ml5AasbMtb0lEPhH1zUBPyGhTQC.jpg" group-title=" **ESTRENOS 2022**",El gran salto (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/70656.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de oro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnbU0AmWnKQhsQFzBa8eMYfjT4X.jpg" group-title=" **ESTRENOS 2022**",Hombres de oro (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70657.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La sombra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRln20Ry2dRJgBTGgpZg0yzccCU.jpg" group-title=" **ESTRENOS 2022**",La sombra (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70658.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La intervención (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyhigFBUp0uqPztHwIB4IolQjA5.jpg" group-title=" **ESTRENOS 2022**",La intervención (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/70842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A House on the Bayou (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qCUy997QKgZDieby5sF6mMHAsB.jpg" group-title=" **ESTRENOS 2022**",A House on the Bayou (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/70843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cam Girls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BolmRFhKYRc6f5gPfegjZ8U0V1.jpg" group-title=" **ESTRENOS 2022**",Cam Girls (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Later Days (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHonJ5xeVVAW6oJ0mjLoorTuRoj.jpg" group-title=" **ESTRENOS 2022**",Later Days (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4Gc5quiCBtiW6mgkPvDWKAiFVs.jpg" group-title=" **ESTRENOS 2022**",Monday (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/70846.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En la tormenta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg" group-title=" **ESTRENOS 2022**",En la tormenta (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/70847.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pursuit (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SerAlGoQl1hNSyDumBMCqZ6Zd9.jpg" group-title=" **ESTRENOS 2022**",Pursuit (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/70848.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin respiro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RbvTtVXwmjJqB9cZXBtM5uz5ou.jpg" group-title=" **ESTRENOS 2022**",Sin respiro (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/70849.mkv
-#EXTINF:-1 tvg-id="" tvg-name="OVNI (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMtKov3q8stWGcy7UFuRzpMliUy.jpg" group-title=" **ESTRENOS 2022**",OVNI (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/70850.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Perdidos en el Ártico (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDJ1n9SvGaIk75Hwz4LRJgyNO3t.jpg" group-title=" **ESTRENOS 2022**",Perdidos en el Ártico (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/71671.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Refugiado americano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isAGLrCGprcmYrpFLX0Amr4g6AS.jpg" group-title=" **ESTRENOS 2022**",Refugiado americano (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/71672.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Allí me encontrarás (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDMT90p0KaqMqIPCqPi8u631RqS.jpg" group-title=" **ESTRENOS 2022**",Allí me encontrarás (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/71673.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ida Red: el precio de la libertad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsahbEsbg9roi4sfwZb5pNXZu42.jpg" group-title=" **ESTRENOS 2022**",Ida Red: el precio de la libertad (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/71674.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Todo sobre sexo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Obc1M2dHlVbsL13cd9aB4OzdPQ.jpg" group-title=" **ESTRENOS 2022**",Todo sobre sexo (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/71675.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin escapatoria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/of2o1X7fgxWpux2fVjk4iqsqTvh.jpg" group-title=" **ESTRENOS 2022**",Sin escapatoria (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/71676.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Overrun (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MvkScPKwLBhTLj6RRIyIlDE4cM.jpg" group-title=" **ESTRENOS 2022**",Overrun (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/72116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Desperate Riders (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg" group-title=" **ESTRENOS 2022**",Desperate Riders (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/72117.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Piratas: El último tesoro de la corona (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdZV5CBBoJujueY7caMuCSuFdO1.jpg" group-title=" **ESTRENOS 2022**",Piratas: El último tesoro de la corona (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/72118.mkv
-#EXTINF:-1 tvg-id="" tvg-name="West Side Story (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzF4FS20N7UZUMHw7dsfPk8dS8Q.jpg" group-title=" **ESTRENOS 2022**",West Side Story (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/72119.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luz negra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" group-title=" **ESTRENOS 2022**",Luz negra (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/72120.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fin de semana en Croacia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsWeY3S6EFqAkhZ08CWbSFKF6Hs.jpg" group-title=" **ESTRENOS 2022**",Fin de semana en Croacia (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/72237.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Turning Red (2022)" tvg-logo="http://castlempire.site:8080/images/7e38f9773a024b8cc3e53a0a7e6f61c3.jpg" group-title=" **ESTRENOS 2022**",Turning Red (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/72278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5waciRFMN5bwudDrgFLffoAorm.jpg" group-title=" **ESTRENOS 2022**",El Proyecto Adam (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/72293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Journal for Jordan (2022)" tvg-logo="http://tutv.online:2080/images/80066c99ca9460c686cac5ccdafce0cb.jpg" group-title=" **ESTRENOS 2022**",A Journal for Jordan (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al 3er día (2022)" tvg-logo="http://tutv.online:2080/images/3304c7f126332637ef207a6936d4fc96.jpg" group-title=" **ESTRENOS 2022**",Al 3er día (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Deseo En Mí (2022)" tvg-logo="http://tutv.online:2080/images/21edd70c6f618f4fe9adefb7eeb24b3a.jpg" group-title=" **ESTRENOS 2022**",El Deseo En Mí (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/73485.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doce en casa (2022)" tvg-logo="http://tutv.online:2080/images/ba00a12393b42e1089ccc8ebf263b497.jpg" group-title=" **ESTRENOS 2022**",Doce en casa (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73486.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La hija del lobo (2022)" tvg-logo="http://tutv.online:2080/images/6bda116e4b345fe7846ec1164f75eaac.jpg" group-title=" **ESTRENOS 2022**",La hija del lobo (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hoy se arregla el mundo (2022)" tvg-logo="http://tutv.online:2080/images/e2df715e80689538f1d78fbdb55c7c12.jpg" group-title=" **ESTRENOS 2022**",Hoy se arregla el mundo (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Belleville (2022)" tvg-logo="http://tutv.online:2080/images/ea61600833018432805c949281884c5d.jpg" group-title=" **ESTRENOS 2022**",La Casa de Belleville (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73489.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La infeliz (2022)" tvg-logo="http://tutv.online:2080/images/b2158c53ca14e809cc28423a1843bbf0.jpg" group-title=" **ESTRENOS 2022**",La infeliz (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/73490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rescate de Ruby (2022)" tvg-logo="http://tutv.online:2080/images/6e950ef1a7e12f7990468e3bdb871c20.jpg" group-title=" **ESTRENOS 2022**",El rescate de Ruby (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="http://tutv.online:2080/images/d771c49a51425801977c9e7859e2ff23.jpg" group-title=" **ESTRENOS 2022**",Scream (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73492.mkv
-#EXTINF:-1 tvg-id="" tvg-name="反击 (2022)" tvg-logo="http://tutv.online:2080/images/f1361cc021dec7874ac0e8b1168e0cb1.jpg" group-title=" **ESTRENOS 2022**",反击 (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73493.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La aldea de los suicidios (2022)" tvg-logo="http://tutv.online:2080/images/633463415d06385c9a47592538d5b771.jpg" group-title=" **ESTRENOS 2022**",La aldea de los suicidios (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73494.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Bunker Game (2022)" tvg-logo="http://tutv.online:2080/images/05caa00236d86b023e438b3c31670138.jpg" group-title=" **ESTRENOS 2022**",The Bunker Game (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/73495.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Por la liberta (2022)" tvg-logo="http://tutv.online:2080/images/6715d9b6560a735533a4329c4440a545.jpg" group-title=" **ESTRENOS 2022**",Por la liberta (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73496.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hilo imperceptible (2022)" tvg-logo="http://tutv.online:2080/images/7048cc4bf3152ff7eb291fd628b88928.jpg" group-title=" **ESTRENOS 2022**",El hilo imperceptible (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73497.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bang! Bang! (2022)" tvg-logo="http://tutv.online:2080/images/f67e727fe5caa2edc3541b20d99ff79d.jpg" group-title=" **ESTRENOS 2022**",Bang! Bang! (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73547.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cangrejo Negro (2022)" tvg-logo="http://tutv.online:2080/images/39a030f6d1738405a7b001d67cbc3f07.jpg" group-title=" **ESTRENOS 2022**",Cangrejo Negro (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/73548.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aguas Profundas (2022)" tvg-logo="http://tutv.online:2080/images/4a2b221d5edd4cc4ada399bce38d2a93.jpg" group-title=" **ESTRENOS 2022**",Aguas Profundas (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73549.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dolphin Kick (2022)" tvg-logo="http://tutv.online:2080/images/4bcb2856718ec774350adc270f774de1.jpg" group-title=" **ESTRENOS 2022**",Dolphin Kick (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73550.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ecos de un crimen (2022)" tvg-logo="http://tutv.online:2080/images/63235e9ca8f096bd1b5bbaeb931022d7.jpg" group-title=" **ESTRENOS 2022**",Ecos de un crimen (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73551.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hasta que nos volvamos a encontrar (2022)" tvg-logo="http://tutv.online:2080/images/d784efb9a0d1857f75e78c092a263db4.jpg" group-title=" **ESTRENOS 2022**",Hasta que nos volvamos a encontrar (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73552.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La abuela (2022)" tvg-logo="http://tutv.online:2080/images/abe20dd7abeb10978305a87667020ad6.jpg" group-title=" **ESTRENOS 2022**",La abuela (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/73553.mkv
-#EXTINF:-1 tvg-id="" tvg-name="S.O.S. Mamis: La película (2022)" tvg-logo="http://tutv.online:2080/images/cd09de9d26cf729337b5adfe7aec0f99.jpg" group-title=" **ESTRENOS 2022**",S.O.S. Mamis: La película (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73554.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sex Appeal (2022)" tvg-logo="http://tutv.online:2080/images/85293fcdafcf4cf62fd4f7d3c10a6602.jpg" group-title=" **ESTRENOS 2022**",Sex Appeal (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73555.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dios mío ¡los niños han vuelto! (2022)" tvg-logo="http://tutv.online:2080/images/2e0b6e380e7f3e270c2aa6e21788145e.jpg" group-title=" **ESTRENOS 2022**",Dios mío ¡los niños han vuelto! (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73556.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Frutos del viento (2022)" tvg-logo="http://tutv.online:2080/images/25c5a44992e986cde5d32cb7a7b32309.jpg" group-title=" **ESTRENOS 2022**",Frutos del viento (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73557.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un lugar seguro (2022)" tvg-logo="http://tutv.online:2080/images/3e42c0b9e39d576c1d6a2a6a061110ca.jpg" group-title=" **ESTRENOS 2022**",Un lugar seguro (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73560.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022) SUB" tvg-logo="http://tutv.online:2080/images/01eff00fbfd25481e55e248860cb9dd1.jpg" group-title=" **ESTRENOS 2022**",Jackass Forever (2022) SUB
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pasajero 666 (2022)" tvg-logo="http://tutv.online:2080/images/2823cb84403c7a77141932ef354b5be3.jpg" group-title=" **ESTRENOS 2022**",Pasajero 666 (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Efímera como la flor del cerezo (2022)" tvg-logo="http://tutv.online:2080/images/19373528779a0b9d71d49dc27650a5d6.jpg" group-title=" **ESTRENOS 2022**",Efímera como la flor del cerezo (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73840.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="http://tutv.online:2080/images/01b8fcf955e2e2589f57fa72bda6e1fe.jpg" group-title=" **ESTRENOS 2022**",Jackass Forever (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73841.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WWE Royal Rumble 2022 (2022)" tvg-logo="http://tutv.online:2080/images/5ae2b0f21220d197ff9eec9a8e534253.jpg" group-title=" **ESTRENOS 2022**",WWE Royal Rumble 2022 (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/73842.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Monica and Friends: Lessons (2022)" tvg-logo="http://tutv.online:2080/images/c324e86405f6cc76154a717ea0330c60.jpg" group-title=" **ESTRENOS 2022**",Monica and Friends: Lessons (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/73843.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Rabón Con Corazón (2022)" tvg-logo="http://tutv.online:2080/images/1898f4e025c13aef765027800df14ce2.jpg" group-title=" **ESTRENOS 2022**",Un Rabón Con Corazón (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73844.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luz Negra OPC2 (2022)" tvg-logo="http://tutv.online:2080/images/c85790a6be5a6d681b9d0671f36b52fb.jpg" group-title=" **ESTRENOS 2022**",Luz Negra OPC2 (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/73896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="War of the Worlds: Annihilation (2022)" tvg-logo="http://tutv.online:2080/images/d80245036e726c659d3c086d0885ee88.jpg" group-title=" **ESTRENOS 2022**",War of the Worlds: Annihilation (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/73900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Nilo (2022)" tvg-logo="http://tutv.online:2080/images/d461ad15f4d745ca9cd36c2503fe445d.jpg" group-title=" **ESTRENOS 2022**",Muerte en el Nilo (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/73901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="94.ª edición de los Premios Óscar" tvg-logo="http://tutv.online:2080/images/b26abe799867820e302a4d6113ec2f48.jpg" group-title=" **ESTRENOS 2022**",94.ª edición de los Premios Óscar
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/74483.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moonfall (2022)" tvg-logo="http://tutv.online:2080/images/5721299da112d3e9c9001c12c468e296.jpg" group-title=" **ESTRENOS 2022**",Moonfall (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/74484.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batalla: Freestyle (2022)" tvg-logo="http://tutv.online:2080/images/96d8c74da1bc6458f61d46228aba6efb.jpg" group-title=" **ESTRENOS 2022**",Batalla: Freestyle (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/74487.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El sueño de Nate (2022)" tvg-logo="http://tutv.online:2080/images/9bb692e767f3f53d173714c8af9ea668.jpg" group-title=" **ESTRENOS 2022**",El sueño de Nate (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/74488.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Captain Nova (2022)" tvg-logo="http://tutv.online:2080/images/9f457b97b4dd2f2c57cf7f65618f57c3.jpg" group-title=" **ESTRENOS 2022**",Captain Nova (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/74489.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Competencia Oficial (2022)" tvg-logo="http://tutv.online:2080/images/f98b3ebfc861b4f3020bd28337b67335.jpg" group-title=" **ESTRENOS 2022**",Competencia Oficial (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/74490.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Every Last One of Them (2022)" tvg-logo="http://tutv.online:2080/images/766d1844540f7a4eeb23ccbe209a7250.jpg" group-title=" **ESTRENOS 2022**",Every Last One of Them (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/74491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siempre en el mejor momento (2022)" tvg-logo="http://tutv.online:2080/images/a4af84df658246af294ebfd6d8cd594d.jpg" group-title=" **ESTRENOS 2022**",Siempre en el mejor momento (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/74508.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Granizo (2022)" tvg-logo="http://tutv.online:2080/images/69f61d525f830cbfc0ddd0da37e53b2f.jpg" group-title=" **ESTRENOS 2022**",Granizo (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/74509.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Moonshot (2022)" tvg-logo="http://tutv.online:2080/images/41dc0db3ffe341941ec9623b1335b9db.jpg" group-title=" **ESTRENOS 2022**",Moonshot (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/74510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Operation Overlord (2022)" tvg-logo="http://tutv.online:2080/images/87a8b70013ab51acc60e881d5f4b850b.jpg" group-title=" **ESTRENOS 2022**",Operation Overlord (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/74511.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Burbuja (2022)" tvg-logo="http://tutv.online:2080/images/cada9d333a94906dc15eadf29a5e8df9.jpg" group-title=" **ESTRENOS 2022**",La Burbuja (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/74512.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WWE WrestleMania 38 - Saturday (2022)" tvg-logo="http://tutv.online:2080/images/84c19793f1227be9bfcfe575b92d8037.jpg" group-title=" **ESTRENOS 2022**",WWE WrestleMania 38 - Saturday (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/75156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="WWE WrestleMania 38 - Sunday (2022)" tvg-logo="http://tutv.online:2080/images/c0e0fc73da54fb0de30850caf1afe523.jpg" group-title=" **ESTRENOS 2022**",WWE WrestleMania 38 - Sunday (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/75157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Diomedes: el ídolo, el misterio y la tragedia (2022)" tvg-logo="http://tutv.online:2080/images/68230860bf014b575b49a6ee5a2e0de9.jpg" group-title=" **ESTRENOS 2022**",Diomedes: el ídolo, el misterio y la tragedia (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/75158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)" tvg-logo="http://tutv.online:2080/images/146557699b03342cd74be9f5115bad1d.jpg" group-title=" **ESTRENOS 2022**",No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/75159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alice (2022) SUB" tvg-logo="http://tutv.online:2080/images/0d15ebca66ee23295c1d5c0ff84e8fa5.jpg" group-title=" **ESTRENOS 2022**",Alice (2022) SUB
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/79573.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una cita con el pasado (2022)" tvg-logo="http://tutv.online:2080/images/915fd05a4907be2392e2acd2353c4627.jpg" group-title=" **ESTRENOS 2022**",Una cita con el pasado (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/79574.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bull Shark (2022)" tvg-logo="http://tutv.online:2080/images/edecfb57e4527e837acce65b68e252e8.jpg" group-title=" **ESTRENOS 2022**",Bull Shark (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/79575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Corre y dispara (2022)" tvg-logo="http://tutv.online:2080/images/839485f46bde51ae3eefc31beb82f22e.jpg" group-title=" **ESTRENOS 2022**",Corre y dispara (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/79576.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Morir en un tiroteo (2022)" tvg-logo="http://tutv.online:2080/images/92c99a897d83de8d36639fbf7822b413.jpg" group-title=" **ESTRENOS 2022**",Morir en un tiroteo (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/79577.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Caballo soñador (2022)" tvg-logo="http://tutv.online:2080/images/e69ca9754d297779080951399edb6b38.jpg" group-title=" **ESTRENOS 2022**",Caballo soñador (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/79578.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Rezador (2022)" tvg-logo="http://tutv.online:2080/images/ef2516fa5ef883c2d291e5eea4b8fd51.jpg" group-title=" **ESTRENOS 2022**",El Rezador (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/79579.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Shorta. El peso de la ley (2022)" tvg-logo="http://tutv.online:2080/images/5f43f403d6310c187e400659821f84c8.jpg" group-title=" **ESTRENOS 2022**",Shorta. El peso de la ley (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/79580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un romance con Fígaro (2022)" tvg-logo="http://tutv.online:2080/images/7524e99ca0532867d6e512d8662537bc.jpg" group-title=" **ESTRENOS 2022**",Un romance con Fígaro (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/79581.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Karem, La Posesion (2022)" tvg-logo="http://tutv.online:2080/images/0409d0d20ba7aa64260219e47073bfe9.jpg" group-title=" **ESTRENOS 2022**",Karem, La Posesion (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/79582.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Petite maman (2022)" tvg-logo="http://tutv.online:2080/images/4ec3a8ad3b6f20e894a468087b3f9eea.jpg" group-title=" **ESTRENOS 2022**",Petite maman (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/79583.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El sastre de la mafia (2022)" tvg-logo="http://tutv.online:2080/images/7064a7830ec5abc034480048dd02c315.jpg" group-title=" **ESTRENOS 2022**",El sastre de la mafia (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/79584.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dog. Un viaje salvaje (2022) SUB" tvg-logo="http://tutv.online:2080/images/745763d143cce1f74c8bffd5eb0de8b1.jpg" group-title=" **ESTRENOS 2022**",Dog. Un viaje salvaje (2022) SUB
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/79585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Entre dos mundos (2022)" tvg-logo="http://tutv.online:2080/images/204c209567b1cb083b6d8e931ad56429.jpg" group-title=" **ESTRENOS 2022**",Entre dos mundos (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/79701.mkv
-#EXTINF:-1 tvg-id="" tvg-name="야차 (2022)" tvg-logo="http://tutv.online:2080/images/7130d590af8d32ce49f70ea563556389.jpg" group-title=" **ESTRENOS 2022**",야차 (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/79702.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Metal Lords (2022)" tvg-logo="http://tutv.online:2080/images/ef182bf4c93d1079032845e82927128f.jpg" group-title=" **ESTRENOS 2022**",Metal Lords (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/79703.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las niñas de cristal (2022)" tvg-logo="http://tutv.online:2080/images/c77e06f3cd1c557d5b13772c6a64ee5e.jpg" group-title=" **ESTRENOS 2022**",Las niñas de cristal (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/79704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amalgama (2022)" tvg-logo="http://tutv.online:2080/images/df6b497e7475827a940b644134c62bc7.jpg" group-title=" **ESTRENOS 2022**",Amalgama (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/80527.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CATO (2022)" tvg-logo="http://tutv.online:2080/images/566df71236370ba60360f796995eb011.jpg" group-title=" **ESTRENOS 2022**",CATO (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/80528.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El rey de la fiesta (2022)" tvg-logo="http://tutv.online:2080/images/cec6dad2f19699e2fbf0731238296695.jpg" group-title=" **ESTRENOS 2022**",El rey de la fiesta (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/80529.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gold (2022)" tvg-logo="http://tutv.online:2080/images/3501ae09d4719db1278b25c3bc96ee65.jpg" group-title=" **ESTRENOS 2022**",Gold (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/80530.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Three Months (2022)" tvg-logo="http://tutv.online:2080/images/5707d83e9d239256010933e740fa0f3d.jpg" group-title=" **ESTRENOS 2022**",Three Months (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/80531.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La fierecilla indomable (2022)" tvg-logo="http://tutv.online:2080/images/9173b5f3c471eb1ee522b0aeda98821a.jpg" group-title=" **ESTRENOS 2022**",La fierecilla indomable (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/80532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Umma (2022)" tvg-logo="http://tutv.online:2080/images/fa88a3c88e40eb5e24635f98d0b608df.jpg" group-title=" **ESTRENOS 2022**",Umma (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/80533.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Elige o muere (2022)" tvg-logo="http://tutv.online:2080/images/ca2b84a34127531ac4e821a53aae3c92.jpg" group-title=" **ESTRENOS 2022**",Elige o muere (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/80534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Descarrilados (2022)" tvg-logo="http://tutv.online:2080/images/a1b54d15d808a5eb7d34925212810a92.jpg" group-title=" **ESTRENOS 2022**",Descarrilados (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/80562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tutti per Uma (2022)" tvg-logo="http://tutv.online:2080/images/2aa94cd1ef5e645b347b3c419b6b7313.jpg" group-title=" **ESTRENOS 2022**",Tutti per Uma (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/80563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="X (2022) SUB" tvg-logo="http://tutv.online:2080/images/dcabd983360982c8c769cda6a1010077.jpg" group-title=" **ESTRENOS 2022**",X (2022) SUB
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/80564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infinite Storm (2022) SUB" tvg-logo="http://tutv.online:2080/images/0b809baa2f13d426f416c3065db207f5.jpg" group-title=" **ESTRENOS 2022**",Infinite Storm (2022) SUB
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/80565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" tvg-logo="http://tutv.online:2080/images/0fb03847a6999a00a34974812c1e39fb.jpg" group-title=" **ESTRENOS 2022**",The Batman (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/80567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" tvg-logo="http://tutv.online:2080/images/1ec1b7eea1cfd183f140d0366197dd83.jpg" group-title=" **ESTRENOS 2022**",Uncharted (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/80839.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Electric Jesus (2022)" tvg-logo="http://tutv.online:2080/images/a9f5dc9792806546fdbbdb0c50e242ec.jpg" group-title=" **ESTRENOS 2022**",Electric Jesus (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/81005.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jaque al asesino (2022)" tvg-logo="http://tutv.online:2080/images/4b34b937df9eb4a188849f303b16acd0.jpg" group-title=" **ESTRENOS 2022**",Jaque al asesino (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/81006.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en Euskadi (2022)" tvg-logo="http://tutv.online:2080/images/3855af4448819e37d144bc897e293eb0.jpg" group-title=" **ESTRENOS 2022**",Érase una vez en Euskadi (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/81007.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gundala (2022)" tvg-logo="http://tutv.online:2080/images/12f1a3b7b57b05a4cf504154a22006ff.jpg" group-title=" **ESTRENOS 2022**",Gundala (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/81008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El destierro (2022)" tvg-logo="http://tutv.online:2080/images/746c20c820f25b3d0daac1f420bfcad9.jpg" group-title=" **ESTRENOS 2022**",El destierro (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/81009.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Man of God (2022)" tvg-logo="http://tutv.online:2080/images/29fa4876efb9d6220b53ba3d3296428a.jpg" group-title=" **ESTRENOS 2022**",The Man of God (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/81010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Punto de inflexión (2022)" tvg-logo="http://tutv.online:2080/images/223d514049139ad5f28d77ee8e9604f2.jpg" group-title=" **ESTRENOS 2022**",Punto de inflexión (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/81011.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fourth Grade (2022)" tvg-logo="http://tutv.online:2080/images/d442a26efc95a2f7374f41d7c2a7d287.jpg" group-title=" **ESTRENOS 2022**",Fourth Grade (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/81016.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Furie (2022)" tvg-logo="http://tutv.online:2080/images/0f04c9097f1c1d29d4fd6da2a8ef44da.jpg" group-title=" **ESTRENOS 2022**",Furie (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/81017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Swan Song (2022)" tvg-logo="http://tutv.online:2080/images/9dee6c5bfa8d38e6d7048955ee205fe3.jpg" group-title=" **ESTRENOS 2022**",Swan Song (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/81018.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El diablo que conoces (2022)" tvg-logo="http://tutv.online:2080/images/2027d2488620b47b4ad0033becd8f27a.jpg" group-title=" **ESTRENOS 2022**",El diablo que conoces (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/81019.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Legend of Jack and Jill (2022)" tvg-logo="http://tutv.online:2080/images/897e6faf387f85142ba536419df52a72.jpg" group-title=" **ESTRENOS 2022**",The Legend of Jack and Jill (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/81020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Mystery of Her (2022)" tvg-logo="http://tutv.online:2080/images/01cd338122d2df7a2fc704e355bf7bc2.jpg" group-title=" **ESTRENOS 2022**",The Mystery of Her (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/81021.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Virus-32 (2022)" tvg-logo="http://tutv.online:2080/images/d5b5005c9402f6ab5d3714edd26627cd.jpg" group-title=" **ESTRENOS 2022**",Virus-32 (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/81022.mkv
-#EXTINF:-1 tvg-id="" tvg-name="365 días: Aquel día (2022)" tvg-logo="http://tutv.online:2080/images/f4529d01997328e1a825d54d413f58e5.jpg" group-title=" **ESTRENOS 2022**",365 días: Aquel día (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/81561.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ambulance: Plan de Huida (2022)" tvg-logo="http://tutv.online:2080/images/57937ee4af01efbf07a8ee6545fb2f5b.jpg" group-title=" **ESTRENOS 2022**",Ambulance: Plan de Huida (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/81563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Sobreviviente (2022)" tvg-logo="http://tutv.online:2080/images/d3a2cf74e8d0ea8c0901f11babec3767.jpg" group-title=" **ESTRENOS 2022**",El Sobreviviente (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/81791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor de madre (2022)" tvg-logo="http://tutv.online:2080/images/bb78eab37d478ceb1329b01c04100e81.jpg" group-title=" **ESTRENOS 2022**",Amor de madre (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/81882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Octava Cláusula (2022)" tvg-logo="http://tutv.online:2080/images/3ef04d72ef7e0ae26f8f338719ab3649.jpg" group-title=" **ESTRENOS 2022**",La Octava Cláusula (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/81883.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fortress: Sniper's Eye (2022)" tvg-logo="http://tutv.online:2080/images/956bb64d0046c68b7eab213d4a5c2dc4.jpg" group-title=" **ESTRENOS 2022**",Fortress: Sniper's Eye (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/81925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La isla de las mentiras (2022)" tvg-logo="http://tutv.online:2080/images/48821971174b1cf16fb9fd0d018743de.jpg" group-title=" **ESTRENOS 2022**",La isla de las mentiras (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/81926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El asedio de Silverton (2022)" tvg-logo="http://tutv.online:2080/images/153be1f50b810b06ac62232b92e24a33.jpg" group-title=" **ESTRENOS 2022**",El asedio de Silverton (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/81927.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Medium Tai (2022)" tvg-logo="http://tutv.online:2080/images/60b0ddb90ace436b53a3f181c5073f83.jpg" group-title=" **ESTRENOS 2022**",The Medium Tai (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/81998.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Tipos Malos (2022)" tvg-logo="http://tutv.online:2080/images/9233e9a869320187c66ac7b2f218dfa0.jpg" group-title=" **ESTRENOS 2022**",Los Tipos Malos (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/82014.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuarentones (2022)" tvg-logo="http://tutv.online:2080/images/a968da3e5a8d9db07cf15cd439b92129.jpg" group-title=" **ESTRENOS 2022**",Cuarentones (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82015.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sonic 2: La Película (2022)" tvg-logo="http://tutv.online:2080/images/d52225eee816e805e30100430a299cff.jpg" group-title=" **ESTRENOS 2022**",Sonic 2: La Película (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/82020.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baby Money (2022)" tvg-logo="http://tutv.online:2080/images/c279facdcbd452f7a6e1117c28f295ec.jpg" group-title=" **ESTRENOS 2022**",Baby Money (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/82049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Déjate llevar (2022)" tvg-logo="http://tutv.online:2080/images/08dee1c4eea2987049ee2f24ff5653d4.jpg" group-title=" **ESTRENOS 2022**",Déjate llevar (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/82072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Claw (2022)" tvg-logo="http://tutv.online:2080/images/076c981300b42a9fda39b65617de1f00.jpg" group-title=" **ESTRENOS 2022**",Claw (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/82073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jekyll and Hyde (2022)" tvg-logo="http://tutv.online:2080/images/c29e55cbeff651f7342644ae1f316e25.jpg" group-title=" **ESTRENOS 2022**",Jekyll and Hyde (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Matky (2022)" tvg-logo="http://tutv.online:2080/images/4473b554cda27331de9c4408e63cb970.jpg" group-title=" **ESTRENOS 2022**",Matky (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/82075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Nos casamos? Sí, mi amor (2022)" tvg-logo="http://tutv.online:2080/images/8625441fc97d7db94227675d4fb62bb5.jpg" group-title=" **ESTRENOS 2022**",¿Nos casamos? Sí, mi amor (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/82076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Redeeming Love (2022)" tvg-logo="http://tutv.online:2080/images/41004bc5050f94a58b4713a17fe38212.jpg" group-title=" **ESTRENOS 2022**",Redeeming Love (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/82077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Incompatibles 2 (2022)" tvg-logo="http://tutv.online:2080/images/71079027f660fee9bd939aa8c0e38400.jpg" group-title=" **ESTRENOS 2022**",Incompatibles 2 (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/82078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ostwind  - Der große Orkan (2022)" tvg-logo="http://tutv.online:2080/images/7bd76cecaa8d1dc7ad7d6453cb7b56db.jpg" group-title=" **ESTRENOS 2022**",Ostwind  - Der große Orkan (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Ciudad Perdida (2022) SUB" tvg-logo="http://tutv.online:2080/images/efdd72105c8b32888933314bbeb50bf0.jpg" group-title=" **ESTRENOS 2022**",La Ciudad Perdida (2022) SUB
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/82659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Animales Fantásticos: Los Secretos de Dumbledore (2022) SUB" tvg-logo="http://tutv.online:2080/images/93c2346bb2bf2e9c09bca8937b5949ad.jpg" group-title=" **ESTRENOS 2022**",Animales Fantásticos: Los Secretos de Dumbledore (2022) SUB
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/82680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hombre del norte (2022)" tvg-logo="http://tutv.online:2080/images/c1a7a71f9c88a251fae44333a80e731d.jpg" group-title=" **ESTRENOS 2022**",El hombre del norte (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82693.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Mouthful of Air (2022)" tvg-logo="http://tutv.online:2080/images/cb3e9e72788aabeb5dfd6e0000930681.jpg" group-title=" **ESTRENOS 2022**",A Mouthful of Air (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/82726.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadly Debutantes: A Night to Die For (2022)" tvg-logo="http://tutv.online:2080/images/e4b8501feddc853adf31a1abdc82bb34.jpg" group-title=" **ESTRENOS 2022**",Deadly Debutantes: A Night to Die For (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/82727.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El arma del engaño (2022)" tvg-logo="http://tutv.online:2080/images/195d19adabd2bc8dca31e04e5757af78.jpg" group-title=" **ESTRENOS 2022**",El arma del engaño (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/82728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Las fantasías (2022)" tvg-logo="http://tutv.online:2080/images/b819a8d2544f887e4e878b27fc8d50d9.jpg" group-title=" **ESTRENOS 2022**",Las fantasías (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/82729.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La familia perfecta (2022)" tvg-logo="http://tutv.online:2080/images/c22f138a8c470b189d9ab7342415c70f.jpg" group-title=" **ESTRENOS 2022**",La familia perfecta (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Night of the Sicario (2022)" tvg-logo="http://tutv.online:2080/images/772ca1aa24d419791c70ff931fbcd4c2.jpg" group-title=" **ESTRENOS 2022**",Night of the Sicario (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/82731.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ojos Grises (2022)" tvg-logo="http://tutv.online:2080/images/8ee85371c200d188a0cbff5a1be7914b.jpg" group-title=" **ESTRENOS 2022**",Ojos Grises (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/82732.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El taller (2022)" tvg-logo="http://tutv.online:2080/images/07de9ed136b785d87d4d53dd347972f4.jpg" group-title=" **ESTRENOS 2022**",El taller (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/82733.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Exorcismo De Dios (2022)" tvg-logo="http://tutv.online:2080/images/793a0bb6f7b4df2a1cfe19876d591c1b.jpg" group-title=" **ESTRENOS 2022**",El Exorcismo De Dios (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/82734.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Getaway King (2022)" tvg-logo="http://tutv.online:2080/images/b47ed81d280ada58574c6f52ed01a5de.jpg" group-title=" **ESTRENOS 2022**",The Getaway King (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Fairy Tale After All (2022)" tvg-logo="http://tutv.online:2080/images/fdbb82822c5470b6ef3032679c26301b.jpg" group-title=" **ESTRENOS 2022**",A Fairy Tale After All (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/82736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Ciudad Perdida (2022)" tvg-logo="http://tutv.online:2080/images/fe12781ee66568bc53be46a0d1a3c12d.jpg" group-title=" **ESTRENOS 2022**",La Ciudad Perdida (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/82917.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Animales Fantásticos: Los Secretos de Dumbledore (2022)" tvg-logo="http://tutv.online:2080/images/93c2346bb2bf2e9c09bca8937b5949ad.jpg" group-title=" **ESTRENOS 2022**",Animales Fantásticos: Los Secretos de Dumbledore (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/82934.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="http://tutv.online:2080/images/a350b0bf5f75e8a4f051a982df9250ef.jpg" group-title=" **ESTRENOS 2022**",Morbius (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/83031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Frente al tornado (2022)" tvg-logo="http://tutv.online:2080/images/7a5cf668ed166e78fc58b8b2b425972d.jpg" group-title=" **ESTRENOS 2022**",Frente al tornado (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/83306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El milagro de Tyson (2022)" tvg-logo="http://tutv.online:2080/images/fc8d1a63d2e33407cff1a47bc4cd33d6.jpg" group-title=" **ESTRENOS 2022**",El milagro de Tyson (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/83307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eraser: Reborn (2022)" tvg-logo="http://tutv.online:2080/images/abae73c3379ef9980cf40cdf6f8ab1f3.jpg" group-title=" **ESTRENOS 2022**",Eraser: Reborn (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/83308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rompiendo las reglas: Rebelión (2022)" tvg-logo="http://tutv.online:2080/images/085f2eb4d50cfd8354a3e8a982e15a08.jpg" group-title=" **ESTRENOS 2022**",Rompiendo las reglas: Rebelión (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/83309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Toscana (2022)" tvg-logo="http://tutv.online:2080/images/5ef5f0e33ddf05acd20bdb827371922b.jpg" group-title=" **ESTRENOS 2022**",Toscana (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/83310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="King: Regreso a casa (2022)" tvg-logo="http://tutv.online:2080/images/f36b85c76ec263ce69b6f3fbae06b3cc.jpg" group-title=" **ESTRENOS 2022**",King: Regreso a casa (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/83311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asesino Sin Memoria (2022)" tvg-logo="http://tutv.online:2080/images/18cb7ae358e88914c63d4a0761c33435.jpg" group-title=" **ESTRENOS 2022**",Asesino Sin Memoria (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/83312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A la mierda el amor... otra vez (2022)" tvg-logo="http://tutv.online:2080/images/3488badcce9ad4480825bfda2a448974.jpg" group-title=" **ESTRENOS 2022**",A la mierda el amor... otra vez (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/83449.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bull: La Hora De La Venganza (2022)" tvg-logo="http://tutv.online:2080/images/afa66eb38ba96e47e1841cdf8d676514.jpg" group-title=" **ESTRENOS 2022**",Bull: La Hora De La Venganza (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/83450.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jackass 4.5 (2022)" tvg-logo="http://tutv.online:2080/images/99195bf845f326afeacb147d80da75dc.jpg" group-title=" **ESTRENOS 2022**",Jackass 4.5 (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/83451.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Valet (The Valet) (2022)" tvg-logo="http://tutv.online:2080/images/858bded1d57fc39e60712d828d137fad.jpg" group-title=" **ESTRENOS 2022**",El Valet (The Valet) (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/83452.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vuelta al insti (2022)" tvg-logo="http://tutv.online:2080/images/e270be84846e876d2e1865d6cfaaee43.jpg" group-title=" **ESTRENOS 2022**",Vuelta al insti (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/83643.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Capitán Carver (2022)" tvg-logo="http://tutv.online:2080/images/02cdf70bf43b8e48fdd380c978e9cf85.jpg" group-title=" **ESTRENOS 2022**",Capitán Carver (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/84472.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Conspiración en Hollywood (2022)" tvg-logo="http://tutv.online:2080/images/71d3b32241d4bad0a7821490053bc670.jpg" group-title=" **ESTRENOS 2022**",Conspiración en Hollywood (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/84473.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crush (2022)" tvg-logo="http://tutv.online:2080/images/1f70092b402585c5a355f1ccbd6cc612.jpg" group-title=" **ESTRENOS 2022**",Crush (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/84474.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dark Cloud (2022)" tvg-logo="http://tutv.online:2080/images/91d094b35f1022a2f0fc0d34de6d0a31.jpg" group-title=" **ESTRENOS 2022**",Dark Cloud (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/84475.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Emergencia (2022)" tvg-logo="http://tutv.online:2080/images/9e66b52639351e8e76a1aef53d1e3442.jpg" group-title=" **ESTRENOS 2022**",Emergencia (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/84476.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Veneciafrenia (2022)" tvg-logo="http://tutv.online:2080/images/942df3e0201551172d090267d905ddf0.jpg" group-title=" **ESTRENOS 2022**",Veneciafrenia (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/84477.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alimentando al mundo (2022)" tvg-logo="http://tutv.online:2080/images/016446a75d5084c082cc0392c868698f.jpg" group-title=" **ESTRENOS 2022**",Alimentando al mundo (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/84478.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool vs. Real Madrid UEFA Champions League Final 2022 (2022)" tvg-logo="http://tutv.online:2080/images/1cb313f958462ffac630e1203cc46372.jpg" group-title=" **ESTRENOS 2022**",Liverpool vs. Real Madrid UEFA Champions League Final 2022 (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/84513.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dos más dos (2022)" tvg-logo="http://tutv.online:2080/images/d9094de0b4f95707e30325c6411e56db.jpg" group-title=" **ESTRENOS 2022**",Dos más dos (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/84572.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: Mente asesina (2022)" tvg-logo="http://tutv.online:2080/images/555e38d1697c35041084e0e5f28f0d39.jpg" group-title=" **ESTRENOS 2022**",Ted Bundy: Mente asesina (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/85211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="South Park: Las Guerras de Streaming (2022)" tvg-logo="http://tutv.online:2080/images/c0cb79f2c4cf68c2e71f15fe89bea86b.jpg" group-title=" **ESTRENOS 2022**",South Park: Las Guerras de Streaming (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/85212.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El milagro del padre Stu (2022)" tvg-logo="http://tutv.online:2080/images/1842d76e2b5a5d63373b9dce1eadd54b.jpg" group-title=" **ESTRENOS 2022**",El milagro del padre Stu (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/85213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Interceptor (2022)" tvg-logo="http://tutv.online:2080/images/47e5c24e83ae50cde914078e75bb3fd1.jpg" group-title=" **ESTRENOS 2022**",Interceptor (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/85214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ojos de fuego (2022)" tvg-logo="http://tutv.online:2080/images/1002a887a9565b58fd99de1b91907e54.jpg" group-title=" **ESTRENOS 2022**",Ojos de fuego (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/85215.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Werewolf Castle (2022)" tvg-logo="http://tutv.online:2080/images/4fde7fc026f999935eaca5d3be2645d3.jpg" group-title=" **ESTRENOS 2022**",Werewolf Castle (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/85247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en la Piscina (2022)" tvg-logo="http://tutv.online:2080/images/d0268c6fd50c75c2450b62b92c206da6.jpg" group-title=" **ESTRENOS 2022**",Pesadilla en la Piscina (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/85248.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Muerte al verano (2022)" tvg-logo="http://tutv.online:2080/images/b39943f9fea228b3dd1fd9c7a1a7a0c5.jpg" group-title=" **ESTRENOS 2022**",Muerte al verano (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/85249.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fire Island: Orgullo y Seducción (2022)" tvg-logo="http://tutv.online:2080/images/a73821c87763adf97ffe7d96c91fdcee.jpg" group-title=" **ESTRENOS 2022**",Fire Island: Orgullo y Seducción (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/85250.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stargirl en Hollywood (2022)" tvg-logo="http://tutv.online:2080/images/95d6bc9455ade557e870e20055f73c89.jpg" group-title=" **ESTRENOS 2022**",Stargirl en Hollywood (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/85251.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pacto con El Diablo (2022)" tvg-logo="http://tutv.online:2080/images/708e5aa341947fdd98b53476fea8800c.jpg" group-title=" **ESTRENOS 2022**",Pacto con El Diablo (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/85252.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tiro letal (Blindfire) (2022)" tvg-logo="http://tutv.online:2080/images/791a7cf74ba05dd1d7212f2e420060ea.jpg" group-title=" **ESTRENOS 2022**",Tiro letal (Blindfire) (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/85253.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hive (La Colmena) (2022)" tvg-logo="http://tutv.online:2080/images/2bfcca64b9eca5b6f2be1948d5503446.jpg" group-title=" **ESTRENOS 2022**",Hive (La Colmena) (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/85254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fresh (2022)" tvg-logo="http://tutv.online:2080/images/51968c8b3977568c5e249cf3a18942e8.jpg" group-title=" **ESTRENOS 2022**",Fresh (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/85585.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Peso del Talento (2022)" tvg-logo="http://tutv.online:2080/images/47e0347b730d229f40dc719a7f243ae5.jpg" group-title=" **ESTRENOS 2022**",El Peso del Talento (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/85587.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El paseo 6 (2022)" tvg-logo="http://tutv.online:2080/images/fe09e8fe6ee7ee14be7aa7c861ad3cf5.jpg" group-title=" **ESTRENOS 2022**",El paseo 6 (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/85659.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Garra (2022)" tvg-logo="http://tutv.online:2080/images/94a7f2c284a72effd7a20334d0f9c18e.jpg" group-title=" **ESTRENOS 2022**",Garra (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/85678.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El juego de las llaves (2022)" tvg-logo="http://tutv.online:2080/images/c7da35df569e2b1f9e4a10550ab95c96.jpg" group-title=" **ESTRENOS 2022**",El juego de las llaves (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/85692.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gladbeck: The Hostage Crisis (2022)" tvg-logo="http://tutv.online:2080/images/7e0447ce58ea5d639ee7a2765bb68e10.jpg" group-title=" **ESTRENOS 2022**",Gladbeck: The Hostage Crisis (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/85718.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey: Una nueva era (2022)" tvg-logo="http://tutv.online:2080/images/03293fd3736f9604256f9b1a39fa5df8.jpg" group-title=" **ESTRENOS 2022**",Downton Abbey: Una nueva era (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/85762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi Novio Falso (My Fake Boyfriend) (2022)" tvg-logo="http://tutv.online:2080/images/03372dd2a8221a7ad019dea04c6c4bc1.jpg" group-title=" **ESTRENOS 2022**",Mi Novio Falso (My Fake Boyfriend) (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/85763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los árboles de la paz (2022)" tvg-logo="http://tutv.online:2080/images/8b9b1a26088119b3941174204ec9b361.jpg" group-title=" **ESTRENOS 2022**",Los árboles de la paz (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/85764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un día para morir (2022)" tvg-logo="http://tutv.online:2080/images/c37a178f5b2b7a08d8b0ddfde2dbbf87.jpg" group-title=" **ESTRENOS 2022**",Un día para morir (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/86497.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Sicario (2022)" tvg-logo="http://tutv.online:2080/images/9a35959095028d90f777d41504ce54e9.jpg" group-title=" **ESTRENOS 2022**",American Sicario (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/86498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El libro del amor (Book of Love) (2022)" tvg-logo="http://tutv.online:2080/images/559d74963c5b7cb0fc44de638d0ffece.jpg" group-title=" **ESTRENOS 2022**",El libro del amor (Book of Love) (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/86499.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Centauro (2022)" tvg-logo="http://tutv.online:2080/images/a9c8ce9767aec54753bb219ee666c321.jpg" group-title=" **ESTRENOS 2022**",Centauro (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/86500.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Desfile de corazones (2022)" tvg-logo="http://tutv.online:2080/images/5f4d1b15ca7b60b1b66374ad06577385.jpg" group-title=" **ESTRENOS 2022**",Desfile de corazones (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/86501.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La ira de Dios (2022)" tvg-logo="http://tutv.online:2080/images/d6f60d86fe4621d1010616eaa57d4937.jpg" group-title=" **ESTRENOS 2022**",La ira de Dios (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/86580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bailando por la vida (2022)" tvg-logo="http://tutv.online:2080/images/6c5f90a0b96c5a5b1fe894bb42335223.jpg" group-title=" **ESTRENOS 2022**",Bailando por la vida (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/86897.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Colisión (2022)" tvg-logo="http://tutv.online:2080/images/c32ce758ffb697cc221c6d9c42d8cb13.jpg" group-title=" **ESTRENOS 2022**",Colisión (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/86898.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El padre de la novia (2022)" tvg-logo="http://tutv.online:2080/images/339dd1548e2372aa2d389ffe019706e8.jpg" group-title=" **ESTRENOS 2022**",El padre de la novia (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/86899.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jerry & Marge Go Large (2022)" tvg-logo="http://tutv.online:2080/images/bb3a4dff2ecd9c8059969e2869277612.jpg" group-title=" **ESTRENOS 2022**",Jerry & Marge Go Large (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/86900.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mariya: El Símbolo de La Guerra (2022)" tvg-logo="http://tutv.online:2080/images/20ae589b384538124a4231f24ef2fddb.jpg" group-title=" **ESTRENOS 2022**",Mariya: El Símbolo de La Guerra (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/86901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiderhead (2022)" tvg-logo="http://tutv.online:2080/images/c1812a66e9a1b17314c7a18acc8c3afa.jpg" group-title=" **ESTRENOS 2022**",Spiderhead (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/86902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin ti no puedo (2022)" tvg-logo="http://tutv.online:2080/images/81d8d115d4d951de88adb982cf49c863.jpg" group-title=" **ESTRENOS 2022**",Sin ti no puedo (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/86926.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Todo a la vez en todas partes (2022) SUB" tvg-logo="http://tutv.online:2080/images/65edf1e3eafc7a2f32dfb26cd7614b91.jpg" group-title=" **ESTRENOS 2022**",Todo a la vez en todas partes (2022) SUB
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/87082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura (2022)" tvg-logo="http://tutv.online:2080/images/7e29bca2730cc207d86665efd9902617.jpg" group-title=" **ESTRENOS 2022**",Doctor Strange en el multiverso de la locura (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/87154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura (2022) 720p" tvg-logo="http://tutv.online:2080/images/7e29bca2730cc207d86665efd9902617.jpg" group-title=" **ESTRENOS 2022**",Doctor Strange en el multiverso de la locura (2022) 720p
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/87155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="North Hollywood (2022)" tvg-logo="http://tutv.online:2080/images/3e7d3eadb09f37a912190d8d03666bce.jpg" group-title=" **ESTRENOS 2022**",North Hollywood (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/87175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="9 Bullets (2022)" tvg-logo="http://tutv.online:2080/images/980d964caa6368df2b571cf9e6aa7f94.jpg" group-title=" **ESTRENOS 2022**",9 Bullets (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/87176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amor y helado (2022)" tvg-logo="http://tutv.online:2080/images/f97e514e947f07969cc15e27cd198e53.jpg" group-title=" **ESTRENOS 2022**",Amor y helado (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/87309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Unión y lucha (7th & Union) (2022)" tvg-logo="http://tutv.online:2080/images/20aeda8ca80f35d51f55c6683f2ed21e.jpg" group-title=" **ESTRENOS 2022**",Unión y lucha (7th & Union) (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/87310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gracia y coraje (2022)" tvg-logo="http://tutv.online:2080/images/a96a41b6c4378c114e546250c94ec9bc.jpg" group-title=" **ESTRENOS 2022**",Gracia y coraje (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/87311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="D'Artagnan El 4º Mosquetero (2022)" tvg-logo="http://tutv.online:2080/images/74973e05b632b7e026d9b50c47f2659e.jpg" group-title=" **ESTRENOS 2022**",D'Artagnan El 4º Mosquetero (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/87312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En la mira (2022)" tvg-logo="http://tutv.online:2080/images/e9f9b483fd8be5f8caa67b6b9e7391bf.jpg" group-title=" **ESTRENOS 2022**",En la mira (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/87325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chicas Con Glamur (2022)" tvg-logo="http://tutv.online:2080/images/d476916faecd4e33c26992b788252364.jpg" group-title=" **ESTRENOS 2022**",Chicas Con Glamur (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/87326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Post Mortem - Fotos del Más Allá (2022)" tvg-logo="http://tutv.online:2080/images/e9875740605d458d0157957b71af067e.jpg" group-title=" **ESTRENOS 2022**",Post Mortem - Fotos del Más Allá (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/87357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rise: Superación, la historia de la familia Antetokounmpo (2022)" tvg-logo="http://tutv.online:2080/images/27b8a50a3580f2abb03e45f81e23fccc.jpg" group-title=" **ESTRENOS 2022**",Rise: Superación, la historia de la familia Antetokounmpo (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/87374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Hombre De Toronto (2022)" tvg-logo="http://tutv.online:2080/images/2b96581d4de3536d26479fe71890b4a6.jpg" group-title=" **ESTRENOS 2022**",El Hombre De Toronto (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/87375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jennifer Lopez: Halftime (2022)" tvg-logo="http://tutv.online:2080/images/75ae0382091b505d0b785a47b8d2675f.jpg" group-title=" **ESTRENOS 2022**",Jennifer Lopez: Halftime (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/88094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beauty (2022)" tvg-logo="http://tutv.online:2080/images/ceb62b7548985ba29b1637311d706c3e.jpg" group-title=" **ESTRENOS 2022**",Beauty (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/88459.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Caña al extraterrestre! (2022)" tvg-logo="http://tutv.online:2080/images/84c7abf3229a674cf1f3a7d7ccd6d2a2.jpg" group-title=" **ESTRENOS 2022**",¡Caña al extraterrestre! (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/88460.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ted K (2022)" tvg-logo="http://tutv.online:2080/images/c929806e6856f6c1c8dab82124288e8f.jpg" group-title=" **ESTRENOS 2022**",Ted K (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/88461.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Primavera en Beechwood (2022)" tvg-logo="http://tutv.online:2080/images/3abbc926935e3af2197aa1b489ad4ca3.jpg" group-title=" **ESTRENOS 2022**",Primavera en Beechwood (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/88462.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Encuentros al Azar (2022)" tvg-logo="http://tutv.online:2080/images/9301978733304e82fcb15070df0bd112.jpg" group-title=" **ESTRENOS 2022**",Encuentros al Azar (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/88463.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romance a la Carta (2022)" tvg-logo="http://tutv.online:2080/images/03d7522a0470a73dafc339ce82b9372d.jpg" group-title=" **ESTRENOS 2022**",Romance a la Carta (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/88464.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La princesa (2022) Sub" tvg-logo="http://tutv.online:2080/images/c21e911bc382640682b7d6152260fac1.jpg" group-title=" **ESTRENOS 2022**",La princesa (2022) Sub
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/88549.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Y cómo es él? (2022)" tvg-logo="http://tutv.online:2080/images/8528bac1e341f07db0c24c28aaece963.jpg" group-title=" **ESTRENOS 2022**",¿Y cómo es él? (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/89079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gatlopp: Un Juego Entre Amigos (2022)" tvg-logo="http://tutv.online:2080/images/3f07ec4f80e104203398abf512c79854.jpg" group-title=" **ESTRENOS 2022**",Gatlopp: Un Juego Entre Amigos (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/89080.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Misterio en Marbella (2022)" tvg-logo="http://tutv.online:2080/images/cc299da5340ff3dcd9b98659fca3bb11.jpg" group-title=" **ESTRENOS 2022**",Misterio en Marbella (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/89081.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wolf Irlanda (2022)" tvg-logo="http://tutv.online:2080/images/92f498918eba7eea2bb2c6f8e5448b90.jpg" group-title=" **ESTRENOS 2022**",Wolf Irlanda (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/89082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La chica de la foto (2022)" tvg-logo="http://tutv.online:2080/images/ee718acbdbee68ccd71ca5d6dc358872.jpg" group-title=" **ESTRENOS 2022**",La chica de la foto (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/89137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hola, adiós y todo lo que pasó (2022)" tvg-logo="http://tutv.online:2080/images/a4b34e57f9f2d3bca0df38bed3f821b2.jpg" group-title=" **ESTRENOS 2022**",Hola, adiós y todo lo que pasó (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/89138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La pasajera (2022)" tvg-logo="http://tutv.online:2080/images/b124c7eb87635267a64f93ebfac6656d.jpg" group-title=" **ESTRENOS 2022**",La pasajera (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/89139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Inhumano (Unhuman) (2022)" tvg-logo="http://tutv.online:2080/images/a6a22c8261dfc71b9f86a1d37bdac58c.jpg" group-title=" **ESTRENOS 2022**",Inhumano (Unhuman) (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/89140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sed de Venganza (Vendetta) (2022)" tvg-logo="http://tutv.online:2080/images/4c168ccc9a0e6c083b06264bd9deb0d1.jpg" group-title=" **ESTRENOS 2022**",Sed de Venganza (Vendetta) (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/89141.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Camino Mágico (2022)" tvg-logo="http://tutv.online:2080/images/02500d7824154fe6aa43a8ed54160514.jpg" group-title=" **ESTRENOS 2022**",Un Camino Mágico (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/89259.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Último Dragón (Dragon Knight) (2022)" tvg-logo="http://tutv.online:2080/images/e51455ebe799ee27b970a4e082a4f5a6.jpg" group-title=" **ESTRENOS 2022**",El Último Dragón (Dragon Knight) (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/89260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eastern (2022)" tvg-logo="http://tutv.online:2080/images/8fdeb090e3c1dffb4a8d50864ab97b88.jpg" group-title=" **ESTRENOS 2022**",Eastern (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/89261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Viuda Negra (PENOZA)(2022)" tvg-logo="http://tutv.online:2080/images/2da3a2f8fb3c4eb6d1b780cb5a003968.jpg" group-title=" **ESTRENOS 2022**",La Viuda Negra (PENOZA)(2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/89262.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El monstruo marino (2022)" tvg-logo="http://tutv.online:2080/images/cf7bb132231407572473d8b1f364beee.jpg" group-title=" **ESTRENOS 2022**",El monstruo marino (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/89263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Castle Falls (2022)" tvg-logo="http://tutv.online:2080/images/55660cf65596fb88db95716add472c98.jpg" group-title=" **ESTRENOS 2022**",Castle Falls (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/89562.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doula (2022)" tvg-logo="http://tutv.online:2080/images/73a02163a951af74cf72dfe9ef9b8603.jpg" group-title=" **ESTRENOS 2022**",Doula (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/89563.mkv
-#EXTINF:-1 tvg-id="" tvg-name="García y García (2022)" tvg-logo="http://tutv.online:2080/images/dc3eb803602df088138fb2cfa767e6f1.jpg" group-title=" **ESTRENOS 2022**",García y García (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/89564.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cuenta Regresiva (2022)" tvg-logo="http://tutv.online:2080/images/e54014c7186e94b9b791271bf326aed4.jpg" group-title=" **ESTRENOS 2022**",Cuenta Regresiva (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/89565.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Incantation (2022)" tvg-logo="http://tutv.online:2080/images/3795aa58de24ae698cb243f00216c13f.jpg" group-title=" **ESTRENOS 2022**",Incantation (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/89566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Red Rocket (2022)" tvg-logo="http://tutv.online:2080/images/88d977d157d32da100a7ce4cb12ececf.jpg" group-title=" **ESTRENOS 2022**",Red Rocket (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/89567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Relaciones peligrosas (2022)" tvg-logo="http://tutv.online:2080/images/87e6bfb37a080e3f09deb1fda189bd41.jpg" group-title=" **ESTRENOS 2022**",Relaciones peligrosas (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/89568.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Colour Room (2022)" tvg-logo="http://tutv.online:2080/images/4c896f1c68e96a264acb05e891eea6c6.jpg" group-title=" **ESTRENOS 2022**",The Colour Room (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/89569.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Contigo Volumen 1 (2022)" tvg-logo="http://tutv.online:2080/images/15df2d80b3e95e48a90fd0dcc9afa07e.jpg" group-title=" **ESTRENOS 2022**",Contigo Volumen 1 (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/89570.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Dominion (2022)" tvg-logo="http://tutv.online:2080/images/2910aaf15f9f5b3931abd72da98fff04.jpg" group-title=" **ESTRENOS 2022**",Jurassic World: Dominion (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/91164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Black Phone (2022)" tvg-logo="http://tutv.online:2080/images/3b64825e7943b96a5ed2ef551f0db01c.jpg" group-title=" **ESTRENOS 2022**",Black Phone (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/91165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="http://tutv.online:2080/images/28681953c9b45e058d247d0c71b61702.jpg" group-title=" **ESTRENOS 2022**",Lightyear (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/91181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Borrego – Sal Del Camino (2022)" tvg-logo="http://tutv.online:2080/images/1eaa76cf1a44c9a071f29822b78e2ed4.jpg" group-title=" **ESTRENOS 2022**",Borrego – Sal Del Camino (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/91336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El hombre perfecto (2022)" tvg-logo="http://tutv.online:2080/images/b71c55042b3d47d3f3668943a90a3851.jpg" group-title=" **ESTRENOS 2022**",El hombre perfecto (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/91337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Por Jojo (2022)" tvg-logo="http://tutv.online:2080/images/ebc760a465a272bb44b8171207949b5c.jpg" group-title=" **ESTRENOS 2022**",Por Jojo (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/91338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sin Culpa (2022)" tvg-logo="http://tutv.online:2080/images/f45d43cc2e5b6205dfd6e22891957702.jpg" group-title=" **ESTRENOS 2022**",Sin Culpa (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/91339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Malnazidos (2022)" tvg-logo="http://tutv.online:2080/images/855861522acfdc08576965f896c677bb.jpg" group-title=" **ESTRENOS 2022**",Malnazidos (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/91340.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Noche americana (2022)" tvg-logo="http://tutv.online:2080/images/f18b057d40f46538790f85ebcf5e18fb.jpg" group-title=" **ESTRENOS 2022**",Noche americana (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/91341.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Persuasión (2022)" tvg-logo="http://tutv.online:2080/images/1e7ac37eb09391202699f28d32e6a8c0.jpg" group-title=" **ESTRENOS 2022**",Persuasión (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/91356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pitbull: Fuerza Bruta (2022)" tvg-logo="http://tutv.online:2080/images/08c77f7a3294e302ed77b95cafc22bfd.jpg" group-title=" **ESTRENOS 2022**",Pitbull: Fuerza Bruta (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/91357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bajo el sol amalfitano (2022)" tvg-logo="http://tutv.online:2080/images/8528e38aecf70e8caab35b3081746266.jpg" group-title=" **ESTRENOS 2022**",Bajo el sol amalfitano (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/91358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una librería en París (2022)" tvg-logo="http://tutv.online:2080/images/67dccf90fb6a5a74ae1a7010265a0aa4.jpg" group-title=" **ESTRENOS 2022**",Una librería en París (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/91684.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El agente invisible (2022)" tvg-logo="http://tutv.online:2080/images/1bce5510e4382a9c56831f860be7c7be.jpg" group-title=" **ESTRENOS 2022**",El agente invisible (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/91701.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Entresuelo (2022)" tvg-logo="http://tutv.online:2080/images/f052190d2f87f9836a1eea0af3f9adaf.jpg" group-title=" **ESTRENOS 2022**",El Entresuelo (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/91703.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adiós Mariposa (2022)" tvg-logo="http://tutv.online:2080/images/25e9994efc4d39858e31b870e433b128.jpg" group-title=" **ESTRENOS 2022**",Adiós Mariposa (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/91704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultimo Tren a Navidad (2022)" tvg-logo="http://tutv.online:2080/images/104e5241ca733ce067501157b92f7e4e.jpg" group-title=" **ESTRENOS 2022**",Ultimo Tren a Navidad (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/91705.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Live is life: la gran aventura (2022)" tvg-logo="http://tutv.online:2080/images/3658628dca65884766fa80f8666025a7.jpg" group-title=" **ESTRENOS 2022**",Live is life: la gran aventura (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/91706.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El gran pase de magia (2022)" tvg-logo="http://tutv.online:2080/images/f7702b421ebdc4a4801c8a812eb95ebd.jpg" group-title=" **ESTRENOS 2022**",El gran pase de magia (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/91707.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una Amistad Tóxica (2022)" tvg-logo="http://tutv.online:2080/images/d6553562169eaa33cad4c51c1fe0c296.jpg" group-title=" **ESTRENOS 2022**",Una Amistad Tóxica (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/91708.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sweet Revenge: A Hannah Swensen Mystery (2022)" tvg-logo="http://tutv.online:2080/images/097636bc6cdd3f219590784b48329f3e.jpg" group-title=" **ESTRENOS 2022**",Sweet Revenge: A Hannah Swensen Mystery (2022)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/91709.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Demasiado mayor para cuentos de hadas (2022)" tvg-logo="http://tutv.online:2080/images/824d5d1d94339be726a719e7d4c3470b.jpg" group-title=" **ESTRENOS 2022**",Demasiado mayor para cuentos de hadas (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/91710.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Torn Hearts (2022)" tvg-logo="http://tutv.online:2080/images/5210e2ad964dec76691cb81a54e8d402.jpg" group-title=" **ESTRENOS 2022**",Torn Hearts (2022)
-http://tutv.online:2080/movie/cliente3_abril_00g/PzSWS8uHagMs/91711.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dakota (2022)" tvg-logo="http://tutv.online:2080/images/a00a1528577bfa8095ffbfb8603db1d9.jpg" group-title=" **ESTRENOS 2022**",Dakota (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/91712.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Vida en el Silencio (2022)" tvg-logo="http://tutv.online:2080/images/a79bf4921e08d7b4ec1e60691a4cdcdf.jpg" group-title=" **ESTRENOS 2022**",La Vida en el Silencio (2022)
-http://tutv.online:2080/movie/cliente5_abril_00g/fepG9YabtyJd/91713.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mark, Mary + Otras Personas (2021)" tvg-logo="http://tutv.online:2080/images/4b2fe8307b621725a044d6ec1eccec6e.jpg" group-title=" **ESTRENOS 2022**",Mark, Mary + Otras Personas (2021)
-http://tutv.online:2080/movie/cliente1_abril_00g/Xvuf6NDP2LPs/91714.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Todo es posible (2022)" tvg-logo="http://tutv.online:2080/images/e192482e18f89f9afb21778f0927fd61.jpg" group-title=" **ESTRENOS 2022**",Todo es posible (2022)
-http://tutv.online:2080/movie/cliente2_abril_00g/RFsCdZYG929L/91715.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Beavis y Butt-Head: Recorren el Universo (2022)" tvg-logo="http://tutv.online:2080/images/eecebda51fe7812c3e5762231c85d89f.jpg" group-title=" **ESTRENOS 2022**",Beavis y Butt-Head: Recorren el Universo (2022)
-http://tutv.online:2080/movie/cliente4_abril_00g/GM2U7QJAM4hR/92078.mkv
+https://www682.ff-02.com/token=Jeu4aTSE6k388kMssdSEEg/1658991567/181.66.0.0/185/6/0b/4338e6938cc1f7047a45c5aa848790b6-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" La cita equivocada (2022)" tvg-logo="https://image.tmdb.org/t/p/w185/pnGaBmE56IgHF4fb0UCSYN1OINJ.jpg" group-title=" **ESTRENOS 2022**", La cita equivocada (2022)
+https://www1514.ff-04.com/token=IZe_4QqXES7sNsC8Y7VA1g/1658991832/181.66.0.0/79/9/8d/9ac5d7ec9bc944ad67c55fe88692c8d9-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" A tiempo completo (2022)" tvg-logo="https://image.tmdb.org/t/p/w185/wLaMF5805iDZF2FWKTWx8AISNQb.jpg" group-title=" **ESTRENOS 2022**",A tiempo completo (2022)
+https://www190.ff-01.com/token=PcsnaVRc1WmDE0kF6Pny2Q/1658992299/181.66.0.0/86/f/5c/f7d72cbfb62f59c8a21fea065bf1e5cf-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" La cima (2022)" tvg-logo="https://image.tmdb.org/t/p/w185/qzHBLdSrmvTNYsUJOP4O9A2c69U.jpg" group-title=" **ESTRENOS 2022**", La cima (2022)
+https://www591.ff-02.com/token=pG7mysV7jGuRabbTwlVTyA/1658993490/181.66.0.0/82/6/57/d5163b49939f2ac20cd80e24b2fb0576-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+#EXTINF:-1 tvg-id="" tvg-name=" (2022)" tvg-logo="" group-title=" **ESTRENOS 2022**", (2022)
+
+
+
+
+
+
+
