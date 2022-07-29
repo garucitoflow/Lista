@@ -343,88 +343,162 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" nada="24/7" group-title="TELE CABLE", Doraemon 24/7
-http://bgapp.live/play/14--799.php?c=521&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" nada="24/7" group-title="TELE CABLE", Dragon Ball 24/7
-http://bgapp.live/play/14--799.php?c=425&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Z 24/7
-http://bgapp.live/play/14--799.php?c=329&dir=BLACKGHOSTD&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" nada="24/7" group-title="TELE CABLE", Dragon Ball GT 24/7
-http://bgapp.live/play/14--799.php?c=520&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" nada="24/7" group-title="TELE CABLE", Dragon Ball Super 24/7
-http://bgapp.live/play/14--799.php?c=424&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="TELE CABLE", Alf 24/7
-http://bgapp.live/play/14--799.php?c=426&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" nada="24/7" group-title="TELE CABLE", Animaniacs 24/7
-http://bgapp.live/play/14--799.php?c=677&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" nada="24/7" group-title="TELE CABLE", Bob Esponja 24/7
-http://bgapp.live/play/14--799.php?c=518&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" nada="24/7" group-title="TELE CABLE", Caballeros del Zodiaco 24/7
-http://bgapp.live/play/14--799.php?c=427&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Candy Candy 24/7
-http://bgapp.live/play/14--799.php?c=808&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" nada="24/7" group-title="TELE CABLE", Cantinflas 24/7
-http://bgapp.live/play/14--799.php?c=428&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" nada="24/7" group-title="TELE CABLE", Chapulin Colorado 24/7
-http://bgapp.live/play/14--799.php?c=418&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" nada="24/7" group-title="TELE CABLE", Chespirito 24/7
-http://bgapp.live/play/14--799.php?c=417&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" nada="24/7" group-title="TELE CABLE", Coraje el Perro Cobarde 24/7
-http://bgapp.live/play/14--799.php?c=519&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" nada="24/7" group-title="TELE CABLE", Dinosaurios 24/7
-http://bgapp.live/play/14--799.php?c=670&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" nada="24/7" group-title="TELE CABLE", El Chavo del 8 24/7
-http://bgapp.live/play/14--799.php?c=400&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" nada="Noticias" group-title="TELE CABLE", El Gallo Claudio 24/7
-http://bgapp.live/play/14--799.php?c=845&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" nada="24/7" group-title="TELE CABLE", El Pajaro Loco 24/7
-http://bgapp.live/play/14--799.php?c=525&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" nada="24/7" group-title="TELE CABLE", El Principel del Rap 24/7
-http://bgapp.live/play/14--799.php?c=430&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" nada="24/7" group-title="TELE CABLE", Game of Thrones 24/7
-http://bgapp.live/play/14--799.php?c=515&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Garfield 24/7
-http://bgapp.live/play/14--799.php?c=812&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" nada="24/7" group-title="TELE CABLE", Hey Arnold 24/7
-http://bgapp.live/play/14--799.php?c=522&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="24/7" group-title="TELE CABLE", Naruto 24/7
-http://bgapp.live/play/14--799.php?c=523&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" nada="24/7" group-title="TELE CABLE", Mr. Bean 24/7
-http://bgapp.live/play/14--799.php?c=431&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="TELE CABLE", One Punch Man 24/7
-http://bgapp.live/play/14--799.php?c=661&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" nada="Noticias" group-title="TELE CABLE", Patoaventuras 24/7
-http://bgapp.live/play/14--799.php?c=819&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" nada="24/7" group-title="TELE CABLE", Spiderman 24/7
-http://bgapp.live/play/14--799.php?c=889&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" nada="24/7" group-title="TELE CABLE", Super Campeones 24/7
-http://bgapp.live/play/14--799.php?c=432&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" nada="24/7" group-title="TELE CABLE", Tom y Jerry 24/7
-http://bgapp.live/play/14--799.php?c=421&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" nada="24/7" group-title="TELE CABLE", TrollHunters 24/7
-http://bgapp.live/play/14--799.php?c=662&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" nada="24/7" group-title="TELE CABLE", Yu-Gi-Oh! 24/7
-http://bgapp.live/play/14--799.php?c=664&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" nada="24/7" group-title="TELE CABLE", Pinky y Cerebro 24/7
-http://bgapp.live/play/14--799.php?c=721&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" nada="24/7" group-title="TELE CABLE", Ranma 1/2 24/7
-http://bgapp.live/play/14--799.php?c=419&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" nada="24/7" group-title="TELE CABLE", La Pantera Rosa 24/7
-http://bgapp.live/play/14--799.php?c=671&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="TELE CABLE", La Rosa de Guadalupe 24/7
-http://bgapp.live/play/14--799.php?c=886&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="TELE CABLE", Le Temes a la Oscuridad 24/7
-http://bgapp.live/play/14--799.php?c=888&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" nada="24/7" group-title="TELE CABLE", Looney Tunes 24/7
-http://bgapp.live/play/14--799.php?c=524&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" nada="Noticias" group-title="TELE CABLE", Los Años Maravillosos 24/7
-http://bgapp.live/play/14--799.php?c=810&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" nada="24/7" group-title="TELE CABLE", Los Picapiedra 24/7
-http://bgapp.live/play/14--799.php?c=669&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="TELE CABLE", Smallville 24/7
-http://bgapp.live/play/14--799.php?c=673&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium" tvg-logo="http://54.39.156.227:2080/images/cba656ddfe995a606780de09d0c52169.png" group-title="24/7 VIP",Moviecenter Premium
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68163
+#EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids" tvg-logo="http://54.39.156.227:2080/images/60d3014af72fe1b3f66c5c22f02e60d9.png" group-title="24/7 VIP",Moviecenter Kids
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68164
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics" tvg-logo="http://54.39.156.227:2080/images/f4a78977dcb19909edbfbe81a0c477f3.png" group-title="24/7 VIP",Cinema DC Comics
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68165
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="http://54.39.156.227:2080/images/1b065679c32cd7f8ee710cd1c23128c3.png" group-title="24/7 VIP",Cinema DC Universe
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68166
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="http://54.39.156.227:2080/images/019e1d5649ced54630f07fc3dd2c85dd.png" group-title="24/7 VIP",Cinema Disney Family
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68167
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar" tvg-logo="http://54.39.156.227:2080/images/af3dfb88d1d009b57f83580b5f94ec7c.png" group-title="24/7 VIP",Cinema Disney Pixar
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68168
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks" tvg-logo="http://54.39.156.227:2080/images/9e87cfd246bffddd2fb509a7c45b00df.png" group-title="24/7 VIP",Cinema Dreamworks
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68169
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia" tvg-logo="http://54.39.156.227:2080/images/98d2a1f492e92c33cd269d49dab84840.png" group-title="24/7 VIP",Cinema Familia
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68170
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar" tvg-logo="http://54.39.156.227:2080/images/5da56400b037728f478773a5164d04ab.png" group-title="24/7 VIP",Cine Estelar
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68171
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="http://54.39.156.227:2080/images/3bb790121d290e16237b6369bb832c70.png" group-title="24/7 VIP",Ultra Film
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68172
+#EXTINF:-1 tvg-id="" tvg-name="Disney Live Action" tvg-logo="http://54.39.156.227:2080/images/82967de52ecc8e842f0306905f7608a5.png" group-title="24/7 VIP",Disney Live Action
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68173
+#EXTINF:-1 tvg-id="" tvg-name="Disney Princess" tvg-logo="http://54.39.156.227:2080/images/803cf9fbfd0b1d38e796cf79cc65cc51.png" group-title="24/7 VIP",Disney Princess
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68174
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia" tvg-logo="http://54.39.156.227:2080/images/c069a169dc55fefc58e86ab061dd8201.png" group-title="24/7 VIP",Ultra Familia
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68177
+#EXTINF:-1 tvg-id="" tvg-name="La Tropa Goofy" tvg-logo="http://54.39.156.227:2080/images/7bd8ac4d030347fb88608e32ad3341a5.png" group-title="24/7 VIP",La Tropa Goofy
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68200
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor de Mickey" tvg-logo="http://54.39.156.227:2080/images/721e33af0acbec907e5aa41c20a3a098.png" group-title="24/7 VIP",Lo Mejor de Mickey
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68202
+#EXTINF:-1 tvg-id="" tvg-name="Lo Mejor de Pluto" tvg-logo="http://54.39.156.227:2080/images/e114421a722bfd46aa79b74edcdc49af.png" group-title="24/7 VIP",Lo Mejor de Pluto
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68203
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro." tvg-logo="http://54.39.156.227:2080/images/e449f894f5eb3d87de1e8257f2b77ae3.png" group-title="24/7 VIP",Los Simpson Retro.
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68208
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Horror" tvg-logo="http://54.39.156.227:2080/images/c7025abbaf82c32ac5702cd4d26b34ad.png" group-title="24/7 VIP",Los Simpsons Horror
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68209
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Latinos" tvg-logo="http://54.39.156.227:2080/images/0f2a5dd4028d24b3f820b25a20955996.png" group-title="24/7 VIP",Los Simpsons Latinos
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68210
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://54.39.156.227:2080/images/270626fbb85e452921a32d29f0c078f5.png" group-title="24/7 VIP",Los Simpsons
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68211
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse Channel" tvg-logo="http://54.39.156.227:2080/images/01e78d823089c874058079c7180574f6.png" group-title="24/7 VIP",Mickey Mouse Channel
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68212
+#EXTINF:-1 tvg-id="" tvg-name="13 Now Kids" tvg-logo="http://54.39.156.227:2080/images/d1a093ac4525892247bc959b1678e22c.png" group-title="24/7 VIP",13 Now Kids
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68175
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Kids" tvg-logo="http://54.39.156.227:2080/images/a4e9491fc071b949de860a4e0b5993f9.png" group-title="24/7 VIP",Amazon Kids
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68176
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kids" tvg-logo="http://54.39.156.227:2080/images/6ef14286130fdf3dc2fed6c94ba8de46.png" group-title="24/7 VIP",Ultra Kids
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68178
+#EXTINF:-1 tvg-id="" tvg-name="31 Minutos" tvg-logo="http://54.39.156.227:2080/images/02d25522e7875fc84afd14844afb5577.png" group-title="24/7 VIP",31 Minutos
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68179
+#EXTINF:-1 tvg-id="" tvg-name="Buzz Lightyear" tvg-logo="http://54.39.156.227:2080/images/54cb91dc046aa03e77c39ce1587abd82.png" group-title="24/7 VIP",Buzz Lightyear
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68180
+#EXTINF:-1 tvg-id="" tvg-name="Chicas Superpoderosas" tvg-logo="http://54.39.156.227:2080/images/315d155beb97232e7014ff9a3eb25f27.png" group-title="24/7 VIP",Chicas Superpoderosas
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68181
+#EXTINF:-1 tvg-id="" tvg-name="El Show de Garfield" tvg-logo="http://54.39.156.227:2080/images/f685f05bc103ad0d73d7a100d4be34b8.png" group-title="24/7 VIP",El Show de Garfield
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68187
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="http://54.39.156.227:2080/images/c7da8328f89a53e710a9bbc7a29edf41.png" group-title="24/7 VIP",Kung Fu Panda
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68195
+#EXTINF:-1 tvg-id="" tvg-name="La Guardia del Leon" tvg-logo="http://54.39.156.227:2080/images/b5f76055a17c80719255a1486890f988.png" group-title="24/7 VIP",La Guardia del Leon
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68196
+#EXTINF:-1 tvg-id="" tvg-name="La Sirenita" tvg-logo="http://54.39.156.227:2080/images/058329981c1e95da97201a8bf3edbab4.png" group-title="24/7 VIP",La Sirenita
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68199
+#EXTINF:-1 tvg-id="" tvg-name="Los Autos Locos" tvg-logo="http://54.39.156.227:2080/images/02a177742be55abde90db9a0eb4d3e40.png" group-title="24/7 VIP",Los Autos Locos
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68204
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods" tvg-logo="http://54.39.156.227:2080/images/db270f926b1403913609841ace4c03ea.png" group-title="24/7 VIP",Los Croods
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68206
+#EXTINF:-1 tvg-id="" tvg-name="13 | AFV HOME HD | 24/7\\" tvg-logo="" group-title="24/7 VIP",13 | AFV HOME HD | 24/7\\
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68139
+#EXTINF:-1 tvg-id="" tvg-name="22 | CANTINFLAS | 24/7\\" tvg-logo="" group-title="24/7 VIP",22 | CANTINFLAS | 24/7\\
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68140
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ANIMANIACS" tvg-logo="http://54.39.156.227:2080/images/ea491851e169e2f2e3f3874e8987a589.jpg" group-title="24/7 VIP",24/7 ANIMANIACS
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68141
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barbie DreamHouse Adventures" tvg-logo="" group-title="24/7 VIP",24/7 Barbie DreamHouse Adventures
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68143
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLOOPERS HD" tvg-logo="" group-title="24/7 VIP",24/7 BLOOPERS HD
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68144
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CARS DISNEY" tvg-logo="" group-title="24/7 VIP",24/7 CARS DISNEY
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68145
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE INFANTIL HD" tvg-logo="" group-title="24/7 VIP",24/7 CINE INFANTIL HD
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68146
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE INFANTIL SAGAS" tvg-logo="" group-title="24/7 VIP",24/7 CINE INFANTIL SAGAS
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE INFANTIL SAGAS HD" tvg-logo="" group-title="24/7 VIP",24/7 CINE INFANTIL SAGAS HD
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68148
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINE MARVEL HD" tvg-logo="" group-title="24/7 VIP",24/7 CINE MARVEL HD
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68149
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DANIEL EL TRAVIESO 1986 SD" tvg-logo="" group-title="24/7 VIP",24/7 DANIEL EL TRAVIESO 1986 SD
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68150
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DANNY PHANTOM \" tvg-logo="" group-title="24/7 VIP",24/7 DANNY PHANTOM \
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68151
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY PIXAR" tvg-logo="http://54.39.156.227:2080/images/6e45a42aa0e6feb284338d221e2f1206.png" group-title="24/7 VIP",24/7 DISNEY PIXAR
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68152
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DREAMWORKS" tvg-logo="http://54.39.156.227:2080/images/b7c03408f96e26405cc1ae8ec3419d87.png" group-title="24/7 VIP",24/7 DREAMWORKS
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68153
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL BEBE JEFAZO" tvg-logo="http://54.39.156.227:2080/images/780064016cea61ccffd18f7d86b01dc8.jpg" group-title="24/7 VIP",24/7 EL BEBE JEFAZO
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68154
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO ANIMADO" tvg-logo="" group-title="24/7 VIP",24/7 EL CHAPULIN COLORADO ANIMADO
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68155
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL MUNDO OCULTO DE SABRINA" tvg-logo="http://54.39.156.227:2080/images/6624c99badca2f048a65be08513f72ee.jpg" group-title="24/7 VIP",24/7 EL MUNDO OCULTO DE SABRINA
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68156
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MR. BEAN" tvg-logo="" group-title="24/7 VIP",24/7 MR. BEAN
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68157
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TRANSILVANIA" tvg-logo="http://54.39.156.227:2080/images/21ed82bb980b0b099ea66426d2fae0bd.jpg" group-title="24/7 VIP",24/7 TRANSILVANIA
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68158
+#EXTINF:-1 tvg-id="" tvg-name="24/7  La Casa de Mickey Mouse (e)(720)" tvg-logo="http://54.39.156.227:2080/images/655e0a3a58c6dfab467ddbb5717c5dac.png" group-title="24/7 VIP",24/7  La Casa de Mickey Mouse (e)(720)
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68159
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Looney Tunes (e)" tvg-logo="http://54.39.156.227:2080/images/fde7d760a14ef79cccc85db1bbe2e0b3.png" group-title="24/7 VIP",24/7  Looney Tunes (e)
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68160
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Malcolm in the Middle (e)(720)" tvg-logo="http://54.39.156.227:2080/images/a1807277b2733f6a750eb46eaf09f6c2.png" group-title="24/7 VIP",24/7 VIP | Malcolm in the Middle (e)(720)
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (e)" tvg-logo="http://54.39.156.227:2080/images/f35e9058d7ff962e9d33eddd5d2a8a23.png" group-title="24/7 VIP",24/7 Super Campeones (e)
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68162
+#EXTINF:-1 tvg-id="" tvg-name="Cuentos de la Cripta" tvg-logo="http://54.39.156.227:2080/images/c6a5ea570385f12a39dcd4c72a70a7db.png" group-title="24/7 VIP",Cuentos de la Cripta
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68182
+#EXTINF:-1 tvg-id="" tvg-name="DC Hero Super Girls" tvg-logo="http://54.39.156.227:2080/images/db5eb5f179b753d8580be7c13d3a9794.png" group-title="24/7 VIP",DC Hero Super Girls
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68183
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="http://54.39.156.227:2080/images/ca62c90387ec9f926798343616e10aaf.png" group-title="24/7 VIP",Dinosaurios
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68184
+#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="http://54.39.156.227:2080/images/bfe19caf90171b4d9afda238f2f7e548.png" group-title="24/7 VIP",Doug
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68185
+#EXTINF:-1 tvg-id="" tvg-name="El Laboratorio de Dexter" tvg-logo="http://54.39.156.227:2080/images/a125a6b2a71e23adc002ac7fbe1a1042.png" group-title="24/7 VIP",El Laboratorio de Dexter
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68186
+#EXTINF:-1 tvg-id="" tvg-name="Escandalosos 1" tvg-logo="http://54.39.156.227:2080/images/da10fc1d85d90633b3fe54d3ad5a16f2.png" group-title="24/7 VIP",Escandalosos 1
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68188
+#EXTINF:-1 tvg-id="" tvg-name="Escandalosos 2" tvg-logo="http://54.39.156.227:2080/images/fe53463ce88bec0e7e8e8f27c498e6cf.png" group-title="24/7 VIP",Escandalosos 2
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68189
+#EXTINF:-1 tvg-id="" tvg-name="Escandalosos 3" tvg-logo="http://54.39.156.227:2080/images/03ab28931a2d1fbe8a6493a72cb41dfc.png" group-title="24/7 VIP",Escandalosos 3
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68190
+#EXTINF:-1 tvg-id="" tvg-name="Fenomenoide" tvg-logo="http://54.39.156.227:2080/images/5832e1ce428dca0dbdfd2cb84d9c40e8.png" group-title="24/7 VIP",Fenomenoide
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68191
+#EXTINF:-1 tvg-id="" tvg-name="Gallo claudio" tvg-logo="http://54.39.156.227:2080/images/c4154439a9ea513f599c3ddf8edc14bc.png" group-title="24/7 VIP",Gallo claudio
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68192
+#EXTINF:-1 tvg-id="" tvg-name="Grupo Increible" tvg-logo="http://54.39.156.227:2080/images/6f0bb6b2b51f54a0fc742bab91fa45ee.png" group-title="24/7 VIP",Grupo Increible
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68193
+#EXTINF:-1 tvg-id="" tvg-name="Huevos Verdes con Jamon" tvg-logo="http://54.39.156.227:2080/images/7e4270c9edf5a72a13a0eca08522163b.png" group-title="24/7 VIP",Huevos Verdes con Jamon
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68194
+#EXTINF:-1 tvg-id="" tvg-name="La Resistencia" tvg-logo="http://54.39.156.227:2080/images/3d95f56d911011e8c2c182376a2aba0b.png" group-title="24/7 VIP",La Resistencia
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68197
+#EXTINF:-1 tvg-id="" tvg-name="La Resistencia Canal 2" tvg-logo="http://54.39.156.227:2080/images/33c47de0a1e5afab114ac4668e63b695.png" group-title="24/7 VIP",La Resistencia Canal 2
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68198
+#EXTINF:-1 tvg-id="" tvg-name="Little Pet Shop" tvg-logo="http://54.39.156.227:2080/images/abfbafc9254e6b5020bcccecc01a12e7.png" group-title="24/7 VIP",Little Pet Shop
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68201
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas" tvg-logo="http://54.39.156.227:2080/images/75c594251772811a952cf10cbc1a1676.png" group-title="24/7 VIP",Los Cazafantasmas
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68205
+#EXTINF:-1 tvg-id="" tvg-name="Los Gatos Samurai" tvg-logo="http://54.39.156.227:2080/images/b5b09237c67d16a8f648b60a9a305c46.png" group-title="24/7 VIP",Los Gatos Samurai
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68207
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Bean" tvg-logo="http://54.39.156.227:2080/images/59cbdd7172b27a41fa3aa0e18b1b16d8.png" group-title="24/7 VIP",Mr.Bean
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/68213
+#EXTINF:-1 tvg-id="" tvg-name="Pato Darwing" tvg-logo="http://54.39.156.227:2080/images/d6504b5fa73abe141ff9a4124352207f.png" group-title="24/7 VIP",Pato Darwing
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/68214
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="http://54.39.156.227:2080/images/daa730c1eb59c94587e0f2e4b8ef33a6.png" group-title="24/7 VIP",Peppa Pig
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68215
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Sofia" tvg-logo="http://54.39.156.227:2080/images/f515b7116d0c565bc8e683625dfba603.png" group-title="24/7 VIP",Princesa Sofia
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68216
+#EXTINF:-1 tvg-id="" tvg-name="Street Shark" tvg-logo="http://54.39.156.227:2080/images/142ca6283f8fb70c6dcbab9261613c64.png" group-title="24/7 VIP",Street Shark
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68217
 #EXTM3U
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="SERIE ANIME", HY | IPTVHUARMEY
 https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
