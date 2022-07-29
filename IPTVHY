@@ -102,7 +102,7 @@ https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" nada="Noticias" group-title="TELE CABLE", MegaMix Tv
 https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMMNhkf.png" nada="Noticias" group-title="TELE CABLE", Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
 #EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" nada="Noticias" group-title="TELE CABLE", Radio Nueva Q
@@ -342,6 +342,15 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" nada="24/7" group-title="Lista 01", Alf 24/7
+http://bgapp.live/play/14--799.php?c=426&dir=bllackgghost&f=.m3u8|user-agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" nada="24/7" group-title="Lista 01", La Rosa de Guadalupe 24/7
+http://bgapp.live/play/14--799.php?c=886&dir=bllackgghost&f=.m3u8|user-agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" nada="24/7" group-title="Lista 01", Le Temes a la Oscuridad 24/7
+http:/#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" nada="24/7" group-title="Lista 01", One Punch Man 24/7
+http://bgapp.live/play/14--799.php?c=661&dir=bllackgghost&f=.m3u8|user-agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="Lista 01", Smallville 24/7
+http://bgapp.live/play/14--799.php?c=673&dir=bllackgghost&f=.m3u8|user-agent=stagefright/1.2
 
 #EXTINF:-1 tvg-id="" tvg-name="Moviecenter Premium" tvg-logo="http://54.39.156.227:2080/images/cba656ddfe995a606780de09d0c52169.png" group-title="24/7 VIP",Moviecenter Premium
 http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68163
