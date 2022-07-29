@@ -2,14 +2,16 @@
 
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", HY | IPTVHUARMEY
 https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV1
-http://bgapp.live/play/14--799.php?c=317&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA1 TV1
+http://bgapp.live/play/14--799.php?c=317&dir=blackghosts&f=.m3u8|user-agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA1 TV2
+http://bgapp.live/play/14--799.php?c=782&dir=blackghosts&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV2
 http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/73033
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV3
 http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/73034
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV1
-http://bgapp.live/play/14--799.php?c=780&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--799.php?c=780&dir=blackghosts&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV2
 http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/73027
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV3
@@ -19,9 +21,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV2
 http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/73029
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV3
-http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/73030
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV +
 http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/73031
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV +
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/73030
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="TELE CABLE", Perú TV
@@ -73,164 +75,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" nada="Entretenimiento" group-title="TELE CABLE", A&E
-http://bgapp.live/play/14--799.php?c=1&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" nada="Mexico" group-title="TELE CABLE", A+
-http://bgapp.live/play/14--799.php?c=406&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" nada="España" group-title="TELE CABLE", A3Series
-http://bgapp.live/play/14--799.php?c=444&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" nada="Noticias" group-title="TELE CABLE", ADN 40
-http://bgapp.live/play/14--799.php?c=447&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="Entretenimiento" group-title="TELE CABLE", AMC
-http://bgapp.live/play/14--799.php?c=183&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" nada="España" group-title="TELE CABLE", AMC ES
-http://bgapp.live/play/14--799.php?c=715&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="TELE CABLE", AXN
-http://bgapp.live/play/14--799.php?c=146&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="Entretenimiento" group-title="TELE CABLE", AXN Sur
-http://bgapp.live/play/14--799.php?c=804&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" nada="España" group-title="TELE CABLE", AXN WHITE (ES)
-http://bgapp.live/play/14--799.php?c=714&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" nada="Peliculas" group-title="TELE CABLE", Az Cinema
-http://bgapp.live/play/14--799.php?c=186&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" nada="Entretenimiento" group-title="TELE CABLE", Az Clic
-http://bgapp.live/play/14--799.php?c=165&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" nada="Entretenimiento" group-title="TELE CABLE", Az Corazón
-http://bgapp.live/play/14--799.php?c=166&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" nada="Infantiles" group-title="TELE CABLE", Baby TV
-http://bgapp.live/play/14--799.php?c=7&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" nada="Musica" group-title="TELE CABLE", Bandamax
-http://bgapp.live/play/14--799.php?c=8&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" nada="Mexico" group-title="TELE CABLE", Canal de las Estrellas
-http://bgapp.live/play/14--799.php?c=411&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" nada="Deportes" group-title="TELE CABLE", Canal+ Toros
-http://bgapp.live/play/14--799.php?c=369&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" nada="Colombia" group-title="TELE CABLE", Caracol
-http://bgapp.live/play/14--799.php?c=391&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" nada="Infantiles" group-title="TELE CABLE", Cartoon Network
-http://bgapp.live/play/14--799.php?c=17&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" nada="Infantiles" group-title="TELE CABLE", Cartoonito (Boomerang)
-http://bgapp.live/play/14--799.php?c=11&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" nada="Infantiles" group-title="TELE CABLE", Cartoonito Sur
-http://bgapp.live/play/14--799.php?c=735&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" nada="Deportes" group-title="TELE CABLE", CDO Premium
-http://bgapp.live/play/14--799.php?c=401&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Accion
-http://bgapp.live/play/14--799.php?c=699&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Accion Sagas
-http://bgapp.live/play/14--799.php?c=700&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Comedia 1
-http://bgapp.live/play/14--799.php?c=695&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Ficcion/Fantasia 1
-http://bgapp.live/play/14--799.php?c=709&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Ficcion/Fantasia 2
-http://bgapp.live/play/14--799.php?c=710&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" nada="HD" group-title="TELE CABLE", Cine Ficcion/Fantasia
-http://bgapp.live/play/14--799.php?c=712&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Infantil
-http://bgapp.live/play/14--799.php?c=687&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Romance
-http://bgapp.live/play/14--799.php?c=689&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Terror
-http://bgapp.live/play/14--799.php?c=693&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" nada="Peliculas" group-title="TELE CABLE", Cine Zombis
-http://bgapp.live/play/14--799.php?c=688&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="Peliculas" group-title="TELE CABLE", Cinecanal
-http://bgapp.live/play/14--799.php?c=18&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" nada="HD" group-title="TELE CABLE", Cinecanal
-http://bgapp.live/play/14--799.php?c=479&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" nada="Cultura" group-title="TELE CABLE", Discovery Channel
-http://bgapp.live/play/14--799.php?c=22&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" nada="Cultura" group-title="TELE CABLE", Discovery Civilization
-http://bgapp.live/play/14--799.php?c=23&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" nada="Infantiles" group-title="TELE CABLE", Discovery Kids
-http://bgapp.live/play/14--799.php?c=25&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" nada="Cultura" group-title="TELE CABLE", Discovery SCI
-http://bgapp.live/play/14--799.php?c=26&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" nada="Cultura" group-title="TELE CABLE", Discovery Theater
-http://bgapp.live/play/14--799.php?c=27&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" nada="Cultura" group-title="TELE CABLE", Discovery Turbo
-http://bgapp.live/play/14--799.php?c=28&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" nada="Cultura" group-title="TELE CABLE", Discovery World
-http://bgapp.live/play/14--799.php?c=187&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" nada="Infantiles" group-title="TELE CABLE", Disney Channel
-http://bgapp.live/play/14--799.php?c=29&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="TELE CABLE", Disney Junior
-http://bgapp.live/play/14--799.php?c=30&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" nada="Infantiles" group-title="TELE CABLE", Disney Junior Sur
-http://bgapp.live/play/14--799.php?c=743&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="TELE CABLE", FX
-http://bgapp.live/play/14--799.php?c=42&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" nada="Entretenimiento" group-title="TELE CABLE", FX Sur
-http://bgapp.live/play/14--799.php?c=749&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" nada="Peliculas" group-title="TELE CABLE", FXM
-http://bgapp.live/play/14--799.php?c=43&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" nada="Deportes" group-title="TELE CABLE", Gol TV
-http://bgapp.live/play/14--799.php?c=287&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" nada="Peliculas" group-title="TELE CABLE", Golden
-http://bgapp.live/play/14--799.php?c=57&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" nada="Peliculas" group-title="TELE CABLE", Golden Edge
-http://bgapp.live/play/14--799.php?c=58&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" nada="Cultura" group-title="TELE CABLE", H2
-http://bgapp.live/play/14--799.php?c=61&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" nada="Peliculas" group-title="TELE CABLE", HBO Plus
-http://bgapp.live/play/14--799.php?c=64&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" nada="Chile" group-title="TELE CABLE", Mega
-http://bgapp.live/play/14--799.php?c=766&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" nada="Infantiles" group-title="TELE CABLE", Nick
-http://bgapp.live/play/14--799.php?c=78&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" nada="Infantiles" group-title="TELE CABLE", Nick Toons
-http://bgapp.live/play/14--799.php?c=80&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" nada="Infantiles" group-title="TELE CABLE", Nickelodeon
-http://bgapp.live/play/14--799.php?c=184&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" nada="Peliculas" group-title="TELE CABLE", Paramount
-http://bgapp.live/play/14--799.php?c=200&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" nada="Entretenimiento" group-title="TELE CABLE", Sony
-http://bgapp.live/play/14--799.php?c=145&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="TELE CABLE", Space
-http://bgapp.live/play/14--799.php?c=83&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" nada="Peliculas" group-title="TELE CABLE", Space Sur
-http://bgapp.live/play/14--799.php?c=751&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" nada="Entretenimiento" group-title="TELE CABLE", Star
-http://bgapp.live/play/14--799.php?c=45&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" nada="Peliculas" group-title="TELE CABLE", Studio Universal
-http://bgapp.live/play/14--799.php?c=84&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" nada="Peliculas" group-title="TELE CABLE", SyFy
-http://bgapp.live/play/14--799.php?c=151&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" nada="Entretenimiento" group-title="TELE CABLE", TBS Very Funny
-http://bgapp.live/play/14--799.php?c=171&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" nada="Peliculas" group-title="TELE CABLE", TCM
-http://bgapp.live/play/14--799.php?c=85&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" nada="Infantiles" group-title="TELE CABLE", TeenNick
-http://bgapp.live/play/14--799.php?c=882&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" nada="Entretenimiento" group-title="TELE CABLE", Telemundo
-http://bgapp.live/play/14--799.php?c=92&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" nada="Ecuador" group-title="TELE CABLE", Televicentro
-http://bgapp.live/play/14--799.php?c=776&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" nada="Entretenimiento" group-title="TELE CABLE", TLC
-http://bgapp.live/play/14--799.php?c=87&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" nada="Entretenimiento" group-title="TELE CABLE", Tlnovelas
-http://bgapp.live/play/14--799.php?c=94&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" nada="Peliculas" group-title="TELE CABLE", TNT
-http://bgapp.live/play/14--799.php?c=179&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" nada="Infantiles" group-title="TELE CABLE", Tooncast
-http://bgapp.live/play/14--799.php?c=95&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" nada="Entretenimiento" group-title="TELE CABLE", TruTV
-http://bgapp.live/play/14--799.php?c=96&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" nada="Deportes" group-title="TELE CABLE", UFC Network
-http://bgapp.live/play/14--799.php?c=97&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" nada="Entretenimiento" group-title="TELE CABLE", Unicable
-http://bgapp.live/play/14--799.php?c=98&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" nada="Peliculas" group-title="TELE CABLE", Universal
-http://bgapp.live/play/14--799.php?c=137&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" nada="Colombia" group-title="TELE CABLE", Uno
-http://bgapp.live/play/14--799.php?c=775&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" nada="Musica" group-title="TELE CABLE", VH1
-http://bgapp.live/play/14--799.php?c=101&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" nada="Entretenimiento" group-title="TELE CABLE", Warner Channel
-http://bgapp.live/play/14--799.php?c=102&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="TELE CABLE", Karibena TV
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Más Cumbia
@@ -279,13 +123,180 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
 https://conectperu.com/8084/stream
 #EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="TELE CABLE", Radio Oasis
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal planet" tvg-logo="http://tutv.online:2080/images/baca836dfda1fb29c2f9d31f3347b72f.jpg" group-title="TELE CABLE",Animal planet
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72602
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://tutv.online:2080/images/afeda469188fbc964d949faa482b7b57.png" group-title="TELE CABLE",AXN
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72603
+#EXTINF:-1 tvg-id="" tvg-name="AXN 2" tvg-logo="http://tutv.online:2080/images/7786bacd7989b343e43033b2e5616035.jpg" group-title="TELE CABLE",AXN 2
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72604
+#EXTINF:-1 tvg-id="" tvg-name="Baby tv" tvg-logo="http://tutv.online:2080/images/19c4dcafb60bb07440ff8e81735860d2.jpg" group-title="TELE CABLE",Baby tv
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72605
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="TELE CABLE",Boomerang
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72606
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon network" tvg-logo="http://tutv.online:2080/images/5c16401b009f76b3c6b8ad1a4171e707.jpg" group-title="TELE CABLE",Cartoon network
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72607
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="http://tutv.online:2080/images/e2b1aada153348f9705db085595b49c1.jpg" group-title="TELE CABLE",Cinecanal
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72608
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://tutv.online:2080/images/428278e380ff2c85fee8977372367fa0.jpg" group-title="TELE CABLE",Cinemax
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72609
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="TELE CABLE",Comedy Central
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72610
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://tutv.online:2080/images/63819d180e2d5f365485a1d9aba559f6.jpg" group-title="TELE CABLE",Discovery H&H
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72611
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HH" tvg-logo="" group-title="TELE CABLE",Discovery HH
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72612
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="" group-title="TELE CABLE",Discovery ID
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72613
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://tutv.online:2080/images/53ce0cccbcc6eec4db62288aaea23fd5.jpg" group-title="TELE CABLE",Discovery Kids
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72614
+#EXTINF:-1 tvg-id="" tvg-name="Discovery science" tvg-logo="http://tutv.online:2080/images/86ab9c19f186006e2b997c52a50ab2e8.jpg" group-title="TELE CABLE",Discovery science
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72615
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="http://tutv.online:2080/images/89f8987e601e3ea4a2d854a474f98b66.jpg" group-title="TELE CABLE",Discovery Theater
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72616
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://tutv.online:2080/images/3bb400c2c435054c15c573ab53b240f4.jpg" group-title="TELE CABLE",Discovery Turbo
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72617
+#EXTINF:-1 tvg-id="" tvg-name="Discovery world" tvg-logo="http://tutv.online:2080/images/b0d8d0ebcb36494c77c526c4ad2a76ff.jpg" group-title="TELE CABLE",Discovery world
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72618
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://tutv.online:2080/images/ff3b46a2d552e4ddeb97b85c9722f212.jpg" group-title="TELE CABLE",Disney
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72619
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="TELE CABLE",Disney Channel
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72620
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="" group-title="TELE CABLE",Disney Jr
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72621
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="TELE CABLE",Disney XD
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72622
+#EXTINF:-1 tvg-id="" tvg-name="Disney Xd" tvg-logo="http://tutv.online:2080/images/497c41befd7a868339c1e6c78d35fe00.jpg" group-title="TELE CABLE",Disney Xd
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72623
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://tutv.online:2080/images/4e16cbaaa77524b40ed305e7636551c9.jpg" group-title="TELE CABLE",E!
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72624
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://tutv.online:2080/images/13407b161144a92582fb561b82afff8c.jpg" group-title="TELE CABLE",ESPN 2
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72625
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="" group-title="TELE CABLE",ESPN 2 SD
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72626
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 MX" tvg-logo="http://tutv.online:2080/images/3e99c57a516c085d9c222e40aebc7129.jpg" group-title="TELE CABLE",Espn 3 MX
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72627
+#EXTINF:-1 tvg-id="" tvg-name="FoodNetwork" tvg-logo="" group-title="TELE CABLE",FoodNetwork
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72628
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="http://tutv.online:2080/images/1e6dd5dfab2ebc2be769b1f4b6061161.jpg" group-title="TELE CABLE",Fox
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72629
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="TELE CABLE",Fox Sports 2
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72636
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="http://tutv.online:2080/images/2cf5d5fc31884936f0cae9a785231988.jpg" group-title="TELE CABLE",Fox Sports 2
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72637
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="TELE CABLE",Fox Sports 3
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72638
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="http://tutv.online:2080/images/2adcf887829af7bd2edbcf8ee30ee15b.jpg" group-title="TELE CABLE",Fox Sports 3
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72639
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://tutv.online:2080/images/ee3af9c759b504ff68489f373faf4395.jpg" group-title="TELE CABLE",FX
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72640
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="http://tutv.online:2080/images/e74bd9e67dd3d79a45a6f2e87a38f440.jpg" group-title="TELE CABLE",FXM
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72641
+#EXTINF:-1 tvg-id="" tvg-name="Garage tv" tvg-logo="http://tutv.online:2080/images/5f766a864a6ae36a07070942dcd40ac6.jpg" group-title="TELE CABLE",Garage tv
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72642
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="http://tutv.online:2080/images/b2f8348d8546a77d41ccdd1a44f31302.jpg" group-title="TELE CABLE",Glitz
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72643
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="http://tutv.online:2080/images/9b7fe2293350be0d0d8a40f3ddebc79f.jpg" group-title="TELE CABLE",Golden Edge
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72644
+#EXTINF:-1 tvg-id="" tvg-name="Golden premier" tvg-logo="http://tutv.online:2080/images/6b319af52d51829cb8696c6e2cb01df8.jpg" group-title="TELE CABLE",Golden premier
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72645
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="http://tutv.online:2080/images/e544abcb7a2358e3a0a976fc7a1304c6.jpg" group-title="TELE CABLE",Gourmet
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72646
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://tutv.online:2080/images/f74ac322ccadd655e02f4047887c190f.jpg" group-title="TELE CABLE",H2
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72647
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="TELE CABLE",HBO
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72648
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://tutv.online:2080/images/02533372af53048a55cf973c53c4ce87.jpg" group-title="TELE CABLE",HBO
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72649
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://tutv.online:2080/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="TELE CABLE",HBO 2
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72650
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://tutv.online:2080/images/481ec90131b0e092cbd876838ebe470b.jpg" group-title="TELE CABLE",HBO Family
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72651
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="http://tutv.online:2080/images/8a45b9998a48dba0d9c10c36a53bea5a.jpg" group-title="TELE CABLE",HBO Mundi
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72652
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://tutv.online:2080/images/a86efb16e5fd6c4c0088e6e9b4395516.jpg" group-title="TELE CABLE",HBO Plus
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72653
+#EXTINF:-1 tvg-id="" tvg-name="HBO plus" tvg-logo="" group-title="TELE CABLE",HBO plus
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72654
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://tutv.online:2080/images/a20f8ec39496fe46ee53029da3857b51.jpg" group-title="TELE CABLE",HBO Signature
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72655
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://tutv.online:2080/images/0be1813f97b44c06f7a1dea0375c3347.jpg" group-title="TELE CABLE",History
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72656
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="http://tutv.online:2080/images/a4c7dc56186aaf14cb52b6ad6e320d91.jpg" group-title="TELE CABLE",ID
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72657
+#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="" group-title="TELE CABLE",ISAT
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72658
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="" group-title="TELE CABLE",Las Estrellas
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72659
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="http://tutv.online:2080/images/5a179f36e05be5de5f11a6d9b18cd974.jpg" group-title="TELE CABLE",Las Estrellas
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72660
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://tutv.online:2080/images/af6d5979d026e2ff72e59b6c07d43c99.jpg" group-title="TELE CABLE",Lifetime
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72661
+#EXTINF:-1 tvg-id="" tvg-name="Mtv" tvg-logo="http://tutv.online:2080/images/01028a1c1f5e370cb8810b4fdabf0a0c.jpg" group-title="TELE CABLE",Mtv
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72662
+#EXTINF:-1 tvg-id="" tvg-name="Mtv hits" tvg-logo="http://tutv.online:2080/images/217134c2e76727ea441f8c8921d1e077.jpg" group-title="TELE CABLE",Mtv hits
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72663
+#EXTINF:-1 tvg-id="" tvg-name="Mtv live" tvg-logo="http://tutv.online:2080/images/cd8cef52185d44f663e1bdffc5e0c105.jpg" group-title="TELE CABLE",Mtv live
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72664
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="http://tutv.online:2080/images/58a3e93c4e5150ac365bdbb797c5e0aa.jpg" group-title="TELE CABLE",NatGeo
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72665
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="http://tutv.online:2080/images/8d4016cf2ed774f49016d73db5e6de35.jpg" group-title="TELE CABLE",NatGeo Kids
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72666
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo wild" tvg-logo="http://tutv.online:2080/images/f95930e7b2223c1263a4d7dbd29d1b17.png" group-title="TELE CABLE",Natgeo wild
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72667
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="http://tutv.online:2080/images/2c6133653c1d5a9ac1d218496b5df791.jpg" group-title="TELE CABLE",Nick
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72668
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="http://tutv.online:2080/images/873617b13e37ed8f7555877af676d66b.jpg" group-title="TELE CABLE",Nick 2
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72669
+#EXTINF:-1 tvg-id="" tvg-name="Nick jr" tvg-logo="http://tutv.online:2080/images/260731e2014e244eefeb75fd1e0d3186.jpg" group-title="TELE CABLE",Nick jr
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72670
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="TELE CABLE",Nickelodeon
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72671
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://tutv.online:2080/images/79e39a2873e546b47535d61bf529f84c.jpg" group-title="TELE CABLE",Paramount
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72672
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="TELE CABLE",Sony
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72673
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="http://tutv.online:2080/images/1a93dd997a0fb83af2396ef410d17ca8.jpg" group-title="TELE CABLE",Sony
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72674
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="TELE CABLE",Space
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72675
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://tutv.online:2080/images/b78785f9ed11ffb7b7870d7cde89e079.jpg" group-title="TELE CABLE",Space
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72676
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://tutv.online:2080/images/1a0a994e9d87e0e303421d0089195907.jpg" group-title="TELE CABLE",Studio Universal
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72677
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://tutv.online:2080/images/84f295a8a30196aa3b3fad1728e34417.png" group-title="TELE CABLE",SYFY
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72678
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://tutv.online:2080/images/2069b17df0a3ad6902ee27ee67d9fc20.jpg" group-title="TELE CABLE",TCM
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72679
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://tutv.online:2080/images/ebf0da5a2d0f1eb1dd3be6cded326926.jpg" group-title="TELE CABLE",TLC
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72680
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://tutv.online:2080/images/fcf30b01227bfe3588de50820bd4df12.jpg" group-title="TELE CABLE",TNT
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72681
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://tutv.online:2080/images/fcf30b01227bfe3588de50820bd4df12.jpg" group-title="TELE CABLE",TNT
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72682
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://tutv.online:2080/images/84f295a8a30196aa3b3fad1728e34417.png" group-title="TELE CABLE",TNT Series
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72683
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://tutv.online:2080/images/ced66c004ca531439a9e498bea0815b3.jpg" group-title="TELE CABLE",Tooncast
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72684
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://tutv.online:2080/images/b4981328e694a736689950ca93ad944a.jpg" group-title="TELE CABLE",TUDN
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72685
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="http://tutv.online:2080/images/c7c67e2bf38a525cc809364bf60eea9c.jpg" group-title="TELE CABLE",Unicable
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/72686
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="http://tutv.online:2080/images/0e2bcebdc68d2c85a8db50aaa1f981fe.png" group-title="TELE CABLE",Universal
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/72687
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="http://tutv.online:2080/images/0ebb697a60717af3c135a8ebb1cf8730.png" group-title="TELE CABLE",Universal Channel
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72688
+#EXTINF:-1 tvg-id="" tvg-name="Vh1" tvg-logo="http://tutv.online:2080/images/013797fd8e6f04603cff4a729269fa31.png" group-title="TELE CABLE",Vh1
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/72689
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="http://tutv.online:2080/images/4fdd874941dc0f539644a3e3b2d4570d.png" group-title="TELE CABLE",Warner
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/72690
+
+
+
 #EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg" nada="Noticias" group-title="TELE CABLE", Cine Terror TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", DEATH NOTE
@@ -412,64 +423,6 @@ http://bgapp.live/play/14--799.php?c=810&dir=Blackghoost&f=.m3u8|user-agent=stag
 http://bgapp.live/play/14--799.php?c=669&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" nada="24/7" group-title="TELE CABLE", Smallville 24/7
 http://bgapp.live/play/14--799.php?c=673&dir=Blackghoost&f=.m3u8|user-agent=stagefright/1.2
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="SERIE ANIME", HY | IPTVHUARMEY
-https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino1
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino2
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino3
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino4
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino5
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino6
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino7
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino8
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino9
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino10
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino11
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 1 Latino12
-https://archive.org/download/one-punch-man-1-latino/One%20Punch%20Man%201%20Latino%2012.mp4
-
-#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="SERIE ANIME", HY | IPTVHUARMEY
-https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino1
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino2
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino3
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino4
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2004.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino5
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino6
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino7
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2007.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino8
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2008.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino9
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino10
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino11
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SERIE ANIME" tvg-logo="https://i.imgur.com/SEcMsQQ.jpg" group-title="SERIE ANIME",HY | One Punch Man Temporada 2 Latino12
-https://archive.org/download/one-punch-man-2-latino/One%20Punch%20Man%202%20Latino%2012.mp4
 
 
 #EXTM3U
