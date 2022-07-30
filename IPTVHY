@@ -2,16 +2,14 @@
 
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", HY | IPTVHUARMEY
 https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA1 TV1
-http://bgapp.live/play/14--799.php?c=317&dir=blackghosts&f=.m3u8|user-agent=stagefright/1.2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA1 TV2
-http://bgapp.live/play/14--799.php?c=782&dir=blackghosts&f=.m3u8|user-agent=stagefright/1.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV1
+http://bgapp.live/play/14--731.php?c=317&dir=bllackgghost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV2
 http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/73033
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV3
 http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/73034
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV1
-http://bgapp.live/play/14--799.php?c=780&dir=blackghosts&f=.m3u8|user-agent=stagefright/1.2
+http://bgapp.live/play/14--731.php?c=780&dir=bllackgghost&f=.m3u8|user-agent=stagefright/1.2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV2
 http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/73027
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV3
@@ -345,199 +343,134 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Lazy Town" tvg-logo="" group-title="24/7",Lazy Town
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/235
 #EXTINF:-1 tvg-id="" tvg-name="Barnie y sus amigos" tvg-logo="" group-title="24/7",Barnie y sus amigos
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/236
 #EXTINF:-1 tvg-id="" tvg-name="Dora la exploradora" tvg-logo="" group-title="24/7",Dora la exploradora
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/237
 #EXTINF:-1 tvg-id="" tvg-name="PJ Masks" tvg-logo="" group-title="24/7",PJ Masks
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/238
 #EXTINF:-1 tvg-id="" tvg-name="caillou" tvg-logo="" group-title="24/7",caillou
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/239
 #EXTINF:-1 tvg-id="" tvg-name="Jorge el Curioso" tvg-logo="" group-title="24/7",Jorge el Curioso
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/240
 #EXTINF:-1 tvg-id="" tvg-name="peppa pig" tvg-logo="" group-title="24/7",peppa pig
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/241
 #EXTINF:-1 tvg-id="" tvg-name="happy tree friends" tvg-logo="" group-title="24/7",happy tree friends
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/242
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7",Los picapiedras
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/243
 #EXTINF:-1 tvg-id="" tvg-name="Le temes a la oscuridad" tvg-logo="" group-title="24/7",Le temes a la oscuridad
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/244
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Rosa 80s" tvg-logo="" group-title="24/7",Pantera Rosa 80s
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/245
 #EXTINF:-1 tvg-id="" tvg-name="Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/246
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="24/7",Power Rangers
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/247
 #EXTINF:-1 tvg-id="" tvg-name="Cuentos Hermanos Grimm" tvg-logo="" group-title="24/7",Cuentos Hermanos Grimm
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/248
 #EXTINF:-1 tvg-id="" tvg-name="Robotech" tvg-logo="" group-title="24/7",Robotech
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/249
 #EXTINF:-1 tvg-id="" tvg-name="Estrenos 2018" tvg-logo="" group-title="24/7",Estrenos 2018
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/250
 #EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="" group-title="24/7",El Chapulin Colorado
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/251
 #EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="" group-title="24/7",Death Note
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/252
 #EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="" group-title="24/7",CSI Miami
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/253
 #EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="" group-title="24/7",Alf
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/254
 #EXTINF:-1 tvg-id="" tvg-name="X-men 90s" tvg-logo="" group-title="24/7",X-men 90s
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/255
 #EXTINF:-1 tvg-id="" tvg-name="Vete a la Versh" tvg-logo="" group-title="24/7",Vete a la Versh
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/256
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead" tvg-logo="" group-title="24/7",The Walking Dead
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/257
 #EXTINF:-1 tvg-id="" tvg-name="Super campeones" tvg-logo="" group-title="24/7",Super campeones
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/258
 #EXTINF:-1 tvg-id="" tvg-name="strangerthings" tvg-logo="" group-title="24/7",strangerthings
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/259
 #EXTINF:-1 tvg-id="" tvg-name="Spiderman 80s" tvg-logo="" group-title="24/7",Spiderman 80s
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/260
 #EXTINF:-1 tvg-id="" tvg-name="Sounth Park" tvg-logo="" group-title="24/7",Sounth Park
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/261
 #EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="" group-title="24/7",Smallville
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/262
 #EXTINF:-1 tvg-id="" tvg-name="Shera" tvg-logo="" group-title="24/7",Shera
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/263
 #EXTINF:-1 tvg-id="" tvg-name="Señor de los cielos" tvg-logo="" group-title="24/7",Señor de los cielos
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/264
 #EXTINF:-1 tvg-id="" tvg-name="Sailormoon" tvg-logo="" group-title="24/7",Sailormoon
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/265
 #EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="" group-title="24/7",Pokemon
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/266
 #EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="" group-title="24/7",Pinky y Cerebro
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/267
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas Terror" tvg-logo="" group-title="24/7",Peliculas Terror
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/268
 #EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar" tvg-logo="" group-title="24/7",Pablo Escobar
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/269
 #EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="" group-title="24/7",Naruto
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/270
 #EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="" group-title="24/7",Mazinger Z
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/271
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="" group-title="24/7",Malcolm el de enmedio
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/272
 #EXTINF:-1 tvg-id="" tvg-name="Luis Miguel" tvg-logo="" group-title="24/7",Luis Miguel
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/273
 #EXTINF:-1 tvg-id="" tvg-name="Los Thundercats" tvg-logo="" group-title="24/7",Los Thundercats
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/275
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="24/7",Los Simpsons
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/276
 #EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="" group-title="24/7",La Rosa de Guadalupe
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/277
 #EXTINF:-1 tvg-id="" tvg-name="Heman" tvg-logo="" group-title="24/7",Heman
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/278
 #EXTINF:-1 tvg-id="" tvg-name="Game Of Throne" tvg-logo="" group-title="24/7",Game Of Throne
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/279
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7",Futurama
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/280
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/281
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="" group-title="24/7",Dragon Ball Super
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/282
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/283
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball" tvg-logo="" group-title="24/7",Dragon ball
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/284
 #EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="" group-title="24/7",Dinosaurios
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/285
 #EXTINF:-1 tvg-id="" tvg-name="Coraje el perro cobarde" tvg-logo="" group-title="24/7",Coraje el perro cobarde
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/286
 #EXTINF:-1 tvg-id="" tvg-name="Años Maravillosos" tvg-logo="" group-title="24/7",Años Maravillosos
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/287
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7",La casa de papel
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/288
 #EXTINF:-1 tvg-id="" tvg-name="El chema" tvg-logo="" group-title="24/7",El chema
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/289
 #EXTINF:-1 tvg-id="" tvg-name="El chavo" tvg-logo="" group-title="24/7",El chavo
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/290
 #EXTINF:-1 tvg-id="" tvg-name="caballerosdel zodiaco" tvg-logo="" group-title="24/7",caballerosdel zodiaco
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/291
 #EXTINF:-1 tvg-id="" tvg-name="Breaking bad" tvg-logo="https://i.blogs.es/16e585/breaking-bad/450_1000.jpg" group-title="24/7",Breaking bad
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/292
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="https://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2018/19/bob_esponja_9564_800x576.png" group-title="24/7",Bob Esponja 24/7
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/293
 #EXTINF:-1 tvg-id="" tvg-name="El mago enmascarado" tvg-logo="" group-title="24/7",El mago enmascarado
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/401
 #EXTINF:-1 tvg-id="" tvg-name="The Mandalorian" tvg-logo="" group-title="24/7",The Mandalorian
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/402
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas Infantiles" tvg-logo="" group-title="24/7",Peliculas Infantiles
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/403
 #EXTINF:-1 tvg-id="" tvg-name="Las chicas Superpoderosas" tvg-logo="" group-title="24/7",Las chicas Superpoderosas
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/404
 #EXTINF:-1 tvg-id="" tvg-name="Laboratorio de Dexter" tvg-logo="" group-title="24/7",Laboratorio de Dexter
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/405
 #EXTINF:-1 tvg-id="" tvg-name="Los Aventureros del Aire" tvg-logo="" group-title="24/7",Los Aventureros del Aire
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/406
 #EXTINF:-1 tvg-id="" tvg-name="Patoaventuras" tvg-logo="" group-title="24/7",Patoaventuras
-#EXTVLCOPT:http-user-agent=paraplayer
 https://s1.dominiopersonal.xyz:2083/paraplayer/dqiuQwJNr9/407
 
 
