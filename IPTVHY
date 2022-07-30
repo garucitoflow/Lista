@@ -124,6 +124,7 @@ https://conectperu.com/8084/stream
 #EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="TELE CABLE", Radio Oasis
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Animal planet" tvg-logo="http://tutv.online:2080/images/baca836dfda1fb29c2f9d31f3347b72f.jpg" group-title="TELE CABLE",Animal planet
 http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/72602
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://tutv.online:2080/images/afeda469188fbc964d949faa482b7b57.png" group-title="TELE CABLE",AXN
@@ -341,6 +342,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Lazy Town" tvg-logo="" group-title="24/7",Lazy Town
 #EXTVLCOPT:http-user-agent=paraplayer
@@ -695,9 +697,36 @@ http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/68215
 http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/68216
 #EXTINF:-1 tvg-id="" tvg-name="Street Shark" tvg-logo="http://54.39.156.227:2080/images/142ca6283f8fb70c6dcbab9261613c64.png" group-title="24/7 VIP",Street Shark
 http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/68217
-#EXTM3U
-#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="SERIE ANIME", HY | IPTVHUARMEY
-https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | Directv Sports + Peru" tvg-logo="http://tutv.online:2080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title=" **DEPORTES PERU**⚽ ",PE | Directv Sports + Peru
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/17739
+#EXTINF:-1 tvg-id="" tvg-name="PE | Directv Sports 2 Peru" tvg-logo="http://tutv.online:2080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title=" **DEPORTES PERU**⚽ ",PE | Directv Sports 2 Peru
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/17738
+#EXTINF:-1 tvg-id="" tvg-name="PE | Directv Sports Peru" tvg-logo="http://tutv.online:2080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title=" **DEPORTES PERU**⚽ ",PE | Directv Sports Peru
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17737
+#EXTINF:-1 tvg-id="" tvg-name="PE | Espn 2 Peru" tvg-logo="http://tutv.online:2080/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title=" **DEPORTES PERU**⚽ ",PE | Espn 2 Peru
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/17741
+#EXTINF:-1 tvg-id="" tvg-name="PE | Espn 3 Peru" tvg-logo="http://tutv.online:2080/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title=" **DEPORTES PERU**⚽ ",PE | Espn 3 Peru
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/17742
+#EXTINF:-1 tvg-id="" tvg-name="PE | Espn Peru" tvg-logo="http://tutv.online:2080/images/250124906e29f14ae64a4748f4ae406c.png" group-title=" **DEPORTES PERU**⚽ ",PE | Espn Peru
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/17740
+#EXTINF:-1 tvg-id="" tvg-name="PE | Fox Sports 2 Peru" tvg-logo="http://tutv.online:2080/images/1314d4c37fd8fe8a3b175d3f784949a5.png" group-title=" **DEPORTES PERU**⚽ ",PE | Fox Sports 2 Peru
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17745
+#EXTINF:-1 tvg-id="" tvg-name="PE | Fox Sports 3 Peru" tvg-logo="http://tutv.online:2080/images/e758968361c4eb53a63cd2630a04fbfd.png" group-title=" **DEPORTES PERU**⚽ ",PE | Fox Sports 3 Peru
+http://tutv.online:2080/cliente5_abril_00g/fepG9YabtyJd/17746
+#EXTINF:-1 tvg-id="" tvg-name="PE | Fox Sports Peru" tvg-logo="http://tutv.online:2080/images/0bc0dc56189bc06df245f2c7c6ffc601.png" group-title=" **DEPORTES PERU**⚽ ",PE | Fox Sports Peru
+http://tutv.online:2080/cliente1_abril_00g/Xvuf6NDP2LPs/17744
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru" tvg-logo="http://tutv.online:2080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title=" **DEPORTES PERU**⚽ ",PE | Gol Peru
+http://tutv.online:2080/cliente2_abril_00g/RFsCdZYG929L/17747
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru HD" tvg-logo="http://tutv.online:2080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title=" **DEPORTES PERU**⚽ ",PE | Gol Peru HD
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/17748
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="http://tutv.online:2080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title=" **DEPORTES PERU**⚽ ",PE | Gol TV  Peru
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17749
+#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Deportes HD" tvg-logo="http://tutv.online:2080/images/178ef2f7470b66b624e2301e73822078.png" group-title=" **DEPORTES PERU**⚽ ",PE | Movistar Deportes HD
+http://tutv.online:2080/cliente3_abril_00g/PzSWS8uHagMs/17753
+#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Plus" tvg-logo="http://tutv.online:2080/images/178ef2f7470b66b624e2301e73822078.png" group-title=" **DEPORTES PERU**⚽ ",PE | Movistar Plus
+http://tutv.online:2080/cliente4_abril_00g/GM2U7QJAM4hR/17754
 
 
 #EXTINF:-1 tvg-id="" tvg-name="2010: Odisea dos (1984)" tvg-logo="http://tutv.online:2080/images/176731cfdbabc0d013cc9cefdd49f22c.jpg" group-title="CIENCIA FICCION",2010: Odisea dos (1984)
