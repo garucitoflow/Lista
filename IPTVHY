@@ -3,16 +3,12 @@
 #EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", HY | IPTVHUARMEY
 https://ia801406.us.archive.org/34/items/intro-iptvhy/INTRO_IPTVHY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV1
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=OlNUm07voD4w3qGmlw64jw&expires=1659768406&ip=181.66.176.83
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV2
 http://tutv.online:2080/cliente2_abril_00h/RFsCdZYG929L/73033
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV2
 http://tutv.online:2080/cliente3_abril_00h/PzSWS8uHagMs/73034
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV1
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/5_.m3u8?token=9DhL4H_c2th779D6YjGTEA&expires=1659768343&ip=181.66.176.83
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV2
 http://tutv.online:2080/cliente2_abril_00h/RFsCdZYG929L/73027
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV2
 http://tutv.online:2080/cliente3_abril_00h/PzSWS8uHagMs/73028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV1
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
@@ -343,13 +339,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/893f53c159eab9178ab181bad8da4262.png" nada="Noticias" group-title="TELE CABLE", Alf
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=0rGF-4Yi9hpK2ONrSdSGSQ&expires=1659768436&ip=181.66.176.83
-#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/e393a5bc9e78f46ab9d441bc8a0cd807.png" nada="Noticias" group-title="TELE CABLE", Dragon Ball Super
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=zRenrJS6m7_fwuYl1OaNwA&expires=1659768566&ip=181.66.176.83
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wy0WURw.jpg" nada="Noticias" group-title="TELE CABLE", Terror TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/196_.m3u8?token=J9htpXoKZfCLmpveyaO6mA&expires=1659768685&ip=181.66.176.83
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Alf (e)(SD)" tvg-logo="http://castlempire.site:8080/images/893f53c159eab9178ab181bad8da4262.png" group-title="⭐️⭐️SUPER VIP- 24/7 ⭐️⭐️",24/7 VIP | Alf (e)(SD)
