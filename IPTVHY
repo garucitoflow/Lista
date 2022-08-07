@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/IwlC6bV.png" group-title="TELE CABLE", HY | IPTVHUARMEY
+#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="TELE CABLE", HY | IPTVHUARMEY
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA SD
 http://tutv.online:2080/cliente1_abril_00i/Xvuf6NDP2LPs/73033
