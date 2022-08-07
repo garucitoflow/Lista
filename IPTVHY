@@ -24,8 +24,12 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="http://tutv.online:2080/images/169e17a912d6f7eeda4b17487d20f01e.png" nada="Noticias" group-title="TELE CABLE", Exitosa FHD
 https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/2442044e1391e59708f00020c5e61198.png" nada="Noticias" group-title="TELE CABLE", Goresam TV
+https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1b2a4d24338b3c56680b8837a91be53b.png" nada="Noticias" group-title="TELE CABLE", Master Television
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" nada="Noticias" group-title="TELE CABLE", Huacho Perú TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oew9unJ.png" nada="Noticias" group-title="TELE CABLE", Piura TV 
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLk6TPY.png" nada="Noticias" group-title="TELE CABLE", Visión Noticias Perú TV
@@ -34,6 +38,8 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fSkmoA.png" nada="Noticias" group-title="TELE CABLE", CNC Digital TV
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" nada="Noticias" group-title="TELE CABLE", OK TeVe
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" nada="Noticias" group-title="TELE CABLE", Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" nada="Noticias" group-title="TELE CABLE", Super Canal TV
@@ -42,10 +48,18 @@ https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" nada="Noticias" group-title="TELE CABLE", Proyecta TV
 https://servilive.com:3194/live/proyectatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8G2fjBZ.png" nada="Noticias" group-title="TELE CABLE", Central TV Chosica
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" nada="Noticias" group-title="TELE CABLE", Telecolor TV HD
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xVcnmE3.png" nada="Noticias" group-title="TELE CABLE", QT Televisión TV
 https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" nada="Noticias" group-title="TELE CABLE", Genios TV HD
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tebr5wH.png" nada="Noticias" group-title="TELE CABLE", Uchu TV
 http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUoqJrC.png" nada="Noticias" group-title="TELE CABLE", Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bVTjvp6.png" nada="Noticias" group-title="TELE CABLE", Cable Netword TV
 https://tv.inka.net.pe/cntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5O42NQ.png" nada="Noticias" group-title="TELE CABLE", TecSatel Cine TV
@@ -72,6 +86,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="TELE CABLE", Karibena TV SD
 https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png" nada="Noticias" group-title="TELE CABLE", Canal 8 Catacaos
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Más Cumbia
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Music
@@ -98,6 +114,18 @@ https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMMNhkf.png" nada="Noticias" group-title="TELE CABLE", Top Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmPpWCj.png" nada="Noticias" group-title="TELE CABLE", Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" nada="Noticias" group-title="TELE CABLE", Memorias TV
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" nada="Noticias" group-title="TELE CABLE", DMJ
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNLXCYu.png" nada="Noticias" group-title="TELE CABLE", Mundo de la Musica TV
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTsrPFY.png" nada="Noticias" group-title="TELE CABLE", Vision Musica TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
 #EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" nada="Noticias" group-title="TELE CABLE", Radio Nueva Q
@@ -118,6 +146,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
 https://conectperu.com/8084/stream
 #EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="TELE CABLE", Radio Oasis
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfbtXd1.png" nada="Deportes" group-title="TELE CABLE", Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6PPcJ2.png" nada="Deportes" group-title="TELE CABLE", Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8XmCRK.png" nada="Deportes" group-title="TELE CABLE", Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal planet" tvg-logo="http://tutv.online:2080/images/baca836dfda1fb29c2f9d31f3347b72f.jpg" group-title="TELE CABLE", Animal planet
