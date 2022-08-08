@@ -8,8 +8,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
 http://tutv.online:2080/cliente1_abril_00i/Xvuf6NDP2LPs/73033
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA HD
 http://tutv.online:2080/cliente2_abril_00i/RFsCdZYG929L/73034
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://tvgo.americatv.com.pe/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA SD
 http://tutv.online:2080/cliente1_abril_00i/Xvuf6NDP2LPs/73027
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA HD
