@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GARUCITO IPTV" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="TELE CABLE", HY | IPTVHUARMEY
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TV Huarmey
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA SD
 http://tutv.online:2080/cliente1_abril_00i/Xvuf6NDP2LPs/73033
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA HD
@@ -33,7 +29,7 @@ https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvNLE8f.png" nada="Noticias" group-title="TELE CABLE", Esports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" nada="Noticias" group-title="TELE CABLE", Huacho Perú TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?PlaylistM3UCL
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oew9unJ.png" nada="Noticias" group-title="TELE CABLE", Piura TV 
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLk6TPY.png" nada="Noticias" group-title="TELE CABLE", Visión Noticias Perú TV
@@ -1104,118 +1100,3 @@ http://tutv.online:2080/cliente2_abril_00i/RFsCdZYG929L/71654
 http://tutv.online:2080/cliente3_abril_00i/PzSWS8uHagMs/71655
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Zoids (s)(SD)" tvg-logo="http://castlempire.site:8080/images/dc1a172d4e08af36d123b75f5e77dc88.png" group-title="⭐️⭐️SUPER VIP- 24/7 ⭐️⭐️",24/7 VIP | Zoids (s)(SD)
 http://tutv.online:2080/cliente4_abril_00i/GM2U7QJAM4hR/71656
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Los secretos de la selva (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6FMNFl4mAnwFC5vgAGi2acmQlC.jpg" group-title="ANIME",Pokémon: Los secretos de la selva (2020)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/60070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: el despertar de los héroes (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH5stD5pTogbZVXadIKQyMSKzTt.jpg" group-title="ANIME",My Hero Academia: el despertar de los héroes (2019)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/5491.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Stand by Me, Doraemon (2014)" tvg-logo="http://54.39.156.227:2080/images/d312f7a0977241cf22c93ed3bf3e6c58.jpg" group-title="ANIME",Stand by Me, Doraemon (2014)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/7569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El niño y la bestia (2015)" tvg-logo="http://tutv.online:2080/images/295951696aced094820b99d4b51066dc.jpg" group-title="ANIME",El niño y la bestia (2015)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/7743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El caso de Hana y Alice (2015)" tvg-logo="http://tutv.online:2080/images/e3c29e911605de9c5afc622781ed1806.jpg" group-title="ANIME",El caso de Hana y Alice (2015)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/7763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los niños lobo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixTNHHU8Wx0F8V4NzGJaiRcl18F.jpg" group-title="ANIME",Los niños lobo (2012)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/8510.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: El camino hacia el más fuerte (1996)" tvg-logo="http://54.39.156.227:2080/images/ba60bfed9d1f2da4ed941d8f95bb525f.jpg" group-title="ANIME",Dragon Ball: El camino hacia el más fuerte (1996)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9742.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: El camino hacia el más fuerte (1996)" tvg-logo="http://54.39.156.227:2080/images/ba60bfed9d1f2da4ed941d8f95bb525f.jpg" group-title="ANIME",Dragon Ball: El camino hacia el más fuerte (1996)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9743.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La leyenda del dragón Shenron (1986)" tvg-logo="http://tutv.online:2080/images/b68feb16722378271887cfd14bddaf30.jpg" group-title="ANIME",Dragon Ball: La leyenda del dragón Shenron (1986)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9744.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La leyenda del dragón Shenron (1986)" tvg-logo="http://tutv.online:2080/images/b68feb16722378271887cfd14bddaf30.jpg" group-title="ANIME",Dragon Ball: La leyenda del dragón Shenron (1986)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9745.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La leyenda del dragón Shenron (1986)" tvg-logo="http://tutv.online:2080/images/b68feb16722378271887cfd14bddaf30.jpg" group-title="ANIME",Dragon Ball: La leyenda del dragón Shenron (1986)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9746.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La Bella Durmiente en el Castillo Embrujado (1987)" tvg-logo="http://54.39.156.227:25461/images/3364084ad0ab6e06ebea51e2f115bb20.jpg" group-title="ANIME",Dragon Ball: La Bella Durmiente en el Castillo Embrujado (1987)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9747.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: La Bella Durmiente en el Castillo Embrujado (1987)" tvg-logo="http://54.39.156.227:25461/images/3364084ad0ab6e06ebea51e2f115bb20.jpg" group-title="ANIME",Dragon Ball: La Bella Durmiente en el Castillo Embrujado (1987)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9748.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Una Aventura mística (1988)" tvg-logo="http://54.39.156.227:2080/images/293fb1479f77c4253d9e638a7728aed8.jpg" group-title="ANIME",Dragon Ball: Una Aventura mística (1988)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9749.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: Una Aventura mística (1988)" tvg-logo="http://54.39.156.227:2080/images/293fb1479f77c4253d9e638a7728aed8.jpg" group-title="ANIME",Dragon Ball: Una Aventura mística (1988)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9750.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Garlic Junior Inmortal (1989)" tvg-logo="http://tutv.online:2080/images/fb6a8ace2c58c08a00d2ad6d930d2bea.jpg" group-title="ANIME",Dragon Ball Z: Garlic Junior Inmortal (1989)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Garlic Junior Inmortal (1989)" tvg-logo="http://tutv.online:2080/images/fb6a8ace2c58c08a00d2ad6d930d2bea.jpg" group-title="ANIME",Dragon Ball Z: Garlic Junior Inmortal (1989)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9753.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El ataque del dragón (1995)" tvg-logo="http://54.39.156.227:2080/images/aa4af98daca12df5f2cfe2514878b901.jpg" group-title="ANIME",Dragon Ball Z: El ataque del dragón (1995)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9754.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El ataque del dragón (1995)" tvg-logo="http://54.39.156.227:2080/images/aa4af98daca12df5f2cfe2514878b901.jpg" group-title="ANIME",Dragon Ball Z: El ataque del dragón (1995)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9755.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://54.39.156.227:2080/images/926c5dcdb8c07ba33f1fd6a4c48779d9.jpg" group-title="ANIME",Dragon Ball Z: El combate definitivo (1994)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9756.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://54.39.156.227:2080/images/926c5dcdb8c07ba33f1fd6a4c48779d9.jpg" group-title="ANIME",Dragon Ball Z: El combate definitivo (1994)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9757.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El combate definitivo (1994)" tvg-logo="http://54.39.156.227:2080/images/926c5dcdb8c07ba33f1fd6a4c48779d9.jpg" group-title="ANIME",Dragon Ball Z: El combate definitivo (1994)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9758.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="http://tutv.online:2080/images/147cecc210d642d69458c79d529ee0bc.jpg" group-title="ANIME",Dragon Ball Z: El más fuerte del mundo (1990)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="http://tutv.online:2080/images/147cecc210d642d69458c79d529ee0bc.jpg" group-title="ANIME",Dragon Ball Z: El más fuerte del mundo (1990)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9760.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El más fuerte del mundo (1990)" tvg-logo="http://tutv.online:2080/images/147cecc210d642d69458c79d529ee0bc.jpg" group-title="ANIME",Dragon Ball Z: El más fuerte del mundo (1990)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9761.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Estalla el duelo (1993)" tvg-logo="http://tutv.online:2080/images/2a886de0b80e9649b26d83d5b6f67796.jpg" group-title="ANIME",Dragon Ball Z: Estalla el duelo (1993)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Estalla el duelo (1993)" tvg-logo="http://tutv.online:2080/images/2a886de0b80e9649b26d83d5b6f67796.jpg" group-title="ANIME",Dragon Ball Z: Estalla el duelo (1993)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9763.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El regreso de Broly (1994)" tvg-logo="http://tutv.online:2080/images/3c8203312471eaad823ae6bb25ed5029.jpg" group-title="ANIME",Dragon Ball Z: El regreso de Broly (1994)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: El super guerrero Son Goku (1991)" tvg-logo="http://tutv.online:2080/images/5fe4f8934b6dd5a0327a30be01437f6a.jpg" group-title="ANIME",Dragon Ball Z: El super guerrero Son Goku (1991)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - La Batalla de Freezer contra el Padre de Goku (1990)-003" tvg-logo="https://www.themoviedb.org/t/p/original/mnFEyVcDlSshzl65hEdWoYXtnm3.jpg" group-title="ANIME",Dragon Ball Z - La Batalla de Freezer contra el Padre de Goku (1990)-003
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La batalla de los dioses (2013)" tvg-logo="http://54.39.156.227:2080/images/8742d895a6fc2f65a9aff0c06a04ab70.jpg" group-title="ANIME",Dragon Ball Z: La batalla de los dioses (2013)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La batalla de los dioses (2013)" tvg-logo="http://54.39.156.227:2080/images/8742d895a6fc2f65a9aff0c06a04ab70.jpg" group-title="ANIME",Dragon Ball Z: La batalla de los dioses (2013)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La batalla de los dioses (2013)" tvg-logo="http://54.39.156.227:2080/images/8742d895a6fc2f65a9aff0c06a04ab70.jpg" group-title="ANIME",Dragon Ball Z: La batalla de los dioses (2013)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La super batalla (1990)" tvg-logo="http://tutv.online:2080/images/58bfcf06fb7a8db51e16422c0d5b3768.jpg" group-title="ANIME",Dragon Ball Z: La super batalla (1990)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="http://tutv.online:2080/images/1cb2aab62c0d9605639e23604e41afc0.jpg" group-title="ANIME",Dragon Ball Z: ¡Fusión! (1995)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="http://tutv.online:2080/images/1cb2aab62c0d9605639e23604e41afc0.jpg" group-title="ANIME",Dragon Ball Z: ¡Fusión! (1995)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: ¡Fusión! (1995)" tvg-logo="http://tutv.online:2080/images/1cb2aab62c0d9605639e23604e41afc0.jpg" group-title="ANIME",Dragon Ball Z: ¡Fusión! (1995)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los guerreros de plata (1993)" tvg-logo="http://tutv.online:2080/images/e4902e7d8317f375297bfc6956db89df.jpg" group-title="ANIME",Dragon Ball Z: Los guerreros de plata (1993)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los guerreros de plata (1993)" tvg-logo="http://tutv.online:2080/images/e4902e7d8317f375297bfc6956db89df.jpg" group-title="ANIME",Dragon Ball Z: Los guerreros de plata (1993)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los guerreros de plata (1993)" tvg-logo="http://tutv.online:2080/images/e4902e7d8317f375297bfc6956db89df.jpg" group-title="ANIME",Dragon Ball Z: Los guerreros de plata (1993)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="http://tutv.online:2080/images/bc90d78b500bdc6edeb59e73bf40e1d6.jpg" group-title="ANIME",Dragon Ball Z: Los tres grandes Super Saiyans (1992)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los tres grandes Super Saiyans (1992)" tvg-logo="http://tutv.online:2080/images/bc90d78b500bdc6edeb59e73bf40e1d6.jpg" group-title="ANIME",Dragon Ball Z: Los tres grandes Super Saiyans (1992)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La resurrección de Freezer (2015)" tvg-logo="http://54.39.156.227:2080/images/a980c839c383c5da6780a1c01031a9ad.jpg" group-title="ANIME",Dragon Ball Z: La resurrección de Freezer (2015)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La resurrección de Freezer (2015)" tvg-logo="http://54.39.156.227:2080/images/a980c839c383c5da6780a1c01031a9ad.jpg" group-title="ANIME",Dragon Ball Z: La resurrección de Freezer (2015)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: La resurrección de Freezer (2015)" tvg-logo="http://54.39.156.227:2080/images/a980c839c383c5da6780a1c01031a9ad.jpg" group-title="ANIME",Dragon Ball Z: La resurrección de Freezer (2015)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Un futuro diferente - Gohan y Trunks (1993)" tvg-logo="http://tutv.online:2080/images/171285d8a46d89ba15b221cfbc03b896.jpg" group-title="ANIME",Dragon Ball Z: Un futuro diferente - Gohan y Trunks (1993)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Un futuro diferente - Gohan y Trunks (1993)" tvg-logo="http://tutv.online:2080/images/171285d8a46d89ba15b221cfbc03b896.jpg" group-title="ANIME",Dragon Ball Z: Un futuro diferente - Gohan y Trunks (1993)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/9783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Guerreros de fuerza ilimitada (1992)" tvg-logo="http://tutv.online:2080/images/044bc8e889e00cb54ec018f117a5496e.jpg" group-title="ANIME",Dragon Ball Z: Guerreros de fuerza ilimitada (1992)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/9784.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Guerreros de fuerza ilimitada (1992)" tvg-logo="http://tutv.online:2080/images/044bc8e889e00cb54ec018f117a5496e.jpg" group-title="ANIME",Dragon Ball Z: Guerreros de fuerza ilimitada (1992)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/9785.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="http://tutv.online:2080/images/6ed146e15274b5ff33658ac5521761fb.jpg" group-title="ANIME",Dragon Ball Z: Los mejores rivales (1991)
-http://tutv.online:2080/movie/cliente1_abril_00i/Xvuf6NDP2LPs/9786.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Los mejores rivales (1991)" tvg-logo="http://tutv.online:2080/images/6ed146e15274b5ff33658ac5521761fb.jpg" group-title="ANIME",Dragon Ball Z: Los mejores rivales (1991)
-http://tutv.online:2080/movie/cliente2_abril_00i/RFsCdZYG929L/9787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Doraemon y el reino perruno (2014)" tvg-logo="http://54.39.156.227:2080/images/7777263724bca2ca65b7f5df9d82826f.jpg" group-title="ANIME",Doraemon y el reino perruno (2014)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/12059.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dino King 3D: Journey to Fire Mountain (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHqgeCXnPOcVpaU56AZZwJNHZt4.jpg" group-title="ANIME",Dino King 3D: Journey to Fire Mountain (2019)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/12498.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Quest: Your Story (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hehlwNM5Lpzo7ndkint6RnpQGeo.jpg" group-title="ANIME",Dragon Quest: Your Story (2019)
-http://tutv.online:2080/movie/cliente4_abril_00i/GM2U7QJAM4hR/12502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon: Mewtwo contraataca - Evolución (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioh4pSEaXWof5P9tLbkUivYpVlK.jpg" group-title="ANIME",Pokémon: Mewtwo contraataca - Evolución (2019)
-http://tutv.online:2080/movie/cliente5_abril_00i/fepG9YabtyJd/12605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stand by Me, Doraemon 2 (2020)" tvg-logo="http://54.39.156.227:2080/images/a824d307795289d113f9ddac6a5fd7e5.jpg" group-title="ANIME",Stand by Me, Doraemon 2 (2020)
-http://tutv.online:2080/movie/cliente3_abril_00i/PzSWS8uHagMs/69347.mp4
