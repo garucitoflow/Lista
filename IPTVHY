@@ -6,6 +6,8 @@ http://tutv.online:2080/cliente1_abril_00k/Xvuf6NDP2LPs/73033
 http://tutv.online:2080/cliente2_abril_00k/RFsCdZYG929L/73034
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", HUARMEY TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", LOCAL TV
+rtsp://localhost:554/iptvhy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA SD
 http://tutv.online:2080/cliente1_abril_00k/Xvuf6NDP2LPs/73027
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA HD
