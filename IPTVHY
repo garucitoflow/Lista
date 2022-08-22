@@ -6,8 +6,8 @@ http://tutv.online:2080/cliente1_abril_00k/Xvuf6NDP2LPs/73033
 http://tutv.online:2080/cliente2_abril_00k/RFsCdZYG929L/73034
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", HUARMEY TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", LOCAL TV
-rtsp://localhost:554/iptvhy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TELEJASH HY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA SD
 http://tutv.online:2080/cliente1_abril_00k/Xvuf6NDP2LPs/73027
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA HD
@@ -1366,3 +1366,5 @@ http://tutv.online:2080/cliente2_abril_00k/RFsCdZYG929L/18088
 http://tutv.online:2080/cliente4_abril_00k/GM2U7QJAM4hR/18085
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | ThunderCats (ES)" tvg-logo="http://tutv.online:36995/images/efdd3651d74aa035f9af4beac330de5c.png" group-title="24/7 Kids",24/7 | ThunderCats (ES)
 http://tutv.online:2080/cliente3_abril_00k/PzSWS8uHagMs/18046
+
+
