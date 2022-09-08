@@ -140,6 +140,62 @@ https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GTsrPFY.png" nada="Noticias" group-title="TELE CABLE", Vision Musica TV
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+
+#EXTINF:-1 group-title="TELE CABLE",Anime Zone TV
+http://iptvcanales.xyz/canales/live/69/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Chavo del 8
+http://iptvcanales.xyz/canales/tvfree/150/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Got Talent
+http://iptvcanales.xyz/canales/live/79/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Alf
+http://iptvcanales.xyz/canales/tvfree/128/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Dragon Ball
+http://iptvcanales.xyz/canales/tvfree/191/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",South Park
+http://iptvcanales.xyz/canales/tvfree/146/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Disney World
+http://iptvcanales.xyz/canales/envivo/disneyworld/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Peliculas PTY
+http://iptvcanales.xyz/canales/envivo/peliculaspty/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Central TV
+http://iptvcanales.xyz/canales/envivo/centraltv/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Retro TV
+http://iptvcanales.xyz/canales/envivo/compumaster/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Yellow Hale
+http://iptvcanales.xyz/canales/envivo/yellowhale/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Nicoya TV
+http://iptvcanales.xyz/canales/live/240/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",WMS HD
+http://iptvcanales.xyz/canales/live/159/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Cine Cable
+http://iptvcanales.xyz/canales/live/87/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Cine Club
+http://iptvcanales.xyz/canales/live/88/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",TV Mas HD
+http://iptvcanales.xyz/canales/live/90/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Orbit TV
+http://iptvcanales.xyz/canales/live/91/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",ACV Movies
+http://iptvcanales.xyz/canales/live/96/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Geovision
+http://iptvcanales.xyz/canales/live/130/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",74 TV
+http://iptvcanales.xyz/canales/live/131/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Ready HD
+http://iptvcanales.xyz/canales/live/132/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",FMTV Super Classics
+http://iptvcanales.xyz/canales/live/73/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",FMTV Super Cine
+http://iptvcanales.xyz/canales/live/74/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Retro TV
+http://iptvcanales.xyz/canales/live/76/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Zee Mundo
+http://iptvcanales.xyz/canales/live/77/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",DanTV
+http://iptvcanales.xyz/canales/live/33/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Peliculas de Terror
 
 
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
@@ -176,8 +232,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", DEATH NOTE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO 2
@@ -216,14 +270,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/8d27600b0cae5308441ddf6d9bb3c74c.png" nada="Noticias" group-title="TELE CABLE", 1 Dragon Ball Z - Saga Cell 24/7
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/wuarfare
-#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/8d27600b0cae5308441ddf6d9bb3c74c.png" nada="Noticias" group-title="TELE CABLE", 2 Dragon Ball Z - Saga Cell 24/7
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/thezonemovie
 #EXTINF:-1 tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" nada="Noticias" group-title="TELE CABLE", 3 Dragon Ball Super 24/7
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/chavo_mania
+
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-chno="331" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Infantil",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
