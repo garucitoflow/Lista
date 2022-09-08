@@ -1,20 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV
-https://vsd136.mycdn.me/hls/2640807922247.m3u8/sig/7zOhLyPEFSk/expires/1662715394152/srcIp/181.66.151.248/clientType/0/srcAg/CHROME_ANDROID/mid/5673785892423/video.m3u8?p
+http://iptvcanales.xyz/canales/tvfree/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", HUARMEY TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TELEJASH HY
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV
-https://usher.ttvnw.net/api/channel/hls/me_015.m3u8?allow_source=true&fast_bread=true&p=44663&play_session_id=20c990d1f4ade693d1d37cbbb9e4c34d&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=5bb8edf6588f4854f4b88d544a657c9a588093d6&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22me_015%22%2C%22channel_id%22%3A806551533%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22df28a89ebc2cb755%22%2C%22expires%22%3A1662630336%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.66.151.248%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
+http://iptvcanales.xyz/canales/tvfree/5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV FHD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" nada="Noticias" group-title="TELE CABLE", CANAL N
 http://iptvcanales.xyz/canales/tvfree/197/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" nada="Noticias" group-title="TELE CABLE", WILLAX TV
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0WzzkpJiDjPBiERnnCotQrvYO0ZYqk4S4XNkNUCc2rqu1BensYjkE5gyBOgdGAZjPA&dmTs=297982&dmV1st=56E3756982E3248ECB28A94B76B6976C
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana SD
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="TELE CABLE", Perú TV SD
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-3-3.png" nada="Noticias" group-title="TELE CABLE", CONGRESO TV
+https://www.youtube.com/embed/tOfSQ6JKYL0
 #EXTINF:-1 tvg-logo="http://tutv.online:2080/images/169e17a912d6f7eeda4b17487d20f01e.png" nada="Noticias" group-title="TELE CABLE", Exitosa FHD
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/2442044e1391e59708f00020c5e61198.png" nada="Noticias" group-title="TELE CABLE", Goresam TV
