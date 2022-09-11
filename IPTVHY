@@ -1,0 +1,1198 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV
+http://iptvcanales.xyz/canales/tvfree/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", HUARMEY TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TELEJASH HY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV
+http://iptvcanales.xyz/canales/tvfree/5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV FHD
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" nada="Noticias" group-title="TELE CABLE", CANAL N
+http://iptvcanales.xyz/canales/tvfree/197/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" nada="Noticias" group-title="TELE CABLE", WILLAX TV
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0WzzkpJiDjPBiERnnCotQrvYO0ZYqk4S4XNkNUCc2rqu1BensYjkE5gyBOgdGAZjPA&dmTs=297982&dmV1st=56E3756982E3248ECB28A94B76B6976C
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana SD
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="TELE CABLE", Perú TV SD
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-3-3.png" nada="Noticias" group-title="TELE CABLE", CONGRESO TV
+https://www.youtube.com/embed/tOfSQ6JKYL0
+#EXTINF:-1 tvg-logo="http://tutv.online:2080/images/169e17a912d6f7eeda4b17487d20f01e.png" nada="Noticias" group-title="TELE CABLE", Exitosa FHD
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/2442044e1391e59708f00020c5e61198.png" nada="Noticias" group-title="TELE CABLE", Goresam TV
+https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/1b2a4d24338b3c56680b8837a91be53b.png" nada="Noticias" group-title="TELE CABLE", Master Television
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvNLE8f.png" nada="Noticias" group-title="TELE CABLE", Esports Max TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" nada="Noticias" group-title="TELE CABLE", Huacho Perú TV
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oew9unJ.png" nada="Noticias" group-title="TELE CABLE", Piura TV 
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLk6TPY.png" nada="Noticias" group-title="TELE CABLE", Visión Noticias Perú TV
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" nada="Noticias" group-title="TELE CABLE", Controversia TV
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fSkmoA.png" nada="Noticias" group-title="TELE CABLE", CNC Digital TV
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" nada="Noticias" group-title="TELE CABLE", OK TeVe
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" nada="Noticias" group-title="TELE CABLE", Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pjcWDJW.png" nada="Noticias" group-title="TELE CABLE", TPTO TV (Tarapoto)
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" nada="Noticias" group-title="TELE CABLE", Super Canal TV
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8UObjI.png" nada="Noticias" group-title="TELE CABLE", X TV (Chachapoyas)
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GaEfzuG.png" nada="Noticias" group-title="TELE CABLE", Sistema 1 TV
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sj4sEaN.png" nada="Noticias" group-title="TELE CABLE", Tevex TV
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" nada="Noticias" group-title="TELE CABLE", Proyecta TV
+https://servilive.com:3194/live/proyectatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lu61Tos.jpg" nada="Noticias" group-title="TELE CABLE", Zona Joven TV
+https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8G2fjBZ.png" nada="Noticias" group-title="TELE CABLE", Central TV Chosica
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" nada="Noticias" group-title="TELE CABLE", Telecolor TV HD
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVcnmE3.png" nada="Noticias" group-title="TELE CABLE", QT Televisión TV
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" nada="Noticias" group-title="TELE CABLE", Genios TV HD
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tebr5wH.png" nada="Noticias" group-title="TELE CABLE", Uchu TV
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUoqJrC.png" nada="Noticias" group-title="TELE CABLE", Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVTjvp6.png" nada="Noticias" group-title="TELE CABLE", Cable Netword TV
+https://tv.inka.net.pe/cntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5O42NQ.png" nada="Noticias" group-title="TELE CABLE", TecSatel Cine TV
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFad8KR.png" nada="Noticias" group-title="TELE CABLE", Tv faces Online
+https://tvdatta.com:3211/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" nada="Noticias" group-title="TELE CABLE", SEO TV SERIES
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DI7ZTi9.png" nada="Noticias" group-title="TELE CABLE", CreoTV
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cVUmoKE.png" nada="Noticias" group-title="TELE CABLE", Lima Live TV
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VkobI4.png" nada="Noticias" group-title="TELE CABLE", Cajamarca TV
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F166GPP.png" nada="Noticias" group-title="TELE CABLE", Super TV
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TitYGtR.png" nada="Noticias" group-title="TELE CABLE", Clips TV
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFrP2GE.png" nada="Noticias" group-title="TELE CABLE", La Luz TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxEBT6I.png" nada="Noticias" group-title="TELE CABLE", CharapaTV
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" nada="Noticias" group-title="TELE CABLE", Best Cable Perú
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" nada="Novelas" group-title="TELE CABLE", SEO TV Novelas
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="TELE CABLE", Karibena TV SD
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png" nada="Noticias" group-title="TELE CABLE", Canal 8 Catacaos
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Más Cumbia
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Music
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEx1LP9.png" nada="Noticias" group-title="TELE CABLE", Conecta2TV
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6zqmnG.png" nada="Noticias" group-title="TELE CABLE",  Hatun Tv
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" nada="Noticias" group-title="TELE CABLE", Latin Mix Radio
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xvMDTe9.png" nada="Noticias" group-title="TELE CABLE", Radio San Borja TV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y37ookm.jpg" nada="Noticias" group-title="TELE CABLE", FoxMix TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svgW3Fr.png" nada="Noticias" group-title="TELE CABLE", Vallenato Internacional TV
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" nada="Noticias" group-title="TELE CABLE", SanjuaneraTV
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" nada="Noticias" group-title="TELE CABLE", Sumac TV
+https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qusd5mT.png" nada="Noticias" group-title="TELE CABLE", La Ribereña (Pucallpa)
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L45zrbj.png" nada="Noticias" group-title="TELE CABLE", Sol Stereo TV
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" nada="Noticias" group-title="TELE CABLE", MegaMix Tv
+https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VMMNhkf.png" nada="Noticias" group-title="TELE CABLE", Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmPpWCj.png" nada="Noticias" group-title="TELE CABLE", Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" nada="Noticias" group-title="TELE CABLE", Memorias TV
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" nada="Noticias" group-title="TELE CABLE", DMJ
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNLXCYu.png" nada="Noticias" group-title="TELE CABLE", Mundo de la Musica TV
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTsrPFY.png" nada="Noticias" group-title="TELE CABLE", Vision Musica TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
+
+#EXTINF:-1 group-title="TELE CABLE",Anime Zone TV
+http://iptvcanales.xyz/canales/live/69/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Chavo del 8
+http://iptvcanales.xyz/canales/tvfree/150/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Got Talent
+http://iptvcanales.xyz/canales/live/79/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Alf
+http://iptvcanales.xyz/canales/tvfree/128/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Dragon Ball
+http://iptvcanales.xyz/canales/tvfree/191/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",South Park
+http://iptvcanales.xyz/canales/tvfree/146/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Disney World
+http://iptvcanales.xyz/canales/envivo/disneyworld/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Peliculas PTY
+http://iptvcanales.xyz/canales/envivo/peliculaspty/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Central TV
+http://iptvcanales.xyz/canales/envivo/centraltv/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Retro TV
+http://iptvcanales.xyz/canales/envivo/compumaster/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Yellow Hale
+http://iptvcanales.xyz/canales/envivo/yellowhale/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Nicoya TV
+http://iptvcanales.xyz/canales/live/240/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",WMS HD
+http://iptvcanales.xyz/canales/live/159/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Cine Cable
+http://iptvcanales.xyz/canales/live/87/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Cine Club
+http://iptvcanales.xyz/canales/live/88/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",TV Mas HD
+http://iptvcanales.xyz/canales/live/90/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Orbit TV
+http://iptvcanales.xyz/canales/live/91/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",ACV Movies
+http://iptvcanales.xyz/canales/live/96/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Geovision
+http://iptvcanales.xyz/canales/live/130/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",74 TV
+http://iptvcanales.xyz/canales/live/131/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Ready HD
+http://iptvcanales.xyz/canales/live/132/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",FMTV Super Classics
+http://iptvcanales.xyz/canales/live/73/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",FMTV Super Cine
+http://iptvcanales.xyz/canales/live/74/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Retro TV
+http://iptvcanales.xyz/canales/live/76/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Zee Mundo
+http://iptvcanales.xyz/canales/live/77/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",DanTV
+http://iptvcanales.xyz/canales/live/33/playlist.m3u8
+#EXTINF:-1 group-title="TELE CABLE",Peliculas de Terror
+
+
+#EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
+#EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" nada="Noticias" group-title="TELE CABLE", Radio Nueva Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" nada="Noticias" group-title="TELE CABLE", Radio La Zona
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" nada="Noticias" group-title="TELE CABLE", Radio La Ribereña
+http://167.114.118.120:7274/;stream
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" nada="Noticias" group-title="TELE CABLE", Radio Nova
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
+#EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" nada="Noticias" group-title="TELE CABLE", Radio Mar
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
+#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" nada="Noticias" group-title="TELE CABLE", Radio Onda Cero
+https://streaming.gometri.com/stream/8011/;
+#EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" nada="Noticias" group-title="TELE CABLE", Radio Planeta
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" nada="Noticias" group-title="TELE CABLE", Radio Chalaca
+https://conectperu.com/8084/stream
+#EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="TELE CABLE", Radio Oasis
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfbtXd1.png" nada="Deportes" group-title="TELE CABLE", Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6PPcJ2.png" nada="Deportes" group-title="TELE CABLE", Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8XmCRK.png" nada="Deportes" group-title="TELE CABLE", Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg" nada="Noticias" group-title="TELE CABLE", Cine Terror TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", DEATH NOTE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="Noticias" group-title="TELE CABLE", Naruto2 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh2 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", One Piece 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", Los Tres Chiflados 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUGdVLb.jpg" nada="Noticias" group-title="TELE CABLE", Barney 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zu8Iw5s.jpg" nada="Noticias" group-title="TELE CABLE", Rugrats 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6fcxJc.jpg" nada="Noticias" group-title="TELE CABLE", Bob Esponja 24/7
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", LAS TORTUGAS NINJA (ESPAÑA)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Anime Tv 24/7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khUQUCD.png" nada="Noticias" group-title="TELE CABLE", Baby Shark 24/7
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
+https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" nada="Noticias" group-title="TELE CABLE", Cartoon Network 1
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYBD4CM.png" nada="Noticias" group-title="TELE CABLE", Cartoon Network 2
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" nada="Noticias" group-title="TELE CABLE", Latino Infantil TV
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" nada="Noticias" group-title="TELE CABLE", 3 Dragon Ball Super 24/7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 4 DC Comics" tvg-logo="https://static.wikia.nocookie.net/marvel_dc/images/1/12/New_DC_logo.png" group-title="Cine y Series",Cinema 4 DC Comics
+http://www.alltvstyle.com:25461/roberto/1234/11
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="Afizzionados" tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s108506_dark_360w_270h.png" group-title="Deportes",Afizzionados
+http://www.alltvstyle.com:25461/roberto/1234/144
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paw Patrol" tvg-logo="https://e7.pngegg.com/pngimages/233/935/png-clipart-paw-patrol-katherine-forrester-paw-patrol-dog-cap-n-turbot-dog-paw-patrol-dog-thumbnail.png" group-title="24/7 Kids",24/7 Paw Patrol
+http://www.alltvstyle.com:25461/roberto/1234/199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Simpsons" tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons.png" group-title="24/7",24/7 The Simpsons
+http://www.alltvstyle.com:25461/roberto/1234/241
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones 2002" tvg-logo="" group-title="24/7",24/7 Super Campeones 2002
+http://www.alltvstyle.com:25461/roberto/1234/1505
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -2 Hrs" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/small.aztecaunovertical.png.22d0f6f21c55a263eeb61868eabafe35.png" group-title="Nacionales MX",Azteca Uno -2 Hrs
+http://www.alltvstyle.com:25461/roberto/1234/2
+#EXTINF:-1 tvg-id="" tvg-name="Super Campeones" tvg-logo="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfRwi2dKs0oUXdjFKIrLJvDUxP9kLmdEKP-mACuxuFLVkuvmBX2FmuapqIQz2BDaQL2fOAwWLw1mWUgZCY0EUiYStbrsGvceuP-XUX3Fa9OK.png" group-title="24/7 Kids",Super Campeones
+http://www.alltvstyle.com:25461/roberto/1234/9
+#EXTINF:-1 tvg-id="" tvg-name="Casita del Terror" tvg-logo="http://144.217.183.123/logos/24-7%20casita%20del%20horror.jpg" group-title="24/7",Casita del Terror
+http://www.alltvstyle.com:25461/roberto/1234/8
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons " tvg-logo="http://144.217.183.123/logos/24-7%20simpsons%202.png" group-title="24/7",Los Simpsons 
+http://www.alltvstyle.com:25461/roberto/1234/1508
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons HD" tvg-logo="http://144.217.183.123/logos/24-7%20simpsons.png" group-title="24/7",Los Simpsons HD
+http://www.alltvstyle.com:25461/roberto/1234/1443
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports 2
+http://www.alltvstyle.com:25461/roberto/1234/1469
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="http://167.114.173.24:25461/logos/la2.png" group-title="Entretenimiento",La 2
+http://www.alltvstyle.com:25461/roberto/1234/5025
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="http://167.114.173.24:25461/logos/tve.png" group-title="Entretenimiento",TVE
+http://www.alltvstyle.com:25461/roberto/1234/5026
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="TeleRitmo" tvg-logo="https://sc.dish.com/shared/images/station-logos/TLRMO.PNG" group-title="Musica",TeleRitmo
+http://www.alltvstyle.com:25461/roberto/1234/5027
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Animado" tvg-logo="https://images.hive.blog/0x0/https://steemitimages.com/DQmeNBg6onVcQaTkuoNWTdgyqrgUApPqt3c1s1ZzizQLDsd/chavo%201.png" group-title="24/7 Kids",El Chavo Animado
+http://www.alltvstyle.com:25461/roberto/1234/5028
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa De Guadalupe" tvg-logo="https://i.ytimg.com/an/Gs30k8MveMERD3askAgNYA/featured_channel.jpg?v=5bea11d2" group-title="24/7",La Rosa De Guadalupe
+http://www.alltvstyle.com:25461/roberto/1234/63291
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 3 DC Universe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/1200px-DCUniverse.svg.png" group-title="Cine y Series",Cinema 3 DC Universe
+http://www.alltvstyle.com:25461/roberto/1234/63293
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="Starz Encore Black USA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-black.png" group-title="USA",Starz Encore Black USA
+http://www.alltvstyle.com:25461/roberto/1234/1531
+#EXTINF:-1 tvg-id="" tvg-name="Starz Latino" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/03/Starz-Logo.png" group-title="USA",Starz Latino
+http://www.alltvstyle.com:25461/roberto/1234/64445
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel" tvg-logo="https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/74/MCU_Wiki_Logo.png/revision/latest/scale-to-width-down/500?cb=20220123055538" group-title="Cine y Series",Cinema Marvel
+http://www.alltvstyle.com:25461/roberto/1234/58975
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DreamWorks" tvg-logo="https://www.seekpng.com/png/full/191-1914610_dreamworks-pictures-logo-png-dreamworks-universal-studios-2018.png" group-title="24/7 Kids",Cinema DreamWorks
+http://www.alltvstyle.com:25461/roberto/1234/1323
+#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/1200px-DCUniverse.svg.png" group-title="Cine y Series",Cinema DC Universe
+http://www.alltvstyle.com:25461/roberto/1234/54486
+#EXTINF:-1 tvg-id="" tvg-name="Tom Y Jerry" tvg-logo="https://i.pinimg.com/originals/dc/57/d2/dc57d2ad2a455a85c8de6ade522f9e2e.png" group-title="24/7 Kids",Tom Y Jerry
+http://www.alltvstyle.com:25461/roberto/1234/58970
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig" tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Peppa-Pig-House-Transparent-Images.png" group-title="24/7 Kids",Peppa Pig
+http://www.alltvstyle.com:25461/roberto/1234/1319
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm In The Middle" tvg-logo="https://images.fanart.tv/bigpreview/malcolm-in-the-middle-5c5076545119b.png" group-title="24/7",Malcolm In The Middle
+http://www.alltvstyle.com:25461/roberto/1234/1494
+#EXTINF:-1 tvg-id="" tvg-name="Los Años Maravillosos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e6/Los_a%C3%B1os_maravillosos-6ta_temp._poster-1a1.jpg/revision/latest?cb=20151005023504&path-prefix=es" group-title="24/7",Los Años Maravillosos
+http://www.alltvstyle.com:25461/roberto/1234/58972
+#EXTINF:-1 tvg-id="" tvg-name="MariaVision" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/maria.png" group-title="Religion",MariaVision
+http://www.alltvstyle.com:25461/roberto/1234/10
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://cdn.aiktry.com/monthly_2020_09/2094420950_OngoingAdventureGokuPanTrunks()GTRender(DragonBallZDokkanBattle).png.44412477da599980206c80006620edcb.png" group-title="24/7 Kids",Dragon Ball GT
+http://www.alltvstyle.com:25461/roberto/1234/1462
+#EXTINF:-1 tvg-id="" tvg-name="Two and a Half Men" tvg-logo="https://images.fanart.tv/bigpreview/two-and-a-half-men-512b77505e636.png" group-title="24/7",Two and a Half Men
+http://www.alltvstyle.com:25461/roberto/1234/58976
+#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon" tvg-logo="https://img1.picmix.com/output/stamp/normal/0/8/1/2/182180_ae137.png" group-title="24/7 Kids",Sailor Moon
+http://www.alltvstyle.com:25461/roberto/1234/58971
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://www.pikpng.com/pngl/b/50-504280_imgenes-de-dragon-ball-con-fondo-transparente-descarga.png" group-title="24/7 Kids",Dragon Ball Super
+http://www.alltvstyle.com:25461/roberto/1234/16
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://78.47.174.211/logos/dragonballz.png" group-title="24/7 Kids",Dragon Ball Z
+http://www.alltvstyle.com:25461/roberto/1234/58981
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Del Ocho" tvg-logo="http://i.imgur.com/aABxLQ5.png" group-title="24/7 Kids",El Chavo Del Ocho
+http://www.alltvstyle.com:25461/roberto/1234/58968
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="https://i.pinimg.com/originals/02/cd/ec/02cdecd6a0f513954e95b4ef492926ee.png" group-title="24/7 Kids",Los Picapiedra
+http://www.alltvstyle.com:25461/roberto/1234/58980
+#EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d608093-250f-4039-967f-ea8b3a36c56f/ddnyvmo-71f90aed-617c-40fa-9179-2655618adbeb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVkNjA4MDkzLTI1MGYtNDAzOS05NjdmLWVhOGIzYTM2YzU2ZlwvZGRueXZtby03MWY5MGFlZC02MTdjLTQwZmEtOTE3OS0yNjU1NjE4YWRiZWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cNCnyDOX2BrLfkyhrK4EVkXAhw1OWv1QWRk1JJ_jRBc" group-title="24/7",Friends
+http://www.alltvstyle.com:25461/roberto/1234/58978
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Pinky-And-The-Brain-Transparent-Image.png" group-title="24/7 Kids",Pinky y Cerebro
+http://www.alltvstyle.com:25461/roberto/1234/58977
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="https://www.pngkey.com/png/full/44-444676_pinkpanther028-pantera-rosa-dibujo-animado.png" group-title="24/7 Kids",La Pantera Rosa
+http://www.alltvstyle.com:25461/roberto/1234/1396
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c609227c-6559-4a47-a1c1-2449346497e6/da095si-394c8e07-0920-413c-be63-8a5cdeb1a71c.png" group-title="24/7 Kids",Caballeros del Zodiaco
+http://www.alltvstyle.com:25461/roberto/1234/7
+#EXTINF:-1 tvg-id="" tvg-name="Looney Toons" tvg-logo="https://seeklogo.com/images/L/looney-tunes-logo-A1BA4B0278-seeklogo.com.png" group-title="24/7 Kids",Looney Toons
+http://www.alltvstyle.com:25461/roberto/1234/58974
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Heroes" tvg-logo="http://renders-dbz.com/_data/i/upload/2020/03/29/20200329085846-030fcb6d-me.png" group-title="24/7 Kids",Dragon Ball Heroes
+http://www.alltvstyle.com:25461/roberto/1234/58979
+#EXTINF:-1 tvg-id="" tvg-name="Los Gatos Samurai" tvg-logo="https://i.pinimg.com/originals/fa/49/e3/fa49e32e28ae9b6ae80072c7c3a27113.png" group-title="24/7 Kids",Los Gatos Samurai
+http://www.alltvstyle.com:25461/roberto/1234/1427
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action NFL" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/5ow1xp1600613173.png" group-title="Deportes",Sky Sports Action NFL
+http://www.alltvstyle.com:25461/roberto/1234/59054
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://www.morethanjustsports.com/Files/2010/09/NFLLogo.png" group-title="Deportes",NFL Network
+http://www.alltvstyle.com:25461/roberto/1234/59055
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Premier_League_logo.png" group-title="Deportes",Sky Sports Premier League
+http://www.alltvstyle.com:25461/roberto/1234/65374
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://seekvectors.com/files/download/Sky-sport-Football-01.png" group-title="Deportes",Sky Sports Football
+http://www.alltvstyle.com:25461/roberto/1234/65379
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="Deportes",Sky Sports Arena
+http://www.alltvstyle.com:25461/roberto/1234/65378
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="Sky Sports Cricket" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/47d7os1502554865.png" group-title="Deportes",Sky Sports Cricket
+http://www.alltvstyle.com:25461/roberto/1234/59056
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sports_News_UK_logo_2020.png" group-title="Deportes",Sky Sports News
+http://www.alltvstyle.com:25461/roberto/1234/61994
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://e3.365dm.com/tvlogos/channels/1322-Logo.png" group-title="Deportes",Sky Sports Golf
+http://www.alltvstyle.com:25461/roberto/1234/61995
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sports_Mix.png" group-title="Deportes",Sky Sports Mix
+http://www.alltvstyle.com:25461/roberto/1234/61996
+#EXTINF:-1 tvg-id="" tvg-name="EnlaceTV" tvg-logo="http://www.encinardemamre.com/imagenes/ver-canal-de-tv-cristiana-enlace.png" group-title="Religion",EnlaceTV
+http://www.alltvstyle.com:25461/roberto/1234/58973
+#EXTINF:-1 tvg-id="" tvg-name="Movistar #Vamos" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/movistar_vamos.png" group-title="Deportes",Movistar #Vamos
+http://www.alltvstyle.com:25461/roberto/1234/61997
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://www.fulltv.com.ar/images/tv/ewtn-380.png" group-title="Religion",EWTN
+http://www.alltvstyle.com:25461/roberto/1234/78738
+#EXTINF:-1 tvg-id="" tvg-name="Cinema LEGO Movies" tvg-logo="http://pngimg.com/uploads/lego/lego_PNG99.png" group-title="Cine y Series",Cinema LEGO Movies
+http://www.alltvstyle.com:25461/roberto/1234/52286
+#EXTINF:-1 tvg-id="" tvg-name="Starz Latino 2" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/03/Starz-Logo.png" group-title="USA",Starz Latino 2
+http://www.alltvstyle.com:25461/roberto/1234/85016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Nintendo Mania" tvg-logo="https://4.bp.blogspot.com/_e52wkzkuvDw/THisid9IRkI/AAAAAAAAABg/eIlPvJN1aAU/S748/NINTENDOMANIA.gif" group-title="24/7",24/7 Nintendo Mania
+http://www.alltvstyle.com:25461/roberto/1234/279
+#EXTINF:-1 tvg-id="" tvg-name="Mr 3000 - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg" group-title="Deportes",Mr 3000 - 2004
+http://www.alltvstyle.com:25461/movie/roberto/1234/61132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Padre no hay más que uno - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="Comedia",Padre no hay más que uno - 2019
+http://www.alltvstyle.com:25461/movie/roberto/1234/66361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sen Yasamaya Bak - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsVvFYZ0HqZsXinbPd2f4lo2bPC.jpg" group-title="NETFLIX",Sen Yasamaya Bak - 2022
+http://www.alltvstyle.com:25461/movie/roberto/1234/74696.mkv
+#EXTINF:-1 tvg-id="Canal A&E (México)" tvg-name="A&E" tvg-logo="http://144.217.183.123/logos/AEMX-1.png" group-title="Cine y Series",A&E
+http://www.alltvstyle.com:25461/roberto/1234/1299
+#EXTINF:-1 tvg-id="Canal a+" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/DOo_fiIX0AIi6Pc.png" group-title="Nacionales MX",A+
+http://www.alltvstyle.com:25461/roberto/1234/1300
+#EXTINF:-1 tvg-id="" tvg-name="A3S Series" tvg-logo="https://i.imgur.com/2zQi7G3.png" group-title="Cine y Series",A3S Series
+http://www.alltvstyle.com:25461/roberto/1234/1301
+#EXTINF:-1 tvg-id="Canal ADN 40" tvg-name="ADN 40" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="Noticias",ADN 40
+http://www.alltvstyle.com:25461/roberto/1234/1302
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
+http://www.alltvstyle.com:25461/roberto/1234/1303
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="Deportes",TUDN USA HD
+http://www.alltvstyle.com:25461/roberto/1234/1304
+#EXTINF:-1 tvg-id="Canal AMC (México)" tvg-name="AMC Network" tvg-logo="http://144.217.183.123/logos/AMCMEX-1.png" group-title="Cine y Series",AMC Network
+http://www.alltvstyle.com:25461/roberto/1234/1305
+#EXTINF:-1 tvg-id="Canal Animal Planet (México)" tvg-name="Animal Planet" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/05/Animal-planet-54ba19bf.png" group-title="Culturales",Animal Planet
+http://www.alltvstyle.com:25461/roberto/1234/1306
+#EXTINF:-1 tvg-id="Canal Animal Planet (México)" tvg-name="Discovery Investigation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Investigation_Discovery_LA_2020_variante_rojo.png/revision/latest/scale-to-width-down/250?cb=20200923135644&path-prefix=es" group-title="Culturales",Discovery Investigation
+http://www.alltvstyle.com:25461/roberto/1234/1307
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="Entretenimiento",Antena 3
+http://www.alltvstyle.com:25461/roberto/1234/1308
+#EXTINF:-1 tvg-id="Canal AXN (México)" tvg-name="AXN" tvg-logo="https://tvinfo.in/wp-content/uploads/2021/01/axn.png" group-title="Cine y Series",AXN
+http://www.alltvstyle.com:25461/roberto/1234/1309
+#EXTINF:-1 tvg-id="Canal AYM Sports" tvg-name="AYM Sports" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es" group-title="Deportes",AYM Sports
+http://www.alltvstyle.com:25461/roberto/1234/1310
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="Nacionales MX",Azteca 7
+http://www.alltvstyle.com:25461/roberto/1234/1311
+#EXTINF:-1 tvg-id="Canal Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/small.aztecaunovertical.png.22d0f6f21c55a263eeb61868eabafe35.png" group-title="Nacionales MX",Azteca Uno
+http://www.alltvstyle.com:25461/roberto/1234/1312
+#EXTINF:-1 tvg-id="Canal AZ Corazón" tvg-name="AZ Corazon" tvg-logo="https://totalplayplanes.mx/s/ma/assets/img/canales/Entretenimiento/canal-aztecacorazon.png" group-title="Nacionales MX",AZ Corazon
+http://www.alltvstyle.com:25461/roberto/1234/1313
+#EXTINF:-1 tvg-id="Canal AZ Mundo" tvg-name="AZ Mundo" tvg-logo="https://red-low.com/wp-content/uploads/2021/04/aztcmundo.png" group-title="Nacionales MX",AZ Mundo
+http://www.alltvstyle.com:25461/roberto/1234/1314
+#EXTINF:-1 tvg-id="Canal AZ Clic!" tvg-name="Azteca Sports" tvg-logo="https://equinoxawards.com/wp-content/uploads/2021/07/Azteca-E-Sports.png" group-title="Deportes",Azteca Sports
+http://www.alltvstyle.com:25461/roberto/1234/1315
+#EXTINF:-1 tvg-id="Canal Baby TV (Latinoamérica)" tvg-name="Baby First" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a2815e090bade233cb226e4/1527030987910-8MRZNYKJ43CR0F7WKLAA/bbabyfirst.png" group-title="Kids",Baby First
+http://www.alltvstyle.com:25461/roberto/1234/1316
+#EXTINF:-1 tvg-id="Canal Bandamax" tvg-name="Bandamax" tvg-logo="http://4.bp.blogspot.com/-AVVmkMifPhI/Vk0NGinOFhI/AAAAAAAAAJ4/chLosF6G09U/s1600/bamax.png" group-title="Musica",Bandamax
+http://www.alltvstyle.com:25461/roberto/1234/1317
+#EXTINF:-1 tvg-id="Canal BBC World" tvg-name="BBC World News" tvg-logo="http://144.217.183.123/logos/BBCWDNA-1.png" group-title="Noticias",BBC World News
+http://www.alltvstyle.com:25461/roberto/1234/1318
+#EXTINF:-1 tvg-id="Canal Bloomberg" tvg-name="Bloomberg" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/bloomberg-logo.png" group-title="Noticias",Bloomberg
+http://www.alltvstyle.com:25461/roberto/1234/1320
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids",Boomerang
+http://www.alltvstyle.com:25461/roberto/1234/1321
+#EXTINF:-1 tvg-id="Canal 5 de México (XHGC)" tvg-name="Canal 5" tvg-logo="http://144.217.183.123/logos/canal%205.png" group-title="Nacionales MX",Canal 5
+http://www.alltvstyle.com:25461/roberto/1234/1322
+#EXTINF:-1 tvg-id="Canal Cartoon Network (México)" tvg-name="Cartoon Network" tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="Kids",Cartoon Network
+http://www.alltvstyle.com:25461/roberto/1234/1324
+#EXTINF:-1 tvg-id="Canal Cinecanal (México)" tvg-name="CineCanal" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b1d12de8651232b370_cinecanal.png" group-title="Cine y Series",CineCanal
+http://www.alltvstyle.com:25461/roberto/1234/1325
+#EXTINF:-1 tvg-id="Canal Cinemax (México)" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Cine y Series",CineMax
+http://www.alltvstyle.com:25461/roberto/1234/1326
+#EXTINF:-1 tvg-id="Canal Claro Sports" tvg-name="Claro Sports" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
+http://www.alltvstyle.com:25461/roberto/1234/1327
+#EXTINF:-1 tvg-id="Canal CNN en Español" tvg-name="CNN Internacional" tvg-logo="http://144.217.183.123/logos/CNNEM-1.png" group-title="Noticias",CNN Internacional
+http://www.alltvstyle.com:25461/roberto/1234/1328
+#EXTINF:-1 tvg-id="Canal CNN en Español" tvg-name="CNN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/787px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN Español
+http://www.alltvstyle.com:25461/roberto/1234/1329
+#EXTINF:-1 tvg-id="Canal CNN Internacional" tvg-name="Azteca Clic" tvg-logo="http://www.corporacionmatrixtv.com/img/canales/az_clic.png" group-title="Nacionales MX",Azteca Clic
+http://www.alltvstyle.com:25461/roberto/1234/1330
+#EXTINF:-1 tvg-id="Canal Comedy Central (México)" tvg-name="Comedy Central" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=1024" group-title="Entretenimiento",Comedy Central
+http://www.alltvstyle.com:25461/roberto/1234/1331
+#EXTINF:-1 tvg-id="Canal De Película" tvg-name="De Pelicula Clasico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/De_Pel%C3%ADcula_Cl%C3%A1sico_2011.png/revision/latest?cb=20191216011513&path-prefix=es" group-title="Cine y Series",De Pelicula Clasico
+http://www.alltvstyle.com:25461/roberto/1234/1332
+#EXTINF:-1 tvg-id="Canal Discovery Channel (México)" tvg-name="Discovery Channel" tvg-logo="https://cdn.shopify.com/s/files/1/0757/7143/files/discovery-logo.png?9730838037970652262" group-title="Culturales",Discovery Channel
+http://www.alltvstyle.com:25461/roberto/1234/1333
+#EXTINF:-1 tvg-id="Canal Discovery Civilization (Latinoamérica)" tvg-name="Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Discovery_Civilization_Channel_logo.svg/1200px-Discovery_Civilization_Channel_logo.svg.png" group-title="Culturales",Discovery Civilization
+http://www.alltvstyle.com:25461/roberto/1234/1334
+#EXTINF:-1 tvg-id="Canal Discovery Home & Health (México)" tvg-name="Discovery Home & Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest?cb=20190926042803&path-prefix=es" group-title="Culturales",Discovery Home & Health
+http://www.alltvstyle.com:25461/roberto/1234/1335
+#EXTINF:-1 tvg-id="Canal Discovery Kids (México)" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
+http://www.alltvstyle.com:25461/roberto/1234/1336
+#EXTINF:-1 tvg-id="Canal Discovery Science (Latinoamérica)" tvg-name="Discovery Science" tvg-logo="https://www.pngkey.com/png/full/510-5102956_2011-2017-discovery-science-logo-png.png" group-title="Culturales",Discovery Science
+http://www.alltvstyle.com:25461/roberto/1234/1337
+#EXTINF:-1 tvg-id="Canal Discovery Theater (Latinoamérica)" tvg-name="Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/640px-2015_Discovery_theater_HD_logo.svg.png" group-title="Culturales",Discovery Theater
+http://www.alltvstyle.com:25461/roberto/1234/1338
+#EXTINF:-1 tvg-id="Canal Discovery Turbo (Latinoamérica)" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Culturales",Discovery Turbo
+http://www.alltvstyle.com:25461/roberto/1234/1339
+#EXTINF:-1 tvg-id="Canal Disney Channel (México)" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+http://www.alltvstyle.com:25461/roberto/1234/1340
+#EXTINF:-1 tvg-id="Canal Disney Junior (México)" tvg-name="Disney JR" tvg-logo="https://i.pinimg.com/originals/0f/c1/53/0fc1531fd89e43be8aeba43e72d61001.png" group-title="Kids",Disney JR
+http://www.alltvstyle.com:25461/roberto/1234/1341
+#EXTINF:-1 tvg-id="Canal Disney XD (México)" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Kids",Disney XD
+http://www.alltvstyle.com:25461/roberto/1234/1342
+#EXTINF:-1 tvg-id="Canal Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="Entretenimiento",Distrito Comedia
+http://www.alltvstyle.com:25461/roberto/1234/1343
+#EXTINF:-1 tvg-id="Canal DW (Latinoamérica)" tvg-name="DW en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias",DW en Español
+http://www.alltvstyle.com:25461/roberto/1234/1344
+#EXTINF:-1 tvg-id="Canal E! Entertainment Television (México)" tvg-name="E! Entertaiment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/E%21_Entertainment_Television_2.svg/revision/latest/scale-to-width-down/250?cb=20210502145454&path-prefix=es" group-title="Entretenimiento",E! Entertaiment
+http://www.alltvstyle.com:25461/roberto/1234/1345
+#EXTINF:-1 tvg-id="Canal El Financiero - Bloomberg" tvg-name="Las Estrellas -2 Hrs" tvg-logo="http://144.217.183.123/logos/XEW-1.png" group-title="Nacionales MX",Las Estrellas -2 Hrs
+http://www.alltvstyle.com:25461/roberto/1234/1346
+#EXTINF:-1 tvg-id="Canal ESPN 2 México" tvg-name="ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN
+http://www.alltvstyle.com:25461/roberto/1234/1347
+#EXTINF:-1 tvg-id="" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Espn%2B.png/640px-Espn%2B.png" group-title="Deportes",ESPN+
+http://www.alltvstyle.com:25461/roberto/1234/1348
+#EXTINF:-1 tvg-id="Canal ESPN (México)" tvg-name="ESPN 2" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" group-title="Deportes",ESPN 2
+http://www.alltvstyle.com:25461/roberto/1234/1349
+#EXTINF:-1 tvg-id="Canal ESPN 3 (México)" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
+http://www.alltvstyle.com:25461/roberto/1234/1350
+#EXTINF:-1 tvg-id="Canal Europa Europa" tvg-name="TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="Noticias",TVC
+http://www.alltvstyle.com:25461/roberto/1234/1351
+#EXTINF:-1 tvg-id="Canal Excelsior TV" tvg-name="Excelsior TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Excelsior_TV_HD.png" group-title="Noticias",Excelsior TV
+http://www.alltvstyle.com:25461/roberto/1234/1352
+#EXTINF:-1 tvg-id="Canal Elgourmet" tvg-name="Golden Premier" tvg-logo="https://static.epg.best/co/GoldenPremier.co.png" group-title="Cine y Series",Golden Premier
+http://www.alltvstyle.com:25461/roberto/1234/1353
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Starz_Edge_2005.svg/revision/latest/scale-to-width-down/200?cb=20151217004832" group-title="USA",Starz Edge USA
+http://www.alltvstyle.com:25461/roberto/1234/1354
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Entretenimiento",Food Network
+http://www.alltvstyle.com:25461/roberto/1234/1355
+#EXTINF:-1 tvg-id="Canal Foro TV" tvg-name="Foro TV" tvg-logo="http://144.217.183.123/logos/FOROTV-1.png" group-title="Noticias",Foro TV
+http://www.alltvstyle.com:25461/roberto/1234/1356
+#EXTINF:-1 tvg-id="Canal Fox (México)" tvg-name="Star Channel" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png" group-title="Cine y Series",Star Channel
+http://www.alltvstyle.com:25461/roberto/1234/1357
+#EXTINF:-1 tvg-id="Canal Fox News" tvg-name="FOX NEWS" tvg-logo="http://144.217.183.123/logos/ESFNCHD-1.png" group-title="Noticias",FOX NEWS
+http://www.alltvstyle.com:25461/roberto/1234/1361
+#EXTINF:-1 tvg-id="Canal Fox Sports (México)" tvg-name="FOX Sports MX" tvg-logo="http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png" group-title="Deportes",FOX Sports MX
+http://www.alltvstyle.com:25461/roberto/1234/1363
+#EXTINF:-1 tvg-id="Canal Fox Sports 2 (México)" tvg-name="FOX Sports 2 MX" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="Deportes",FOX Sports 2 MX
+http://www.alltvstyle.com:25461/roberto/1234/1364
+#EXTINF:-1 tvg-id="Canal Fox Sports 3 (México)" tvg-name="FOX Sports 3 MX" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png" group-title="Deportes",FOX Sports 3 MX
+http://www.alltvstyle.com:25461/roberto/1234/1365
+#EXTINF:-1 tvg-id="" tvg-name="TeleHit Musica" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2020/09/telehit-musica-senales.jpg" group-title="Musica",TeleHit Musica
+http://www.alltvstyle.com:25461/roberto/1234/1366
+#EXTINF:-1 tvg-id="Canal FX (México)" tvg-name="FX" tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Cine y Series",FX
+http://www.alltvstyle.com:25461/roberto/1234/1367
+#EXTINF:-1 tvg-id="Canal FXM (México)" tvg-name="EsperanzaTV" tvg-logo="https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png" group-title="Religion",EsperanzaTV
+http://www.alltvstyle.com:25461/roberto/1234/1368
+#EXTINF:-1 tvg-id="Canal 9 de México (XEQ-TDT)" tvg-name="Gala TV" tvg-logo="https://pbs.twimg.com/profile_images/510853118477619200/ea_Ne98v_400x400.png" group-title="Nacionales MX",Gala TV
+http://www.alltvstyle.com:25461/roberto/1234/1369
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/small.5acd523361c47_ElGarage.png.87cfc1a1360ff1a64a55ad672e61ac78.png" group-title="Culturales",Garage TV
+http://www.alltvstyle.com:25461/roberto/1234/1370
+#EXTINF:-1 tvg-id="Canal Baby TV (Latinoamérica)" tvg-name="Baby TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" group-title="Kids",Baby TV
+http://www.alltvstyle.com:25461/roberto/1234/1371
+#EXTINF:-1 tvg-id="Canal Golden (México)" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="Cine y Series",Golden
+http://www.alltvstyle.com:25461/roberto/1234/1372
+#EXTINF:-1 tvg-id="Canal Golden Edge" tvg-name="Golden EDGE" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine y Series",Golden EDGE
+http://www.alltvstyle.com:25461/roberto/1234/1373
+#EXTINF:-1 tvg-id="Canal Golden Plus" tvg-name="Golden Plus" tvg-logo="http://lonewolftvpr.com/logos/goldenplus.png" group-title="Cine y Series",Golden Plus
+http://www.alltvstyle.com:25461/roberto/1234/1374
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/golfchannelfr/logos/3p-logo._CB414878474_.png" group-title="Deportes",Golf Channel
+http://www.alltvstyle.com:25461/roberto/1234/1375
+#EXTINF:-1 tvg-id="Canal History (México)" tvg-name="History Channel" tvg-logo="http://144.217.183.123/logos/HCLM-1.png" group-title="Culturales",History Channel
+http://www.alltvstyle.com:25461/roberto/1234/1376
+#EXTINF:-1 tvg-id="Canal ¡HOLA! TV" tvg-name="Hola TV" tvg-logo="http://78.47.174.211/logos/holatv.png" group-title="Entretenimiento",Hola TV
+http://www.alltvstyle.com:25461/roberto/1234/1377
+#EXTINF:-1 tvg-id="Canal I.Sat" tvg-name="Golden Premier 2" tvg-logo="http://78.47.174.211/logos/goldenpremier2.png" group-title="Cine y Series",Golden Premier 2
+http://www.alltvstyle.com:25461/roberto/1234/1378
+#EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Noticias",Imagen TV
+http://www.alltvstyle.com:25461/roberto/1234/1379
+#EXTINF:-1 tvg-id="Canal Ingenio TV (México)" tvg-name="Teen Nick" tvg-logo="https://fandetda.files.wordpress.com/2010/04/teenick_logo_2005.png" group-title="Kids",Teen Nick
+http://www.alltvstyle.com:25461/roberto/1234/1380
+#EXTINF:-1 tvg-id="Canal Investigation Discovery (México)" tvg-name="Cinema Dinamita" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Inicio.png.d1804462375d9c9ba5e1bc3121b10532.png" group-title="Cine y Series",Cinema Dinamita
+http://www.alltvstyle.com:25461/roberto/1234/1381
+#EXTINF:-1 tvg-id="Canal 2 de México (Canal Las Estrellas - XEW)" tvg-name="Las Estrellas" tvg-logo="http://144.217.183.123/logos/XEW-1.png" group-title="Nacionales MX",Las Estrellas
+http://www.alltvstyle.com:25461/roberto/1234/1382
+#EXTINF:-1 tvg-id="Canal Lifetime (México)" tvg-name="LifeTime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/604px-Lifetime_tv_logo.svg.png" group-title="Cine y Series",LifeTime
+http://www.alltvstyle.com:25461/roberto/1234/1383
+#EXTINF:-1 tvg-id="Canal Mexiquense TV" tvg-name="Mexiquense TV" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2019/10/15164419/logo-SRTVM-01.png" group-title="Noticias",Mexiquense TV
+http://www.alltvstyle.com:25461/roberto/1234/1384
+#EXTINF:-1 tvg-id="Canal Milenio TV" tvg-name="Milenio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png" group-title="Noticias",Milenio TV
+http://www.alltvstyle.com:25461/roberto/1234/1385
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing" tvg-logo="http://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png" group-title="Deportes",Sky Sports Racing
+http://www.alltvstyle.com:25461/roberto/1234/1386
+#EXTINF:-1 tvg-id="Canal MTV (México)" tvg-name="MTV" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/mtvlogo.png" group-title="Musica",MTV
+http://www.alltvstyle.com:25461/roberto/1234/1387
+#EXTINF:-1 tvg-id="Canal MTV Hits" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png" group-title="Musica",MTV Hits
+http://www.alltvstyle.com:25461/roberto/1234/1388
+#EXTINF:-1 tvg-id="Canal MTV Live HD" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1049px-MTV_Live_HD_2017_logo.svg.png" group-title="Musica",MTV Live
+http://www.alltvstyle.com:25461/roberto/1234/1389
+#EXTINF:-1 tvg-id="Canal Multimedios Plus" tvg-name="Multimedios MTY" tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="Nacionales MX",Multimedios MTY
+http://www.alltvstyle.com:25461/roberto/1234/1390
+#EXTINF:-1 tvg-id="Canal Nat Geo Kids (México)" tvg-name="NatGeo Kids" tvg-logo="https://logosvector.net/wp-content/uploads/2013/04/national-geographic-kids-vector-logo.png" group-title="Kids",NatGeo Kids
+http://www.alltvstyle.com:25461/roberto/1234/1391
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="Culturales",NatGeo Wild
+http://www.alltvstyle.com:25461/roberto/1234/1392
+#EXTINF:-1 tvg-id="Canal National Geographic (México)" tvg-name="National Geographic" tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2015/09/ap-national-geographic.png" group-title="Culturales",National Geographic
+http://www.alltvstyle.com:25461/roberto/1234/1393
+#EXTINF:-1 tvg-id="Canal Nickelodeon (México)" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
+http://www.alltvstyle.com:25461/roberto/1234/1394
+#EXTINF:-1 tvg-id="Canal Nicktoons (México)" tvg-name="Nicktoons" tvg-logo="https://e7.pngegg.com/pngimages/454/584/png-clipart-nickelodeon-studios-logo-television-nicktoons-nickelodeon-tv-shows-2016-television-text.png" group-title="Kids",Nicktoons
+http://www.alltvstyle.com:25461/roberto/1234/1395
+#EXTINF:-1 tvg-id="Canal Nick Jr. (México)" tvg-name="Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Kids",Nick JR
+http://www.alltvstyle.com:25461/roberto/1234/1397
+#EXTINF:-1 tvg-id="Canal Paramount Channel (México)" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/2560px-Paramount%2B_logo.png" group-title="Cine y Series",Paramount Channel
+http://www.alltvstyle.com:25461/roberto/1234/1398
+#EXTINF:-1 tvg-id="Canal PX Sports" tvg-name="Movistar Deportes 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/movistar_deportes_2_logo.png" group-title="Deportes",Movistar Deportes 2
+http://www.alltvstyle.com:25461/roberto/1234/1399
+#EXTINF:-1 tvg-id="Canal RT en Español" tvg-name="RT en Español" tvg-logo="https://cdn.mitvstatic.com/channels/cl_rt-tv-russia-today_m.png" group-title="Noticias",RT en Español
+http://www.alltvstyle.com:25461/roberto/1234/1400
+#EXTINF:-1 tvg-id="Canal Sony (México)" tvg-name="Sony Cine" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_08/large.72622580071579.png.48667f6cb9c09e18c10161d1651d7c5b.png" group-title="Cine y Series",Sony Cine
+http://www.alltvstyle.com:25461/roberto/1234/1401
+#EXTINF:-1 tvg-id="Canal Space (México)" tvg-name="Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="Cine y Series",Space
+http://www.alltvstyle.com:25461/roberto/1234/1402
+#EXTINF:-1 tvg-id="Canal Star TVE HD" tvg-name="CTNI" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png" group-title="Religion",CTNI
+http://www.alltvstyle.com:25461/roberto/1234/1403
+#EXTINF:-1 tvg-id="Canal Studio Universal (México)" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" group-title="Cine y Series",Studio Universal
+http://www.alltvstyle.com:25461/roberto/1234/1404
+#EXTINF:-1 tvg-id="Canal Syfy (México)" tvg-name="SYFY" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.Module08_LOGO_Issues_25_CROPPED-2152x973.png.aaac514edb92c50d88635303c37fce0d.png" group-title="Cine y Series",SYFY
+http://www.alltvstyle.com:25461/roberto/1234/1406
+#EXTINF:-1 tvg-id="Canal TBS (México)" tvg-name="TBS VeryFunny" tvg-logo="https://www.logolynx.com/images/logolynx/2c/2ce721a0685d3206d4ce4808cb727381.png" group-title="Noticias",TBS VeryFunny
+http://www.alltvstyle.com:25461/roberto/1234/1407
+#EXTINF:-1 tvg-id="Canal TCM (México)" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/480px-TCM_Latam_logo.svg.png" group-title="Cine y Series",TCM
+http://www.alltvstyle.com:25461/roberto/1234/1408
+#EXTINF:-1 tvg-id="Canal National Geographic Wild (México)" tvg-name="Bitme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png" group-title="Kids",Bitme
+http://www.alltvstyle.com:25461/roberto/1234/1409
+#EXTINF:-1 tvg-id="Canal Telehit" tvg-name="TeleHits Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="Musica",TeleHits Plus
+http://www.alltvstyle.com:25461/roberto/1234/1410
+#EXTINF:-1 tvg-id="Canal TLC (México)" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/TLC_Discovery.png" group-title="Entretenimiento",Discovery TLC
+http://www.alltvstyle.com:25461/roberto/1234/1411
+#EXTINF:-1 tvg-id="Canal TLNovelas (México)" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="Entretenimiento",TL Novelas
+http://www.alltvstyle.com:25461/roberto/1234/1412
+#EXTINF:-1 tvg-id="Canal TNT (México)" tvg-name="TNT" tvg-logo="http://144.217.183.123/logos/TNTLAHD-1.png" group-title="Cine y Series",TNT
+http://www.alltvstyle.com:25461/roberto/1234/1413
+#EXTINF:-1 tvg-id="Canal TNT Series (México)" tvg-name="TNT Series" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.583f2aa9cd45f_LogoTNTSeries(Blanco).png.9f34195a21f8667df7f8bc776d007357.png" group-title="Cine y Series",TNT Series
+http://www.alltvstyle.com:25461/roberto/1234/1414
+#EXTINF:-1 tvg-id="Canal Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Kids",Tooncast
+http://www.alltvstyle.com:25461/roberto/1234/1415
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="Nacionales MX",Televisa Monterrey
+http://www.alltvstyle.com:25461/roberto/1234/1416
+#EXTINF:-1 tvg-id="Canal TUDN (México)" tvg-name="TUDN MX" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" group-title="Deportes",TUDN MX
+http://www.alltvstyle.com:25461/roberto/1234/1417
+#EXTINF:-1 tvg-id="Canal Unicable (México)" tvg-name="Unicable" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" group-title="Entretenimiento",Unicable
+http://www.alltvstyle.com:25461/roberto/1234/1418
+#EXTINF:-1 tvg-id="Canal Universal TV (México)" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",Universal TV
+http://www.alltvstyle.com:25461/roberto/1234/1419
+#EXTINF:-1 tvg-id="Canal VH1 Classic" tvg-name="MTV 80s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/MTV_80s_2020.png/revision/latest/scale-to-width-down/175?cb=20201008163056&path-prefix=es" group-title="Musica",MTV 80s
+http://www.alltvstyle.com:25461/roberto/1234/1420
+#EXTINF:-1 tvg-id="Canal VH1 (Latinoamérica)" tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica",MTV 00s
+http://www.alltvstyle.com:25461/roberto/1234/1421
+#EXTINF:-1 tvg-id="Canal Warner TV (México)" tvg-name="Warner Channel" tvg-logo="http://assets.stickpng.com/images/58483b7684e35b574e745382.png" group-title="Entretenimiento",Warner Channel
+http://www.alltvstyle.com:25461/roberto/1234/1422
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/yd1cpc1616924982.png" group-title="Deportes",Barca TV
+http://www.alltvstyle.com:25461/roberto/1234/52482
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/1200px-Eurosport_Logo_%282011-2015%29.svg.png" group-title="Deportes",Eurosport 1
+http://www.alltvstyle.com:25461/roberto/1234/52509
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="Deportes",Eurosport 2
+http://www.alltvstyle.com:25461/roberto/1234/52480
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 39 Texas" tvg-logo="http://78.47.174.211/logos/telemundo.png" group-title="USA",Telemundo 39 Texas
+http://www.alltvstyle.com:25461/roberto/1234/65394
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="https://logodix.com/logo/556098.png" group-title="USA",Telemundo Internacional
+http://www.alltvstyle.com:25461/roberto/1234/65392
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 52 Los Angeles" tvg-logo="http://78.47.174.211/logos/telemundo.png" group-title="USA",Telemundo 52 Los Angeles
+http://www.alltvstyle.com:25461/roberto/1234/65391
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://contrata.telmex.com/image/guest/hbo/HBOlogo_blanco.png" group-title="FULL HD MX",HBO FHD
+http://www.alltvstyle.com:25461/roberto/1234/71015
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="FULL HD MX",Discovery Turbo FHD
+http://www.alltvstyle.com:25461/roberto/1234/71030
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia FHD" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2018/10/logo-interior-distrito-comedia.png" group-title="FULL HD MX",Distrito Comedia FHD
+http://www.alltvstyle.com:25461/roberto/1234/71259
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD MX" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="FULL HD MX",Fox Sports 2 FHD MX
+http://www.alltvstyle.com:25461/roberto/1234/71274
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="FULL HD MX",Paramount Network
+http://www.alltvstyle.com:25461/roberto/1234/71275
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png" group-title="Deportes",TNT Sports 2
+http://www.alltvstyle.com:25461/roberto/1234/72001
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="http://144.217.183.123/logos/AEMX-1.png" group-title="FULL HD MX",A&E FHD
+http://www.alltvstyle.com:25461/roberto/1234/72015
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="http://144.217.183.123/logos/TNTLAHD-1.png" group-title="FULL HD MX",TNT FHD
+http://www.alltvstyle.com:25461/roberto/1234/72016
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7",Dinosaurios
+http://www.alltvstyle.com:25461/roberto/1234/52119
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://lasimagenesdegoku.com/wp-content/uploads/2018/02/DragonBall.png" group-title="24/7 Kids",Dragon Ball
+http://www.alltvstyle.com:25461/roberto/1234/1509
+#EXTINF:-1 tvg-id="" tvg-name="TUDN FHD" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" group-title="FULL HD MX",TUDN FHD
+http://www.alltvstyle.com:25461/roberto/1234/73355
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports MX FHD" tvg-logo="http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png" group-title="FULL HD MX",Fox Sports MX FHD
+http://www.alltvstyle.com:25461/roberto/1234/73356
+#EXTINF:-1 tvg-id="Canal SundanceTV Latinoamérica" tvg-name="Sundance" tvg-logo="https://images.amcnetworks.com/festival.sundancetv.com/wp-content/uploads/2017/12/sundance_tv_logo.png" group-title="Cine y Series",Sundance
+http://www.alltvstyle.com:25461/roberto/1234/1405
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Mickey Mouse" tvg-logo="https://i.pinimg.com/originals/ac/9b/a4/ac9ba4026c6f22fb5208eaab5f1b5a8e.png" group-title="24/7 Kids",La Casa de Mickey Mouse
+http://www.alltvstyle.com:25461/roberto/1234/62372
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network USA" tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="Kids USA",Cartoon Network USA
+http://www.alltvstyle.com:25461/roberto/1234/82570
+#EXTINF:-1 tvg-id="" tvg-name="Nick USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids USA",Nick USA
+http://www.alltvstyle.com:25461/roberto/1234/82571
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Starz_Comedy_2005.svg/revision/latest/scale-to-width-down/250?cb=20151217004611" group-title="USA",Starz Comedy USA
+http://www.alltvstyle.com:25461/roberto/1234/82572
+#EXTINF:-1 tvg-id="" tvg-name="HBO USA" tvg-logo="https://contrata.telmex.com/image/guest/hbo/HBOlogo_blanco.png" group-title="USA",HBO USA
+http://www.alltvstyle.com:25461/roberto/1234/82573
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/PBS_Kids_Dash_%281999%29_II.svg/revision/latest/scale-to-width-down/250?cb=20200817035405&path-prefix=es" group-title="Kids USA",PBS Kids USA
+http://www.alltvstyle.com:25461/roberto/1234/82574
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Encore_Action.svg/revision/latest/scale-to-width-down/250?cb=20091113214946" group-title="USA",Starz Encore Action USA
+http://www.alltvstyle.com:25461/roberto/1234/82575
+#EXTINF:-1 tvg-id="Canal Fox Life (México)" tvg-name="House MD " tvg-logo="https://images.fanart.tv/bigpreview/house-50b099b629802.png" group-title="24/7",House MD 
+http://www.alltvstyle.com:25461/roberto/1234/1359
+#EXTINF:-1 tvg-id="" tvg-name="El Patron Del Mal" tvg-logo="http://blogs.infobae.com/series-de-tv/files/2014/01/escobar3.png" group-title="24/7",El Patron Del Mal
+http://www.alltvstyle.com:25461/roberto/1234/82576
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Death" tvg-logo="https://www.lared.cl/wp-content/uploads/2017/10/29111734/the-walking-dead.png" group-title="24/7",The Walking Death
+http://www.alltvstyle.com:25461/roberto/1234/82577
+#EXTINF:-1 tvg-id="" tvg-name="ThunderCats" tvg-logo="https://www.seekpng.com/png/full/160-1605998_thundercats-movies-png-logo-thundercats-tv-show.png" group-title="24/7 Kids",ThunderCats
+http://www.alltvstyle.com:25461/roberto/1234/82578
+#EXTINF:-1 tvg-id="" tvg-name="SpiderMan" tvg-logo="https://i.pinimg.com/originals/7d/04/21/7d0421df8ee1e4ee835cf44b6ef1f5d1.png" group-title="24/7 Kids",SpiderMan
+http://www.alltvstyle.com:25461/roberto/1234/82579
+#EXTINF:-1 tvg-id="" tvg-name="SouthPark" tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7",SouthPark
+http://www.alltvstyle.com:25461/roberto/1234/82580
+#EXTINF:-1 tvg-id="" tvg-name="SmallVille" tvg-logo="https://images.fanart.tv/bigpreview/smallville-5181303d5d427.png" group-title="24/7",SmallVille
+http://www.alltvstyle.com:25461/roberto/1234/82581
+#EXTINF:-1 tvg-id="" tvg-name="Power Ranger" tvg-logo="https://www.gustore.cl/img/estampados/6861/6861.png" group-title="24/7 Kids",Power Ranger
+http://www.alltvstyle.com:25461/roberto/1234/82582
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Pokemon-Logo-PNG-Pic.png" group-title="24/7 Kids",Pokemon
+http://www.alltvstyle.com:25461/roberto/1234/82583
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="http://assets.stickpng.com/thumbs/5852cd4c58215f0354495f65.png" group-title="24/7 Kids",Naruto
+http://www.alltvstyle.com:25461/roberto/1234/82584
+#EXTINF:-1 tvg-id="" tvg-name="HeMan" tvg-logo="https://www.nicepng.com/png/full/163-1634783_he-man-he-man-y-battlecat.png" group-title="24/7 Kids",HeMan
+http://www.alltvstyle.com:25461/roberto/1234/82585
+#EXTINF:-1 tvg-id="" tvg-name="El Señor de los Cielos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/El_se%C3%B1or_de_los_cielos_1_logo-0.png/revision/latest?cb=20200115180334" group-title="24/7",El Señor de los Cielos
+http://www.alltvstyle.com:25461/roberto/1234/82586
+#EXTINF:-1 tvg-id="" tvg-name="El Chema" tvg-logo="https://occ-0-1123-3934.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSgI7td-c5i8mlcgTHXwmsr5jTgfaQ-ZpIpL28HonybCbgKkhSRG0YwsR6-xInzLtkCC4KROfAxrwuqqCe46RS6_CspM_A6WVBnBU_bnxYkI.png?r=1a7" group-title="24/7",El Chema
+http://www.alltvstyle.com:25461/roberto/1234/82587
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="https://img1.picmix.com/output/stamp/normal/7/8/0/4/604087_27f5d.png" group-title="24/7 Kids",Scooby Doo
+http://www.alltvstyle.com:25461/roberto/1234/82588
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://images.fanart.tv/bigpreview/breaking-bad-51a76801e4c2b.png" group-title="24/7",Breaking Bad
+http://www.alltvstyle.com:25461/roberto/1234/82589
+#EXTINF:-1 tvg-id="" tvg-name="Lo Que Callamos Las Mujeres" tvg-logo="https://loquecallamoslasmujeres.com/wp-content/uploads/2021/03/Logo-LQCLM-Monica-Matallana-WH.png" group-title="24/7",Lo Que Callamos Las Mujeres
+http://www.alltvstyle.com:25461/roberto/1234/82590
+#EXTINF:-1 tvg-id="" tvg-name="Una Familia De Diez" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df0dq01-0b46acb9-811b-4ad1-a645-9c454481a30a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2YWY1OTMzLWM4ZTAtNGQ1Yi04NDg4LTQ1MzM5YzViMDI1MlwvZGYwZHEwMS0wYjQ2YWNiOS04MTFiLTRhZDEtYTY0NS05YzQ1NDQ4MWEzMGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7wY2n9ItaJgeqVty-aEUxS-V3LIcXc7LZVly7PWtXhE" group-title="24/7",Una Familia De Diez
+http://www.alltvstyle.com:25461/roberto/1234/82591
+#EXTINF:-1 tvg-id="" tvg-name="Dora La Exploradora" tvg-logo="https://marbisa.com/img/cms/DORA%20LA%20EXPLORADORA-mini.png" group-title="24/7 Kids",Dora La Exploradora
+http://www.alltvstyle.com:25461/roberto/1234/82592
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore" tvg-logo="https://i0.wp.com/mtvla-com.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/mtvla.com/acapulcotopmarquee.png?resize=400%2C200&crop=1" group-title="24/7",Acapulco Shore
+http://www.alltvstyle.com:25461/roberto/1234/82593
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="https://static.wixstatic.com/media/4a381d_8a48944d361c4c72936a08f14a96f43e.png/v1/fill/w_500,h_281,al_c,q_85,enc_auto/4a381d_8a48944d361c4c72936a08f14a96f43e.png" group-title="24/7",Alf
+http://www.alltvstyle.com:25461/roberto/1234/82594
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Animaniacs.png" group-title="24/7 Kids",Animaniacs
+http://www.alltvstyle.com:25461/roberto/1234/82595
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://i.imgur.com/Mtmf0zT.png" group-title="24/7 Kids",Bob Esponja
+http://www.alltvstyle.com:25461/roberto/1234/82596
+#EXTINF:-1 tvg-id="" tvg-name="Buzz Lightyear" tvg-logo="https://i.pinimg.com/originals/50/ee/69/50ee691156e3a708b69f9629b5a5c25d.png" group-title="24/7 Kids",Buzz Lightyear
+http://www.alltvstyle.com:25461/roberto/1234/82597
+#EXTINF:-1 tvg-id="" tvg-name="Como Dice El DIcho" tvg-logo="https://www.lared.cl/wp-content/uploads/2019/11/19152859/COMO-DICE-EL-DICHO-480X480.png" group-title="24/7",Como Dice El DIcho
+http://www.alltvstyle.com:25461/roberto/1234/82598
+#EXTINF:-1 tvg-id="" tvg-name="Disney Princesas" tvg-logo="https://assets.stickpng.com/images/58887cc4bc2fc2ef3a186074.png" group-title="24/7 Kids",Disney Princesas
+http://www.alltvstyle.com:25461/roberto/1234/82599
+#EXTINF:-1 tvg-id="" tvg-name="Pajaro Loco" tvg-logo="https://www.buscopng.com/wp-content/uploads/2020/12/Woody-woodpecker.png" group-title="24/7 Kids",Pajaro Loco
+http://www.alltvstyle.com:25461/roberto/1234/82600
+#EXTINF:-1 tvg-id="" tvg-name="El Principe Del Rap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/640px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7",El Principe Del Rap
+http://www.alltvstyle.com:25461/roberto/1234/82601
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://www.pngmart.com/files/17/Futurama-Logo-PNG-Transparent-Image.png" group-title="24/7",Futurama
+http://www.alltvstyle.com:25461/roberto/1234/82602
+#EXTINF:-1 tvg-id="" tvg-name="Hechizada" tvg-logo="https://images.justwatch.com/poster/194874007/s332/temporada-1" group-title="24/7",Hechizada
+http://www.alltvstyle.com:25461/roberto/1234/82603
+#EXTINF:-1 tvg-id="" tvg-name="La Familia P Luche" tvg-logo="http://3.bp.blogspot.com/-I3_QRiZhqtk/VoLi-b2QuJI/AAAAAAAAACU/cc87UlgXHGQ/s1600/image.png" group-title="24/7",La Familia P Luche
+http://www.alltvstyle.com:25461/roberto/1234/82604
+#EXTINF:-1 tvg-id="" tvg-name="La Hora Pico" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5NTg2MjctYmNiOS00NzcwLWEwYWMtMTVhMWZjNmJkNGE0XkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg" group-title="24/7",La Hora Pico
+http://www.alltvstyle.com:25461/roberto/1234/82605
+#EXTINF:-1 tvg-id="" tvg-name="La Niñera" tvg-logo="https://images.fanart.tv/fanart/the-nanny-53a2f3a5236c2.png" group-title="24/7",La Niñera
+http://www.alltvstyle.com:25461/roberto/1234/82606
+#EXTINF:-1 tvg-id="" tvg-name="Miraculus Ladybug" tvg-logo="https://garciayroyano.files.wordpress.com/2016/10/ladybug_and_chat_noir.png" group-title="24/7 Kids",Miraculus Ladybug
+http://www.alltvstyle.com:25461/roberto/1234/82607
+#EXTINF:-1 tvg-id="" tvg-name="Mi Bella Genio" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_760666-MLM43203897000_082020-O.jpg" group-title="24/7",Mi Bella Genio
+http://www.alltvstyle.com:25461/roberto/1234/82608
+#EXTINF:-1 tvg-id="" tvg-name="DTM Christmas" tvg-logo="https://www.cabinas.net/imagines/mensajes-navidad/los-mejores-mensajes-de-navidad-para-dedicar.png" group-title="24/7 Kids",DTM Christmas
+http://www.alltvstyle.com:25461/roberto/1234/82609
+#EXTINF:-1 tvg-id="" tvg-name="Teens Titans Go" tvg-logo="https://i.pinimg.com/originals/5c/d8/7e/5cd87e4c37aed8e2dc0fa49e53b48fab.png" group-title="24/7 Kids",Teens Titans Go
+http://www.alltvstyle.com:25461/roberto/1234/82610
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title="Kids USA",Nick JR USA
+http://www.alltvstyle.com:25461/roberto/1234/82716
+#EXTINF:-1 tvg-id="" tvg-name="NickToons USA" tvg-logo="https://e7.pngegg.com/pngimages/454/584/png-clipart-nickelodeon-studios-logo-television-nicktoons-nickelodeon-tv-shows-2016-television-text.png" group-title="Kids USA",NickToons USA
+http://www.alltvstyle.com:25461/roberto/1234/82717
+#EXTINF:-1 tvg-id="" tvg-name="Universal Kids USA" tvg-logo="https://adma.tmsimg.com/assets/s70225_ll_h15_ae.png?w=360&h=270?w=100" group-title="Kids USA",Universal Kids USA
+http://www.alltvstyle.com:25461/roberto/1234/82718
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png" group-title="Kids USA",Baby TV USA
+http://www.alltvstyle.com:25461/roberto/1234/82719
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios MTY FULLHD" tvg-logo="https://www.wizzplus.mx/izzi_tv/izzi/img/dummy-img/channels/canal-miltimedios.png" group-title="Nacionales MX",Multimedios MTY FULLHD
+http://www.alltvstyle.com:25461/roberto/1234/83521
+#EXTINF:-1 tvg-id="" tvg-name="Now Music" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/02/NOW-90s.png" group-title="Musica",Now Music
+http://www.alltvstyle.com:25461/roberto/1234/83522
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD" tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=1024" group-title="FULL HD MX",Comedy Central FHD
+http://www.alltvstyle.com:25461/roberto/1234/85017
+#EXTINF:-1 tvg-id="Canal History 2 (México)" tvg-name="History 2" tvg-logo="http://144.217.183.123/logos/H2LAM-1.png" group-title="Culturales",History 2
+http://www.alltvstyle.com:25461/roberto/1234/1430
+#EXTINF:-1 tvg-id="Canal HBO 2 (México)" tvg-name="HBO 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1079557692_HBOSUB.png.5924f8743b93423c14687572b609988a.png" group-title="Cine y Series",HBO 2
+http://www.alltvstyle.com:25461/roberto/1234/1431
+#EXTINF:-1 tvg-id="Canal HBO Family Latinoamérica" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine y Series",HBO Family
+http://www.alltvstyle.com:25461/roberto/1234/1432
+#EXTINF:-1 tvg-id="Canal HBO" tvg-name="HBO" tvg-logo="https://contrata.telmex.com/image/guest/hbo/HBOlogo_blanco.png" group-title="Cine y Series",HBO
+http://www.alltvstyle.com:25461/roberto/1234/1433
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
+http://www.alltvstyle.com:25461/roberto/1234/1434
+#EXTINF:-1 tvg-id="Canal HBO Plus Este" tvg-name="HBO Plus" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/36/HBO_Plus_97.png" group-title="Cine y Series",HBO Plus
+http://www.alltvstyle.com:25461/roberto/1234/1435
+#EXTINF:-1 tvg-id="Canal HBO Signature Latinoamérica" tvg-name="HBO Signature" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png" group-title="Cine y Series",HBO Signature
+http://www.alltvstyle.com:25461/roberto/1234/1436
+#EXTINF:-1 tvg-id="Canal HBO Mundi" tvg-name="HBO Mundi" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_01/large.1200px-HBO_Mundi_svg.png.76e558cad5eb8e895d097ce84f416833.png" group-title="Cine y Series",HBO Mundi
+http://www.alltvstyle.com:25461/roberto/1234/1437
+#EXTINF:-1 tvg-id="Canal HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://i.imgur.com/Wz3WemY.png" group-title="Cine y Series",HBO Xtreme
+http://www.alltvstyle.com:25461/roberto/1234/1438
+#EXTINF:-1 tvg-id="Canal HBO Pop" tvg-name="HBO Pop" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.720733894_HBOPOP(varianteverde).png.089cc34274523ea2653122594e3cba50.png" group-title="Cine y Series",HBO Pop
+http://www.alltvstyle.com:25461/roberto/1234/1439
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Entretenimiento",El Gourmet
+http://www.alltvstyle.com:25461/roberto/1234/52507
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="https://www.pngkey.com/png/full/758-7584201_trutv.png" group-title="Entretenimiento",TruTV
+http://www.alltvstyle.com:25461/roberto/1234/52481
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/I-Sat_2010.png/revision/latest?cb=20200107000514&path-prefix=es" group-title="Entretenimiento",I-Sat
+http://www.alltvstyle.com:25461/roberto/1234/52508
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Culturales",Discovery World
+http://www.alltvstyle.com:25461/roberto/1234/52503
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="De Pelicula Plus" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.DePeliculaPlus-1.png.5ffaf7150f40e959b88e31a35fff89e8.png" group-title="Cine y Series",De Pelicula Plus
+http://www.alltvstyle.com:25461/roberto/1234/52504
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="AZ Cinema" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="Cine y Series",AZ Cinema
+http://www.alltvstyle.com:25461/roberto/1234/52505
+#EXTINF:-1 tvg-id="" tvg-name="MultiPremier" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Multipremier_logo.svg.png" group-title="Cine y Series",MultiPremier
+http://www.alltvstyle.com:25461/roberto/1234/58613
+#EXTINF:-1 tvg-id="" tvg-name="Europa Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Europa_Europa_White.png/revision/latest?cb=20220118204916&path-prefix=es" group-title="Cine y Series",Europa Channel
+http://www.alltvstyle.com:25461/roberto/1234/58614
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="https://imgx.fubo.tv/station_logos/cine-latino_m.png" group-title="Cine y Series",Cine Latino
+http://www.alltvstyle.com:25461/roberto/1234/58615
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="https://www.pngkey.com/png/full/880-8808516_abc-logo-png-4-abc-news.png" group-title="Noticias",ABC News
+http://www.alltvstyle.com:25461/roberto/1234/65048
+#EXTINF:-1 tvg-id="Canal Fox Premium Series (Oeste)" tvg-name="Toros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="Deportes",Toros
+http://www.alltvstyle.com:25461/roberto/1234/1362
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="Deportes",ESPN Extra
+http://www.alltvstyle.com:25461/roberto/1234/1473
+#EXTINF:-1 tvg-id="Canal Fox Premium Movies" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
+http://www.alltvstyle.com:25461/roberto/1234/1360
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sec Network" tvg-logo="http://a.espncdn.com/photo/2014/0617/sec_network_logo.png" group-title="Deportes",ESPN Sec Network
+http://www.alltvstyle.com:25461/roberto/1234/58616
+#EXTINF:-1 tvg-id="Canal Fox Premium Classics" tvg-name="ESPN U" tvg-logo="https://www.logolynx.com/images/logolynx/ae/aed258525360eeab53e71964687f94bd.png" group-title="Deportes",ESPN U
+http://www.alltvstyle.com:25461/roberto/1234/1428
+#EXTINF:-1 tvg-id="Canal Fox Premium Cinéma" tvg-name="ESPN 3 ARG" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/05/305.png" group-title="Deportes",ESPN 3 ARG
+http://www.alltvstyle.com:25461/roberto/1234/1426
+#EXTINF:-1 tvg-id="Canal Fox Premium Action (Oeste)" tvg-name="ESPN Extra Arg" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="Deportes",ESPN Extra Arg
+http://www.alltvstyle.com:25461/roberto/1234/1425
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="Deportes",DAZN F1
+http://www.alltvstyle.com:25461/roberto/1234/63292
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Universal_Comedy_logo.png/640px-Universal_Comedy_logo.png" group-title="Cine y Series",Universal Comedy
+http://www.alltvstyle.com:25461/roberto/1234/63649
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" group-title="Cine y Series",Universal Reality
+http://www.alltvstyle.com:25461/roberto/1234/63294
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="Cine y Series",Universal Cinema
+http://www.alltvstyle.com:25461/roberto/1234/58984
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="Cine y Series",Universal Premiere
+http://www.alltvstyle.com:25461/roberto/1234/58983
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png" group-title="Cine y Series",Universal Crime
+http://www.alltvstyle.com:25461/roberto/1234/58982
+#EXTINF:-1 tvg-id="Canal 9 de México (XEQ-TDT)" tvg-name="Ligue 1 10:00 PSG vs Brest (beIN Sports Ñ)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2021/20210914102314887.webp" group-title="Eventos",Ligue 1 10:00 PSG vs Brest (beIN Sports Ñ)
+http://www.alltvstyle.com:25461/roberto/1234/52966
+#EXTINF:-1 tvg-id="Canal Cinemax (México)" tvg-name="Ligue 1 14:00 O. Marseille vs Lille (beIN Sports Ñ)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2021/20210914102314887.webp" group-title="Eventos",Ligue 1 14:00 O. Marseille vs Lille (beIN Sports Ñ)
+http://www.alltvstyle.com:25461/roberto/1234/52552
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel USA" tvg-logo="https://cdn.shopify.com/s/files/1/0757/7143/files/discovery-logo.png?9730838037970652262" group-title="USA",Discovery Channel USA
+http://www.alltvstyle.com:25461/roberto/1234/1442
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family Channel" tvg-logo="" group-title="USA",Discovery Family Channel
+http://www.alltvstyle.com:25461/roberto/1234/1444
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life" tvg-logo="" group-title="USA",Discovery Life
+http://www.alltvstyle.com:25461/roberto/1234/1445
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network USA" tvg-logo="https://www.conviva.com/wp-content/uploads/2017/09/150150-DIY-Network-Logo-White-copy.png" group-title="USA",DIY Network USA
+http://www.alltvstyle.com:25461/roberto/1234/1446
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertaiment Television" tvg-logo="http://144.217.183.123/logos/ETVLN-1.png" group-title="USA",E! Entertaiment Television
+http://www.alltvstyle.com:25461/roberto/1234/1447
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",FOX Deportes
+http://www.alltvstyle.com:25461/roberto/1234/1448
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="USA",FOX Life
+http://www.alltvstyle.com:25461/roberto/1234/1449
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 USA" tvg-logo="https://sales.henrylapps.com/storage/channels/Logo-Fox-Sports-1.png" group-title="Deportes",FOX Sports 1 USA
+http://www.alltvstyle.com:25461/roberto/1234/1450
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 USA" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_8373.png" group-title="Deportes",FOX Sports 2 USA
+http://www.alltvstyle.com:25461/roberto/1234/1451
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/800px-WinSports2017.png" group-title="Deportes",Win Sports +
+http://www.alltvstyle.com:25461/roberto/1234/1452
+#EXTINF:-1 tvg-id="" tvg-name="FXM USA" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/7/75/FXM.png/revision/latest?cb=20200812182915" group-title="USA",FXM USA
+http://www.alltvstyle.com:25461/roberto/1234/1453
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://144.217.183.123/logos/FOODNET-1%20(1).png" group-title="USA",Food Network
+http://www.alltvstyle.com:25461/roberto/1234/1454
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3 ARG
+http://www.alltvstyle.com:25461/roberto/1234/1455
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2 ARG
+http://www.alltvstyle.com:25461/roberto/1234/1456
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX Sports 1 ARG
+http://www.alltvstyle.com:25461/roberto/1234/1457
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/640px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports 1
+http://www.alltvstyle.com:25461/roberto/1234/1458
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARG" tvg-logo="https://cabletosaguatv.com/wp-content/uploads/espn2-300x150.png" group-title="Deportes",ESPN 2 ARG
+http://www.alltvstyle.com:25461/roberto/1234/1459
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports +" tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="Deportes",DirecTV Sports +
+http://www.alltvstyle.com:25461/roberto/1234/1460
+#EXTINF:-1 tvg-id="" tvg-name="Galavisión" tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/460.png" group-title="USA",Galavisión
+http://www.alltvstyle.com:25461/roberto/1234/1461
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.sketch-1580686212613.png.e84227e062d12075c4d8b5b4dd5ba216.png" group-title="Deportes",Gol TV Spanish
+http://www.alltvstyle.com:25461/roberto/1234/1463
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel" tvg-logo="https://logodix.com/logo/452708.png" group-title="USA",Hallmark Channel
+http://www.alltvstyle.com:25461/roberto/1234/1464
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="Kids USA",Disney Channel USA
+http://www.alltvstyle.com:25461/roberto/1234/1465
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR USA" tvg-logo="https://i.pinimg.com/originals/0f/c1/53/0fc1531fd89e43be8aeba43e72d61001.png" group-title="Kids USA",Disney JR USA
+http://www.alltvstyle.com:25461/roberto/1234/1466
+#EXTINF:-1 tvg-id="" tvg-name="History Channel USA" tvg-logo="http://144.217.183.123/logos/HCLM-1.png" group-title="USA",History Channel USA
+http://www.alltvstyle.com:25461/roberto/1234/1467
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://jfgentertainment.com/img/upload/logo-nba.png" group-title="Deportes",NBA TV
+http://www.alltvstyle.com:25461/roberto/1234/1468
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="Deportes",Sky Sports F1
+http://www.alltvstyle.com:25461/roberto/1234/1470
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/small.1302367661_TNTSportsNuevoLogo2021.png.341f14d65edf154b8d9fe26343249e67.png" group-title="Deportes",TNT Sports
+http://www.alltvstyle.com:25461/roberto/1234/1471
+#EXTINF:-1 tvg-id="" tvg-name="NBC Universo" tvg-logo="http://144.217.183.123/logos/UNIVERSO_LOGO_color_black.png" group-title="Deportes",NBC Universo
+http://www.alltvstyle.com:25461/roberto/1234/1472
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="Deportes",Tennis Channel
+http://www.alltvstyle.com:25461/roberto/1234/1474
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="Deportes",TyC Sports
+http://www.alltvstyle.com:25461/roberto/1234/1475
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://totalplayplanes.mx/s/ma/assets/img/canales/Deportes/canal-tvcdeportes.png" group-title="Deportes",TVC Deportes
+http://www.alltvstyle.com:25461/roberto/1234/1476
+#EXTINF:-1 tvg-id="" tvg-name="UniMas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="Entretenimiento",UniMas
+http://www.alltvstyle.com:25461/roberto/1234/1477
+#EXTINF:-1 tvg-id="" tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/1280px-Universal_Kids_2019_Logo.svg.png" group-title="Kids",Universal Kids
+http://www.alltvstyle.com:25461/roberto/1234/1478
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",Univision
+http://www.alltvstyle.com:25461/roberto/1234/1479
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="https://www.logolynx.com/images/logolynx/03/03ea0638f105a059799f5d7e0ccd4797.png" group-title="Deportes",Outdoor Channel
+http://www.alltvstyle.com:25461/roberto/1234/1
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga de Campeones" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="Deportes",Movistar La Liga de Campeones
+http://www.alltvstyle.com:25461/roberto/1234/4
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6595.1491352332.png" group-title="Deportes",Bein Sports Ñ
+http://www.alltvstyle.com:25461/roberto/1234/6
+#EXTINF:-1 tvg-id="" tvg-name="AMC Network USA" tvg-logo="http://144.217.183.123/logos/AMCMEX-1.png" group-title="USA",AMC Network USA
+http://www.alltvstyle.com:25461/roberto/1234/1441
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://144.217.183.123/logos/AEMX-1.png" group-title="USA",A&E
+http://www.alltvstyle.com:25461/roberto/1234/1440
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/MLB-Background-PNG-Image.png" group-title="Deportes",MLB Network
+http://www.alltvstyle.com:25461/roberto/1234/169
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="Deportes",TUDN USA
+http://www.alltvstyle.com:25461/roberto/1234/3
+#EXTINF:-1 tvg-id="" tvg-name="TNT USA" tvg-logo="http://144.217.183.123/logos/TNTLAHD-1.png" group-title="USA",TNT USA
+http://www.alltvstyle.com:25461/roberto/1234/1507
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://www.seekpng.com/png/full/43-439418_ufc-fight-pass-logo.png" group-title="Deportes",UFC Fight Pass
+http://www.alltvstyle.com:25461/roberto/1234/5
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="USA",Estrella TV
+http://www.alltvstyle.com:25461/roberto/1234/1510
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 USA" tvg-logo="http://144.217.183.123/logos/ESPN-Logo.png" group-title="Deportes",ESPN 1 USA
+http://www.alltvstyle.com:25461/roberto/1234/1511
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA" tvg-logo="http://144.217.183.123/logos/ESPNDOH-1.png" group-title="Deportes",ESPN 2 USA
+http://www.alltvstyle.com:25461/roberto/1234/1512
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Encore_Suspense.svg/revision/latest/scale-to-width-down/250?cb=20151217120955" group-title="USA",Starz Encore Suspense USA
+http://www.alltvstyle.com:25461/roberto/1234/1513
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family USA" tvg-logo="http://78.47.174.211/logos/hbofamily.png" group-title="USA",HBO Family USA
+http://www.alltvstyle.com:25461/roberto/1234/1514
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature USA" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_05/large.1813311820_HBOSignature.png.b249d53ce9aea7ba6e6918e62263084f.png" group-title="USA",HBO Signature USA
+http://www.alltvstyle.com:25461/roberto/1234/1515
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic USA" tvg-logo="https://adma.tmsimg.com/assets/s14764_ll_h15_ab.png?w=360&h=270?w=100" group-title="USA",Starz Encore Classic USA
+http://www.alltvstyle.com:25461/roberto/1234/1516
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family USA" tvg-logo="https://seeklogo.com/images/S/starz-kids-logo-2E66F84E0C-seeklogo.com.png" group-title="Kids USA",Starz Kids & Family USA
+http://www.alltvstyle.com:25461/roberto/1234/1517
+#EXTINF:-1 tvg-id="" tvg-name="Starz West USA" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e6/Starz_West_2005.png/revision/latest/scale-to-width-down/220?cb=20200228001427" group-title="USA",Starz West USA
+http://www.alltvstyle.com:25461/roberto/1234/1519
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Encore_Westerns.svg/revision/latest/scale-to-width-down/250?cb=20091113215526" group-title="USA",Starz Encore Westerns USA
+http://www.alltvstyle.com:25461/roberto/1234/1520
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Kids USA",Disney XD USA
+http://www.alltvstyle.com:25461/roberto/1234/1521
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios CDMX" tvg-logo="http://144.217.183.123/logos/MMEDP-1.png" group-title="Nacionales MX",Multimedios CDMX
+http://www.alltvstyle.com:25461/roberto/1234/46086
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Real Madrid TV" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/02/Real-Madrid-logo.png" group-title="Deportes",Real Madrid TV
+http://www.alltvstyle.com:25461/roberto/1234/1526
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ USA" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6595.1491352332.png" group-title="Deportes",Bein Sports Ñ USA
+http://www.alltvstyle.com:25461/roberto/1234/52183
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="Deportes",Bein Sports English
+http://www.alltvstyle.com:25461/roberto/1234/52184
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports La Liga" tvg-logo="https://flyclipart.com/thumb2/bein-sports-la-liga-912693.png" group-title="Deportes",Bein Sports La Liga
+http://www.alltvstyle.com:25461/roberto/1234/52185
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2" tvg-logo="https://i.pinimg.com/originals/15/7b/b5/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="Deportes",Bein Sports 2
+http://www.alltvstyle.com:25461/roberto/1234/52186
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6592.1491350506.png" group-title="Deportes",Bein Sports 3
+http://www.alltvstyle.com:25461/roberto/1234/52187
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F204%2Fbein-sports-hd-1.png" group-title="Deportes",Bein Sports 4
+http://www.alltvstyle.com:25461/roberto/1234/52188
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5" tvg-logo="https://www.nadirsat.com/Packages_files/HD5-1.png" group-title="Deportes",Bein Sports 5
+http://www.alltvstyle.com:25461/roberto/1234/52189
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6" tvg-logo="https://www.nadirsat.com/Packages_files/HD6-1.png" group-title="Deportes",Bein Sports 6
+http://www.alltvstyle.com:25461/roberto/1234/52190
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Deportes",Bein Sports 7
+http://www.alltvstyle.com:25461/roberto/1234/52191
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8" tvg-logo="https://www.nadirsat.com/Packages_files/HD8-1.png" group-title="Deportes",Bein Sports 8
+http://www.alltvstyle.com:25461/roberto/1234/52192
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.freepnglogos.com/uploads/wwe-network-logo-photo-hd-2.png" group-title="Deportes",WWE Network
+http://www.alltvstyle.com:25461/roberto/1234/52227
+#EXTINF:-1 tvg-id="" tvg-name="Fox NY" tvg-logo="" group-title="USA",Fox NY
+http://www.alltvstyle.com:25461/roberto/1234/58489
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema USA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Starz_Cinema_2005.svg/revision/latest?cb=20151217004208" group-title="USA",Starz Cinema USA
+http://www.alltvstyle.com:25461/roberto/1234/1518
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Starz East USA" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/5/5d/Starz_East_1994.png/revision/latest/scale-to-width-down/250?cb=20200227204106" group-title="USA",Starz East USA
+http://www.alltvstyle.com:25461/roberto/1234/52973
+#EXTINF:-1 tvg-id="Canal Fox Premium Comedy" tvg-name="ESPN News" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnnews.png" group-title="Deportes",ESPN News
+http://www.alltvstyle.com:25461/roberto/1234/1429
+#EXTINF:-1 tvg-id="" tvg-name="Box Nation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BoxNation.png" group-title="Deportes",Box Nation
+http://www.alltvstyle.com:25461/roberto/1234/58969
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes",FUTV
+http://www.alltvstyle.com:25461/roberto/1234/69166
+#EXTINF:-1 tvg-id="" tvg-name="Panico" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png" group-title="Cine y Series",Panico
+http://www.alltvstyle.com:25461/roberto/1234/65390
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="Deportes",Movistar Golf
+http://www.alltvstyle.com:25461/roberto/1234/65389
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ARG)" tvg-logo="http://78.47.174.211/logos/foxsportspremium.png" group-title="Deportes",FOX SPORTS PREMIUM (ARG)
+http://www.alltvstyle.com:25461/roberto/1234/76166
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (MX)" tvg-logo="http://78.47.174.211/logos/foxsportspremiummx.png" group-title="Deportes",FOX SPORTS PREMIUM (MX)
+http://www.alltvstyle.com:25461/roberto/1234/76167
+#EXTINF:-1 tvg-id="Canal TNT (México)" tvg-name="Formula 1 08:55 Italy Grand Prix, Qualifying (Fox Sports Premium)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200312173127834.webp" group-title="Eventos",Formula 1 08:55 Italy Grand Prix, Qualifying (Fox Sports Premium)
+http://www.alltvstyle.com:25461/roberto/1234/52522
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 08:55 Italy Grand Prix, Qualifying (F1 TV)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200312173127834.webp" group-title="Eventos",Formula 1 08:55 Italy Grand Prix, Qualifying (F1 TV)
+http://www.alltvstyle.com:25461/roberto/1234/52551
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Formula 1 08:55 Italy Grand Prix, Qualifying (DAZN)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200312173127834.webp" group-title="Eventos",Formula 1 08:55 Italy Grand Prix, Qualifying (DAZN)
+http://www.alltvstyle.com:25461/roberto/1234/52511
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="UFC 279 19:00 Chimaev vs. Diaz - Prelims (Fox Sports Premium)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220610191614548.webp" group-title="Eventos",UFC 279 19:00 Chimaev vs. Diaz - Prelims (Fox Sports Premium)
+http://www.alltvstyle.com:25461/roberto/1234/52510
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 08:55 Italy Grand Prix, Qualifying (Fox Sports 3 MX)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200312173127834.webp" group-title="Eventos",Formula 1 08:55 Italy Grand Prix, Qualifying (Fox Sports 3 MX)
+http://www.alltvstyle.com:25461/roberto/1234/52521
+#EXTINF:-1 tvg-id="Canal TNT (México)" tvg-name="Serie A TIM 13:45 Sampdoria vs Milan" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161654721.webp" group-title="Eventos",Serie A TIM 13:45 Sampdoria vs Milan
+http://www.alltvstyle.com:25461/roberto/1234/52967
+#EXTINF:-1 tvg-id="" tvg-name="4 Music" tvg-logo="https://assets.stickpng.com/images/5a5a753614d8c4188e0b08c1.png" group-title="Musica",4 Music
+http://www.alltvstyle.com:25461/roberto/1234/83523
+#EXTINF:-1 tvg-id="" tvg-name="Toddler Tunes" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Toddler Tunes
+http://www.alltvstyle.com:25461/roberto/1234/83524
+#EXTINF:-1 tvg-id="" tvg-name="Todays Country" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Todays Country
+http://www.alltvstyle.com:25461/roberto/1234/83525
+#EXTINF:-1 tvg-id="" tvg-name="Rock" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Rock
+http://www.alltvstyle.com:25461/roberto/1234/83526
+#EXTINF:-1 tvg-id="" tvg-name="Rap 2K" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Rap 2K
+http://www.alltvstyle.com:25461/roberto/1234/83527
+#EXTINF:-1 tvg-id="" tvg-name="Rap" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Rap
+http://www.alltvstyle.com:25461/roberto/1234/83528
+#EXTINF:-1 tvg-id="" tvg-name="R&B Soul" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",R&B Soul
+http://www.alltvstyle.com:25461/roberto/1234/83529
+#EXTINF:-1 tvg-id="" tvg-name="Pop Latino" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Pop Latino
+http://www.alltvstyle.com:25461/roberto/1234/83530
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Pop Hits
+http://www.alltvstyle.com:25461/roberto/1234/83531
+#EXTINF:-1 tvg-id="" tvg-name="Pop And Country" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Pop And Country
+http://www.alltvstyle.com:25461/roberto/1234/83532
+#EXTINF:-1 tvg-id="" tvg-name="Mexicana" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Mexicana
+http://www.alltvstyle.com:25461/roberto/1234/83533
+#EXTINF:-1 tvg-id="" tvg-name="Kids Only" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Kids Only
+http://www.alltvstyle.com:25461/roberto/1234/83534
+#EXTINF:-1 tvg-id="" tvg-name="Hits List" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Hits List
+http://www.alltvstyle.com:25461/roberto/1234/83535
+#EXTINF:-1 tvg-id="" tvg-name="90´s" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",90´s
+http://www.alltvstyle.com:25461/roberto/1234/83536
+#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop and R&B" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/logo-retina.png" group-title="Musica",Hip-Hop and R&B
+http://www.alltvstyle.com:25461/roberto/1234/83537
+#EXTINF:-1 tvg-id="" tvg-name="MLB 12:05 Rays @ Yankees" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 12:05 Rays @ Yankees
+http://www.alltvstyle.com:25461/roberto/1234/83470
+#EXTINF:-1 tvg-id="" tvg-name="MLB 13:20 Giants @ Cubs" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 13:20 Giants @ Cubs
+http://www.alltvstyle.com:25461/roberto/1234/83469
+#EXTINF:-1 tvg-id="" tvg-name="MLB 15:07 White Sox @ Athletics" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 15:07 White Sox @ Athletics
+http://www.alltvstyle.com:25461/roberto/1234/83468
+#EXTINF:-1 tvg-id="" tvg-name="MLB 16:05 Red Sox @ Orioles" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 16:05 Red Sox @ Orioles
+http://www.alltvstyle.com:25461/roberto/1234/83467
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17:05 Nationals @ Phillies" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 17:05 Nationals @ Phillies
+http://www.alltvstyle.com:25461/roberto/1234/83466
+#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="La Liga 14:00 Atlético Madrid vs Celta" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161102921.webp" group-title="Eventos",La Liga 14:00 Atlético Madrid vs Celta
+http://www.alltvstyle.com:25461/roberto/1234/59048
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="La Liga 11:30 Cádiz CF vs Barcelona" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161102921.webp" group-title="Eventos",La Liga 11:30 Cádiz CF vs Barcelona
+http://www.alltvstyle.com:25461/roberto/1234/59049
+#EXTINF:-1 tvg-id="" tvg-name="MLB 17:10 Mets @ Marlins" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 17:10 Mets @ Marlins
+http://www.alltvstyle.com:25461/roberto/1234/83465
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:05 Blue Jays @ Rangers" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 18:05 Blue Jays @ Rangers
+http://www.alltvstyle.com:25461/roberto/1234/83464
+#EXTINF:-1 tvg-id="Canal TUDN (México)" tvg-name="2022 U.S. Open 11:00 First Round (TSN 4)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220829111737485.webp" group-title="Eventos",2022 U.S. Open 11:00 First Round (TSN 4)
+http://www.alltvstyle.com:25461/roberto/1234/59052
+#EXTINF:-1 tvg-id="Canal Adrenalina Sports Network" tvg-name="2022 U.S. Open 11:00 First Round (TSN 3)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220829111737485.webp" group-title="Eventos",2022 U.S. Open 11:00 First Round (TSN 3)
+http://www.alltvstyle.com:25461/roberto/1234/59053
+#EXTINF:-1 tvg-id="" tvg-name="2022 U.S. Open 11:00 First Round (ESPN 3)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220829111737485.webp" group-title="Eventos",2022 U.S. Open 11:00 First Round (ESPN 3)
+http://www.alltvstyle.com:25461/roberto/1234/63267
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="2022 U.S. Open 11:00 First Round (ESPN 2 México)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220829111737485.webp" group-title="Eventos",2022 U.S. Open 11:00 First Round (ESPN 2 México)
+http://www.alltvstyle.com:25461/roberto/1234/63265
+#EXTINF:-1 tvg-id="" tvg-name="2022 U.S. Open 11:00 First Round (ESPN Deportes)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220829111737485.webp" group-title="Eventos",2022 U.S. Open 11:00 First Round (ESPN Deportes)
+http://www.alltvstyle.com:25461/roberto/1234/63266
+#EXTINF:-1 tvg-id="" tvg-name="2022 U.S. Open 11:00 First Round (ESPN USA)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220829111737485.webp" group-title="Eventos",2022 U.S. Open 11:00 First Round (ESPN USA)
+http://www.alltvstyle.com:25461/roberto/1234/65375
+#EXTINF:-1 tvg-id="Canal TUDN (México)" tvg-name="La Liga 09:00 Espanyol vs Sevilla" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161102921.webp" group-title="Eventos",La Liga 09:00 Espanyol vs Sevilla
+http://www.alltvstyle.com:25461/roberto/1234/59050
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Serie A TIM 08:00 Napoli vs Spezia Calcio (ESPN MX)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161654721.webp" group-title="Eventos",Serie A TIM 08:00 Napoli vs Spezia Calcio (ESPN MX)
+http://www.alltvstyle.com:25461/roberto/1234/52972
+#EXTINF:-1 tvg-id="Canal TUDN (México)" tvg-name="Serie A TIM 08:00 Napoli vs Spezia Calcio " tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161654721.webp" group-title="Eventos",Serie A TIM 08:00 Napoli vs Spezia Calcio 
+http://www.alltvstyle.com:25461/roberto/1234/52969
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Serie A TIM 11:00 Inter Milan vs Torino" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161654721.webp" group-title="Eventos",Serie A TIM 11:00 Inter Milan vs Torino
+http://www.alltvstyle.com:25461/roberto/1234/52968
+#EXTINF:-1 tvg-id="" tvg-name="UFC 279 21:00 Chimaev vs. Diaz (Español)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2022/20220610191614548.webp" group-title="Eventos",UFC 279 21:00 Chimaev vs. Diaz (Español)
+http://www.alltvstyle.com:25461/roberto/1234/52479
+#EXTINF:-1 tvg-id="" tvg-name="Boxing 21:30 Claudio Daneff vs Cristian Andino" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116194740379.webp" group-title="Eventos",Boxing 21:30 Claudio Daneff vs Cristian Andino
+http://www.alltvstyle.com:25461/roberto/1234/52478
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:10 Tigers @ Royals" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 18:10 Tigers @ Royals
+http://www.alltvstyle.com:25461/roberto/1234/83463
+#EXTINF:-1 tvg-id="" tvg-name="LB 18:15 Angels @ Astros" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",LB 18:15 Angels @ Astros
+http://www.alltvstyle.com:25461/roberto/1234/83462
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:15 Guardians @ Twins" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 18:15 Guardians @ Twins
+http://www.alltvstyle.com:25461/roberto/1234/83461
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:15 Reds @ Brewers" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 18:15 Reds @ Brewers
+http://www.alltvstyle.com:25461/roberto/1234/83460
+#EXTINF:-1 tvg-id="" tvg-name="MLB 18:35 Cardinals @ Pirates" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 18:35 Cardinals @ Pirates
+http://www.alltvstyle.com:25461/roberto/1234/83459
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19:10 Diamondbacks @ Rockies" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 19:10 Diamondbacks @ Rockies
+http://www.alltvstyle.com:25461/roberto/1234/65388
+#EXTINF:-1 tvg-id="" tvg-name="MLB 20:10 Braves @ Mariners" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 20:10 Braves @ Mariners
+http://www.alltvstyle.com:25461/roberto/1234/65386
+#EXTINF:-1 tvg-id="" tvg-name="MLB 19:40 Dodgers @ Padres" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200221011839512.webp" group-title="Eventos",MLB 19:40 Dodgers @ Padres
+http://www.alltvstyle.com:25461/roberto/1234/65387
+#EXTINF:-1 tvg-id="" tvg-name="Superliga Argentina 13:30 Central Córdoba vs Godoy Cruz" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200119014032597.webp" group-title="Eventos",Superliga Argentina 13:30 Central Córdoba vs Godoy Cruz
+http://www.alltvstyle.com:25461/roberto/1234/52426
+#EXTINF:-1 tvg-id="" tvg-name="Superliga Argentina 16:00 San Lorenzo vs Atlético Tucumán" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200119014032597.webp" group-title="Eventos",Superliga Argentina 16:00 San Lorenzo vs Atlético Tucumán
+http://www.alltvstyle.com:25461/roberto/1234/52425
+#EXTINF:-1 tvg-id="" tvg-name="Superliga Argentina 18:30 Banfield vs Colón" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200119014032597.webp" group-title="Eventos",Superliga Argentina 18:30 Banfield vs Colón
+http://www.alltvstyle.com:25461/roberto/1234/52424
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 17:00 Querétaro vs Santos Laguna (TUDN USA)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 17:00 Querétaro vs Santos Laguna (TUDN USA)
+http://www.alltvstyle.com:25461/roberto/1234/52423
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 19:05 Tigres UANL vs León (TUDN USA)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 19:05 Tigres UANL vs León (TUDN USA)
+http://www.alltvstyle.com:25461/roberto/1234/52419
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 21:05 Toluca vs Pumas (TUDN USA)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 21:05 Toluca vs Pumas (TUDN USA)
+http://www.alltvstyle.com:25461/roberto/1234/52291
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 19:00 Necaxa vs América" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 19:00 Necaxa vs América
+http://www.alltvstyle.com:25461/roberto/1234/52420
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 19:05 Tigres UANL vs León (TUDN MX)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 19:05 Tigres UANL vs León (TUDN MX)
+http://www.alltvstyle.com:25461/roberto/1234/52410
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 19:05 Tigres UANL vs León (Canal 5) " tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 19:05 Tigres UANL vs León (Canal 5) 
+http://www.alltvstyle.com:25461/roberto/1234/52412
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 17:00 Querétaro vs Santos Laguna (Fox Sports MX)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 17:00 Querétaro vs Santos Laguna (Fox Sports MX)
+http://www.alltvstyle.com:25461/roberto/1234/52421
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 21:05 Chivas vs Puebla (Afizzionados)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 21:05 Chivas vs Puebla (Afizzionados)
+http://www.alltvstyle.com:25461/roberto/1234/52409
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 17:00 Querétaro vs Santos Laguna (Univisión)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 17:00 Querétaro vs Santos Laguna (Univisión)
+http://www.alltvstyle.com:25461/roberto/1234/52422
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 19:05 Tigres UANL vs León (Univisión)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 19:05 Tigres UANL vs León (Univisión)
+http://www.alltvstyle.com:25461/roberto/1234/52411
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 21:05 Toluca vs Pumas (Univisión)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200820015320972.webp" group-title="Eventos",Liga MX 21:05 Toluca vs Pumas (Univisión)
+http://www.alltvstyle.com:25461/roberto/1234/52289
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 21:05 Toluca vs Pumas (Canal 5)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200820015320972.webp" group-title="Eventos",Liga MX 21:05 Toluca vs Pumas (Canal 5)
+http://www.alltvstyle.com:25461/roberto/1234/52290
+#EXTINF:-1 tvg-id="" tvg-name="Liga MX 21:05 Toluca vs Pumas (TUDN MX)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Eventos",Liga MX 21:05 Toluca vs Pumas (TUDN MX)
+http://www.alltvstyle.com:25461/roberto/1234/52288
+#EXTINF:-1 tvg-id="" tvg-name="LMB 01 HD / LEONES YUCATAN EN SULTANES MONTERREY 7PM - FOX SPORTS" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2021/20210522192917396.webp" group-title="Eventos",LMB 01 HD / LEONES YUCATAN EN SULTANES MONTERREY 7PM - FOX SPORTS
+http://www.alltvstyle.com:25461/roberto/1234/65382
+#EXTINF:-1 tvg-id="" tvg-name="O-LA-LA" tvg-logo="http://78.47.174.211/logos/olala.png" group-title="Adultos",O-LA-LA
+http://www.alltvstyle.com:25461/roberto/1234/1480
+#EXTINF:-1 tvg-id="" tvg-name="HOT" tvg-logo="https://1.bp.blogspot.com/-YWC7F9y_3wU/W8tFjVzYcQI/AAAAAAAAE4k/EhvMznAY2zEDX5bRbIQmH75Vvmn7q7WRQCLcBGAs/s1600/Hot-logo.png" group-title="Adultos",HOT
+http://www.alltvstyle.com:25461/roberto/1234/1481
+#EXTINF:-1 tvg-id="" tvg-name="Hustler HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="Adultos",Hustler HD
+http://www.alltvstyle.com:25461/roberto/1234/1482
+#EXTINF:-1 tvg-id="" tvg-name="OX-AX HD" tvg-logo="http://78.47.174.211/logos/oxax.png" group-title="Adultos",OX-AX HD
+http://www.alltvstyle.com:25461/roberto/1234/1483
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV Parody" tvg-logo="http://78.47.174.211/logos/faptvparody.png" group-title="Adultos",FAP TV Parody
+http://www.alltvstyle.com:25461/roberto/1234/1484
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=128926179&t=1652343467920" group-title="Adultos",Penthouse Gold
+http://www.alltvstyle.com:25461/roberto/1234/1485
+#EXTINF:-1 tvg-id="" tvg-name="Private TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a2/Private_TV_HD_%282018-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20180614045025" group-title="Adultos",Private TV
+http://www.alltvstyle.com:25461/roberto/1234/1486
+#EXTINF:-1 tvg-id="" tvg-name="Passionxxx" tvg-logo="https://static.imctransfer.com/static_01/passionxxx/logo_big_wit.png" group-title="Adultos",Passionxxx
+http://www.alltvstyle.com:25461/roberto/1234/1487
+#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="https://i.pinimg.com/originals/d8/28/a0/d828a08a603d6f218cdb7ef166731606.png" group-title="Adultos",Venus
+http://www.alltvstyle.com:25461/roberto/1234/1488
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV BBW" tvg-logo="http://78.47.174.211/logos/faptvbbw.png" group-title="Adultos",FAP TV BBW
+http://www.alltvstyle.com:25461/roberto/1234/1489
+#EXTINF:-1 tvg-id="" tvg-name="Redlight HD" tvg-logo="https://masmediatv.es/images/2020/10/23/canales-redlight-removebg-preview.png" group-title="Adultos",Redlight HD
+http://www.alltvstyle.com:25461/roberto/1234/1490
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies" tvg-logo="https://www.penthousetv.com/images/logo_phQuickies.png" group-title="Adultos",Penthouse Quickies
+http://www.alltvstyle.com:25461/roberto/1234/1491
+#EXTINF:-1 tvg-id="" tvg-name="Erox" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erox_logo2019.png" group-title="Adultos",Erox
+http://www.alltvstyle.com:25461/roberto/1234/1493
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler" tvg-logo="https://masmediatv.es/images/2020/10/23/canales-blue-hustler-removebg-preview.png" group-title="Adultos",Blue Hustler
+http://www.alltvstyle.com:25461/roberto/1234/1492
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy TV" tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="Adultos",PlayBoy TV
+http://www.alltvstyle.com:25461/roberto/1234/1495
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV Teens" tvg-logo="http://78.47.174.211/logos/faptvteens.png" group-title="Adultos",FAP TV Teens
+http://www.alltvstyle.com:25461/roberto/1234/1496
+#EXTINF:-1 tvg-id="" tvg-name="Fake Hostel" tvg-logo="https://www.clicporn.com/wp-content/uploads/2021/11/fakehotel-logo.png" group-title="Adultos",Fake Hostel
+http://www.alltvstyle.com:25461/roberto/1234/1497
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV Lesbian" tvg-logo="http://78.47.174.211/logos/faptvlesbian.png" group-title="Adultos",FAP TV Lesbian
+http://www.alltvstyle.com:25461/roberto/1234/1504
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV Compilation" tvg-logo="http://78.47.174.211/logos/faptvcompilation.png" group-title="Adultos",FAP TV Compilation
+http://www.alltvstyle.com:25461/roberto/1234/1503
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV 4" tvg-logo="http://78.47.174.211/logos/faptv4.png" group-title="Adultos",FAP TV 4
+http://www.alltvstyle.com:25461/roberto/1234/1502
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV 3" tvg-logo="http://78.47.174.211/logos/faptv3.png" group-title="Adultos",FAP TV 3
+http://www.alltvstyle.com:25461/roberto/1234/1501
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV 2" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQUAAADBCAMAAADxRlW1AAAAsVBMVEX///+XAG2ZAHCWAGzt0+bu3OiZAHH8+fuvUZL79fmkG4Dx3+zy5e305fCmK4e/dKi7XKHZqcvhute5VZ7pzeLgtdWnN4WpNIizUpfFebD26/PSnsKcAHb48Pbdr9GdFHmhI36uQI/Mkrrnxt3Hf7LKiba4YJ7OibzUmsS0RZewR5OwO5LAbqmuUpHAZqe3TZupPojMkbvBfqydHnfEdK7LmbrRpcLiuNe7aKLEbq3AZKebGn1LAAAHDUlEQVR4nO3Za3uiyBYFYKsKqwIGIoqNIgg2eLdj7HFOkv7/P+zs4iYa0zPnzGRCz7PeLx0RaWpRlw10OgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8GpuFmy2/fvi0XqfnZ5/JZIm81TzgXQrB4vo4++3Q+RTR6dDgTQlqWFQoWrm72BtUzjN6/tp+Yz8OQekF4WI08w5s9xiJcp5rR7BPm+uBYlrNZ2J92oh/J2FuMyWTilW22M4qhsJkG1V7RKWSakH3js870JrN7fylQ+fbITRt7qeC+66Wp170PInV1BKVU5DqCcT/rnbcaY8k5l5LGiJxUV34tGc8xmbWqN3QtOtUzzudF6wf+odFcY8t0o7gMd4/TtL62KjC8dOSu+5JJf3JxedXza7//uH9dbhMeLooeYh8oBBnHOoZ5ep3mZ+pajLMG8ZSnEK1i3miVcSd4sRsNfT/zihYob7KjYR7SFU72g+spL7DtIIoCY+Ewf5Bv8RzG5Xy1oG7CrFnbUoi/NCw9vdnoSzE572Xc0V5Pd3dPSUhhhOPiQnYPXFBPCuPkbtq7ffiOniJC8Xu+/4h6QbxQnYFOY9qmhUKnMHYHZ2nee12fLte5ZZQC2ww8L50dlzF1635Xb11x9uVhcVxPZ8ZPLqwaWeJ7Poh0Cr/N6GjzNqbwEFxvDR5oGmDr+jOlIPpFS41Fwlmo26CGIp5Gf9gYNbhIYdTaFN7M1+kTXXCxqa9wnkJ52vaEesML/cTcCSfvLupMf6h+VP4VHWPxNf/tKGbsF0pBHWOeSBZ61YZmCmrgM76lqTMqUjBT98yz3Wp4pO5MH1elWxmP8i0DKwyT518mBWq0dXK4XKnzhjoF3Qg29+oU7MzxayvD8Rd59++9OAe9ykSLkN0Vy03PnU7d3i+TghvTet7n4lDNj5cpbDnbNlLY6wpRUi1BJsGWjfMuNPPFUE+05jQW27JTKdPUB/k1UrAfhDwFa87KnnyVgh4R426dgrrvdrujrXgx6N9ATYXvUhcyqYSeFf/DIw//c3F8w29jCuP1rDDKF0BqprBc1UsYn5Sn2kyBZjsmT3adQs4bi0kxfDyLf490Bc2sYukx11W9UFKuxXnYuhRkUnKO+mwDGsl63G9p+BexNFMwZ3PdBr0aHC5TKL63XwVNA8r1WTmr6CFxkYKna0dn0LbasSqhBc/0qXl005DRdZxSpecWe+Up6D+oaHYkF3qJ0PXCjRTMaZjMOsEkDssKPMikaI4I40dINxJjr9MieQXtlHa6TjKnFgt14W/TV1WpRBW0DJ2dE9KtMRdJfl9wOwUKUTwE9HlffFYDR/iN+1NvR0dgcasGRDE79s5FD61neynGeev6gn8pLplOgXqMYLoF0nHzHd9JITixp9RNeNnl052Q3+vi1ByF+khy//59x2d4s0booogVtd6z4PEq35inIPXjgjiZn6p173YKpmvJbC+3xZRiPgq5rO9OoxPTTxjiffdjW/W/epNCdAxZ2YN7ev3Iv9N3U85p/7ifrKbV46T3UtDLg5/I8pmCuRfJtJoIzZV+zCL9Vbt6wo0UqA3sxTAjYg+p7s/nRz07DoMouHjS9F4K0aKxBpgL5s+qXwz0VCy3buseT1+noGYhZ98WhS2d816fcuOesrHrOyl0BgmTy7LPmytKofxl9KhDGLdqjSxcpxDs9eylXymIfC7kWz06LmrHyrsp9JYirl5HBEPxNCi3Gw4d79wzWuQ6BY8Kw6S+OUo4T9bqz6TQl1n9vfk1nJczKFUPdbfoDGLqCqfWDYfOmxSiTLAkm41KC8rkpfcnUrDdrNHRvcmxWBuDtS+SdfXD/CnL9OPa8v+7SkF32rFXPzTpbhifP/8khWoNVFHQ+FrZZYFABVijNMhTeP6ghvwllymoIy3m2fkBnJlRZUlr3s0UOq8inni94CeT3Ynz5bk0yFN4+Vrw2jRHXqZwv2Xcdxvnl0pqh/FOCrNQxHfLl+w4NW7Xw+qVMjx/1ClUbz/adk8pWJ0CLZPi8j7HngtBs7pxJ8TwzWlHWagXEymT7fHmU+j7A/utsSTkKZTa9XzB7u82x2oIqPVuvjlevF6d7nYHV/VOu132tp3BbDLcOBbdYSXjxY03j27IvjTWH/30tcJblYLqdbv3dfts/bjo4vso36Loi1svFlVkd72Bu6cuFM8n6eUiqJ8xyKyxId1ZZ26bUvhbqMGW7jd57GfPdVbBrB9zsWkGox871to0Of5dIncT5q/kQ2s3/PHjQMOEKlC2a9cL+o8XPb9uLCn1+1yNMRk7p1a9nv+H2KPF63Be1N7z4euxVQ/V/kF6tjQ8YnTtNt4vAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaP8FrX6Ndatm7MQAAAAASUVORK5CYII=" group-title="Adultos",FAP TV 2
+http://www.alltvstyle.com:25461/roberto/1234/1500
+#EXTINF:-1 tvg-id="" tvg-name="Vivid Red" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Vivid.png/revision/latest?cb=20180213192129" group-title="Adultos",Vivid Red
+http://www.alltvstyle.com:25461/roberto/1234/1499
+#EXTINF:-1 tvg-id="" tvg-name="FAP TV Anal" tvg-logo="http://78.47.174.211/logos/faptvanal.png" group-title="Adultos",FAP TV Anal
+http://www.alltvstyle.com:25461/roberto/1234/1498
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Europe" tvg-logo="https://cdn0.metroport.pl/epg_logos/channel_logo_820_large.png" group-title="Adultos",Brazzers TV Europe
+http://www.alltvstyle.com:25461/roberto/1234/1506
+#EXTINF:-1 tvg-id="" tvg-name="PureTaboo" tvg-logo="https://www.citizen-nantes.com/wp-content/uploads/2019/07/puretaboo_logo.png" group-title="Adultos",PureTaboo
+http://www.alltvstyle.com:25461/roberto/1234/52523
+#EXTINF:-1 tvg-id="" tvg-name="Fake Taxi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1280px-Fake_Taxi_logo.svg.png" group-title="Adultos",Fake Taxi
+http://www.alltvstyle.com:25461/roberto/1234/52524
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/dorcel-xxx.png" group-title="Adultos",Dorcel XXX
+http://www.alltvstyle.com:25461/roberto/1234/52550
+#EXTINF:-1 tvg-id="" tvg-name="Blacked.com" tvg-logo="https://profile-pics-l3.xvideos-cdn.com/80da4fd64ddf6b5e0dfaf711e4c738d2c787430a-1661977321/videos/profiles/profthumb/c2/36/8e/blacked_com/profile_4_big.jpg" group-title="Adultos",Blacked.com
+http://www.alltvstyle.com:25461/roberto/1234/52549
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Babes TV" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-babes-tv-1.png" group-title="Adultos",Babes TV
+http://www.alltvstyle.com:25461/roberto/1234/52506
+#EXTINF:-1 tvg-id="" tvg-name="DorcelTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Dorcel_FR_logo.png" group-title="Adultos",DorcelTV
+http://www.alltvstyle.com:25461/roberto/1234/65011
+#EXTINF:-1 tvg-id="" tvg-name="BangBros" tvg-logo="https://www.teleadhesivo.com/es/img/asfs1651-png/folder/products-detalle-png/pegatinas-coches-motos-bang-bros.png" group-title="Adultos",BangBros
+http://www.alltvstyle.com:25461/roberto/1234/65012
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy Latino" tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="Adultos",PlayBoy Latino
+http://www.alltvstyle.com:25461/roberto/1234/65013
+#EXTINF:-1 tvg-id="" tvg-name="Hentai" tvg-logo="https://static.wikia.nocookie.net/mudae/images/5/56/Hentai_Logo.png/revision/latest?cb=20200823132448" group-title="Adultos",Hentai
+http://www.alltvstyle.com:25461/roberto/1234/65014
+#EXTINF:-1 tvg-id="" tvg-name="MiamiTV" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="Adultos",MiamiTV
+http://www.alltvstyle.com:25461/roberto/1234/65015
+#EXTINF:-1 tvg-id="" tvg-name="SexMex " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/SexMex_logo.png" group-title="Adultos",SexMex 
+http://www.alltvstyle.com:25461/roberto/1234/82721
+#EXTINF:-1 tvg-id="" tvg-name="French Lover TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/frl_logo.png" group-title="Adultos",French Lover TV
+http://www.alltvstyle.com:25461/roberto/1234/78428
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="Adultos",Sextreme
+http://www.alltvstyle.com:25461/roberto/1234/78429
