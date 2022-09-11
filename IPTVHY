@@ -143,60 +143,6 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:-1 group-title="TELE CABLE",Anime Zone TV
-http://iptvcanales.xyz/canales/live/69/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Chavo del 8
-http://iptvcanales.xyz/canales/tvfree/150/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Got Talent
-http://iptvcanales.xyz/canales/live/79/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Alf
-http://iptvcanales.xyz/canales/tvfree/128/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Dragon Ball
-http://iptvcanales.xyz/canales/tvfree/191/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",South Park
-http://iptvcanales.xyz/canales/tvfree/146/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Disney World
-http://iptvcanales.xyz/canales/envivo/disneyworld/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Peliculas PTY
-http://iptvcanales.xyz/canales/envivo/peliculaspty/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Central TV
-http://iptvcanales.xyz/canales/envivo/centraltv/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Retro TV
-http://iptvcanales.xyz/canales/envivo/compumaster/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Yellow Hale
-http://iptvcanales.xyz/canales/envivo/yellowhale/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Nicoya TV
-http://iptvcanales.xyz/canales/live/240/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",WMS HD
-http://iptvcanales.xyz/canales/live/159/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Cine Cable
-http://iptvcanales.xyz/canales/live/87/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Cine Club
-http://iptvcanales.xyz/canales/live/88/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",TV Mas HD
-http://iptvcanales.xyz/canales/live/90/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Orbit TV
-http://iptvcanales.xyz/canales/live/91/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",ACV Movies
-http://iptvcanales.xyz/canales/live/96/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Geovision
-http://iptvcanales.xyz/canales/live/130/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",74 TV
-http://iptvcanales.xyz/canales/live/131/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Ready HD
-http://iptvcanales.xyz/canales/live/132/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",FMTV Super Classics
-http://iptvcanales.xyz/canales/live/73/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",FMTV Super Cine
-http://iptvcanales.xyz/canales/live/74/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Retro TV
-http://iptvcanales.xyz/canales/live/76/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Zee Mundo
-http://iptvcanales.xyz/canales/live/77/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",DanTV
-http://iptvcanales.xyz/canales/live/33/playlist.m3u8
-#EXTINF:-1 group-title="TELE CABLE",Peliculas de Terror
-
 
 #EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
