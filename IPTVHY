@@ -1,20 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA TV
-http://iptvcanales.xyz/canales/tvfree/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA SD
+http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73033
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA HD
+http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73034
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", HUARMEY TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TELEJASH HY
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV
-http://iptvcanales.xyz/canales/tvfree/5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA SD
+http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73027
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA HD
+http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV FHD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV SD
+http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73029
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV HD
+http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73030
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV +
+http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73031
 #EXTINF:-1 tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" nada="Noticias" group-title="TELE CABLE", CANAL N
-http://iptvcanales.xyz/canales/tvfree/197/playlist.m3u8
+http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73024
 #EXTINF:-1 tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" nada="Noticias" group-title="TELE CABLE", WILLAX TV
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0WzzkpJiDjPBiERnnCotQrvYO0ZYqk4S4XNkNUCc2rqu1BensYjkE5gyBOgdGAZjPA&dmTs=297982&dmV1st=56E3756982E3248ECB28A94B76B6976C
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana SD
 https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="http://tutv.online:2080/images/e58b7e14fbf510aa5d24b110fba46cdd.png" nada="Noticias" group-title="TELE CABLE", RPP HD
+http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73037
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="TELE CABLE", Perú TV SD
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-3-3.png" nada="Noticias" group-title="TELE CABLE", CONGRESO TV
@@ -332,12 +344,6 @@ http://www.alltvstyle.com:25461/roberto/1234/52286
 http://www.alltvstyle.com:25461/roberto/1234/85016
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Nintendo Mania" tvg-logo="https://4.bp.blogspot.com/_e52wkzkuvDw/THisid9IRkI/AAAAAAAAABg/eIlPvJN1aAU/S748/NINTENDOMANIA.gif" group-title="24/7",24/7 Nintendo Mania
 http://www.alltvstyle.com:25461/roberto/1234/279
-#EXTINF:-1 tvg-id="" tvg-name="Mr 3000 - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg" group-title="Deportes",Mr 3000 - 2004
-http://www.alltvstyle.com:25461/movie/roberto/1234/61132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Padre no hay más que uno - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="Comedia",Padre no hay más que uno - 2019
-http://www.alltvstyle.com:25461/movie/roberto/1234/66361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sen Yasamaya Bak - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsVvFYZ0HqZsXinbPd2f4lo2bPC.jpg" group-title="NETFLIX",Sen Yasamaya Bak - 2022
-http://www.alltvstyle.com:25461/movie/roberto/1234/74696.mkv
 #EXTINF:-1 tvg-id="Canal A&E (México)" tvg-name="A&E" tvg-logo="http://144.217.183.123/logos/AEMX-1.png" group-title="Cine y Series",A&E
 http://www.alltvstyle.com:25461/roberto/1234/1299
 #EXTINF:-1 tvg-id="Canal a+" tvg-name="A+" tvg-logo="https://pbs.twimg.com/media/DOo_fiIX0AIi6Pc.png" group-title="Nacionales MX",A+
