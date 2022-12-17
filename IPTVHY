@@ -7,10 +7,8 @@ http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73034
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TELEJASH HY
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA SD
-http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73027
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA HD
-http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73028
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV
+https://www.youtube.com/embed/jiFWFVmj0uI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV FHD
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV SD
