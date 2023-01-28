@@ -230,329 +230,1369 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
 
 
-#EXTINF:0 tvg-id="ext" group-title="PERU",TV PERU NOTICIAS
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:0 tvg-id="ATV.pe" group-title="PERU",ATV PERU
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Panamericana Perú
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:0 tvg-id="TVPeru.pe" group-title="PERU",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",UCI
-http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",ANTARES TV
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",AsiriTV
-https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Auténtica Televisión
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",BeXtreme TV
-https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
-#EXTINF:0 tvg-id="BHTV1.rs" group-title="PERU",BHtv
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Cable Netword Belleza Andina TV
-https://tv.siete.us/bellezaandina/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Cable Netword Cumbia TV
-https://tv.siete.us/cumbiatv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Cadena TV Huancayo
-https://tvdatta.com:3262/live/cadenatvlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Cajamarca TV
-https://ca.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Canal 8 Catacaos
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Canal 43 Sudamericana ICA PERU
-https://media2.cdnlayer.biz:8081/8014/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",ClipsTV Ica
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Cultura 24 TV
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",DeltaTV Pacayzapa San Martín
-https://media2.cdnlayer.biz:8081/8038/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",DMJ TV
-https://v4.tustreaming.cl:/s1tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Exitosa TV
-https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Genios TV Moyobamba
-https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Gold Valley TV Casma
-https://stmv.panel.grupolimalive.com/gold/gold/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Hechicera TV
-https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Huacho Perú TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Identidad TV
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Impacto Televisión Cajamarca
-https://eu1.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",KBO Quillabamba
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",La Ribereña Pucallpa
-https://inliveserver.com:1936/19020/19020/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",LimaLive
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",LotPlus TV Chiclayo
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",MaticesTV Cañete
-http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Master TV Tarapoto
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:0 tvg-id="mega" group-title="PERU",MEGA TV
-https://media2.cdnlayer.biz:8081/8008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",MONTERRICO TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Millenium 49 TV Pucallpa
-https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Millenium 109 FM Lamas
-https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",MINEDU IPTV 1
-http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",MINEDU IPTV 2
-http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",OK TeVe Yurimaguas
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Onda Digital TV
-https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",OVACION
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0 tvg-id="PAXTV.hu" group-title="PERU",Pax TV
-https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Perú Channel
-https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Planeta TV Moyobamba
-https://live.obslivestream.com/planetatvmux/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Quillavision Cuzco
-http://v4.tustreaming.cl/quillavision/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Radio Tropical Tarapoto
-https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",RadioTV Oriente Yurimaguas
-https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Red de Comunicación Regional
-https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",RN Televisión Yurimaguas
-https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Sistema 1 Huaraz
-https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Sol Stereo TV Casma
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Stereo TV
-https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Sumac TV Lima
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",Super Canal Yurimaguas
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",TOP LATINO
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",TURBO MIX
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",TV PERUANISIMA
-http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",URANIO TV
-https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",VIA TELEVISION TARAPOTO
-https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",VISION MUSICA TV
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PERU",VISION NOTICIAS
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
-
-
-#EXTINF:0,A&E HD
-http://45.190.185.210:8080/play/a07v
-#EXTINF:0,AMC HD
-http://45.190.185.210:8080/play/a07w
-#EXTINF:0,AXN HD
-http ://45.190.185.210:8080/play/a0c0
-#EXTINF:0,AZ haga clic en HD
-http://45.190.185.210:8080/play/a082
-#EXTINF:0,Animal Planet HD
-http://45.190.185.210:8080 /play/a07s
-#EXTINF:0,Azcorazon
-http://45.190.185.210:8080/play/a0c9
-#EXTINF:0,Azmundo
-http://45.190.185.210:8080/play/a0c5
-#EXTINF:0,Boomerang
-http: //45.190.185.210:8080/play/a09g
-#EXTINF:0,CINECANAL HD
-http://45.190.185.210:8080/play/a0b8
-#EXTINF:0,CNNE
-http://45.190.185.210:8080/play/a09x
-#EXTINF:0,Canal 11 - HON
-http://45.190.185.210:8080/play/a09c
-#EXTINF:0,Canal 3 Telesistemas HND
-http://45.190.185.210:8080/play/a0ba
-#EXTINF:0,Canal 5 - HON
-http://45.190.185.210:8080/play/a0c2
-#EXTINF:0,Canal VTV HND
-http://45.190.185.210:8080/play/a0bb
-#EXTINF:0,Cartoon Network
-http://45.190. 185.210:8080/play/a09e
-#EXTINF:0,Cine Latino
-http://45.190.185.210:8080/play/a0bq
-#EXTINF:0,CineMax
-http://45.190.185.210:8080/play/a0br
-#EXTINF:0 ,Claro Cinema
-http://45.190.185.210:8080/play/a0cj
-#EXTINF:0,Comedy Central HD
-http://45.190.185.210:8080/play/a08d
-#EXTINF:0,DHE HD
-http://45.190. 185.210:8080/reproducir/a081
-#EXTINF:0,DISCO TEATRO HD
-http://45.190.185.210:8080/play/a08a
-#EXTINF:0,Discovery Channel HD
-http://45.190.185.210:8080/play/a08t
-#EXTINF:0,Discovery Kids
-http ://45.190.185.210:8080/play/a0cr
-#EXTINF:0, Discovery Turbo
-http://45.190.185.210:8080/play/a0bg
-#EXTINF:0, Discovery World HD
-http://45.190.185.210:8080/ play/a08u
-#EXTINF:0,Disney
-http://45.190.185.210:8080/play/a0be
-#EXTINF:0,Disney JR
-http://45.190.185.210:8080/play/a09h
-#EXTINF:0,Disney XD
-http ://45.190.185.210:8080/play/a0ar
-#EXTINF:0,ESPN +
-http://45.190.185.210:8080/play/a0a3
-#EXTINF:0,ESPN 2 HD
-http://45.190.185.210:8080/ reproducir/a08o
-#EXTINF:0,ESPN 3 HD
-http://45.190.185.210:8080/play/a08n
-#EXTINF:0,ESPN 4 HD
-http://45.190.185.210:8080/play/a0bz
-#EXTINF:0,ESPN HD
-http ://45.190.185.210:8080/play/a08m
-#EXTINF:0,EWTN
-http://45.190.185.210:8080/play/a0a1
-#EXTINF:0,El Gourmet
-http://45.190.185.210:8080/play/ a0ae
-#EXTINF:0,Entretenimiento HD
-http://45.190.185.210:8080/play/a0cz
-#EXTINF:0,Europa HD
-http://45.190.185.210:8080/play/a0cd
-#EXTINF:0,Exa TV
-http: //45.190.185.210:8080/play/a0b3
-#EXTINF:0,FOX SPORTS 2 HD
-http://45.190.185.210:8080/play/a088
-#EXTINF:0,FOX SPORTS 3 HD
-http://45.190.185.210: 8080/play/a08p
-#EXTINF:0,FUTV HD CR
-http://45.190.185.210:8080/play/a0ce
-#EXTINF:0,FX HD
-http://45.190.185.210:8080/play/a07y
-#EXTINF:0,FX Películas HD
-http://45.190.185.210:8080 /play/a080
-#EXTINF:0, Cine y artes HD
-http://45.190.185.210:8080/play/a07u
-#EXTINF:0, Golden
-http://45.190.185.210:8080/play/a0aj
-#EXTINF:0, Guatevision - GUA
-http://45.190.185.210:8080/play/a0co
-#EXTINF:0,H2
-http://45.190.185.210:8080/play/a0ad
-#EXTINF:0,HBO Family HD
-http://45.190.185.210 :8080/play/a0d5
-#EXTINF:0,HBO HD
-http://45.190.185.210:8080/play/a0d2
-#EXTINF:0,HBO Plus HD
-http://45.190.185.210:8080/play/a0d4
-#EXTINF: 0, HBO extremo
-http://45.190.185.210:8080/play/a0d6
-#EXTINF:0,HBO2 HD
-http://45.190.185.210:8080/play/a0d3
-#EXTINF:0,HCH-HON
-http://45.190.185.210:8080 /play/a09d
-#EXTINF:0,HTV
-http://45.190.185.210:8080/play/a0cq
-#EXTINF:0,Historial HD
-http://45.190.185.210:8080/play/a0a2
-#EXTINF:0,Inicio y Salud HD
-http://45.190.185.210:8080/play/a08b
-#EXTINF:0,ID
-http://45.190.185.210:8080/play/a0bi
-#EXTINF:0,La voz de María
-http://45.190.185.210 :8080/play/a0bj
-#EXTINF:0,MTV HD
-http://45.190.185.210:8080/play/a0a4
-#EXTINF:0,Multipremier
-http://45.190.185.210:8080/play/a0bp
-#EXTINF:0, Nat Geo HD
-http://45.190.185.210:8080/play/a08q
-#EXTINF:0,Nat Geo Kids
-http://45.190.185.210:8080/play/a0a9
-#EXTINF:0,National Geographic
-http://45.190.185.210:8080/play/a0d1
-#EXTINF:0,Nick 2 HD
-http ://45.190.185.210:8080/play/a07p
-#EXTINF:0,Nick Jr
-http://45.190.185.210:8080/play/a09f
-#EXTINF:0,Nick SIM HD
-http://45.190.185.210:8080/ play/a087
-#EXTINF:0,Nickelodeon
-http://45.190.185.210:8080/play/a0bd
-#EXTINF:0,Paramount HD
-http://45.190.185.210:8080/play/a08r
-#EXTINF:0,Pasiones HD
-http ://45.190.185.210:8080/play/a08v
-#EXTINF:0,RCN Novelas
-http://45.190.185.210:8080/play/a0ab
-#EXTINF:0,RHEMA TV
-http://45.190.185.210:8080/play /a0cc
-#EXTINF:0,SONY HD
-http://45.190.185.210:8080/play/a0b7
-#EXTINF:0,SPACE HD
-http://45.190.185.210:8080/play/a0c1
-#EXTINF:0,STAR CHANNEL HD
-http: //45.190.185.210:8080/play/a0b5
-#EXTINF:0,STAR LIFE
-http://45.190.185.210:8080/play/a09j
-#EXTINF:0,Sembrador
-http://45.190.185.210:8080/play/a0ao
-#EXTINF:0,Deportes HD
-http://45.190.185.210:8080/play/a086
-#EXTINF:0,Estrella TVE HD
-http://45.190.185.210:8080/play/a0ch
-#EXTINF:0,Estudio Universal HD
-http ://45.190.185.210:8080/play/a07q
-#EXTINF:0,TBN Enlace
-http://45.190.185.210:8080/play/a0ca
-#EXTINF:0,TBS
-http://45.190.185.210:8080/play/ a0cb
-#EXTINF:0,MTC
-http://45.190.185.210:8080/play/a0ak
-#EXTINF:0,TLC
-http://45.190.185.210:8080/play/a0b0
-#EXTINF:0,TNT HD
-http://45.190.185.210:8080/play /a089
-#EXTINF:0,TNT Serie HD
-http://45.190.185.210:8080/play/a08s
-#EXTINF:0,Tele Antillas - RD
-http://45.190.185.210:8080/play/a0c8
-#EXTINF:0, TeleMicro - RD
-http://45.190.185.210:8080/play/a0c4
-#EXTINF:0,Telecadena - HON
-http://45.190.185.210:8080/play/a0c3
-#EXTINF:0,UNIVERSAL CINEMA HD
-http://45.190 .185.210:8080/play/a08y
-#EXTINF:0,UNIVERSAL COMEDIA HD
-http://45.190.185.210:8080/play/a08k
-#EXTINF:0,UNIVERSAL CRIME HD
-http://45.190.185.210:8080/play/a08j
-#EXTINF:0,ESTRENO UNIVERSAL HD
-http://45.190.185.210:8080/play/a08g
-#EXTINF:0,ESTRENO UNIVERSAL O HD
-http://45.190.185.210:8080/play/a08h
-#EXTINF:0,REALIDAD UNIVERSAL HD
-http://45.190.185.210:8080/play/a08i
-#EXTINF:0,Universal
-http://45.190.185.210:8080/play/a0bn
-#EXTINF:0,Univision HD
-http://45.190.185.210:8080/ play/a08w
-#EXTINF:0,WARNER HD
-http://45.190.185.210:8080/play/a0b6
+#EXTINF:-1 ,24/7 | El Chapulín Colorado
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3542
+#EXTINF:-1 ,24/7 | ROSA DE GUADALUPE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3544
+#EXTINF:-1 ,24/7 | The Big Bang Theory
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2931
+#EXTINF:-1 ,24/7 BOB ESPONJA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2946
+#EXTINF:-1 ,24/7 CABALLEROS DEL SODIACO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2941
+#EXTINF:-1 ,24/7 CAR | Dinosaurios
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3547
+#EXTINF:-1 ,24/7 CAR | Doraemon
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3548
+#EXTINF:-1 ,24/7 CAR | El Show de Garfield
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3532
+#EXTINF:-1 ,24/7 CAR | Escandalosos 1 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3530
+#EXTINF:-1 ,24/7 CAR | Lilo & Stitch
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3545
+#EXTINF:-1 ,24/7 CAR | Looney Tunes
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3550
+#EXTINF:-1 ,24/7 CAR | Timón y Pumba
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3535
+#EXTINF:-1 ,24/7 CAR | Un Show Mas
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3536
+#EXTINF:-1 ,24/7 CAR | Winnie The Pooh
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3537
+#EXTINF:-1 ,24/7 Dragon Ball z
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2926
+#EXTINF:-1 ,24/7 EBS Kids EN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1108
+#EXTINF:-1 ,24/7 EL PRINCIPE DEL RAP
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2929
+#EXTINF:-1 ,24/7 MALCOLM
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2947
+#EXTINF:-1 ,24/7 MASINGERZ
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2942
+#EXTINF:-1 ,24/7 NARUTO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2939
+#EXTINF:-1 ,24/7 ROBOTECH
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2922
+#EXTINF:-1 ,24/7 South Park
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3533
+#EXTINF:-1 ,24/7 SUPER CAMPEONES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2943
+#EXTINF:-1 ,AMERICA TV MIAMI
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3956
+#EXTINF:-1 ,AR | beIN Sports 12
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3504
+#EXTINF:-1 ,AR | beIN Sports 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3495
+#EXTINF:-1 ,AR | beIN Sports 6
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3498
+#EXTINF:-1 ,ARG DEP | ESPN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3978
+#EXTINF:-1 ,ARG DEP | ESPN 1 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3979
+#EXTINF:-1 ,ARG DEP | ESPN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3980
+#EXTINF:-1 ,ARG DEP | ESPN 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3981
+#EXTINF:-1 ,ARG DEP | ESPN PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3982
+#EXTINF:-1 ,ARG DEP | FOX SPORTS  1 SD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3983
+#EXTINF:-1 ,ARG DEP | FOX SPORTS  2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3984
+#EXTINF:-1 ,ARG DEP | FOX SPORTS  3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3985
+#EXTINF:-1 ,ARG DEP | FOX SPORTS 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3986
+#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM FHD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3987
+#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3988
+#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM SD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3989
+#EXTINF:-1 ,ARGENTINA | 5RTV SANTA FE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2993
+#EXTINF:-1 ,ARGENTINA | 5TV CORRIENTES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2994
+#EXTINF:-1 ,ARGENTINA | 9 MULTIVISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2995
+#EXTINF:-1 ,ARGENTINA | CANAL 10 GENERAL ROCA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2999
+#EXTINF:-1 ,ARGENTINA | CANAL 26
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3000
+#EXTINF:-1 ,ARGENTINA | CHACRA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3001
+#EXTINF:-1 ,ARGENTINA | CIUDAD TV CHACO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3002
+#EXTINF:-1 ,ARGENTINA | ESPN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3035
+#EXTINF:-1 ,ARGENTINA | ESPN 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3036
+#EXTINF:-1 ,ARGENTINA | ESPN 4
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3037
+#EXTINF:-1 ,ARGENTINA | FENIX TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3004
+#EXTINF:-1 ,ARGENTINA | Fox sports 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3038
+#EXTINF:-1 ,ARGENTINA | Fox Sports 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3039
+#EXTINF:-1 ,ARGENTINA | Fox Sports 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3040
+#EXTINF:-1 ,ARGENTINA | FOX SPORTS PREMIUN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/552
+#EXTINF:-1 ,ARGENTINA | PAKA PAKA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3221
+#EXTINF:-1 ,ARGENTINA | TELEFE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1133
+#EXTINF:-1 ,ARGENTINA | TELEMAX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3772
+#EXTINF:-1 ,ARGENTINA | Telpin Canal 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3775
+#EXTINF:-1 ,ARGENTINA | TLX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3008
+#EXTINF:-1 ,BALLY SPORTS DETROIT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3567
+#EXTINF:-1 ,BALLY SPORTS FLORIDA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3568
+#EXTINF:-1 ,BALLY SPORTS GREAT LAKES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3569
+#EXTINF:-1 ,BALLY SPORTS INDIANA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3570
+#EXTINF:-1 ,BALLY SPORTS KANSASA CITY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3571
+#EXTINF:-1 ,BALLY SPORTS MIDWEST
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3572
+#EXTINF:-1 ,BALLY SPORTS NEW ORLEANS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3573
+#EXTINF:-1 ,BALLY SPORTS OKLAHOMA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3574
+#EXTINF:-1 ,BALLY SPORTS SOCAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3698
+#EXTINF:-1 ,BALLY SPORTS TENNESSEE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3575
+#EXTINF:-1 ,BOLIVIA | RTP
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3012
+#EXTINF:-1 ,BOLIVIA | TVU
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3013
+#EXTINF:-1 ,BOLIVIA | RED ADVENIR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3011
+#EXTINF:-1 ,BRA | DAZN 2 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4148
+#EXTINF:-1 ,BRA | GLOBO NEWS SD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4150
+#EXTINF:-1 ,BRA | GLOBO RJ
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4151
+#EXTINF:-1 ,BRA | SPORTV 1 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4152
+#EXTINF:-1 ,BRA | SPORTV 2 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4153
+#EXTINF:-1 ,BRA | SPORTV 3 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4154
+#EXTINF:-1 ,BRA DEP | ESPN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4098
+#EXTINF:-1 ,BRA DEP | ESPN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4099
+#EXTINF:-1 ,BRA DEP | FOX SPORTS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4100
+#EXTINF:-1 ,BRA DEP | FOX SPORTS 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4101
+#EXTINF:-1 ,BRA HD | A&E
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4102
+#EXTINF:-1 ,BRA HD | BANDs sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4103
+#EXTINF:-1 ,BRA HD | COMBATE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4105
+#EXTINF:-1 ,BRA HD | DISCOVERY CHANNEL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4107
+#EXTINF:-1 ,BRA HD | DISCOVERY H&H
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4108
+#EXTINF:-1 ,BRA HD | FOX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4109
+#EXTINF:-1 ,BRA HD | GLOBO MINAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4110
+#EXTINF:-1 ,BRA HD | GLOBO NEWS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4111
+#EXTINF:-1 ,BRA HD | HBO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4112
+#EXTINF:-1 ,BRA HD | HBO 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4113
+#EXTINF:-1 ,BRA HD | HBO FAMILY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4114
+#EXTINF:-1 ,BRA HD | HBO SIGNATURE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4116
+#EXTINF:-1 ,BRA HD | HYSTORY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4118
+#EXTINF:-1 ,BRA HD | MULTISHOW
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4119
+#EXTINF:-1 ,BRA HD | NATIONAL GEOGRAPHIC
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4121
+#EXTINF:-1 ,BRA HD | PARAMOUNT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4122
+#EXTINF:-1 ,BRA HD | RECORD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4124
+#EXTINF:-1 ,BRA HD | RECORD NEWS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4125
+#EXTINF:-1 ,BRA HD | SONY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4126
+#EXTINF:-1 ,BRA HD | SPACE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4127
+#EXTINF:-1 ,BRA HD | STB Jornal
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4131
+#EXTINF:-1 ,BRA HD | SYFY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4132
+#EXTINF:-1 ,BRA HD | TELECINE PREMIUN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4135
+#EXTINF:-1 ,BRA HD | TNT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4136
+#EXTINF:-1 ,BRA HD | TNT SERIES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4137
+#EXTINF:-1 ,BRA HD | TV GLOBO INTERNACIONAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4138
+#EXTINF:-1 ,BRA HD | VIVA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4139
+#EXTINF:-1 ,BRA KIDS | BABY TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4140
+#EXTINF:-1 ,BRA KIDS | BOOMERAN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4141
+#EXTINF:-1 ,BRA KIDS | DISCOVERY KIDS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4142
+#EXTINF:-1 ,BRA KIDS | DISNEY CHANNEL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4143
+#EXTINF:-1 ,BRA KIDS | NATGEO KIDS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4144
+#EXTINF:-1 ,BRA KIDS | NICK JR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4145
+#EXTINF:-1 ,BRA KIDS | TOONCAST
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4146
+#EXTINF:-1 ,CA| CPAC HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3846
+#EXTINF:-1 ,CA| ICI VANCOUVER HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3847
+#EXTINF:-1 ,CA| INVESTIGATION HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3848
+#EXTINF:-1 ,CA| RDS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3849
+#EXTINF:-1 ,CA| TVA SPORTS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3837
+#EXTINF:-1 ,CA| YOOPA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3850
+#EXTINF:-1 ,CAN| A&E HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3815
+#EXTINF:-1 ,CAN| AMC HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3816
+#EXTINF:-1 ,CAN| BEIN SPORTS CANADA HD**
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3828
+#EXTINF:-1 ,CAN| CANAL D HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3817
+#EXTINF:-1 ,CAN| CANAL VIE HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3818
+#EXTINF:-1 ,CAN| CBC TORONTO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3851
+#EXTINF:-1 ,CAN| COOKING CHANNEL HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3820
+#EXTINF:-1 ,CAN| CP24 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3821
+#EXTINF:-1 ,CAN| DIY HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3822
+#EXTINF:-1 ,CAN| GLOBAL TORONTO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3823
+#EXTINF:-1 ,CAN| GLOBAL VANCOUVER HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3824
+#EXTINF:-1 ,CAN| HBO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3825
+#EXTINF:-1 ,CAN| ICI TELE MONTREAL HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3826
+#EXTINF:-1 ,CAN| SPORTS NET 360 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3838
+#EXTINF:-1 ,CAN| SPORTS NET ONE HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3839
+#EXTINF:-1 ,CAN| SPORTS NET ONTARIO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3835
+#EXTINF:-1 ,CAN| SPORTS NET WEST HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3836
+#EXTINF:-1 ,CAN| SUPER ECRAN 1 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3840
+#EXTINF:-1 ,CAN| SUPER ECRAN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3841
+#EXTINF:-1 ,CAN| SUPER ECRAN HD 4
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3842
+#EXTINF:-1 ,CAN| TELEQUEBEC HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3843
+#EXTINF:-1 ,CAN| TRAVEL SCAPE HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3844
+#EXTINF:-1 ,CAN| TSN 1 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3829
+#EXTINF:-1 ,CAN| TSN 2 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3830
+#EXTINF:-1 ,CAN| TSN 3 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3831
+#EXTINF:-1 ,CAN| TSN 4 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3832
+#EXTINF:-1 ,CAN| TSN 5 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3834
+#EXTINF:-1 ,CAN| TVO  HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3845
+#EXTINF:-1 ,Canada | Crime & Investigation
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3506
+#EXTINF:-1 ,CANADA | Sportsnet One
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/9
+#EXTINF:-1 ,Canada | Super Ecran 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3507
+#EXTINF:-1 ,CANADA | TSN 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/13
+#EXTINF:-1 ,CANADA | TSN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/14
+#EXTINF:-1 ,CANADA | TSN 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/15
+#EXTINF:-1 ,CANADA | TSN 4
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/16
+#EXTINF:-1 ,CANADA | TSN 5
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/17
+#EXTINF:-1 ,CARTOONITO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3813
+#EXTINF:-1 ,CHILE : TNT SPORTS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3391
+#EXTINF:-1 ,CHILE | 13I
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/535
+#EXTINF:-1 ,CHILE | 24HORAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/536
+#EXTINF:-1 ,CHILE | CANAL 13
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/537
+#EXTINF:-1 ,CHILE | CDF
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/538
+#EXTINF:-1 ,CHILE | CHILEVISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/543
+#EXTINF:-1 ,CHILE | ETC TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/544
+#EXTINF:-1 ,CHILE | LA RED
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/546
+#EXTINF:-1 ,CHILE | MEGA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/547
+#EXTINF:-1 ,CHILE | PINGUINO TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2949
+#EXTINF:-1 ,CHILE | RETRO PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3785
+#EXTINF:-1 ,CHILE | RETROPLUS 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3783
+#EXTINF:-1 ,CHILE | TEVEX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3782
+#EXTINF:-1 ,CINE| A ESTRENAR FHD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3699
+#EXTINF:-1 ,CINE| CINEBOX  ANIMATION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3741
+#EXTINF:-1 ,CINE| CINEBOX BLOCKBUSTER
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3742
+#EXTINF:-1 ,CINE| CINEBOX CLASSICS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3743
+#EXTINF:-1 ,CINE| CINEBOX COMEDY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3744
+#EXTINF:-1 ,CINE| CINEBOX CULT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3745
+#EXTINF:-1 ,CINE| CINEBOX FAMILY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3746
+#EXTINF:-1 ,CINE| CINEBOX GREATS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3747
+#EXTINF:-1 ,CINE| CINEBOX GREATS 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3748
+#EXTINF:-1 ,CINE| CINEBOX HISTORICAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3749
+#EXTINF:-1 ,CINE| CINEBOX MUSICAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3751
+#EXTINF:-1 ,COL DEP | ESPN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3990
+#EXTINF:-1 ,COL DEP | ESPN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3991
+#EXTINF:-1 ,COL DEP | ESPN 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3992
+#EXTINF:-1 ,COL DEP | FOX SPORTS 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3993
+#EXTINF:-1 ,COL DEP | FOX SPORTS 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3994
+#EXTINF:-1 ,COL DEP | FOX SPORTS 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3995
+#EXTINF:-1 ,COLOMBIA | CANAL TRO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3060
+#EXTINF:-1 ,COLOMBIA | CANAL UNO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3059
+#EXTINF:-1 ,COLOMBIA | Caracol
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/62
+#EXTINF:-1 ,COLOMBIA | CARACOL INTERNACIONAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/523
+#EXTINF:-1 ,COLOMBIA | CITY TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/524
+#EXTINF:-1 ,COLOMBIA | NTN24
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/517
+#EXTINF:-1 ,COLOMBIA | RCN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/140
+#EXTINF:-1 ,COLOMBIA | RCN NOVELAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3061
+#EXTINF:-1 ,COLOMBIA | SEÑAL COLOMBIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3058
+#EXTINF:-1 ,COLOMBIA | TELEANTIOQUIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/528
+#EXTINF:-1 ,COLOMBIA | TELECARIBE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/530
+#EXTINF:-1 ,COLOMBIA | TELEMEDELLIN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/532
+#EXTINF:-1 ,COLOMBIA | WINSPORTS PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/984
+#EXTINF:-1 ,COSTA RICA | CANAL 14 TV SUR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/788
+#EXTINF:-1 ,COSTA RICA | FUTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1041
+#EXTINF:-1 ,COSTA RICA | REPRETEL 11
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/791
+#EXTINF:-1 ,COSTA RICA | REPRETEL 6
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/792
+#EXTINF:-1 ,COSTA RICA | TELETICA 7
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/793
+#EXTINF:-1 ,COSTA RICA | TELEUNO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/794
+#EXTINF:-1 ,COSTA RICA | TIGO SPORTS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/790
+#EXTINF:-1 ,CUBA | AMERICA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1323
+#EXTINF:-1 ,CUBA | CUBAVISION INTERNACIONAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1322
+#EXTINF:-1 ,DEP  | Band Sports BRA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3515
+#EXTINF:-1 ,DEP | Bein Sports XTRA Ñ
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3516
+#EXTINF:-1 ,DEP | Claro Sports FHD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3517
+#EXTINF:-1 ,DEP | Premiere 1 HD BRA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3519
+#EXTINF:-1 ,DEP | Premiere 3  BRA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3520
+#EXTINF:-1 ,DEP | Premiere 5 HD BRA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3522
+#EXTINF:-1 ,DEP | SporTV 2 HD BRA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3513
+#EXTINF:-1 ,DEPORTES | ESPN  1  ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3965
+#EXTINF:-1 ,DEPORTES | ESPN  2  ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3966
+#EXTINF:-1 ,DEPORTES | ESPN  3  ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3967
+#EXTINF:-1 ,DEPORTES | ESPN 1 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3968
+#EXTINF:-1 ,DEPORTES | ESPN 2 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3969
+#EXTINF:-1 ,DEPORTES | ESPN 3 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3970
+#EXTINF:-1 ,DEPORTES | Espn Plus ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3971
+#EXTINF:-1 ,DEPORTES | FOX SPORTS  1 ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3972
+#EXTINF:-1 ,DEPORTES | FOX SPORTS  2 ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3973
+#EXTINF:-1 ,DEPORTES | FOX SPORTS  3 ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3974
+#EXTINF:-1 ,DEPORTES | FOX SPORTS 1 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3975
+#EXTINF:-1 ,DEPORTES | FOX SPORTS 2 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3976
+#EXTINF:-1 ,DEPORTES | FOX SPORTS 3 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3977
+#EXTINF:-1 ,DEPORTES HD | ESPN  4 ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3957
+#EXTINF:-1 ,DEPORTES HD | ESPN 1 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3958
+#EXTINF:-1 ,DEPORTES HD | ESPN 2 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3959
+#EXTINF:-1 ,DEPORTES HD | ESPN 3 MX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3960
+#EXTINF:-1 ,DEPORTES HD | FOX SPORTS  1 ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3961
+#EXTINF:-1 ,DEPORTES HD | FOX SPORTS  2 ARG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3962
+#EXTINF:-1 ,DEPORTES HD | FOX SPORTS 1 CHI
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3963
+#EXTINF:-1 ,DEPORTES HD | FOX SPORTS 2 CHI
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3964
+#EXTINF:-1 ,DEPORTES HD | FOX SPORTS PREMIUM
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3996
+#EXTINF:-1 ,ECUADOR : EL CANAL DEL FUTBOL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3390
+#EXTINF:-1 ,ECUADOR | CANAL UNO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/507
+#EXTINF:-1 ,ECUADOR | ECUADOR TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/508
+#EXTINF:-1 ,ECUADOR | ECUADOR TV INTERNACIONAL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/509
+#EXTINF:-1 ,ECUADOR | ECUAVISA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/510
+#EXTINF:-1 ,ECUADOR | ECUAVISA Quito
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/511
+#EXTINF:-1 ,ECUADOR | GAMAVISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/512
+#EXTINF:-1 ,ECUADOR | OROMAR TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/516
+#EXTINF:-1 ,ECUADOR | RST
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/513
+#EXTINF:-1 ,ECUADOR | TC TELEVISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/514
+#EXTINF:-1 ,ECUADOR | TELEAMAZONAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/515
+#EXTINF:-1 ,EL SALVADOR | CANAL 12
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3062
+#EXTINF:-1 ,EL SALVADOR | CANAL 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3066
+#EXTINF:-1 ,EL SALVADOR | CANAL 4
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3065
+#EXTINF:-1 ,EL SALVADOR | CANAL 6
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3064
+#EXTINF:-1 ,EL SALVADOR | TIGO SPORTS 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3069
+#EXTINF:-1 ,EL SALVADOR | WOW TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3777
+#EXTINF:-1 ,EL SALVADOR | CANAL 21
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3072
+#EXTINF:-1 ,ES | Eurosport 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3480
+#EXTINF:-1 ,ES | Eurosport 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3481
+#EXTINF:-1 ,ESPAÑA : BOING
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3220
+#EXTINF:-1 ,ESPAÑA : DAZN 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3323
+#EXTINF:-1 ,ESPAÑA : DAZN 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3324
+#EXTINF:-1 ,ESPAÑA : DAZN 4
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3325
+#EXTINF:-1 ,ESPAÑA : DAZN FORMULA 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3326
+#EXTINF:-1 ,ESPAÑA | TOROS TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1044
+#EXTINF:-1 ,ESPAÑA | REAL MADRID TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2974
+#EXTINF:-1 ,ESTRELA TV (2 Horas)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3760
+#EXTINF:-1 ,FUBO SPORTS NETWORK
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3589
+#EXTINF:-1 ,GALAVISION ALBUQUERQUE(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1362
+#EXTINF:-1 ,GALAVISION ATLANTA(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1363
+#EXTINF:-1 ,GALAVISION AUSTIN(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1364
+#EXTINF:-1 ,GALAVISION DALLAS(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1366
+#EXTINF:-1 ,GALAVISION EAST(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1367
+#EXTINF:-1 ,GALAVISION FRESNO(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1368
+#EXTINF:-1 ,GALAVISION LA(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1370
+#EXTINF:-1 ,GALAVISION MIAMI(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1372
+#EXTINF:-1 ,GALAVISION PHOENIX(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1375
+#EXTINF:-1 ,GALAVISION SACRAMENTO(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1377
+#EXTINF:-1 ,GALAVISION SALTLAKE(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1378
+#EXTINF:-1 ,GALAVISION SAN ANTONIO(W)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1379
+#EXTINF:-1 ,GUATEMALA | CANAL 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3303
+#EXTINF:-1 ,GUATEMALA | CANAL 7
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3302
+#EXTINF:-1 ,GUATEMALA | CANAL 11
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3305
+#EXTINF:-1 ,GUATEMALA | GUATEVISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3301
+#EXTINF:-1 ,HD HN | TIGO SPORTS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4094
+#EXTINF:-1 ,HOND|  TVC HONDURAS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4078
+#EXTINF:-1 ,HOND| AZTECA HONDURAS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4080
+#EXTINF:-1 ,HOND| CAMPUS TV HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4081
+#EXTINF:-1 ,HOND| CANAL 23 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4082
+#EXTINF:-1 ,HOND| D TELEVISION HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4083
+#EXTINF:-1 ,HOND| EBENEZER TV  HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4084
+#EXTINF:-1 ,HOND| GLOBO TV HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4085
+#EXTINF:-1 ,HOND| RTV HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4087
+#EXTINF:-1 ,HOND| SITV Q'HUBO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4088
+#EXTINF:-1 ,HOND| TDT PLUS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4089
+#EXTINF:-1 ,HOND| TELECADENA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4090
+#EXTINF:-1 ,HOND| TELECEIBA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4091
+#EXTINF:-1 ,HOND| TELEPROGRESO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4092
+#EXTINF:-1 ,HOND| TEN CANAL 10 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4093
+#EXTINF:-1 ,HOND| TODO DEPORTES HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4095
+#EXTINF:-1 ,HOND| UNE TV HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4096
+#EXTINF:-1 ,HOND| VICA TV HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4097
+#EXTINF:-1 ,HONDURAS | CANAL 11
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3296
+#EXTINF:-1 ,HONDURAS | CANAL 5
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3294
+#EXTINF:-1 ,HONDURAS | CANAL 6
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3295
+#EXTINF:-1 ,HONDURAS | HCH
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3297
+#EXTINF:-1 ,HONDURAS | QHUBO TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3774
+#EXTINF:-1 ,HONDURAS | TSI
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3298
+#EXTINF:-1 ,INFANTIL CANAL PANDA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3404
+#EXTINF:-1 ,INFANTIL ULTRA FAMILIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3402
+#EXTINF:-1 ,INFANTIL ULTRA KIDS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3403
+#EXTINF:-1 ,KIDS | PEQUERADIO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3464
+#EXTINF:-1 ,KIDS USA | 3ABN KIDS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3786
+#EXTINF:-1 ,KIDS USA | Duck TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3338
+#EXTINF:-1 ,KIDS USA | HappyKids Junior
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3339
+#EXTINF:-1 ,KIDS USA | LEGO CHANNEL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3340
+#EXTINF:-1 ,KIDS USA | PBS Kids (Florida)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3343
+#EXTINF:-1 ,KIDS USA | TVS Hi Tops
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3350
+#EXTINF:-1 ,KIDS USA | PBS Kids (KETKY)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3341
+#EXTINF:-1 ,KIDS USA | Rotana Kids
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3345
+#EXTINF:-1 ,KIDS USA | Spacetoon
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3347
+#EXTINF:-1 ,KIDS USA | TVS Pinball Network
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3351
+#EXTINF:-1 ,KIDS USA | Watch It Kid
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3352
+#EXTINF:-1 ,KIDS USA | Zoo Moo (Australia)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3354
+#EXTINF:-1 ,LA LIGA : BARCA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3292
+#EXTINF:-1 ,LA LIGA : M. LA LIGA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3321
+#EXTINF:-1 ,LAS ESTRELLAS  (2 HORAS)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3758
+#EXTINF:-1 ,LAT USA | Unimas Atlanta HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4185
+#EXTINF:-1 ,LAT USA | Unimas Dallas
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4186
+#EXTINF:-1 ,LAT USA | Unimas Houston
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4187
+#EXTINF:-1 ,LAT USA | Unimas Los Angeles
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4188
+#EXTINF:-1 ,LAT USA | Unimas Miami
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4189
+#EXTINF:-1 ,LAT USA | Unimas New York
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4190
+#EXTINF:-1 ,LAT USA | UNIVISION ATLANTA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4192
+#EXTINF:-1 ,LAT USA | UNIVISION CHICAGO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4193
+#EXTINF:-1 ,LAT USA | UNIVISION COLORADO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4194
+#EXTINF:-1 ,LAT USA | UNIVISION DALLAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4195
+#EXTINF:-1 ,LAT USA | UNIVISION HOUSTON
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4196
+#EXTINF:-1 ,LAT USA | UNIVISION LA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4197
+#EXTINF:-1 ,LAT USA | UNIVISION MIAMI
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4198
+#EXTINF:-1 ,LAT USA | UNIVISION MIAMI Opc2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4199
+#EXTINF:-1 ,LAT USA | UNIVISION NY HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4200
+#EXTINF:-1 ,LAT USA | Univision Puerto Rico
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4201
+#EXTINF:-1 ,LAT USA | UNIVISION SALT LAKE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4202
+#EXTINF:-1 ,LAT USA | UNIVISION SAN FRANCISCO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4203
+#EXTINF:-1 ,LAT USA | UNIVISION TELENOVELAS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4204
+#EXTINF:-1 ,LAT USA | UNIVISION WASHINGTON
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4205
+#EXTINF:-1 ,LAT| TELEMNDO MCALLEN TX *
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4156
+#EXTINF:-1 ,LAT| TELEMUNDO  BOSTON HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4166
+#EXTINF:-1 ,LAT| TELEMUNDO 39 TX HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4164
+#EXTINF:-1 ,LAT| TELEMUNDO 51 MIAMI HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4178
+#EXTINF:-1 ,LAT| TELEMUNDO 52 LOS ANGELES HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4165
+#EXTINF:-1 ,LAT| TELEMUNDO ATLANTA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4182
+#EXTINF:-1 ,LAT| TELEMUNDO CENTRAL HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4167
+#EXTINF:-1 ,LAT| TELEMUNDO CHICAGO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4181
+#EXTINF:-1 ,LAT| TELEMUNDO COLORADO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4158
+#EXTINF:-1 ,LAT| TELEMUNDO CONNECTICUT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4168
+#EXTINF:-1 ,LAT| TELEMUNDO DENVER HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4159
+#EXTINF:-1 ,LAT| TELEMUNDO GALVESTON HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4174
+#EXTINF:-1 ,LAT| TELEMUNDO INTERNACIONAL FHD*
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4155
+#EXTINF:-1 ,LAT| TELEMUNDO LAS VEGAS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4169
+#EXTINF:-1 ,LAT| TELEMUNDO LOS ANGELES HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4179
+#EXTINF:-1 ,LAT| TELEMUNDO LUBBOCK TX HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4175
+#EXTINF:-1 ,LAT| TELEMUNDO NEBRASKA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4161
+#EXTINF:-1 ,LAT| TELEMUNDO NEW ORLAND
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4180
+#EXTINF:-1 ,LAT| TELEMUNDO NEW ORLEANS HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4160
+#EXTINF:-1 ,LAT| TELEMUNDO OKLAHOMA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4163
+#EXTINF:-1 ,LAT| TELEMUNDO PHOENIX ARIZONA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4171
+#EXTINF:-1 ,LAT| TELEMUNDO PROVIDENCE HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4183
+#EXTINF:-1 ,LAT| TELEMUNDO SACRAMENTO CALIFORNIA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4172
+#EXTINF:-1 ,LAT| TELEMUNDO SALK LAKE CITY HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4173
+#EXTINF:-1 ,LAT| TELEMUNDO SAN ANTONIO TX HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4176
+#EXTINF:-1 ,LAT| TELEMUNDO SAN FRANCISCO HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4162
+#EXTINF:-1 ,LAT| TELEMUNDO TAMPA HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4184
+#EXTINF:-1 ,LAT| TELEMUNDO WASHINGTON HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4157
+#EXTINF:-1 ,LATINO | 35PN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3041
+#EXTINF:-1 ,Latino | A&E
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/38
+#EXTINF:-1 ,Latino | A+
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3482
+#EXTINF:-1 ,Latino | A3S
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/41
+#EXTINF:-1 ,Latino | ADN40
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/42
+#EXTINF:-1 ,LATINO | Adrenalina Sport Network
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2937
+#EXTINF:-1 ,Latino | Affizionados
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/43
+#EXTINF:-1 ,Latino | AMC
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/44
+#EXTINF:-1 ,Latino | Animal Planet
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/45
+#EXTINF:-1 ,Latino | Antena 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/46
+#EXTINF:-1 ,Latino | AXN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/47
+#EXTINF:-1 ,Latino | AXN White
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/48
+#EXTINF:-1 ,Latino | AyM Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/49
+#EXTINF:-1 ,Latino | AZ Cinema
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/50
+#EXTINF:-1 ,Latino | AZ Corazon
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/51
+#EXTINF:-1 ,Latino | AZ Mundo
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/52
+#EXTINF:-1 ,Latino | Azteca 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/53
+#EXTINF:-1 ,LATINO | AZTECA 1  (2 HORAS )
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3759
+#EXTINF:-1 ,Latino | Azteca 7
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/54
+#EXTINF:-1 ,LATINO | BABY FIRTS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/899
+#EXTINF:-1 ,LATINO | BABY TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2938
+#EXTINF:-1 ,Latino | Bandamax
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/55
+#EXTINF:-1 ,Latino | beIN Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/56
+#EXTINF:-1 ,Latino | beIN Sports La Liga
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/57
+#EXTINF:-1 ,Latino | Boomerang
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/58
+#EXTINF:-1 ,Latino | Canal 11
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/59
+#EXTINF:-1 ,Latino | Canal 5
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/60
+#EXTINF:-1 ,Latino | Canal De Las Estrellas
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/61
+#EXTINF:-1 ,Latino | Cartoon Network
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/63
+#EXTINF:-1 ,LATINO | CGTN ESPANOL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/961
+#EXTINF:-1 ,Latino | CineCanal
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/64
+#EXTINF:-1 ,Latino | CineLatino
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/65
+#EXTINF:-1 ,Latino | Cinemax
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/66
+#EXTINF:-1 ,Latino | CNN en Espanol
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/67
+#EXTINF:-1 ,Latino | De Pelicula
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/69
+#EXTINF:-1 ,LATINO | DIR3C TV 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3281
+#EXTINF:-1 ,LATINO | DIREC TV PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1046
+#EXTINF:-1 ,LATINO | DIRECTV SPORTS 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1048
+#EXTINF:-1 ,Latino | Discovery Channel
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/70
+#EXTINF:-1 ,Latino | Discovery en Espanol
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/72
+#EXTINF:-1 ,Latino | Discovery Familia
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/73
+#EXTINF:-1 ,Latino | Discovery H&H
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/74
+#EXTINF:-1 ,Latino | Discovery ID
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/75
+#EXTINF:-1 ,Latino | Discovery Kids
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/76
+#EXTINF:-1 ,Latino | Discovery Science
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/77
+#EXTINF:-1 ,Latino | Discovery Theater
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/78
+#EXTINF:-1 ,Latino | Discovery TLC
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/79
+#EXTINF:-1 ,Latino | Discovery Turbo
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/80
+#EXTINF:-1 ,Latino | Discovery World
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/81
+#EXTINF:-1 ,Latino | Disney Channel
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/82
+#EXTINF:-1 ,Latino | Disney Jr
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/83
+#EXTINF:-1 ,Latino | Disney XD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/84
+#EXTINF:-1 ,Latino | Distrito Comedia
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/85
+#EXTINF:-1 ,Latino | E!
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/86
+#EXTINF:-1 ,Latino | El Garage
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/87
+#EXTINF:-1 ,Latino | El Gourmet
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/88
+#EXTINF:-1 ,Latino | ESPN 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/91
+#EXTINF:-1 ,Latino | ESPN Deportes
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/92
+#EXTINF:-1 ,Latino | Estrella TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/94
+#EXTINF:-1 ,LATINO | FILMS ART
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1152
+#EXTINF:-1 ,Latino | Food Network
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/95
+#EXTINF:-1 ,Latino | Foro TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/96
+#EXTINF:-1 ,Latino | FOX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/97
+#EXTINF:-1 ,Latino | FOX Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/105
+#EXTINF:-1 ,Latino | FOX Sports 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/106
+#EXTINF:-1 ,Latino | FOX Sports 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/107
+#EXTINF:-1 ,Latino | FX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/111
+#EXTINF:-1 ,Latino | FXM
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/112
+#EXTINF:-1 ,Latino | Gala TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/113
+#EXTINF:-1 ,Latino | Glitz
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/114
+#EXTINF:-1 ,Latino | Gol TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/115
+#EXTINF:-1 ,LATINO | GOLDEN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/757
+#EXTINF:-1 ,Latino | Golden Plus
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/117
+#EXTINF:-1 ,LATINO | GOLDEN PREMIER
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/756
+#EXTINF:-1 ,Latino | Golf Channel
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/39
+#EXTINF:-1 ,Latino | HBO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/118
+#EXTINF:-1 ,Latino | HBO 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/119
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RQa2ipx.png",Latino | HBO Family
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/120
+#EXTINF:-1 ,Latino | HBO Plus
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/121
+#EXTINF:-1 ,Latino | HBO POP
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/129
+#EXTINF:-1 ,LATINO | HBO SIGNATURE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/755
+#EXTINF:-1 ,Latino | HBO XTREME
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/128
+#EXTINF:-1 ,Latino | HGTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/71
+#EXTINF:-1 ,Latino | History 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/122
+#EXTINF:-1 ,Latino | History Channel
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/123
+#EXTINF:-1 ,Latino | Hola TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/124
+#EXTINF:-1 ,Latino | Imagen
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/125
+#EXTINF:-1 ,Latino | MasChic
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/127
+#EXTINF:-1 ,Latino | Mexiquense
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/130
+#EXTINF:-1 ,LATINO | MTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/752
+#EXTINF:-1 ,LATINO | MTV LIVE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/753
+#EXTINF:-1 ,Latino | Multimedios
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/131
+#EXTINF:-1 ,Latino | Nat Geo Mundo
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/133
+#EXTINF:-1 ,Latino | National Geographic
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/135
+#EXTINF:-1 ,Latino | Nick
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/136
+#EXTINF:-1 ,LATINO | NICK 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/585
+#EXTINF:-1 ,Latino | Nick Jr
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/137
+#EXTINF:-1 ,LATINO | NICKELODEON
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/765
+#EXTINF:-1 ,Latino | Nicktoons
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/138
+#EXTINF:-1 ,LATINO | Paramount
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1141
+#EXTINF:-1 ,Latino | Pasiones
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/139
+#EXTINF:-1 ,Latino | Ritmoson
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/141
+#EXTINF:-1 ,Latino | Showtime
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/142
+#EXTINF:-1 ,Latino | Sony
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/143
+#EXTINF:-1 ,Latino | Space
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/144
+#EXTINF:-1 ,LATINO | STAR CHANEL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3475
+#EXTINF:-1 ,Latino | Starz
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/145
+#EXTINF:-1 ,Latino | Starz Encore
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/146
+#EXTINF:-1 ,Latino | Studio Universal
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/147
+#EXTINF:-1 ,Latino | Sundance
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/148
+#EXTINF:-1 ,Latino | TBS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/150
+#EXTINF:-1 ,Latino | TCM
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/151
+#EXTINF:-1 ,Latino | Teleformula
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/152
+#EXTINF:-1 ,Latino | Telehit
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/153
+#EXTINF:-1 ,Latino | TLnovelas
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/155
+#EXTINF:-1 ,Latino | TNT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/156
+#EXTINF:-1 ,Latino | TNT Series
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/157
+#EXTINF:-1 ,Latino | Tooncast
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/158
+#EXTINF:-1 ,Latino | TruTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/159
+#EXTINF:-1 ,Latino | TUDN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/160
+#EXTINF:-1 ,LATINO | TU-DN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3226
+#EXTINF:-1 ,Latino | TVC
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/161
+#EXTINF:-1 ,Latino | TVC Deportes
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/162
+#EXTINF:-1 ,Latino | TyC Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/163
+#EXTINF:-1 ,Latino | Un1versal Cinema
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/99
+#EXTINF:-1 ,Latino | Unicable
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/173
+#EXTINF:-1 ,Latino | Universal Channel
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/175
+#EXTINF:-1 ,LATINO | UNIVERSAL COMEDY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/754
+#EXTINF:-1 ,Latino | Universal Crime
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/98
+#EXTINF:-1 ,Latino | Universal Premier
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/103
+#EXTINF:-1 ,Latino | Universal Reality
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/101
+#EXTINF:-1 ,Latino | VH1 Classic
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/177
+#EXTINF:-1 ,Latino | Warner
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/178
+#EXTINF:-1 ,Latino | Win Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/179
+#EXTINF:-1 ,LATINO FHD : ANIMAL PLANET
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3131
+#EXTINF:-1 ,LATINO FHD : DISCOVERY FAMILIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3134
+#EXTINF:-1 ,LATINO FHD : DISCOVERY H&H
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3135
+#EXTINF:-1 ,LATINO FHD : DISCOVERY SCENCIE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3136
+#EXTINF:-1 ,LATINO FHD : FOX COMEDY (STAR COMEDY)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3139
+#EXTINF:-1 ,LATINO FHD : HBO 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3146
+#EXTINF:-1 ,LATINO FHD : HBO FAMILY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3147
+#EXTINF:-1 ,LATINO FHD : HBO MUNDI
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3148
+#EXTINF:-1 ,LATINO FHD : HBO PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3151
+#EXTINF:-1 ,LATINO FHD : HBO POP
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3149
+#EXTINF:-1 ,LATINO FHD : HBO SIGNATURE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3150
+#EXTINF:-1 ,LATINO FHD : HBO XTREME
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3152
+#EXTINF:-1 ,LOCOMOTION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3810
+#EXTINF:-1 ,M. LA LIGA TV BAR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3393
+#EXTINF:-1 ,MEXICO : TNT SPORTS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3282
+#EXTINF:-1  tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/Imagenes/Logotipo/Canal10_Oficial.png",MEXICO | CANAL 10 CANCUN
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/972
+#EXTINF:-1 ,MEXICO | CANAL 10 NOTICIAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3780
+#EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-t3aNu0XoQ0M/VSh6RzeTEeI/AAAAAAAAAkg/JN4ixO4-8CM/s320/Canal%2B4%2BMonclova.jpg",MEXICO | CANAL 4 SALTILLO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/974
+#EXTINF:-1 ,MEXICO | CANAL 6 NRT
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3770
+#EXTINF:-1  tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png",MEXICO | EXTREMA X
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/962
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",MEXICO | Film And Arts
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/896
+#EXTINF:-1 ,MEXICO | JALISCO TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3781
+#EXTINF:-1  tvg-logo="https://www.redespoder.com/wp-content/uploads/2018/01/milenio.png",MEXICO | MILENIO TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/556
+#EXTINF:-1 ,MEXICO | MULTIMEDIOS MONTERREY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3765
+#EXTINF:-1 ,MEXICO | MULTIMEDIOS TORREON
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3766
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png",MEXICO | PRESUMIENDO MEXICO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/977
+#EXTINF:-1 ,MEXICO | RCG
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3767
+#EXTINF:-1 ,MEXICO | RCG 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3768
+#EXTINF:-1 ,MEXICO | RCG 3
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3769
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/87/ec/aa/87ecaa46de83d90085e2ff737dabac0c.jpg",MEXICO | RCG SALTILLO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/956
+#EXTINF:-1 ,MEXICO | TELEMAX
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3778
+#EXTINF:-1 ,MEXICO | TV MAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3773
+#EXTINF:-1 ,MEXICO | ULTRA PUEBLA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3776
+#EXTINF:-1 ,MOVISTAR ACCION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3576
+#EXTINF:-1 ,MOVISTAR COMEDIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3577
+#EXTINF:-1 ,MOVISTAR DISNEY
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3579
+#EXTINF:-1 ,MOVISTAR DRAMA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3580
+#EXTINF:-1 ,MOVISTAR ESTRENOS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3581
+#EXTINF:-1 ,MOVISTAR SERIEMANIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3582
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png",MUSIC | Alegria TV | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3633
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/aa99b1f0883fe3d009f973f0a0e2848f.png",MUSIC | Buenisima Radio TV | CO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3681
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png",MUSIC | Cadena Elite | ES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3685
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png",MUSIC | Canal 38 | CR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3635
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png",MUSIC | Canal VM Latino | CR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3684
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png",MUSIC | Corazon Llanero | VE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3638
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/539f780c9e624b125cf20e6d66ec47c8.png",MUSIC | Euro Indie Music | GB
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3628
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png",MUSIC | Evavisión Pachanga | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3680
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png",MUSIC | Fabulosa FM | ES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3686
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/d7192184924772147bbeed4fffde3680.png",MUSIC | Freestyledjs | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3697
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-5-1IsAfHulw/YLY20QswyOI/AAAAAAABCnU/3HTzC_ryaZc_tkdFb_MZGFH05anhfxPGgCJEEGAsYHg/s512/2021-06-01.png",MUSIC | Hits 360 | DO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3661
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/80e0212c6d6715e2ebdda69e5f2a6c61.png",MUSIC | Latin Zone TV | US
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3664
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png",MUSIC | Latinos Radio * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3627
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png",MUSIC | Maxima FM | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3640
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png",MUSIC | Molahits TV | ES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3687
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png",MUSIC | Mundo de la Musica TV * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3626
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png",MUSIC | Music Top | AR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3641
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/82dcfd31aad429ffee4c8edc9afa7624.png",MUSIC | Nubeh TV | VE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3666
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/ef1ca23d4134cf47e55c3092fae7e513.png",MUSIC | Oxigeno Network | VE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3667
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/4bb07c3c21fb5317a68d763802eba0e1.png",MUSIC | Panavision | VE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3668
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png",MUSIC | Portal FoxMix | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3631
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png",MUSIC | RCKTV * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3624
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png",MUSIC | Recuerdos Retro Radio TV * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3620
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png",MUSIC | Retro Music Television | CZ
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3632
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png",MUSIC | Retro Plus TV * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3619
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png",MUSIC | Retro Plus TV Señal 2 * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3621
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/004835d0c1a19dd14fa643dd18897d4d.png",MUSIC | Ruidos TV * | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3622
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg",MUSIC | Sexy Kpop TV | BR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3657
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/d96b857f73a9ce281cdef4e11766eddd.png",MUSIC | Solobailalo TV | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3694
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/ade26f32ba4868798ef1593a34e57ef7.png",MUSIC | Soy Plancha TV | CR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3683
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-2UEnkgDLK5U/YF8mPyKQ4dI/AAAAAAABA_M/TAGtmHfbRZwax3VsZ5bs861v4NaitIXLgCK8BGAsYHg/s512/2021-03-27.png",MUSIC | The Retro Channel | PR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3643
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png",MUSIC | TV vconline.cl | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3645
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png",MUSIC | Urban TV * | ES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3623
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png",MUSIC | VClassicTV | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3696
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png",MUSIC | Video Tour Channel | CR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3648
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png",MUSIC | Vintage Music | CR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3682
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-gaitJQnLecE/YKqXiP-BdgI/AAAAAAABCgE/Z-pquANdfv01XInDHZfgDzFf27LP7LOEACK8BGAsYHg/s512/2021-05-23.png",MUSIC | Vision Musica TV | PE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3660
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/869156d90e27d6c6e09dc5a8f0017838.png",MUSIC | Zapping Music | CL
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3629
+#EXTINF:-1 ,NBA 01
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3043
+#EXTINF:-1 ,NBA 02
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3044
+#EXTINF:-1 ,NBA 03
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3045
+#EXTINF:-1 ,NBA 04
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3046
+#EXTINF:-1 ,NETFLIX LATINO 1 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3700
+#EXTINF:-1 ,NETFLIX LATINO 10 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3709
+#EXTINF:-1 ,NETFLIX LATINO 11 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3710
+#EXTINF:-1 ,NETFLIX LATINO 12 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3711
+#EXTINF:-1 ,NETFLIX LATINO 13 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3712
+#EXTINF:-1 ,NETFLIX LATINO 14 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3713
+#EXTINF:-1 ,NETFLIX LATINO 15 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3714
+#EXTINF:-1 ,NETFLIX LATINO 16 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3715
+#EXTINF:-1 ,NETFLIX LATINO 17 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3716
+#EXTINF:-1 ,NETFLIX LATINO 18 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3717
+#EXTINF:-1 ,NETFLIX LATINO 19 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3718
+#EXTINF:-1 ,NETFLIX LATINO 2 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3701
+#EXTINF:-1 ,NETFLIX LATINO 20 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3719
+#EXTINF:-1 ,NETFLIX LATINO 21 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3720
+#EXTINF:-1 ,NETFLIX LATINO 22 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3721
+#EXTINF:-1 ,NETFLIX LATINO 23 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3722
+#EXTINF:-1 ,NETFLIX LATINO 24 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3723
+#EXTINF:-1 ,NETFLIX LATINO 25 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3724
+#EXTINF:-1 ,NETFLIX LATINO 26 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3725
+#EXTINF:-1 ,NETFLIX LATINO 3 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3702
+#EXTINF:-1 ,NETFLIX LATINO 4 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3703
+#EXTINF:-1 ,NETFLIX LATINO 5 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3704
+#EXTINF:-1 ,NETFLIX LATINO 6 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3705
+#EXTINF:-1 ,NETFLIX LATINO 7 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3706
+#EXTINF:-1 ,NETFLIX LATINO 8 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3707
+#EXTINF:-1 ,NETFLIX LATINO 9 HD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3708
+#EXTINF:-1 ,NICARAGUA | CANAL 10
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3316
+#EXTINF:-1 ,NICARAGUA | CANAL 13
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3318
+#EXTINF:-1 ,NICARAGUA | CANAL 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3313
+#EXTINF:-1 ,NICARAGUA | CANAL 6
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3314
+#EXTINF:-1 ,NOTICIAS | ESTRELLA NEWS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3807
+#EXTINF:-1 ,PANAMA | SER TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/837
+#EXTINF:-1 ,PANAMA | TELEMETRO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/838
+#EXTINF:-1 ,PERO | TV PERU NOTICIAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/469
+#EXTINF:-1 ,PERU | America TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/459
+#EXTINF:-1 ,PERU | AMERICA TV 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3997
+#EXTINF:-1 ,PERU | AMERICA TV SD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3998
+#EXTINF:-1 ,PERU | AMERICA TV SD 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3999
+#EXTINF:-1 ,PERU | ANTARES TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/980
+#EXTINF:-1 ,PERU | ATV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/460
+#EXTINF:-1 ,PERU | ATV PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/472
+#EXTINF:-1 ,PERU | BHTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/979
+#EXTINF:-1 ,PERU | CANAL IPE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/470
+#EXTINF:-1 ,PERU | CANAL N
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1117
+#EXTINF:-1 ,PERU | CULTURA 24
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/982
+#EXTINF:-1 ,PERU | Direc tv Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3219
+#EXTINF:-1 ,PERU | GOL PERU
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/463
+#EXTINF:-1 ,PERU | LATINA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/461
+#EXTINF:-1 ,PERU | MOVISTAR DEPORTES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/464
+#EXTINF:-1 ,PERU | PANAMERICANA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/462
+#EXTINF:-1 ,PERU | PERU MAGICO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/466
+#EXTINF:-1 ,PERU | RPP
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1196
+#EXTINF:-1 ,PERU | TV PERU
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/468
+#EXTINF:-1 ,PERU | WILLAX TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/473
+#EXTINF:-1 ,PUERTO RICO | MEGA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/180
+#EXTINF:-1 ,PUERTO RICO | T3L3MUNDO PR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3280
+#EXTINF:-1 ,PUERTO RICO | Univision
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/182
+#EXTINF:-1 ,PUERTO RICO | WAPA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/183
+#EXTINF:-1 ,PUERTO RICO | WIPR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/185
+#EXTINF:-1 ,RD | DAN TV (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3383
+#EXTINF:-1 ,RD | HM (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3381
+#EXTINF:-1 ,RD | PH (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3375
+#EXTINF:-1 ,RD | RNN (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3373
+#EXTINF:-1 ,RD | SiTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3370
+#EXTINF:-1 ,RD | TVS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3358
+#EXTINF:-1 ,RD | LVM 480
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3380
+#EXTINF:-1 ,RD | Microvision
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3379
+#EXTINF:-1 ,RD | Microvision 10 (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3378
+#EXTINF:-1 ,RD | Ready TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3374
+#EXTINF:-1 ,RD | Telecanal 28 (360p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3367
+#EXTINF:-1 ,RD | Telenord 12 (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3363
+#EXTINF:-1 ,RD | Telenord 8 (1080p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3362
+#EXTINF:-1 ,RD | Teleunion (480p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3361
+#EXTINF:-1 ,RD | Vallevision 720
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3357
+#EXTINF:-1 ,RD | Zol106 (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3356
+#EXTINF:-1 ,RELIGIOSO | ALIENTO VISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/941
+#EXTINF:-1 ,RELIGIOSO | CANAL DIOCESANO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/949
+#EXTINF:-1 ,RELIGIOSO | ESPERANZA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/936
+#EXTINF:-1 ,RELIGIOSO | JRES TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/946
+#EXTINF:-1 ,RELIGIOSO | LA VOZ DE MARIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/945
+#EXTINF:-1 ,RETRO PLUS 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3784
+#EXTINF:-1 ,Soccer 02 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3440
+#EXTINF:-1 ,Soccer 03 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3441
+#EXTINF:-1 ,Soccer 04 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3442
+#EXTINF:-1 ,Soccer 05 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3443
+#EXTINF:-1 ,Soccer 06 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3444
+#EXTINF:-1 ,Soccer 07 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3445
+#EXTINF:-1 ,Soccer 08 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3446
+#EXTINF:-1 ,SONY COMEDIAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3565
+#EXTINF:-1 ,SONY NOVELAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3564
+#EXTINF:-1 ,Spectrum Sportsnet LA Dodgers
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3407
+#EXTINF:-1 ,Telemilenio (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3364
