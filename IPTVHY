@@ -1,931 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA SD
-http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73033
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VrEFIN.png" nada="Noticias" group-title="TELE CABLE", LATINA HD
-https://www.youtube.com/embed/GGgGbvBn0ZU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" nada="Noticias" group-title="TELE CABLE", HUARMEY TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/iptvhy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WPrA0iu.png" nada="Noticias" group-title="TELE CABLE", TELEJASH HY
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrizX55.png" nada="Noticias" group-title="TELE CABLE", AMERICA TV (Peru)
-https://www.youtube.com/embed/jiFWFVmj0uI
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV FHD
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV SD
-http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73029
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV HD
-http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73030
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqZmTv0.png" nada="Noticias" group-title="TELE CABLE", ATV +
-http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73031
-#EXTINF:-1 tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" nada="Noticias" group-title="TELE CABLE", CANAL N
-http://tutv.online:2080/Usuario30Septiembre_001B/NGqQZwQEm2kt/73024
-#EXTINF:-1 tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png" nada="Noticias" group-title="TELE CABLE", WILLAX TV
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0WzzkpJiDjPBiERnnCotQrvYO0ZYqk4S4XNkNUCc2rqu1BensYjkE5gyBOgdGAZjPA&dmTs=297982&dmV1st=56E3756982E3248ECB28A94B76B6976C
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9BLB8Z.png" nada="Noticias" group-title="TELE CABLE", Panamericana SD
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="http://tutv.online:2080/images/e58b7e14fbf510aa5d24b110fba46cdd.png" nada="Noticias" group-title="TELE CABLE", RPP HD
-http://tutv.online:2080/Usuario31Septiembre_001B/hfzQaaYTA4QD/73037
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fytEG1u.png" nada="Noticias" group-title="TELE CABLE", Perú TV SD
-https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://comunicaciones.congreso.gob.pe/wpuploads/2021/02/logo-web-3-3.png" nada="Noticias" group-title="TELE CABLE", CONGRESO TV
-https://www.youtube.com/embed/ri02uHDRYgA
-#EXTINF:-1 tvg-logo="http://tutv.online:2080/images/169e17a912d6f7eeda4b17487d20f01e.png" nada="Noticias" group-title="TELE CABLE", Exitosa FHD
-https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/2442044e1391e59708f00020c5e61198.png" nada="Noticias" group-title="TELE CABLE", Goresam TV
-https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/1b2a4d24338b3c56680b8837a91be53b.png" nada="Noticias" group-title="TELE CABLE", Master Television
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mvNLE8f.png" nada="Noticias" group-title="TELE CABLE", Esports Max TV
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oC6tuLn.png" nada="Noticias" group-title="TELE CABLE", Huacho Perú TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oew9unJ.png" nada="Noticias" group-title="TELE CABLE", Piura TV 
-http://190.108.83.142:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLk6TPY.png" nada="Noticias" group-title="TELE CABLE", Visión Noticias Perú TV
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7cPyP2.png" nada="Noticias" group-title="TELE CABLE", Controversia TV
-https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fSkmoA.png" nada="Noticias" group-title="TELE CABLE", CNC Digital TV
-https://cloudvideo.servers10.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/13a1cbfd1b00f4e4582a523c9eb3d3b2.png" nada="Noticias" group-title="TELE CABLE", OK TeVe
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" nada="Noticias" group-title="TELE CABLE", Uranio TV
-https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pjcWDJW.png" nada="Noticias" group-title="TELE CABLE", TPTO TV (Tarapoto)
-https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eotfCMd.png" nada="Noticias" group-title="TELE CABLE", Super Canal TV
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8UObjI.png" nada="Noticias" group-title="TELE CABLE", X TV (Chachapoyas)
-https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GaEfzuG.png" nada="Noticias" group-title="TELE CABLE", Sistema 1 TV
-https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sj4sEaN.png" nada="Noticias" group-title="TELE CABLE", Tevex TV
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXspBga.png" nada="Noticias" group-title="TELE CABLE", Proyecta TV
-https://servilive.com:3194/live/proyectatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lu61Tos.jpg" nada="Noticias" group-title="TELE CABLE", Zona Joven TV
-https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8G2fjBZ.png" nada="Noticias" group-title="TELE CABLE", Central TV Chosica
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/35c791e364c3adb7c6c2ef98504041a0.png" nada="Noticias" group-title="TELE CABLE", Telecolor TV HD
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xVcnmE3.png" nada="Noticias" group-title="TELE CABLE", QT Televisión TV
-https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" nada="Noticias" group-title="TELE CABLE", Genios TV HD
-https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tebr5wH.png" nada="Noticias" group-title="TELE CABLE", Uchu TV
-http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUoqJrC.png" nada="Noticias" group-title="TELE CABLE", Antares TV
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bVTjvp6.png" nada="Noticias" group-title="TELE CABLE", Cable Netword TV
-https://tv.inka.net.pe/cntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5O42NQ.png" nada="Noticias" group-title="TELE CABLE", TecSatel Cine TV
-https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFad8KR.png" nada="Noticias" group-title="TELE CABLE", Tv faces Online
-https://tvdatta.com:3211/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" nada="Noticias" group-title="TELE CABLE", SEO TV SERIES
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DI7ZTi9.png" nada="Noticias" group-title="TELE CABLE", CreoTV
-https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cVUmoKE.png" nada="Noticias" group-title="TELE CABLE", Lima Live TV
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VkobI4.png" nada="Noticias" group-title="TELE CABLE", Cajamarca TV
-https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F166GPP.png" nada="Noticias" group-title="TELE CABLE", Super TV
-https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TitYGtR.png" nada="Noticias" group-title="TELE CABLE", Clips TV
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sFrP2GE.png" nada="Noticias" group-title="TELE CABLE", La Luz TV
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TxEBT6I.png" nada="Noticias" group-title="TELE CABLE", CharapaTV
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aKGKsy.png" nada="Noticias" group-title="TELE CABLE", Best Cable Perú
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5IPjtJk.png" nada="Novelas" group-title="TELE CABLE", SEO TV Novelas
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 ,PERO | TV PERU NOTICIAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/469
+#EXTINF:-1 ,PERU | America TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/459
+#EXTINF:-1 ,PERU | AMERICA TV 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3997
+#EXTINF:-1 ,PERU | AMERICA TV SD
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3998
+#EXTINF:-1 ,PERU | AMERICA TV SD 1
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3999
+#EXTINF:-1 ,PERU | ANTARES TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/980
+#EXTINF:-1 ,PERU | ATV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/460
+#EXTINF:-1 ,PERU | ATV PLUS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/472
+#EXTINF:-1 ,PERU | BHTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/979
+#EXTINF:-1 ,PERU | CANAL IPE
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/470
+#EXTINF:-1 ,PERU | CANAL N
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1117
+#EXTINF:-1 ,PERU | CULTURA 24
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/982
+#EXTINF:-1 ,PERU | Direc tv Sports
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3219
+#EXTINF:-1 ,PERU | GOL PERU
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/463
+#EXTINF:-1 ,PERU | LATINA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/461
+#EXTINF:-1 ,PERU | MOVISTAR DEPORTES
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/464
+#EXTINF:-1 ,PERU | PANAMERICANA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/462
+#EXTINF:-1 ,PERU | PERU MAGICO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/466
+#EXTINF:-1 ,PERU | RPP
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1196
+#EXTINF:-1 ,PERU | TV PERU
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/468
+#EXTINF:-1 ,PERU | WILLAX TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/473
+#EXTINF:-1 ,PUERTO RICO | MEGA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/180
+#EXTINF:-1 ,PUERTO RICO | T3L3MUNDO PR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3280
+#EXTINF:-1 ,PUERTO RICO | Univision
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/182
+#EXTINF:-1 ,PUERTO RICO | WAPA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/183
+#EXTINF:-1 ,PUERTO RICO | WIPR
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/185
+#EXTINF:-1 ,RD | DAN TV (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3383
+#EXTINF:-1 ,RD | HM (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3381
+#EXTINF:-1 ,RD | PH (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3375
+#EXTINF:-1 ,RD | RNN (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3373
+#EXTINF:-1 ,RD | SiTV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3370
+#EXTINF:-1 ,RD | TVS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3358
+#EXTINF:-1 ,RD | LVM 480
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3380
+#EXTINF:-1 ,RD | Microvision
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3379
+#EXTINF:-1 ,RD | Microvision 10 (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3378
+#EXTINF:-1 ,RD | Ready TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3374
+#EXTINF:-1 ,RD | Telecanal 28 (360p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3367
+#EXTINF:-1 ,RD | Telenord 12 (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3363
+#EXTINF:-1 ,RD | Telenord 8 (1080p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3362
+#EXTINF:-1 ,RD | Teleunion (480p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3361
+#EXTINF:-1 ,RD | Vallevision 720
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3357
+#EXTINF:-1 ,RD | Zol106 (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3356
+#EXTINF:-1 ,RELIGIOSO | ALIENTO VISION
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/941
+#EXTINF:-1 ,RELIGIOSO | CANAL DIOCESANO
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/949
+#EXTINF:-1 ,RELIGIOSO | ESPERANZA TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/936
+#EXTINF:-1 ,RELIGIOSO | JRES TV
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/946
+#EXTINF:-1 ,RELIGIOSO | LA VOZ DE MARIA
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/945
+#EXTINF:-1 ,RETRO PLUS 2
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3784
+#EXTINF:-1 ,Soccer 02 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3440
+#EXTINF:-1 ,Soccer 03 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3441
+#EXTINF:-1 ,Soccer 04 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3442
+#EXTINF:-1 ,Soccer 05 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3443
+#EXTINF:-1 ,Soccer 06 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3444
+#EXTINF:-1 ,Soccer 07 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3445
+#EXTINF:-1 ,Soccer 08 -
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3446
+#EXTINF:-1 ,SONY COMEDIAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3565
+#EXTINF:-1 ,SONY NOVELAS
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3564
+#EXTINF:-1 ,Spectrum Sportsnet LA Dodgers
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3407
+#EXTINF:-1 ,Telemilenio (720p)
+http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3364
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" nada="Noticias" group-title="TELE CABLE", Karibena TV SD
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6b2b101c818588d17c09562d3f96ce38.png" nada="Noticias" group-title="TELE CABLE", Canal 8 Catacaos
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Más Cumbia
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pNUJ0qM.png" nada="Noticias" group-title="TELE CABLE", Best Cable Music
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cEx1LP9.png" nada="Noticias" group-title="TELE CABLE", Conecta2TV
-https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q6zqmnG.png" nada="Noticias" group-title="TELE CABLE",  Hatun Tv
-https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vWuahSR.png" nada="Noticias" group-title="TELE CABLE", Latin Mix Radio
-https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1249478817.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xvMDTe9.png" nada="Noticias" group-title="TELE CABLE", Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y37ookm.jpg" nada="Noticias" group-title="TELE CABLE", FoxMix TV
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/svgW3Fr.png" nada="Noticias" group-title="TELE CABLE", Vallenato Internacional TV
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" nada="Noticias" group-title="TELE CABLE", SanjuaneraTV
-https://live.obslivestream.com/sanjuanera/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5Zhdbo.png" nada="Noticias" group-title="TELE CABLE", Sumac TV
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qusd5mT.png" nada="Noticias" group-title="TELE CABLE", La Ribereña (Pucallpa)
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L45zrbj.png" nada="Noticias" group-title="TELE CABLE", Sol Stereo TV
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EcL9FE.jpg" nada="Noticias" group-title="TELE CABLE", MegaMix Tv
-https://videostreaming.cloudserverlatam.com/8016/8016/chunklist_w306580684.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VMMNhkf.png" nada="Noticias" group-title="TELE CABLE", Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NmPpWCj.png" nada="Noticias" group-title="TELE CABLE", Turbo Mix TV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" nada="Noticias" group-title="TELE CABLE", Memorias TV
-https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png" nada="Noticias" group-title="TELE CABLE", DMJ
-https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNLXCYu.png" nada="Noticias" group-title="TELE CABLE", Mundo de la Musica TV
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GTsrPFY.png" nada="Noticias" group-title="TELE CABLE", Vision Musica TV
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ApBADFc.png" nada="Noticias" group-title="TELE CABLE", Chavo 24/7
-https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://moda.com.pe/assets/images/logo-solo.png" nada="Noticias" group-title="TELE CABLE", Radio Moda
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC
-#EXTINF:-1 tvg-logo="https://radionuevaq.pe/assets/images/logo-nueva-q.png" nada="Noticias" group-title="TELE CABLE", Radio Nueva Q
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/zona887778.png" nada="Noticias" group-title="TELE CABLE", Radio La Zona
-https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/la_riberena_axx1.png" nada="Noticias" group-title="TELE CABLE", Radio La Ribereña
-http://167.114.118.120:7274/;stream
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/pr461.png" nada="Noticias" group-title="TELE CABLE", Radio Nova
-https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
-#EXTINF:-1 tvg-logo="https://radiomar.pe/assets/images/logo-radiomar.png" nada="Noticias" group-title="TELE CABLE", Radio Mar
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC
-#EXTINF:-1 tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-onda-cero.png" nada="Noticias" group-title="TELE CABLE", Radio Onda Cero
-https://streaming.gometri.com/stream/8011/;
-#EXTINF:-1 tvg-logo="https://planeta.pe/assets/images/logo-planeta.png" nada="Noticias" group-title="TELE CABLE", Radio Planeta
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KZHsrU4.png" nada="Noticias" group-title="TELE CABLE", Radio Chalaca
-https://conectperu.com/8084/stream
-#EXTINF:-1 tvg-logo="https://oasis.pe/assets/images/logo-radio-oasis.png" nada="Noticias" group-title="TELE CABLE", Radio Oasis
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfbtXd1.png" nada="Deportes" group-title="TELE CABLE", Best Cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6PPcJ2.png" nada="Deportes" group-title="TELE CABLE", Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J8XmCRK.png" nada="Deportes" group-title="TELE CABLE", Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2022/01/10/reportajes/1641814953_137227_1641895764_noticia_normal.jpg" nada="Noticias" group-title="TELE CABLE", Cine Terror TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" nada="Noticias" group-title="TELE CABLE", Retro Plus 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", DEATH NOTE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" nada="Noticias" group-title="TELE CABLE", NARUTO 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" nada="Noticias" group-title="TELE CABLE", Naruto2 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UunUcyi.jpg" nada="Noticias" group-title="TELE CABLE", Yu-Gi-Oh2 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", One Piece 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", Los Tres Chiflados 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUGdVLb.jpg" nada="Noticias" group-title="TELE CABLE", Barney 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zu8Iw5s.jpg" nada="Noticias" group-title="TELE CABLE", Rugrats 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v6fcxJc.jpg" nada="Noticias" group-title="TELE CABLE", Bob Esponja 24/7
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" nada="Noticias" group-title="TELE CABLE", LAS TORTUGAS NINJA (ESPAÑA)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="" nada="Noticias" group-title="TELE CABLE", Anime Tv 24/7
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/khUQUCD.png" nada="Noticias" group-title="TELE CABLE", Baby Shark 24/7
-https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
-https://videostreaming.cloudserverlatam.com:443/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmEU4pe.png" nada="Noticias" group-title="TELE CABLE", Los Simpsoms 24/7
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" nada="Noticias" group-title="TELE CABLE", Cartoon Network 1
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HYBD4CM.png" nada="Noticias" group-title="TELE CABLE", Cartoon Network 2
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CBUf3K1.png" nada="Noticias" group-title="TELE CABLE", Latino Infantil TV
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" nada="Noticias" group-title="TELE CABLE", DREIKO TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tutv.online:36995/images/c05ebe927a3c3a098010bc80e86dee0c.jpg" nada="Noticias" group-title="TELE CABLE", 3 Dragon Ball Super 24/7
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
-
-
-#EXTINF:-1 ,24/7 | El Chapulín Colorado
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3542
-#EXTINF:-1 ,24/7 | ROSA DE GUADALUPE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3544
-#EXTINF:-1 ,24/7 | The Big Bang Theory
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2931
-#EXTINF:-1 ,24/7 BOB ESPONJA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2946
-#EXTINF:-1 ,24/7 CABALLEROS DEL SODIACO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2941
-#EXTINF:-1 ,24/7 CAR | Dinosaurios
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3547
-#EXTINF:-1 ,24/7 CAR | Doraemon
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3548
-#EXTINF:-1 ,24/7 CAR | El Show de Garfield
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3532
-#EXTINF:-1 ,24/7 CAR | Escandalosos 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3530
-#EXTINF:-1 ,24/7 CAR | Lilo & Stitch
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3545
-#EXTINF:-1 ,24/7 CAR | Looney Tunes
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3550
-#EXTINF:-1 ,24/7 CAR | Timón y Pumba
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3535
-#EXTINF:-1 ,24/7 CAR | Un Show Mas
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3536
-#EXTINF:-1 ,24/7 CAR | Winnie The Pooh
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3537
-#EXTINF:-1 ,24/7 Dragon Ball z
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2926
-#EXTINF:-1 ,24/7 EBS Kids EN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1108
-#EXTINF:-1 ,24/7 EL PRINCIPE DEL RAP
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2929
-#EXTINF:-1 ,24/7 MALCOLM
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2947
-#EXTINF:-1 ,24/7 MASINGERZ
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2942
-#EXTINF:-1 ,24/7 NARUTO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2939
-#EXTINF:-1 ,24/7 ROBOTECH
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2922
-#EXTINF:-1 ,24/7 South Park
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3533
-#EXTINF:-1 ,24/7 SUPER CAMPEONES
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2943
-#EXTINF:-1 ,AMERICA TV MIAMI
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3956
-#EXTINF:-1 ,AR | beIN Sports 12
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3504
-#EXTINF:-1 ,AR | beIN Sports 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3495
-#EXTINF:-1 ,AR | beIN Sports 6
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3498
-#EXTINF:-1 ,ARG DEP | ESPN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3978
-#EXTINF:-1 ,ARG DEP | ESPN 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3979
-#EXTINF:-1 ,ARG DEP | ESPN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3980
-#EXTINF:-1 ,ARG DEP | ESPN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3981
-#EXTINF:-1 ,ARG DEP | ESPN PLUS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3982
-#EXTINF:-1 ,ARG DEP | FOX SPORTS  1 SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3983
-#EXTINF:-1 ,ARG DEP | FOX SPORTS  2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3984
-#EXTINF:-1 ,ARG DEP | FOX SPORTS  3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3985
-#EXTINF:-1 ,ARG DEP | FOX SPORTS 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3986
-#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM FHD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3987
-#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3988
-#EXTINF:-1 ,ARG DEP | FOX SPORTS PREMIUM SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3989
-#EXTINF:-1 ,ARGENTINA | 5RTV SANTA FE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2993
-#EXTINF:-1 ,ARGENTINA | 5TV CORRIENTES
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2994
-#EXTINF:-1 ,ARGENTINA | 9 MULTIVISION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2995
-#EXTINF:-1 ,ARGENTINA | CANAL 10 GENERAL ROCA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2999
-#EXTINF:-1 ,ARGENTINA | CANAL 26
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3000
-#EXTINF:-1 ,ARGENTINA | CHACRA TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3001
-#EXTINF:-1 ,ARGENTINA | CIUDAD TV CHACO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3002
-#EXTINF:-1 ,ARGENTINA | ESPN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3035
-#EXTINF:-1 ,ARGENTINA | ESPN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3036
-#EXTINF:-1 ,ARGENTINA | ESPN 4
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3037
-#EXTINF:-1 ,ARGENTINA | FENIX TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3004
-#EXTINF:-1 ,ARGENTINA | Fox sports 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3038
-#EXTINF:-1 ,ARGENTINA | Fox Sports 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3039
-#EXTINF:-1 ,ARGENTINA | Fox Sports 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3040
-#EXTINF:-1 ,ARGENTINA | FOX SPORTS PREMIUN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/552
-#EXTINF:-1 ,ARGENTINA | PAKA PAKA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3221
-#EXTINF:-1 ,ARGENTINA | TELEFE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1133
-#EXTINF:-1 ,ARGENTINA | TELEMAX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3772
-#EXTINF:-1 ,ARGENTINA | Telpin Canal 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3775
-#EXTINF:-1 ,ARGENTINA | TLX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3008
-#EXTINF:-1 ,BALLY SPORTS DETROIT
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3567
-#EXTINF:-1 ,BALLY SPORTS FLORIDA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3568
-#EXTINF:-1 ,BALLY SPORTS GREAT LAKES
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3569
-#EXTINF:-1 ,BALLY SPORTS INDIANA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3570
-#EXTINF:-1 ,BALLY SPORTS KANSASA CITY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3571
-#EXTINF:-1 ,BALLY SPORTS MIDWEST
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3572
-#EXTINF:-1 ,BALLY SPORTS NEW ORLEANS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3573
-#EXTINF:-1 ,BALLY SPORTS OKLAHOMA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3574
-#EXTINF:-1 ,BALLY SPORTS SOCAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3698
-#EXTINF:-1 ,BALLY SPORTS TENNESSEE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3575
-#EXTINF:-1 ,BOLIVIA | RTP
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3012
-#EXTINF:-1 ,BOLIVIA | TVU
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3013
-#EXTINF:-1 ,BOLIVIA | RED ADVENIR
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3011
-#EXTINF:-1 ,BRA | DAZN 2 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4148
-#EXTINF:-1 ,BRA | GLOBO NEWS SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4150
-#EXTINF:-1 ,BRA | GLOBO RJ
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4151
-#EXTINF:-1 ,BRA | SPORTV 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4152
-#EXTINF:-1 ,BRA | SPORTV 2 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4153
-#EXTINF:-1 ,BRA | SPORTV 3 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4154
-#EXTINF:-1 ,BRA DEP | ESPN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4098
-#EXTINF:-1 ,BRA DEP | ESPN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4099
-#EXTINF:-1 ,BRA DEP | FOX SPORTS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4100
-#EXTINF:-1 ,BRA DEP | FOX SPORTS 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4101
-#EXTINF:-1 ,BRA HD | A&E
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4102
-#EXTINF:-1 ,BRA HD | BANDs sports
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4103
-#EXTINF:-1 ,BRA HD | COMBATE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4105
-#EXTINF:-1 ,BRA HD | DISCOVERY CHANNEL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4107
-#EXTINF:-1 ,BRA HD | DISCOVERY H&H
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4108
-#EXTINF:-1 ,BRA HD | FOX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4109
-#EXTINF:-1 ,BRA HD | GLOBO MINAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4110
-#EXTINF:-1 ,BRA HD | GLOBO NEWS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4111
-#EXTINF:-1 ,BRA HD | HBO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4112
-#EXTINF:-1 ,BRA HD | HBO 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4113
-#EXTINF:-1 ,BRA HD | HBO FAMILY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4114
-#EXTINF:-1 ,BRA HD | HBO SIGNATURE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4116
-#EXTINF:-1 ,BRA HD | HYSTORY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4118
-#EXTINF:-1 ,BRA HD | MULTISHOW
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4119
-#EXTINF:-1 ,BRA HD | NATIONAL GEOGRAPHIC
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4121
-#EXTINF:-1 ,BRA HD | PARAMOUNT
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4122
-#EXTINF:-1 ,BRA HD | RECORD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4124
-#EXTINF:-1 ,BRA HD | RECORD NEWS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4125
-#EXTINF:-1 ,BRA HD | SONY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4126
-#EXTINF:-1 ,BRA HD | SPACE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4127
-#EXTINF:-1 ,BRA HD | STB Jornal
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4131
-#EXTINF:-1 ,BRA HD | SYFY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4132
-#EXTINF:-1 ,BRA HD | TELECINE PREMIUN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4135
-#EXTINF:-1 ,BRA HD | TNT
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4136
-#EXTINF:-1 ,BRA HD | TNT SERIES
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4137
-#EXTINF:-1 ,BRA HD | TV GLOBO INTERNACIONAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4138
-#EXTINF:-1 ,BRA HD | VIVA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4139
-#EXTINF:-1 ,BRA KIDS | BABY TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4140
-#EXTINF:-1 ,BRA KIDS | BOOMERAN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4141
-#EXTINF:-1 ,BRA KIDS | DISCOVERY KIDS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4142
-#EXTINF:-1 ,BRA KIDS | DISNEY CHANNEL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4143
-#EXTINF:-1 ,BRA KIDS | NATGEO KIDS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4144
-#EXTINF:-1 ,BRA KIDS | NICK JR
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4145
-#EXTINF:-1 ,BRA KIDS | TOONCAST
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4146
-#EXTINF:-1 ,CA| CPAC HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3846
-#EXTINF:-1 ,CA| ICI VANCOUVER HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3847
-#EXTINF:-1 ,CA| INVESTIGATION HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3848
-#EXTINF:-1 ,CA| RDS HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3849
-#EXTINF:-1 ,CA| TVA SPORTS HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3837
-#EXTINF:-1 ,CA| YOOPA HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3850
-#EXTINF:-1 ,CAN| A&E HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3815
-#EXTINF:-1 ,CAN| AMC HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3816
-#EXTINF:-1 ,CAN| BEIN SPORTS CANADA HD**
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3828
-#EXTINF:-1 ,CAN| CANAL D HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3817
-#EXTINF:-1 ,CAN| CANAL VIE HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3818
-#EXTINF:-1 ,CAN| CBC TORONTO HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3851
-#EXTINF:-1 ,CAN| COOKING CHANNEL HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3820
-#EXTINF:-1 ,CAN| CP24 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3821
-#EXTINF:-1 ,CAN| DIY HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3822
-#EXTINF:-1 ,CAN| GLOBAL TORONTO HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3823
-#EXTINF:-1 ,CAN| GLOBAL VANCOUVER HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3824
-#EXTINF:-1 ,CAN| HBO HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3825
-#EXTINF:-1 ,CAN| ICI TELE MONTREAL HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3826
-#EXTINF:-1 ,CAN| SPORTS NET 360 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3838
-#EXTINF:-1 ,CAN| SPORTS NET ONE HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3839
-#EXTINF:-1 ,CAN| SPORTS NET ONTARIO HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3835
-#EXTINF:-1 ,CAN| SPORTS NET WEST HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3836
-#EXTINF:-1 ,CAN| SUPER ECRAN 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3840
-#EXTINF:-1 ,CAN| SUPER ECRAN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3841
-#EXTINF:-1 ,CAN| SUPER ECRAN HD 4
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3842
-#EXTINF:-1 ,CAN| TELEQUEBEC HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3843
-#EXTINF:-1 ,CAN| TRAVEL SCAPE HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3844
-#EXTINF:-1 ,CAN| TSN 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3829
-#EXTINF:-1 ,CAN| TSN 2 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3830
-#EXTINF:-1 ,CAN| TSN 3 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3831
-#EXTINF:-1 ,CAN| TSN 4 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3832
-#EXTINF:-1 ,CAN| TSN 5 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3834
-#EXTINF:-1 ,CAN| TVO  HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3845
-#EXTINF:-1 ,Canada | Crime & Investigation
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3506
-#EXTINF:-1 ,CANADA | Sportsnet One
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/9
-#EXTINF:-1 ,Canada | Super Ecran 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3507
-#EXTINF:-1 ,CANADA | TSN 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/13
-#EXTINF:-1 ,CANADA | TSN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/14
-#EXTINF:-1 ,CANADA | TSN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/15
-#EXTINF:-1 ,CANADA | TSN 4
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/16
-#EXTINF:-1 ,CANADA | TSN 5
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/17
-#EXTINF:-1 ,CARTOONITO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3813
-#EXTINF:-1 ,CHILE : TNT SPORTS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3391
-#EXTINF:-1 ,CHILE | 13I
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/535
-#EXTINF:-1 ,CHILE | 24HORAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/536
-#EXTINF:-1 ,CHILE | CANAL 13
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/537
-#EXTINF:-1 ,CHILE | CDF
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/538
-#EXTINF:-1 ,CHILE | CHILEVISION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/543
-#EXTINF:-1 ,CHILE | ETC TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/544
-#EXTINF:-1 ,CHILE | LA RED
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/546
-#EXTINF:-1 ,CHILE | MEGA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/547
-#EXTINF:-1 ,CHILE | PINGUINO TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2949
-#EXTINF:-1 ,CHILE | RETRO PLUS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3785
-#EXTINF:-1 ,CHILE | RETROPLUS 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3783
-#EXTINF:-1 ,CHILE | TEVEX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3782
-#EXTINF:-1 ,CINE| A ESTRENAR FHD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3699
-#EXTINF:-1 ,CINE| CINEBOX  ANIMATION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3741
-#EXTINF:-1 ,CINE| CINEBOX BLOCKBUSTER
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3742
-#EXTINF:-1 ,CINE| CINEBOX CLASSICS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3743
-#EXTINF:-1 ,CINE| CINEBOX COMEDY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3744
-#EXTINF:-1 ,CINE| CINEBOX CULT
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3745
-#EXTINF:-1 ,CINE| CINEBOX FAMILY
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3746
-#EXTINF:-1 ,CINE| CINEBOX GREATS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3747
-#EXTINF:-1 ,CINE| CINEBOX GREATS 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3748
-#EXTINF:-1 ,CINE| CINEBOX HISTORICAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3749
-#EXTINF:-1 ,CINE| CINEBOX MUSICAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3751
-#EXTINF:-1 ,COL DEP | ESPN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3990
-#EXTINF:-1 ,COL DEP | ESPN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3991
-#EXTINF:-1 ,COL DEP | ESPN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3992
-#EXTINF:-1 ,COL DEP | FOX SPORTS 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3993
-#EXTINF:-1 ,COL DEP | FOX SPORTS 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3994
-#EXTINF:-1 ,COL DEP | FOX SPORTS 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3995
-#EXTINF:-1 ,COLOMBIA | CANAL TRO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3060
-#EXTINF:-1 ,COLOMBIA | CANAL UNO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3059
-#EXTINF:-1 ,COLOMBIA | Caracol
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/62
-#EXTINF:-1 ,COLOMBIA | CARACOL INTERNACIONAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/523
-#EXTINF:-1 ,COLOMBIA | CITY TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/524
-#EXTINF:-1 ,COLOMBIA | NTN24
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/517
-#EXTINF:-1 ,COLOMBIA | RCN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/140
-#EXTINF:-1 ,COLOMBIA | RCN NOVELAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3061
-#EXTINF:-1 ,COLOMBIA | SEÑAL COLOMBIA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3058
-#EXTINF:-1 ,COLOMBIA | TELEANTIOQUIA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/528
-#EXTINF:-1 ,COLOMBIA | TELECARIBE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/530
-#EXTINF:-1 ,COLOMBIA | TELEMEDELLIN
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/532
-#EXTINF:-1 ,COLOMBIA | WINSPORTS PLUS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/984
-#EXTINF:-1 ,COSTA RICA | CANAL 14 TV SUR
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/788
-#EXTINF:-1 ,COSTA RICA | FUTV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1041
-#EXTINF:-1 ,COSTA RICA | REPRETEL 11
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/791
-#EXTINF:-1 ,COSTA RICA | REPRETEL 6
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/792
-#EXTINF:-1 ,COSTA RICA | TELETICA 7
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/793
-#EXTINF:-1 ,COSTA RICA | TELEUNO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/794
-#EXTINF:-1 ,COSTA RICA | TIGO SPORTS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/790
-#EXTINF:-1 ,CUBA | AMERICA TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1323
-#EXTINF:-1 ,CUBA | CUBAVISION INTERNACIONAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1322
-#EXTINF:-1 ,DEP  | Band Sports BRA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3515
-#EXTINF:-1 ,DEP | Bein Sports XTRA Ñ
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3516
-#EXTINF:-1 ,DEP | Claro Sports FHD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3517
-#EXTINF:-1 ,DEP | Premiere 1 HD BRA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3519
-#EXTINF:-1 ,DEP | Premiere 3  BRA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3520
-#EXTINF:-1 ,DEP | Premiere 5 HD BRA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3522
-#EXTINF:-1 ,DEP | SporTV 2 HD BRA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3513
-#EXTINF:-1 ,DEPORTES | ESPN  1  ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3965
-#EXTINF:-1 ,DEPORTES | ESPN  2  ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3966
-#EXTINF:-1 ,DEPORTES | ESPN  3  ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3967
-#EXTINF:-1 ,DEPORTES | ESPN 1 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3968
-#EXTINF:-1 ,DEPORTES | ESPN 2 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3969
-#EXTINF:-1 ,DEPORTES | ESPN 3 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3970
-#EXTINF:-1 ,DEPORTES | Espn Plus ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3971
-#EXTINF:-1 ,DEPORTES | FOX SPORTS  1 ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3972
-#EXTINF:-1 ,DEPORTES | FOX SPORTS  2 ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3973
-#EXTINF:-1 ,DEPORTES | FOX SPORTS  3 ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3974
-#EXTINF:-1 ,DEPORTES | FOX SPORTS 1 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3975
-#EXTINF:-1 ,DEPORTES | FOX SPORTS 2 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3976
-#EXTINF:-1 ,DEPORTES | FOX SPORTS 3 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3977
-#EXTINF:-1 ,DEPORTES HD | ESPN  4 ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3957
-#EXTINF:-1 ,DEPORTES HD | ESPN 1 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3958
-#EXTINF:-1 ,DEPORTES HD | ESPN 2 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3959
-#EXTINF:-1 ,DEPORTES HD | ESPN 3 MX
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3960
-#EXTINF:-1 ,DEPORTES HD | FOX SPORTS  1 ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3961
-#EXTINF:-1 ,DEPORTES HD | FOX SPORTS  2 ARG
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3962
-#EXTINF:-1 ,DEPORTES HD | FOX SPORTS 1 CHI
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3963
-#EXTINF:-1 ,DEPORTES HD | FOX SPORTS 2 CHI
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3964
-#EXTINF:-1 ,DEPORTES HD | FOX SPORTS PREMIUM
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3996
-#EXTINF:-1 ,ECUADOR : EL CANAL DEL FUTBOL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3390
-#EXTINF:-1 ,ECUADOR | CANAL UNO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/507
-#EXTINF:-1 ,ECUADOR | ECUADOR TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/508
-#EXTINF:-1 ,ECUADOR | ECUADOR TV INTERNACIONAL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/509
-#EXTINF:-1 ,ECUADOR | ECUAVISA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/510
-#EXTINF:-1 ,ECUADOR | ECUAVISA Quito
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/511
-#EXTINF:-1 ,ECUADOR | GAMAVISION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/512
-#EXTINF:-1 ,ECUADOR | OROMAR TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/516
-#EXTINF:-1 ,ECUADOR | RST
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/513
-#EXTINF:-1 ,ECUADOR | TC TELEVISION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/514
-#EXTINF:-1 ,ECUADOR | TELEAMAZONAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/515
-#EXTINF:-1 ,EL SALVADOR | CANAL 12
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3062
-#EXTINF:-1 ,EL SALVADOR | CANAL 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3066
-#EXTINF:-1 ,EL SALVADOR | CANAL 4
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3065
-#EXTINF:-1 ,EL SALVADOR | CANAL 6
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3064
-#EXTINF:-1 ,EL SALVADOR | TIGO SPORTS 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3069
-#EXTINF:-1 ,EL SALVADOR | WOW TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3777
-#EXTINF:-1 ,EL SALVADOR | CANAL 21
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3072
-#EXTINF:-1 ,ES | Eurosport 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3480
-#EXTINF:-1 ,ES | Eurosport 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3481
-#EXTINF:-1 ,ESPAÑA : BOING
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3220
-#EXTINF:-1 ,ESPAÑA : DAZN 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3323
-#EXTINF:-1 ,ESPAÑA : DAZN 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3324
-#EXTINF:-1 ,ESPAÑA : DAZN 4
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3325
-#EXTINF:-1 ,ESPAÑA : DAZN FORMULA 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3326
-#EXTINF:-1 ,ESPAÑA | TOROS TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1044
-#EXTINF:-1 ,ESPAÑA | REAL MADRID TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/2974
-#EXTINF:-1 ,ESTRELA TV (2 Horas)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3760
-#EXTINF:-1 ,FUBO SPORTS NETWORK
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3589
-#EXTINF:-1 ,GALAVISION ALBUQUERQUE(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1362
-#EXTINF:-1 ,GALAVISION ATLANTA(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1363
-#EXTINF:-1 ,GALAVISION AUSTIN(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1364
-#EXTINF:-1 ,GALAVISION DALLAS(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1366
-#EXTINF:-1 ,GALAVISION EAST(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1367
-#EXTINF:-1 ,GALAVISION FRESNO(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1368
-#EXTINF:-1 ,GALAVISION LA(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1370
-#EXTINF:-1 ,GALAVISION MIAMI(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1372
-#EXTINF:-1 ,GALAVISION PHOENIX(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1375
-#EXTINF:-1 ,GALAVISION SACRAMENTO(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1377
-#EXTINF:-1 ,GALAVISION SALTLAKE(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1378
-#EXTINF:-1 ,GALAVISION SAN ANTONIO(W)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1379
-#EXTINF:-1 ,GUATEMALA | CANAL 3
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3303
-#EXTINF:-1 ,GUATEMALA | CANAL 7
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3302
-#EXTINF:-1 ,GUATEMALA | CANAL 11
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3305
-#EXTINF:-1 ,GUATEMALA | GUATEVISION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3301
-#EXTINF:-1 ,HD HN | TIGO SPORTS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4094
-#EXTINF:-1 ,HOND|  TVC HONDURAS HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4078
-#EXTINF:-1 ,HOND| AZTECA HONDURAS HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4080
-#EXTINF:-1 ,HOND| CAMPUS TV HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4081
-#EXTINF:-1 ,HOND| CANAL 23 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4082
-#EXTINF:-1 ,HOND| D TELEVISION HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4083
-#EXTINF:-1 ,HOND| EBENEZER TV  HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4084
-#EXTINF:-1 ,HOND| GLOBO TV HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4085
-#EXTINF:-1 ,HOND| RTV HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4087
-#EXTINF:-1 ,HOND| SITV Q'HUBO HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4088
-#EXTINF:-1 ,HOND| TDT PLUS HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4089
-#EXTINF:-1 ,HOND| TELECADENA HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4090
-#EXTINF:-1 ,HOND| TELECEIBA HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4091
-#EXTINF:-1 ,HOND| TELEPROGRESO HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4092
-#EXTINF:-1 ,HOND| TEN CANAL 10 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4093
-#EXTINF:-1 ,HOND| TODO DEPORTES HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4095
-#EXTINF:-1 ,HOND| UNE TV HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4096
-#EXTINF:-1 ,HOND| VICA TV HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4097
-#EXTINF:-1 ,HONDURAS | CANAL 11
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3296
-#EXTINF:-1 ,HONDURAS | CANAL 5
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3294
-#EXTINF:-1 ,HONDURAS | CANAL 6
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3295
-#EXTINF:-1 ,HONDURAS | HCH
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3297
-#EXTINF:-1 ,HONDURAS | QHUBO TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3774
-#EXTINF:-1 ,HONDURAS | TSI
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3298
-#EXTINF:-1 ,INFANTIL CANAL PANDA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3404
-#EXTINF:-1 ,INFANTIL ULTRA FAMILIA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3402
-#EXTINF:-1 ,INFANTIL ULTRA KIDS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3403
-#EXTINF:-1 ,KIDS | PEQUERADIO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3464
-#EXTINF:-1 ,KIDS USA | 3ABN KIDS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3786
-#EXTINF:-1 ,KIDS USA | Duck TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3338
-#EXTINF:-1 ,KIDS USA | HappyKids Junior
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3339
-#EXTINF:-1 ,KIDS USA | LEGO CHANNEL
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3340
-#EXTINF:-1 ,KIDS USA | PBS Kids (Florida)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3343
-#EXTINF:-1 ,KIDS USA | TVS Hi Tops
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3350
-#EXTINF:-1 ,KIDS USA | PBS Kids (KETKY)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3341
-#EXTINF:-1 ,KIDS USA | Rotana Kids
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3345
-#EXTINF:-1 ,KIDS USA | Spacetoon
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3347
-#EXTINF:-1 ,KIDS USA | TVS Pinball Network
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3351
-#EXTINF:-1 ,KIDS USA | Watch It Kid
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3352
-#EXTINF:-1 ,KIDS USA | Zoo Moo (Australia)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3354
-#EXTINF:-1 ,LA LIGA : BARCA TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3292
-#EXTINF:-1 ,LA LIGA : M. LA LIGA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3321
-#EXTINF:-1 ,LAS ESTRELLAS  (2 HORAS)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3758
-#EXTINF:-1 ,LAT USA | Unimas Atlanta HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4185
-#EXTINF:-1 ,LAT USA | Unimas Dallas
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4186
-#EXTINF:-1 ,LAT USA | Unimas Houston
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4187
-#EXTINF:-1 ,LAT USA | Unimas Los Angeles
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4188
-#EXTINF:-1 ,LAT USA | Unimas Miami
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4189
-#EXTINF:-1 ,LAT USA | Unimas New York
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4190
-#EXTINF:-1 ,LAT USA | UNIVISION ATLANTA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4192
-#EXTINF:-1 ,LAT USA | UNIVISION CHICAGO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4193
-#EXTINF:-1 ,LAT USA | UNIVISION COLORADO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4194
-#EXTINF:-1 ,LAT USA | UNIVISION DALLAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4195
-#EXTINF:-1 ,LAT USA | UNIVISION HOUSTON
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4196
-#EXTINF:-1 ,LAT USA | UNIVISION LA HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4197
-#EXTINF:-1 ,LAT USA | UNIVISION MIAMI
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4198
-#EXTINF:-1 ,LAT USA | UNIVISION MIAMI Opc2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4199
-#EXTINF:-1 ,LAT USA | UNIVISION NY HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4200
-#EXTINF:-1 ,LAT USA | Univision Puerto Rico
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4201
-#EXTINF:-1 ,LAT USA | UNIVISION SALT LAKE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4202
-#EXTINF:-1 ,LAT USA | UNIVISION SAN FRANCISCO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4203
-#EXTINF:-1 ,LAT USA | UNIVISION TELENOVELAS HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4204
-#EXTINF:-1 ,LAT USA | UNIVISION WASHINGTON
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4205
 #EXTINF:-1 ,LAT| TELEMNDO MCALLEN TX *
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/4156
 #EXTINF:-1 ,LAT| TELEMUNDO  BOSTON HD
@@ -1464,135 +656,3 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3706
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3707
 #EXTINF:-1 ,NETFLIX LATINO 9 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3708
-#EXTINF:-1 ,NICARAGUA | CANAL 10
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3316
-#EXTINF:-1 ,NICARAGUA | CANAL 13
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3318
-#EXTINF:-1 ,NICARAGUA | CANAL 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3313
-#EXTINF:-1 ,NICARAGUA | CANAL 6
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3314
-#EXTINF:-1 ,NOTICIAS | ESTRELLA NEWS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3807
-#EXTINF:-1 ,PANAMA | SER TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/837
-#EXTINF:-1 ,PANAMA | TELEMETRO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/838
-#EXTINF:-1 ,PERO | TV PERU NOTICIAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/469
-#EXTINF:-1 ,PERU | America TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/459
-#EXTINF:-1 ,PERU | AMERICA TV 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3997
-#EXTINF:-1 ,PERU | AMERICA TV SD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3998
-#EXTINF:-1 ,PERU | AMERICA TV SD 1
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3999
-#EXTINF:-1 ,PERU | ANTARES TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/980
-#EXTINF:-1 ,PERU | ATV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/460
-#EXTINF:-1 ,PERU | ATV PLUS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/472
-#EXTINF:-1 ,PERU | BHTV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/979
-#EXTINF:-1 ,PERU | CANAL IPE
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/470
-#EXTINF:-1 ,PERU | CANAL N
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1117
-#EXTINF:-1 ,PERU | CULTURA 24
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/982
-#EXTINF:-1 ,PERU | Direc tv Sports
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3219
-#EXTINF:-1 ,PERU | GOL PERU
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/463
-#EXTINF:-1 ,PERU | LATINA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/461
-#EXTINF:-1 ,PERU | MOVISTAR DEPORTES
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/464
-#EXTINF:-1 ,PERU | PANAMERICANA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/462
-#EXTINF:-1 ,PERU | PERU MAGICO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/466
-#EXTINF:-1 ,PERU | RPP
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/1196
-#EXTINF:-1 ,PERU | TV PERU
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/468
-#EXTINF:-1 ,PERU | WILLAX TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/473
-#EXTINF:-1 ,PUERTO RICO | MEGA TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/180
-#EXTINF:-1 ,PUERTO RICO | T3L3MUNDO PR
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3280
-#EXTINF:-1 ,PUERTO RICO | Univision
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/182
-#EXTINF:-1 ,PUERTO RICO | WAPA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/183
-#EXTINF:-1 ,PUERTO RICO | WIPR
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/185
-#EXTINF:-1 ,RD | DAN TV (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3383
-#EXTINF:-1 ,RD | HM (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3381
-#EXTINF:-1 ,RD | PH (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3375
-#EXTINF:-1 ,RD | RNN (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3373
-#EXTINF:-1 ,RD | SiTV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3370
-#EXTINF:-1 ,RD | TVS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3358
-#EXTINF:-1 ,RD | LVM 480
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3380
-#EXTINF:-1 ,RD | Microvision
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3379
-#EXTINF:-1 ,RD | Microvision 10 (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3378
-#EXTINF:-1 ,RD | Ready TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3374
-#EXTINF:-1 ,RD | Telecanal 28 (360p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3367
-#EXTINF:-1 ,RD | Telenord 12 (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3363
-#EXTINF:-1 ,RD | Telenord 8 (1080p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3362
-#EXTINF:-1 ,RD | Teleunion (480p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3361
-#EXTINF:-1 ,RD | Vallevision 720
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3357
-#EXTINF:-1 ,RD | Zol106 (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3356
-#EXTINF:-1 ,RELIGIOSO | ALIENTO VISION
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/941
-#EXTINF:-1 ,RELIGIOSO | CANAL DIOCESANO
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/949
-#EXTINF:-1 ,RELIGIOSO | ESPERANZA TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/936
-#EXTINF:-1 ,RELIGIOSO | JRES TV
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/946
-#EXTINF:-1 ,RELIGIOSO | LA VOZ DE MARIA
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/945
-#EXTINF:-1 ,RETRO PLUS 2
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3784
-#EXTINF:-1 ,Soccer 02 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3440
-#EXTINF:-1 ,Soccer 03 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3441
-#EXTINF:-1 ,Soccer 04 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3442
-#EXTINF:-1 ,Soccer 05 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3443
-#EXTINF:-1 ,Soccer 06 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3444
-#EXTINF:-1 ,Soccer 07 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3445
-#EXTINF:-1 ,Soccer 08 -
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3446
-#EXTINF:-1 ,SONY COMEDIAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3565
-#EXTINF:-1 ,SONY NOVELAS
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3564
-#EXTINF:-1 ,Spectrum Sportsnet LA Dodgers
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3407
-#EXTINF:-1 ,Telemilenio (720p)
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3364
