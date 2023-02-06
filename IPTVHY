@@ -55,6 +55,12 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/945
 #EXTINF:-1 ,RETRO PLUS 2
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3784
 
+#EXTINF:-1 group-title="PERU",MOVISTAR PLUS
+http://flash.shortgod.com/god291/tv5.php?id=40374
+#EXTINF:-1 group-title="PERU",LATINA
+http://flash.shortgod.com/god291/tv5.php?id=40375
+#EXTINF:-1 group-title="PERU",ATV +
+http://flash.shortgod.com/god291/tv5.php?id=40377
 
 #EXTINF:-1 ,LATINO | 35PN
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3041
