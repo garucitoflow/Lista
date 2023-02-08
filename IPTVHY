@@ -16,11 +16,11 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/980
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/460
 #EXTINF:-1 ,PERU | ATV PLUS
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/472
-#EXTINF:-1 tvg-id="PERU | ATV IPTVHY" tvg-name="PERU | ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",PERU | ATV IPTVHY
+#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",PERU | ATV IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="PERU | ATV PLUS IPTVHY" tvg-name="PERU | ATV PLUS IPTVHY" tvg-logo="https://i.imgur.com/bGt2LdE.png" group-title="NOTICIAS",PERU | ATV PLUS IPTVHY
+#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV PLUS IPTVHY" tvg-logo="https://i.imgur.com/bGt2LdE.png" group-title="NOTICIAS",PERU | ATV PLUS IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 tvg-id="PERU | ATV SUR IPTVHY" tvg-name="PERU | ATV SUR IPTVHY" tvg-logo="https://i.imgur.com/OsMrVfe.png" group-title="NOTICIAS",PERU | ATV SUR IPTVHY
+#EXTINF:-1 tvg-id="" tvg-name="PERU | ATV SUR IPTVHY" tvg-logo="https://i.imgur.com/OsMrVfe.png" group-title="NOTICIAS",PERU | ATV SUR IPTVHY
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 ,PERU | BHTV
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/979
