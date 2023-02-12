@@ -567,22 +567,27 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3151
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3149
 #EXTINF:-1 ,LATINO FHD : HBO SIGNATURE
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3150
-#EXTINF:-1 ,LATINO FHD : HBO XTREME
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3152
 
 
-#EXTINF:-1 ,NETFLIX LATINO 1 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3700
-#EXTINF:-1 ,NETFLIX LATINO 10 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3709
-#EXTINF:-1 ,NETFLIX LATINO 11 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3710
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" NOEE="24/7" group-title="Lista 1", Alf 24/7
+http://bgapp.live/play/14--226.php?c=426&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" NOEE="24/7" group-title="Lista 1", Bleach 24/7 
+http://bgapp.live/play/14--226.php?c=883&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" NOEE="24/7" group-title="Lista 1", Bob Esponja 24/7
+http://bgapp.live/play/14--226.php?c=518&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" NOEE="24/7" group-title="Lista 1", Cantinflas 24/7
+http://bgapp.live/play/14--226.php?c=428&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" NOEE="24/7" group-title="Lista 1", Chapulin Colorado 24/7
+http://bgapp.live/play/14--226.php?c=418&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" NOEE="24/7" group-title="Lista 1", Chespirito 24/7
+http://bgapp.live/play/14--226.php?c=417&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
+
+
+
 #EXTINF:-1 ,NETFLIX LATINO 12 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3711
-#EXTINF:-1 ,NETFLIX LATINO 13 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3712
-#EXTINF:-1 ,NETFLIX LATINO 14 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3713
 #EXTINF:-1 ,NETFLIX LATINO 15 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3714
 #EXTINF:-1 ,NETFLIX LATINO 16 HD
@@ -591,35 +596,11 @@ http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3715
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3716
 #EXTINF:-1 ,NETFLIX LATINO 18 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3717
-#EXTINF:-1 ,NETFLIX LATINO 19 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3718
-#EXTINF:-1 ,NETFLIX LATINO 2 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3701
 #EXTINF:-1 ,NETFLIX LATINO 20 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3719
 #EXTINF:-1 ,NETFLIX LATINO 21 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3720
 #EXTINF:-1 ,NETFLIX LATINO 22 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3721
-#EXTINF:-1 ,NETFLIX LATINO 23 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3722
-#EXTINF:-1 ,NETFLIX LATINO 24 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3723
-#EXTINF:-1 ,NETFLIX LATINO 25 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3724
-#EXTINF:-1 ,NETFLIX LATINO 26 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3725
-#EXTINF:-1 ,NETFLIX LATINO 3 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3702
-#EXTINF:-1 ,NETFLIX LATINO 4 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3703
-#EXTINF:-1 ,NETFLIX LATINO 5 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3704
-#EXTINF:-1 ,NETFLIX LATINO 6 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3705
-#EXTINF:-1 ,NETFLIX LATINO 7 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3706
-#EXTINF:-1 ,NETFLIX LATINO 8 HD
-http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3707
 #EXTINF:-1 ,NETFLIX LATINO 9 HD
 http://51.222.25.50:25461/m0nk3ynew/sMbK7mENr5/3708
