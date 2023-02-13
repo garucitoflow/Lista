@@ -585,94 +585,46 @@ http://bgapp.live/play/14--226.php?c=418&dir=blackghostghjost&f=.m3u8|user-agent
 http://bgapp.live/play/14--226.php?c=417&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" NOEE="24/7" group-title="Lista 1", Dinosaurios 24/7
 http://bgapp.live/play/14--226.php?c=670&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" NOEE="24/7" group-title="Lista 1", Doraemon 24/7
-http://bgapp.live/play/14--226.php?c=521&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" NOEE="24/7" group-title="Lista 1", Dragon Ball 24/7
 http://bgapp.live/play/14--226.php?c=425&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" NOEE="24/7" group-title="Lista 1", Dragon Ball GT 24/7
 http://bgapp.live/play/14--226.php?c=520&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" NOEE="24/7" group-title="Lista 1", Dragon Ball Super 24/7
 http://bgapp.live/play/14--226.php?c=424&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" NOEE="24/7" group-title="Lista 1", Dragon Ball Z 24/7
-http://bgapp.live/play/14--226.php?c=329&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" NOEE="24/7" group-title="Lista 1", El Chavo Animado 24/7
-http://bgapp.live/play/14--226.php?c=790&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" NOEE="24/7" group-title="Lista 1", El Chavo del 8 24/7
 http://bgapp.live/play/14--226.php?c=400&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" NOEE="24/7" group-title="Lista 1", El Coyote y el Correcaminos 24/7
-http://bgapp.live/play/14--226.php?c=429&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" NOEE="Entretenimiento" group-title="Lista 1", El Gallo Claudio 24/7
 http://bgapp.live/play/14--226.php?c=845&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" NOEE="24/7" group-title="Lista 1", El Pajaro Loco 24/7
-http://bgapp.live/play/14--226.php?c=525&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" NOEE="24/7" group-title="Lista 1", El Principel del Rap 24/7
 http://bgapp.live/play/14--226.php?c=430&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" NOEE="Entretenimiento" group-title="Lista 1", El Señor de los Cielos 24/7
-http://bgapp.live/play/14--226.php?c=820&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" NOEE="24/7" group-title="Lista 1", Game of Thrones 24/7
 http://bgapp.live/play/14--226.php?c=515&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="" NOEE="Entretenimiento" group-title="Lista 1", Garfield 24/7
 http://bgapp.live/play/14--226.php?c=812&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" NOEE="24/7" group-title="Lista 1", Naruto 24/7
 http://bgapp.live/play/14--226.php?c=523&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" NOEE="24/7" group-title="Lista 1", Johnny Bravo 24/7
-http://bgapp.live/play/14--226.php?c=786&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" NOEE="Musica" group-title="Lista 1", Juce TV
-http://bgapp.live/play/14--226.php?c=263&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="" NOEE="24/7" group-title="Lista 1", La Casa de Papel 24/7
-http://bgapp.live/play/14--226.php?c=403&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="" NOEE="Entretenimiento" group-title="Lista 1", La Familia PeLuche 24/7
-http://bgapp.live/play/14--226.php?c=811&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" NOEE="24/7" group-title="Lista 1", La Hora Pico 24/7
-http://bgapp.live/play/14--226.php?c=887&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" NOEE="24/7" group-title="Lista 1", La Pantera Rosa 24/7
 http://bgapp.live/play/14--226.php?c=671&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" NOEE="24/7" group-title="Lista 1", La Pequeña Lulu 24/7
-http://bgapp.live/play/14--226.php?c=792&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" NOEE="24/7" group-title="Lista 1", La Rosa de Guadalupe 24/7
 http://bgapp.live/play/14--226.php?c=886&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" NOEE="España" group-title="Lista 1", La Sexta
-http://bgapp.live/play/14--226.php?c=326&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" NOEE="Entretenimiento" group-title="Lista 1", La Vaca y ElPollito 24/7
-http://bgapp.live/play/14--226.php?c=809&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" NOEE="24/7" group-title="Lista 1", Le Temes a la Oscuridad 24/7
 http://bgapp.live/play/14--226.php?c=888&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" NOEE="24/7" group-title="Lista 1", Looney Tunes 24/7
 http://bgapp.live/play/14--226.php?c=524&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" NOEE="24/7" group-title="Lista 1", Los 3 Chiflados 24/7
-http://bgapp.live/play/14--226.php?c=423&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" NOEE="Entretenimiento" group-title="Lista 1", Los Años Maravillosos 24/7
 http://bgapp.live/play/14--226.php?c=810&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" NOEE="Entretenimiento" group-title="Lista 1", Los Padrinos Magicos 24/7
-http://bgapp.live/play/14--226.php?c=813&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" NOEE="24/7" group-title="Lista 1", Los Picapiedra 24/7
 http://bgapp.live/play/14--226.php?c=669&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" NOEE="24/7" group-title="Lista 1", Los Pinguinos de Madagascar 24/7
-http://bgapp.live/play/14--226.php?c=794&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" NOEE="24/7" group-title="Lista 1", Los Pitufos 24/7
-http://bgapp.live/play/14--226.php?c=795&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" NOEE="24/7" group-title="Lista 1", Los Reyes de la Colina 24/7
-http://bgapp.live/play/14--226.php?c=796&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" NOEE="24/7" group-title="Lista 1", Los Simpson 24/7
 http://bgapp.live/play/14--226.php?c=357&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" NOEE="24/7" group-title="Lista 1", Los Supersonicos 24/7
-http://bgapp.live/play/14--226.php?c=797&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" NOEE="Entretenimiento" group-title="Lista 1", Los Vengadores Unidos 24/7
-http://bgapp.live/play/14--226.php?c=818&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" NOEE="24/7" group-title="Lista 1", One Punch Man 24/7
 http://bgapp.live/play/14--226.php?c=661&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" NOEE="24/7" group-title="Lista 1", Padre de Familia 24/7
-http://bgapp.live/play/14--226.php?c=416&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" NOEE="24/7" group-title="Lista 1", Peppa Pig 24/7
 http://bgapp.live/play/14--226.php?c=787&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" NOEE="24/7" group-title="Lista 1", Pinky y Cerebro 24/7
 http://bgapp.live/play/14--226.php?c=721&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" NOEE="24/7" group-title="Lista 1", Pocoyo 24/7
-http://bgapp.live/play/14--226.php?c=799&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" NOEE="24/7" group-title="Lista 1", Pokemon 24/7
 http://bgapp.live/play/14--226.php?c=420&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" NOEE="24/7" group-title="Lista 1", Prison Break 24/7
-http://bgapp.live/play/14--226.php?c=884&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" NOEE="24/7" group-title="Lista 1", Ranma 1/2 24/7
 http://bgapp.live/play/14--226.php?c=419&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" NOEE="24/7" group-title="Lista 1", Sakura Card Captor 24/7
@@ -683,15 +635,13 @@ http://bgapp.live/play/14--226.php?c=663&dir=blackghostghjost&f=.m3u8|user-agent
 http://bgapp.live/play/14--226.php?c=422&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" NOEE="24/7" group-title="Lista 1", Smallville 24/7
 http://bgapp.live/play/14--226.php?c=673&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" NOEE="24/7" group-title="Lista 1", South Park 24/7
-http://bgapp.live/play/14--226.php?c=674&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" NOEE="24/7" group-title="Lista 1", Spiderman 24/7
 http://bgapp.live/play/14--226.php?c=889&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" NOEE="24/7" group-title="Lista 1", Tom y Jerry 24/7
 http://bgapp.live/play/14--226.php?c=421&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" NOEE="24/7" group-title="Lista 1", TrollHunters 24/7
 http://bgapp.live/play/14--226.php?c=662&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" NOEE="24/7" group-title="Lista 1", Two And a Half Men 24/7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" NOEE="24/7" group-title="Lista 1", Dos Hombres y Medio 24/7
 http://bgapp.live/play/14--226.php?c=675&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" NOEE="Deportes" group-title="Lista 1", Win Sports
 http://bgapp.live/play/14--226.php?c=292&dir=blackghostghjost&f=.m3u8|user-agent=Lavf/57.71.001 
