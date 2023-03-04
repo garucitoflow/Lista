@@ -1,5 +1,63 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",GATO CON BOTAS EL ULTIMO DESEO
+https://dl.dropboxusercontent.com/s/mqta00edz3ylprv/Gato_con_botas_El_ultimo_deseo_2022_Espanol_1080p.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",13 VIDAS SUBT
+http://51.81.208.167/pelis2022/13.lives.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",365 DIAS PART3
+http://51.81.208.167/pelis2022/365.Days.Part.III.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",365 DIAS AQUEL DIA
+http://51.81.208.167/pelis2022/365.dias.Aquel.dia.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",ASEDIO AMERICANO
+http://51.81.208.167/pelis2022/American.Siege.2022.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",AQUA TEEN FOREVER
+http://51.81.208.167/pelis2022/Aqua.Teen.Forever.Plantasm.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",AVATAR 2
+http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",BATMAN VS SUPERMAN, LA BATALLA DE LOS SUPER HIJOS
+http://51.81.208.167/pelis2022/Batman.y.Superman.La.batalla.de.los.Super.hijos.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",BESTIA
+http://51.81.208.167/pelis2022/Beast.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",BLACK ADAM
+http://51.81.208.167/pelis2022/Black.Adam.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",BOBS BURGUER LA PELICULA
+http://51.81.208.167/pelis2022/Bobs.Burgers.The.Movie.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",CARTER
+http://51.81.208.167/pelis2022/Carter.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",CONFEST FLETCH
+http://51.81.208.167/pelis2022/Confess.Fletch.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",COLISION
+http://51.81.208.167/pelis2022/Collision.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",CONSPIRACION EXPLOSIVA
+http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",DOCTOR STRANGUE EN EL MULTIVERSO
+http://51.81.208.167/pelis2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.1080p.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",EL NORTE SOBRE EL VACIO
+http://51.81.208.167/pelis2022/El.norte.sobre.el.vacio.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",HALLOWENS ENDS
+http://51.81.208.167/pelis2022/Halloween.Ends.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",HOTEL TRANSILVANIA TRANSFORMANIA
+http://51.81.208.167/pelis2022/Hotel.Transylvania.Transformania.2022.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",LA LLORONA
+http://51.81.208.167/pelis2022/La.Llorona.2022.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",LA CIMA
+http://51.81.208.167/pelis2022/La.cima.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",MINIONS THE RISE OF GRU
+http://51.81.208.167/pelis2022/Minions.The.Rise.of.Gru.2022.1080p.mkv
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",PINOCCIO
+http://51.81.208.167/pelis2022/Pinocchio.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",QUE DESPADRE
+http://51.81.208.167/pelis2022/QuE.despadre.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",SIN RESPIRO
+http://51.81.208.167/pelis2022/Sin.Respiro.2022.1080p-dual-lat.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",BATMAN
+http://51.81.208.167/pelis2022/The.Batman.2022.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",THE STRANGER
+http://51.81.208.167/pelis2022/The.Stranger.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",TOP GUN 2
+http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",QUE DESPADRE
+
 #EXTINF:-1 tvg-logo="https://imgur.com/9OsqqFe.png" group-title="PELÍCULAS", La Ballena
 http://clubtv.link/2700feb/top4620/movies.php?c=laballena
 #EXTINF:-1 tvg-logo="https://imgur.com/g4dLs52.png" group-title="PELÍCULAS", Quantunmania
