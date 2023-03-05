@@ -1,28 +1,211 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.pinclipart.com/picdir/middle/21-214492_el-chavo-animado-chavo-logo-clipart.png",24/7 EL CHAVO DEL OCHO
-http://50.7.66.234:8080/moontools/6548@89787/18576
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",GARFIELD
-http://50.7.66.234:8080/moontools/6548@89787/18577
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.logolynx.com/images/logolynx/54/54e01fe6a80adf73f2e3d02dca230f15.jpeg",DRAGON BALL SUPER
-http://50.7.66.234:8080/moontools/6548@89787/29406
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="http://pngimg.com/uploads/futurama/futurama_PNG26.png",FUTURAMA
-http://50.7.66.234:8080/moontools/6548@89787/29407
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.pinclipart.com/picdir/middle/338-3385747_shauna-roe-looney-tunes-the-bugs-bunny-looney.png",LOONEY TUNES
-http://50.7.66.234:8080/moontools/6548@89787/29409
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/thumb-los-simpson_unve.jpg",LOS SIMPSON HD
-http://50.7.66.234:8080/moontools/6548@89787/29412
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",DRAGON BALL GT
-http://50.7.66.234:8080/moontools/6548@89787/44344
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",ALF
-http://50.7.66.234:8080/moontools/6548@89787/44721
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",QUE HAY DE NUEVO SCOOBY DOO
-http://50.7.66.234:8080/moontools/6548@89787/44723
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",CINEMA MARVEL
-http://50.7.66.234:8080/moontools/6548@89787/44728
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",MALCOM
-http://50.7.66.234:8080/moontools/6548@89787/44818
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",TOM Y JERRY
-http://50.7.66.234:8080/moontools/6548@89787/46490
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="",THE BIG BANG THEORY
-http://50.7.66.234:8080/moontools/6548@89787/46491
+
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/893f53c159eab9178ab181bad8da4262.png",24/7 Alf (e)(SD)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169475
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/e6f35393a4f3dccdde1b4e1c531e3fa8.png",24/7 VIP | Bob Esponja (e)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169488
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/d2104d9a64b64aa0170fde19b138130f.png",24/7 VIP | El Chavo del 8 (e)(SD)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169534
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/fde7d760a14ef79cccc85db1bbe2e0b3.png",24/7  Looney Tunes (e)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169578
+#EXTINF:-1 group-title="24/7 - Retro" tvg-logo="http://castlempire.site:8080/images/044a7bc3042539784ff027b08d381d26.png",24/7 Los Locos Addams SD
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169584
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/a1807277b2733f6a750eb46eaf09f6c2.png",24/7 VIP | Malcolm in the Middle (e)(720)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169596
+#EXTINF:-1 group-title="24/7 - Anime" tvg-logo="http://castlempire.site:8080/images/f35e9058d7ff962e9d33eddd5d2a8a23.png",24/7 Super Campeones (e)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169644
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/442790c49402040e5e663eaaa4ed1e7e.jpg",24/7 |  Billy y Mandy (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169414
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/da57d49743f5b7a406557771aa4ccdcf.jpg",24/7 |  |  Teen Titans Go
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169430
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054",24/7 | Ben 10
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169431
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/e5405a2debcab5bdac18cc065fb0b6a1.jpg",24/7 | Better Call Saul (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169385
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/d81653000babe2020c4f601c80bb4152.jpg",24/7 | Cantiflas
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169408
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/2999fc3bf0ce758ad5294f9f6c2c663a.jpg",24/7 | CANTINFLAS (M)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169418
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/f7b0e831da4d6e555505fa32253aa9b0.jpeg",24/7 | chernobyl (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169363
+#EXTINF:-1 group-title="24/7 - Retro" tvg-logo="http://castlempire.site:8080/images/2c4a3b93f063617b3a3b76bb0e6786c7.jpg",24/7 | Chespirito
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169356
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/6501b707dcc2e94a8fb1d272b1ad6686.jpg",24/7 | Curon
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169398
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/6ae2a0f63caacc746b65417dcefefa47.jpg",la exploradora
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169411
+#EXTINF:-1 group-title="24/7 - Anime" tvg-logo="http://castlempire.site:8080/images/70c45de084040aacb00363a31a6a10ec.jpg",24/7 | Dragon Ball Super
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169424
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4e/PosterChapulinAnimado.jpg/revision/latest/top-crop/width/360/height/450?cb=20160104002357&path-prefix=es",24/7 | El Chapulin Colorado Animado (p)(480)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169457
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/07cb310963de9138534587c8ae1d0235.jpg",24/7 | El cuento de la criada
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169396
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/590f745755324c6f25bdccc673d66a24.jpg",24/7 | El Principel del Rap
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169378
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/fd7190440915007dea1fe05da5ea5f6b.jpg",24/7 | El proyecto Z
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169452
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/4d4e4d6c21de6e8b470c0df620ec83f2.jpg",24/7 | Games of Thrones
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169379
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/f403d8f3fcefb959c531fa1ffb2ae895.jpg",24/7 | Garfield
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169434
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/ae3509b47fce94fc6b578be38413cf40.jpg",24/7 | Garfield Y Amigos
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169410
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/f61cc9e9e338a156e09290af53172797.jpg",24/7 | Gravity Falls (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169455
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/25e217d236665765bbe868f6611db3e3.jpg",24/7 | Hannah Montana
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169401
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/0d21c9528af5ce30b026257ea410cbde.png",24/7 | Harry Potter
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169362
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/5889dc015a2b9ae0a10f7935a7f23aac.jpg",24/7 | Historia de un crimen: La búsqueda
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169407
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/434ef0b512534a43876f24342e606143.jpg",24/7 | Hollywood
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169405
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Icarly-logo.svg/245px-Icarly-logo.svg.png",24/7 | iCarly ( ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169394
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/36fa774e2070c58cdc2ddb03d8645356.jpg",24/7 | Infantiles
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169441
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/79d27248b3275d671b782c22c472a781.jpg",24/7 | Into the Badlands
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169403
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/3e72bbe56b74a9417f47bdd3b70fdbd6.jpg",24/7 | JOHN WICK
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169369
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/ff6b418f1e44caf6a5171bb2ed79d8d1.jpg",24/7 | JURASSIC PARK
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169374
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/cb742cd6a2780b2bb50277700f813455.jpg",24/7 | Kenan & Kel
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169400
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/1ff5fcbb9045387ad164e7d1abd31baa.jpg",24/7 | La familia P. Luche
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169392
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/123a8df618b4d588fe193dea62696fc2.jpg",24/7 | La Pequeña LuLu
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169432
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/3d70481e4595d5cf8d2d73c954ef5aa6.jpg",24/7 | Los 4 Fantásticos
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169453
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/6e16be29bc81ecd245cd1bb5b497027c.png",24/7 | Los magos de Waverly Place
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169395
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://pics.filmaffinity.com/moville_mysteries_tv_series-293137444-large.jpg",24/7 | Los misterios de Moville
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169413
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/bc62729c9c9ae2470692ed1ad7366282.png",24/7 | Los originales
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169372
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/2e2d46b05f40807cc4780bac030ea36f.jpg",24/7 | Los padrinos mágicos
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169415
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg",24/7 | Los Picapiedra
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169427
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://image.tmdb.org/t/p/w185/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg",24/7 | Los Picapiedra
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169443
+#EXTINF:-1 group-title="24/7 - Cartoons" tvg-logo="http://castlempire.site:8080/images/274f0be92da0877f8d3c84e51336c7e8.jpg",24/7 | Los Pinguinos de madagascar
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169358
+#EXTINF:-1 group-title="24/7 PRIME Familiares-Kids" tvg-logo="http://castlempire.site:8080/images/ab6c0105d77b4475517315321747f389.jpg",24/7 | Malcolm in the Middle
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169359
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/5e0c21c1d603a0b48a25b8ec6cdacfb5.jpg",24/7 | MATRIX (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169365
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/6986dc1faf20c88663d84ca355b7b70b.jpg",24/7 | Películas de acción
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169391
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/bc352817985a45b7f73f106f533024c1.jpg",24/7 | Películas de animación
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169352
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/0c621eb2154e71138d8141b0eefaa1b3.jpg",24/7 | Películas de Terror
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169390
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg",24/7 | Peppa Pig
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169409
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/795f30aae2628776fc6bb2c7a3d3695a.jpg",24/7 | Ranma 1/2
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169445
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/66f041e16a60928b05a7e228a89c3799.jpg",24/7 | RAPIDOS Y FURIOSOS
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169366
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="https://underbrain.com/wp-content/uploads/resident-evil-saga.jpg",24/7 | RESIDENT EVIL (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169383
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/86659226031ad02f8b3be90b0767c177.jpg",24/7 | Saga Transformers (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169389
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/5d3cda7c9b25a44fef818c12531935f1.jpg",24/7 | Saga X-MEN
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169375
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="https://pics.filmaffinity.com/Sam_y_Cat_Serie_de_TV-103961529-large.jpg",24/7 | Sam y Cat
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169399
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/cba3aeba3aed80dbadca36b14cbc38f7.jpg",24/7 | SAW (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169368
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/67347b992feb224409d3090e7a84a752.jpg",24/7 | Scooby-Doo (p)(1080)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169426
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/67bc58e40eded44b2670ea67813e0d96.jpg",24/7 | SHREK
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169370
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/49f8d8e83f0ccf32ce3b2999094e25c7.jpg",24/7 | Smallville
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169381
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/21534892f7680e9a79a06848211e7e67.jpg",24/7 | SPARTACUS
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169367
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/8a7d9df84dc0765e21bd5b34e5f0df6f.jpg",24/7 | Spider-Man  (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169386
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/6b3772cf3e3ef70b16a14491bd8a909c.jpg",24/7 | STAR WARZ (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169387
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/ac79c62e8594073bda44e83990e2d9ad.jpg",24/7 | Static Shock
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169454
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/d5af3c125bbbc1f9eaecbbd58a5b0d5c.jpg",24/7 | Stranger Things
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169402
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/665a7bb0538500ce37544d55ecb9a412.jpg",24/7 | Street Sharks
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169451
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/3514455ff8a62d1815d3586614ac6615.jpg",24/7 | The Avengers (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169364
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/1a290349294683dc2dc4879e2ca13b3d.jpg",24/7 | The Big Bang Theory
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169361
+#EXTINF:-1 group-title="24/7 - Peliculas" tvg-logo="http://castlempire.site:8080/images/ad682e5db7678b6f8176f57a7387dc2d.jpg",24/7 | The Hangover (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169355
+#EXTINF:-1 group-title="24/7 - Infantiles" tvg-logo="http://castlempire.site:8080/images/701820288eca6498ae9446f85401b901.jpg",24/7 | TOY STORY
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169371
+#EXTINF:-1 group-title="24/7 - Series" tvg-logo="http://castlempire.site:8080/images/5199fdfb98e984a60877a61078b13356.jpg",24/7 | Warrior (ES)
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/169404
+
+
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/18fc0cd7336bda09fd3ef73409989c8f.jpg",Sin Senos no hay Paraiso\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208972
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/653dcf26d4a05fe70615aadeb73ff9e5.jpg",Reina de Corazones\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208974
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/9fd914dc5621ad5f856c12c46b2352a6.jpg",Maria Mercedes\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208975
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/02e91e5df28def6021b90e8181e566b0.jpg",la fea\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208977
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/38413f905ed865882312961eb41c4104.jpg",Cafe con Aroma de Mujer\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208978
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://pics.filmaffinity.com/La_usurpadora_Serie_de_TV-213609384-large.jpg",La usurpadora\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208979
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/89a4779d3836ea432f7ea074e522a17e.jpg",Si nos dejan\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208980
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcOcp5fCObjRnmk4FhFiZhYq1rHRX7GXFbQzbxf4Ag4t8uAArdVgFJbEB0HO1IbTFVZQ&usqp=CAU",Porque el Amor Manda\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208981
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F006%2F385%2Famor-eterno-1.jpg&nuevoancho=690&medio=abc",Amor Eterno\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208982
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/313c886cc1ee11de29f840edcf2e8041.jpg",El Comandante\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208983
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3e/Xicadasilva.jpg/revision/latest/top-crop/width/360/height/450?cb=20100425234805&path-prefix=es",Xica da Silva\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208984
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/0/01/Rosario_tijeras_2010.jpg/revision/latest?cb=20201024021603&path-prefix=es",Rosario Tijeras\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208985
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUwayBv8o8UkkVq4T0bW7T3uFI1-6JHINAZn5T3uzhXDQVfWtO1GQdC0C00i72bzp9iM&usqp=CAU",Pedro El Escamoso\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208986
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/78dc94ca382cce92f618599593e71132.jpg",Amar y Vivir\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208987
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/9d8772f1ea3d51e3052fc2307a93dfe8.jpg",El Final del Paraiso\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208988
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://pics.filmaffinity.com/la_prepago-988349028-large.jpg",La Prepago\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208989
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/a/a9/Amigas-y-rivales.jpg/revision/latest/top-crop/width/360/height/450?cb=20200608130851",Amigas y rivales\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208990
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/81da26dbcac8561d5be929d06b0b5328.jpg",el Cacique de La Junta\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208991
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://pics.filmaffinity.com/vecinos-633268711-large.jpg",Vecinos\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208992
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://pics.filmaffinity.com/vecinos-633268711-large.jpg",Vecinos\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208993
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/622f0b591fb965b5ee2c0ddfe7f71104.jpg",La Reina del Flow\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208994
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://pics.filmaffinity.com/La_reina_del_sur_Serie_de_TV-640634627-large.jpg",La Reina del Sur\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208995
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/4f90a62ed5df38b46ba3a7b32a167d80.jpg",Pasion de Gavilanes\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208996
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/ca381206ec0c355ef1871396a5a958ba.png",Nosotros los Guapos\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208997
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiILF-iRVn1Vja2WK9v3eVcDL1q7Guigot-WeQBI5liFI_m2tjjo2ZJvU15MUw-PtjaNYqchm3IkaTCQyVZ1LjHpuvXIt7fzhvwFvAZjvAduh5mx26fw5o5Fy916XguR2wS0orZxvjkzbkfqXsz-9G-PHwJyL5CyYvxHzaIpRrC9JOoqBuqMMX1RM7WvQ=w1200-h630-p-k-no-nu",Todo por mi Familia\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208998
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/6079dd9abbc25e86cfc57127f7e1b2c8.jpg",El señor de los cielos\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/208999
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/d10068b77809667fc526251d4e58c8f7.jpg",Rebelde\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/209001
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="http://castlempire.site:8080/images/60699dc6e3e10de0171dbe1ccd8b1aa3.jpg",El Clon\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/209004
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://pics.filmaffinity.com/So_adoras_Serie_de_TV-619926396-mmed.jpg",Soñadoras\
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/209005
+#EXTINF:-1 group-title="24/7 NOVELAS" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fseries%2F000%2F003%2F887%2Fpablo-escobar-el-patron-del-mal-1.jpg&nuevoancho=690&medio=abc",el patron del mal
+http://castlempire.site:8080/UserTest5Octubre_00v/p3QcBkFxLzkZ/209006
