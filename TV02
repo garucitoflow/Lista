@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-logo="https://i.imgur.com/cUGgyWj.png" group-title="NOTICIAS",ADONAYTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/adonaiptv
+#EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-logo="https://i.imgur.com/WPrA0iu.png" group-title="NOTICIAS",TvHuarmey
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
+
+
+#EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-logo="https://i.imgur.com/YR4jzk2.jpg" group-title="NOTICIAS",DRAGON BALL 24/7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/drdragonballzchiguirito
+#EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-logo="https://i.imgur.com/Qh0bfbv.jpg" group-title="NOTICIAS",Los Simpson 24/7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/lenny_77_leonard
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",ATV IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV PLUS IPTVHY" tvg-logo="https://i.imgur.com/bGt2LdE.png" group-title="NOTICIAS",ATV PLUS IPTVHY
