@@ -5,13 +5,6 @@ http://clubtv.link/1523mar/key1988/lista2.php?c=a0gm&f=.m3u8
 #EXTINF:-1 tvg-shift="-2"  group-title="Lista 4 Peru", AmericaTV C
 http://clubtv.link/1523mar/key1988/lista2.php?c=a0gn&f=.m3u8
 
-#EXTINF:-1 group-title="Peru" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg",PE | Latina HD
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170126
-
-#EXTINF:-1 group-title="Peru" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png",PE | America TV
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170105
-#EXTINF:-1 group-title="Peru" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png",PE | America TV HD
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170106
 #EXTINF:-1 tvg-id="" tvg-name="ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",ATV IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV PLUS IPTVHY" tvg-logo="https://i.imgur.com/bGt2LdE.png" group-title="NOTICIAS",ATV PLUS IPTVHY
