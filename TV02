@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Peru" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg",PE | Latina
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170125
+#EXTINF:-1 tvg-shift="-2"  group-title="Lista 4 Peru", Latina C
+http://clubtv.link/1523mar/key1988/lista2.php?c=a0gm&f=.m3u8
+
+#EXTINF:-1 tvg-shift="-2"  group-title="Lista 4 Peru", AmericaTV C
+http://clubtv.link/1523mar/key1988/lista2.php?c=a0gn&f=.m3u8
+
 #EXTINF:-1 group-title="Peru" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg",PE | Latina HD
 http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170126
 
