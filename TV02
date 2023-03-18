@@ -20,29 +20,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/i0CPEXg.png" group-title="NOTICIAS",PANAMERICANA IPTVHY
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/a9222c00b07f030a16cbd20a5a8b91ad.png",PE | Directv Sports 2 Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170112
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/a9222c00b07f030a16cbd20a5a8b91ad.png",PE | Directv Sports Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170111
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/9b229d23bd7f92559f40790bb9f0449d.png",PE | Espn 2 Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170115
-#EXTINF:-1 group-title="Peru" tvg-logo="http://castlempire.site:8080/images/c9311ab4cce69d3c0660e1afa0c3b3a5.png",PE | Exitosa TV
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170117
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/1314d4c37fd8fe8a3b175d3f784949a5.png",PE | Fox Sports 2 Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170119
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/e758968361c4eb53a63cd2630a04fbfd.png",PE | Fox Sports 3 Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170120
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/0bc0dc56189bc06df245f2c7c6ffc601.png",PE | Fox Sports Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170118
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png",PE | Gol Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170121
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png",PE | Gol Peru HD
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170122
-#EXTINF:-1 group-title="**LIGA PERU**⚽" tvg-logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png",PE | Gol TV  Peru
-http://castlempire.site:8080/UserTest3Octubre_00x/FskXxRJQ3Ys7/170123
-
-
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Agro",Agro TV (Apurimac)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
