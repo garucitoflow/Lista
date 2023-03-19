@@ -1,9 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-shift="-2"  group-title="Lista 4 Peru", Latina C
-http://clubtv.link/1523mar/key1988/lista2.php?c=a0gm&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-2"  group-title="Lista 4 Peru", AmericaTV C
-http://clubtv.link/1523mar/key1988/lista2.php?c=a0gn&f=.m3u8
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/23eaf933555b9aa1768b8b68216caac3.jpg",PERU | LATINA FHD (EXCLUSIVO)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69821
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/23eaf933555b9aa1768b8b68216caac3.jpg",PERU | LATINA FHD P
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69822
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/75e57d356387d5374303046bea9e6a33.png",PERU | LATINA TV FHD (E)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69823
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/c9ec8e9c796f8f1f310eca815b355c9e.png",PERU | Latina TV HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69824
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/84ad3c34921a2e6436ef3b29930034ad.png",PERU | Latina TV SD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69825
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/759c7357919527d77efe75e0bd34170a.png",PERU | America TV OPC 2
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69793
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/529ecc91085bcebb84890714e68f77e0.png",PERU | America TV FHD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69794
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/d6e8b06c935946e170567aaa5b7dbe36.png",PERU | America TV FHD P
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69795
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/759c7357919527d77efe75e0bd34170a.png",PERU | America TV HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69796
 
 #EXTINF:-1 tvg-id="" tvg-name="ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",ATV IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
