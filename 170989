@@ -1,6 +1,15 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/23eaf933555b9aa1768b8b68216caac3.jpg",PERU | LATINA FHD (EXCLUSIVO)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69821
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/23eaf933555b9aa1768b8b68216caac3.jpg",PERU | LATINA FHD P
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69822
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/75e57d356387d5374303046bea9e6a33.png",PERU | LATINA TV FHD (E)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69823
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/c9ec8e9c796f8f1f310eca815b355c9e.png",PERU | Latina TV HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69824
+#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/84ad3c34921a2e6436ef3b29930034ad.png",PERU | Latina TV SD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69825
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/759c7357919527d77efe75e0bd34170a.png",PERU | America TV OPC 2
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69793
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/529ecc91085bcebb84890714e68f77e0.png",PERU | America TV FHD
@@ -33,16 +42,7 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69812
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69815
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/7faa45440ee17114cbeece57da9860ba.png",PERU | IPE
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69818
-#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/23eaf933555b9aa1768b8b68216caac3.jpg",PERU | LATINA FHD (EXCLUSIVO)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69821
-#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/23eaf933555b9aa1768b8b68216caac3.jpg",PERU | LATINA FHD P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69822
-#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/75e57d356387d5374303046bea9e6a33.png",PERU | LATINA TV FHD (E)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69823
-#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/c9ec8e9c796f8f1f310eca815b355c9e.png",PERU | Latina TV HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69824
-#EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/84ad3c34921a2e6436ef3b29930034ad.png",PERU | Latina TV SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69825
+
 
 
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.jpg",Alcance TV  | MX
