@@ -1,6 +1,9 @@
 #EXTM3U
 
-##EXTINF:-1 tvg-id="" tvg-name="ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",ATV IPTVHY
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",ATV IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV PLUS IPTVHY" tvg-logo="https://i.imgur.com/bGt2LdE.png" group-title="NOTICIAS",ATV PLUS IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
@@ -8,6 +11,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://i.imgur.com/i0CPEXg.png" group-title="NOTICIAS",PANAMERICANA IPTVHY
 https://cdnh71.iblups.com/hls/ptv2.m3u8
+
 
 
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/759c7357919527d77efe75e0bd34170a.png",PERU | America TV OPC 2
@@ -106,164 +110,8 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69858
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69859
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://quebuscasaqui.xyz:8080/images/1479ec1bb2ca913a4b61175780eff98d.png",PERU | Directv Sports Peru (C-HD)
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69860
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="http://todoplus.digital:8080/images/f3rj35JKUdkBMRxiOL0jGEQ9cLw6oeL5ZiGMVce4YUqjopqTsf6UaGxNkfTjHQx5DdqEZTt1mukyRIWF8ZGpSw.png",Telemundo Internacional HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71233
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/5/58/Telemundo_47_2018.png",TELEMUNDO New York
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71234
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Austin HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71235
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Dallas HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71237
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision East HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71238
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Fresno HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71239
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Houston HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71240
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Los Angeles HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71241
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Las Vegas HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71242
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision New York HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71244
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Philadelphia HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71245
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Phoenix HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71246
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Sacramento HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71247
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision SALT LAKE HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71248
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision San Antonio HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71249
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision San Francisco HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71250
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision West HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71251
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/48_es.png",GALAVISION ATLANTA HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71253
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision Alburquerque Santa Fe HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71254
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png",Galavision MIAMI HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71255
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/7_es.png",Unimas Houston  HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71259
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/7_es.png",Unimas Las Vegas HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71260
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/7_es.png",UNIMAS SACRAMENTO HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71262
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION MIAMI HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71267
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION DENVER HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71268
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION CHICAGO HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71269
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION HOUSTON HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71270
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION NEW YORK HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71271
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",CLEVELAND HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71272
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION SAN ANTONIO HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71273
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="http://todoplus.digital:8080/images/ZmDAZo2S9A_M8C6PkAW1qzEB_NMqEYIejZghR71YAAiki1zCChpwmVruXydaJUREmwbNj3g2tTzsprZTIXhYMOarWr199P3RLNjtn509kos.png",UNIVISION EAST
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71274
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION ATLANTA HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71275
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION DALLAS TX HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71276
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION TELENOVELAS HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71277
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION TELENOVELAS HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71278
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION AUSTIN HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71279
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION PHILADELPHIA HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71280
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION  SALT LAKE HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71283
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION SAN FRANCISCO HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71284
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png",UNIVISION ALBUQUERQUE SANTA FE HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71285
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",TELEMUNDO BOSTON
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71287
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo Miami
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71289
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 26 KFDY Lincoln
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71290
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Etc.
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71291
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo WEST
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71292
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 36 KXTX Dallas
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71293
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 29 WSNS Chicago
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71294
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 19 KSTS San Jose
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71295
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 27 KASA Santa Fe
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71297
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo Las Vegas
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71298
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo Washington DC
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71299
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 30 WSCV Fort Lauderdale
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71300
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 16 KHRR Tucson
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71301
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 15 KVDA San Antonio
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71302
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 22 KTMD Galveston
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71303
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 14 KTLM Rio Grande City
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71304
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 25 KVEA Corona
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71305
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 20 KBLR Paradise
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71306
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 26 KTDO Las Cruces
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71307
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 24 KRDO Colorado Springs
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71308
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 29 KTUZ Shawnee
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71309
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 35 WNJU Linden
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71310
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 11 KNSO Merced
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71311
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 29 KTAZ Phoenix
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71312
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 20 KTMW Salt Lake City
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71313
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 19 KFBI Medford
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71314
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo New Orleans HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71315
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 24 KXTQ Lubbock
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71316
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 3 KCSO Sacramento
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71317
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 17 KUTU Tulsa
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71318
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 34 WZDC Washington DC
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71319
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 31 WRDM Hartford
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71320
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 31 WTMO Orlando
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71321
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 23 WDMR Springfield
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71322
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 34 WZTD Richmond VA
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71323
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 30 WWDT Naples
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71324
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 27 KOHA Omaha
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71325
-#EXTINF:-1 group-title="TELEMUNDOS-UNIMAS-UNIVISION" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png",Telemundo 30 WRMD Tampa
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71326
-
-
+#EXTINF:-1 group-title="VOD ESTRENOS 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCSrpzYQgi8nmzHi7ZgszQ6Z1Ln.jpg",el zorro y el caballo (2022)
+http://higherpro.xyz:8080/movie/restreambestlive/w4e7kFKr29Ya/149265.mkv
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://tv.streamid.tv:8080/images/780ef01aad18a5dc0901e5ed4c7d99d0.png",PERU | LIGA 1
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/162700
 #EXTINF:-1 group-title="PERÚ" tvg-logo="http://tv.streamid.tv:8080/images/780ef01aad18a5dc0901e5ed4c7d99d0.png",PERU | LIGA 1 MAX
@@ -304,6 +152,48 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12290
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12291
 #EXTINF:-1 group-title="CINE 24/7" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png",LA..Cine Zombis
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12292
+
+
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71UcJ6QdgBL._SY355_.jpg",24H | Paw Patrol
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67744
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://www.eironons.com/assets/images/couragethecowardlydogonlogocharactert-shirtiron-ontransferdecalctcd10-1.png",24H | Coraje - El Perro Cobarde
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67746
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://cdn.shopify.com/s/files/1/0839/5903/products/978141973839.jpg?v=1571477840",24H | Pokémon
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67750
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://img.discogs.com/tluCQdSYSFTfhAEg7thjUCDA5Ho=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10710931-1502866836-1047.jpeg.jpg",24H | Dinosaurios
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67753
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Dragonball_1.PNG",24H | Dragon Ball
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67764
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/29b72c1977c1e4008a71b3cfb25e9b02.png",24H Kids | Dinosaurios (M)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67767
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/58590865b4c94aa6d302fffef4a066ad.png",24H Kids | Dragon Ball (M)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67768
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/00785b11268b3f15f52197b9074e0e5f.png",24H Kids | Dragon Ball Z kai
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67770
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/64aa1e7410773eaa5043635c42623cc6.png",24H Kids | Tom y Jerry
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67772
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/dc8a7b2a95369effd83d607585ddd816.png",24H Kids | Paw Patrol
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67773
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/826986a828d098fe68d1eb85346018a3.png",24H | El principe del Rap
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67775
+#EXTINF:-1 group-title="24-7 VIP",24H | Naruto shippuden
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67781
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054",24H | Ben 10
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67803
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/f7c04b789f7ed7d4153db78f796d69ab.jpg",24H | Dragon Ball Z
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67807
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/3e693bb1be57618d182a2d4e57b409d9.jpg",24H | Dragon Ball
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67808
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/f61cc9e9e338a156e09290af53172797.jpg",24H | Gravity Falls
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67812
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/0f4612ba752a9f379ec11e15cf1eeb68.jpg",24H | Iron Man
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67816
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/ad121e9a7b3a265f8bce7449bc494601.png",24H | Dragon Ball
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67824
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/d895c9fb58c48be87237e29942627ccb.png",24H | El Chavo del 8
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67834
+#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/87ab88427d6874b1073a332c767a641b.png",24H | Hey Arnold
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67835
 
 
 #EXTINF:-1 group-title="PERÚ" tvg-logo="https://cde.canaln.pe/actualidad-canal-n-cumple-18-anos-informando-peruanos-n282882-646x363-381488.jpg",PE: Canal N
@@ -360,32 +250,8 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/120429
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/120430
 #EXTINF:-1  tvg-logo="http://quebuscasaqui.xyz:8080/images/5d915deb31d7c96e330d06bc819cfdae.png",EVENTOS STAR+ 3
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/120431
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png",PPV EVENTO 4
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121838
-#EXTINF:-1 group-title="NBA (solo eventos)",USA | NBA TV
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122189
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",NBA 01 League Pass
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122192
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",NBA 02 League Pass
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122193
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",NBA 03 League Pass
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122194
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",NBA 04 League Pass
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122195
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",NBA 06 League Pass
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122197
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg",NBA 07 League Pass
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/122198
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png",PPV EVENTOS 5
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/163506
-#EXTINF:-1 group-title="CLASICO MUNDIAL DE BASEBALL 2023" tvg-logo="https://hoy.com.do/wp-content/uploads/2016/08/Mundial-de-B%C3%A9isbol.jpg",Opcion 1
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/163843
-#EXTINF:-1 group-title="CLASICO MUNDIAL DE BASEBALL 2023" tvg-logo="https://hoy.com.do/wp-content/uploads/2016/08/Mundial-de-B%C3%A9isbol.jpg",Opcion 2
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/163844
-#EXTINF:-1 group-title="CLASICO MUNDIAL DE BASEBALL 2023" tvg-logo="https://hoy.com.do/wp-content/uploads/2016/08/Mundial-de-B%C3%A9isbol.jpg",Opcion 3
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/163845
-#EXTINF:-1 group-title="CLASICO MUNDIAL DE BASEBALL 2023" tvg-logo="https://hoy.com.do/wp-content/uploads/2016/08/Mundial-de-B%C3%A9isbol.jpg",Opcion 4
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/163847
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png",ENT| Pasiones
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12326
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png",ENT| Pasiones TV HD
@@ -500,7 +366,6 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/56930
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/114991
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png",ENT| Tlnovelas Opcion 2
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/163507
-
 
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://e7.pngegg.com/pngimages/234/921/png-clipart-peppa-pig-danny-dog-ty-beanie-logo-illustration-peppa-pig-blue-text.png",24/7| PEPPA PIG
@@ -689,48 +554,24 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/56527
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/56670
 #EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-3E9IXL3-Is4/XudDBL43PbI/AAAAAAAACI0/JB7-fLvlQ64pWLx48cXF2AXMyxFYRwUKACLcBGAsYHQ/s200/harry%2Bpotter.png",24/7 SAGA HARRY POTTER
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40410
-
-
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71UcJ6QdgBL._SY355_.jpg",24H | Paw Patrol
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67744
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://www.eironons.com/assets/images/couragethecowardlydogonlogocharactert-shirtiron-ontransferdecalctcd10-1.png",24H | Coraje - El Perro Cobarde
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67746
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://cdn.shopify.com/s/files/1/0839/5903/products/978141973839.jpg?v=1571477840",24H | Pokémon
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67750
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="",24H | Dinosaurios
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67753
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Dragonball_1.PNG",24H | Dragon Ball
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67764
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/29b72c1977c1e4008a71b3cfb25e9b02.png",24H Kids | Dinosaurios (M)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67767
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/58590865b4c94aa6d302fffef4a066ad.png",24H Kids | Dragon Ball (M)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67768
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/00785b11268b3f15f52197b9074e0e5f.png",24H Kids | Dragon Ball Z kai
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67770
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/64aa1e7410773eaa5043635c42623cc6.png",24H Kids | Tom y Jerry
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67772
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/dc8a7b2a95369effd83d607585ddd816.png",24H Kids | Paw Patrol
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67773
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/826986a828d098fe68d1eb85346018a3.png",24H | El principe del Rap
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67775
-#EXTINF:-1 group-title="24-7 VIP",24H | Naruto shippuden
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67781
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/703180/header.jpg?t=1574179054",24H | Ben 10
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67803
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/f7c04b789f7ed7d4153db78f796d69ab.jpg",24H | Dragon Ball Z
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67807
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/3e693bb1be57618d182a2d4e57b409d9.jpg",24H | Dragon Ball
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67808
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/f61cc9e9e338a156e09290af53172797.jpg",24H | Gravity Falls
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67812
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/0f4612ba752a9f379ec11e15cf1eeb68.jpg",24H | Iron Man
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67816
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/ad121e9a7b3a265f8bce7449bc494601.png",24H | Dragon Ball
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67824
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/d895c9fb58c48be87237e29942627ccb.png",24H | El Chavo del 8
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67834
-#EXTINF:-1 group-title="24-7 VIP" tvg-logo="http://51.222.43.170:36995/images/87ab88427d6874b1073a332c767a641b.png",24H | Hey Arnold
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67835
+#EXTINF:-1 group-title="BRASIL",VIP_BR:ESPN HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40003
+#EXTINF:-1 group-title="BRASIL",VIP_BR:SPORTV 2 HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40056
+#EXTINF:-1 group-title="BRASIL",VIP_BR:SPORTV 3 HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40057
+#EXTINF:-1 group-title="24/7" tvg-logo="http://51.222.43.170:8001/images/851041972c97d09bc5796d523ab7ae23.jpg",24/7 Los Simpson *
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121075
+#EXTINF:-1 group-title="24/7" tvg-logo="http://51.222.43.170:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png",24/7 LOS SIMPSONS 1-5
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121076
+#EXTINF:-1 group-title="24/7" tvg-logo="http://51.222.43.170:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png",247 LOS SIMPSONS 6-11
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121077
+#EXTINF:-1 group-title="24/7" tvg-logo="http://51.222.43.170:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png",247 LOS SIMPSONS 12-17
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121078
+#EXTINF:-1 group-title="24/7" tvg-logo="http://51.222.43.170:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png",24/7 LOS SIMPSONS 18-21
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121079
+#EXTINF:-1 group-title="24/7" tvg-logo="http://51.222.43.170:8001/images/4a57b7a13b5497f9328366fa6dcf8694.png",24/7 LOS SIMPSONS 27-30
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/121080
 
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg",Cine TV: A&E (MOVIL)
@@ -1387,231 +1228,5 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37900
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37902
 #EXTINF:-1 group-title="DEPORTES",MOVISTAR DEPORTES
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37905
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png",Tennis Channel HD
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="",Tennis Channel HD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37906
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/3a96f8b6ade0faf4462e7886f8923c7e.png",TUDN FHD - MX
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37916
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/3a96f8b6ade0faf4462e7886f8923c7e.png",TUDN SD - MX
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37917
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png",TyC Sports HD - ARG
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37918
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png",TyC Sports HQ - ARG
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37919
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://144.217.91.146/Logos/Uruguay/vtv-uy.png",Uruguay - VTV FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37925
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/e36bb28cc0ad8419f0410b798bc517ad.png",Uruguay - VTV HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/e36bb28cc0ad8419f0410b798bc517ad.png",Uruguay - VTV SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37927
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/c96950ac49caae48a6eae7797bc4b828.png",Uruguay - VTV+ HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37928
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/c96950ac49caae48a6eae7797bc4b828.png",Uruguay - VTV+ SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37929
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg",Brasil - Premiere 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37950
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg",Brasil - Premiere 2 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37951
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg",Brasil - Premiere 4 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37953
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg",Brasil - Premiere 5 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37954
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg",Brasil - Premiere 6 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37955
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/ng2GQ3F/PREMIERCLUBES.jpg",Brasil - Premiere Clubes HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37957
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/ng2GQ3F/PREMIERCLUBES.jpg",Brasil - Premieres Clubes HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37958
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SRTZMzX/ELEVEN1.jpg",Portugal - Eleven Sports 1 FHD (10mb)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37959
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/8Mwx9Bs/ELEVEN2.jpg",Portugal - Eleven Sports 2 HD (10mb)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37960
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/JtSdTqT/SPORTTV.jpg",Portugal - Sport TV + HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37961
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://daleplay.biz:8080/images/a40e7ca227384339cadaf2b7717d531b.png",Portugal - Sport TV 4 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37965
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-HD.png",EUROSPORT 1 (K)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37969
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.sportyou.es/blog/wp-content/uploads/eurosport2.jpg",EUROSPORT 2 (K)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37970
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://sport-tv-guide.live/images/tv-station-afizzionados-1424.png",Afizzionados HD - MX
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37971
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://neulionmdnyc-a.akamaihd.net/u/ufc/thumbs/categories/1061_s1.jpg",DEPORTES EUR | UFC HD (P)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38143
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png",DEPORTES EUR | UFC Figh Pass HD (P)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38144
-#EXTINF:-1 group-title="DEPORTES",VIP_BR:COMBATE HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/39984
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://sport-tv-guide.live/images/leagues/league2217.png",WWE Network FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40513
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/bm4yCpY/REDBULLTV.jpg",DEP | RED BULL TV
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40589
-#EXTINF:-1 group-title="DEPORTES",DEP| CDO  CHILE SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40594
-#EXTINF:-1 group-title="DEPORTES",DEP| CDO PREMIUM HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40595
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/S5KLLLr/ECDF.jpg",El Canal Del Futbol - ECU SOLO EVENTOS
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40662
-#EXTINF:-1 group-title="DEPORTES",UFC EVENTOS
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40828
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://144.217.91.146/Logos/Spain/real-madrid-tv-es.png",Real Madrid TV HD - ES
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/45433
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://1.bp.blogspot.com/-q2yER3pbHgQ/YGEXJkFkRfI/AAAAAAAACG0/HZyw-R8bioUZlYm1fynRK7djo1IhB_gjwCLcBGAsYHQ/w200-h200/nba.png",NBA | NBA TV
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/31627
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://static.epg.best/us/NBATV.us.png",US: NBA TV
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67970
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",USA: NBA TV HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67971
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/nbatv1.png",PT: NBA TV
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/67973
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.tvplusgratis.com/img/espnplus.png",ESPN + SUR FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/68509
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png",DAZN F1 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69765
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png",DAZN F1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69766
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoUdgbj-6MNSB-zOAhLPzIRg.png",DAZN F1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69767
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoICedO-yv6bQSR_rgcOVIXQ.png",DAZN F1 4K
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69768
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png",DAZN 1 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69769
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png",DAZN 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69770
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png",DAZN 1 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69771
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqosimg-XreJxMAFutuVa2bMw.png",DAZN 1 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69772
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png",DAZN 2 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69773
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png",DAZN 2 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69774
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png",DAZN 2 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69775
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoYhNbeNhnLACbEy7rgLXW-Q.png",DAZN 2 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69776
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png",DAZN 3 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69777
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png",DAZN 3 HD*
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69778
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png",DAZN 3 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69779
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoES6tguYsFfm5qwBjqDClkg.png",DAZN 3 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69780
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png",DAZN 4 SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69781
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png",DAZN 4 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69782
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png",DAZN 4 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69783
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqo9kt-URMiqxHCe841cAnfnw.png",DAZN 4 FHD (x265)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69784
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWOewNn324VuAUGdOMPFeeROtBCKS9kkAYLRDqSHsTvqg.png",DE | DAZN
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69785
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png",DAZN Bar 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69786
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png",DE: Dazn 1 Bar HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69787
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png",DE: Dazn 2 Bar HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69788
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFWOewNn324VuAUGdOMPFeeROtBCKS9kkAYLRDqSHsTvqg.png",DE: Dazn Sport 1 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69790
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFVPqPksrt2Xw_Jltn0BnvuWCgGgkdVvx76ELDEo1Kr18A.png",DE: Dazn Sport 2 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69791
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/ccf39e0cd3047b2e8266e4b31a5c00b1.png",EVENTOS PREMIUM 1 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69792
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwXNO4AKIGLLFMNtVhWkszTRAXjhkpN065rvIkJxgifSVA.png",FR: BEIN SPORTS 2 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71374
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MXLshx5vRUBVQuo4Sr2QwWQGIFqO47X2-P1Kgj0NX-yfs6m4jKMzACXzEjDw5rl3g.png",FR: BEIN SPORTS 3 FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71376
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://th.bing.com/th/id/R.f328439d84c76a4ce67d3cc5249f8a32?rik=raDn4qkC5YT5JA&riu=http%3a%2f%2fwww.broadbandtvnews.com%2fwp-content%2fuploads%2f2015%2f01%2fbeIN-Sports.jpg&ehk=RbGOmAVDF9ToOfxEM84u4e52r5RXjfYEU3SE7urXgnk%3d&risl=&pid=ImgRaw&r=0",VIP BeIN Sports 1
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71403
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://th.bing.com/th/id/R.92a8143ad24485cf24f1c6c7aa661d57?rik=tTP71JpPtp6LRQ&pid=ImgRaw&r=0",VIP BeIN Sports 2
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71404
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://th.bing.com/th/id/R.ddc7ef3c1f8d6cfe1f66e5c842f16665?rik=oz91vDdqoqulnA&riu=http%3a%2f%2fwww.mediasportif.fr%2fwp-content%2fuploads%2f2017%2f01%2flogo_bein_3_2017.png&ehk=CqYG5LhFXaZ6IK2RZ4nU%2f%2brZbxfJD5ruQImZ3ttVR1s%3d&risl=&pid=ImgRaw&r=0",VIP BeIN Sports 3
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71405
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://th.bing.com/th/id/R.1fcfd3657bef8b1ae2fcf4b0b8b0099e?rik=qvTjRYLGXRq2wg&riu=http%3a%2f%2fwww.mediasportif.fr%2fwp-content%2fuploads%2f2017%2f01%2flogo_bein_9_2017.png&ehk=qOSWdXdMOJkQhZiDllUxXSggO4niMXv4mbTlKDnSvB8%3d&risl=&pid=ImgRaw&r=0",VIP BeIN Sports 9
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71411
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://quebuscasaqui.xyz:8080/images/gwv-s8pnT1IxHEtYpdr3kGP-tYpIqmfBGbg6pAyMUhn7lKMQ_QYbYqRuZvzhATW5oCfBIO6hhIirAEqwHe-TLOeL6ygGL9zRV-t3KJm7YEMLjIvM0y9RQqvI7k_iUto6AkrTbYHSCoMcBNam_42xSguZTm2qfIAaM2gGW2MRG-z_WfWGI3ex2IXNm3GlovVD.png",VIP BeIN Sports 11
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71413
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1P5eldSyakNe6y7sUqL9JhGsJI3VwXHQGKOjtuuXAcmlIHXIGJRP4pjpWII--JtcCg.png",beIN Sports N Espanol
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/71445
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFV9Rp6ERT0U5G7SuWvmrn2_mvnTS7S48pil2XkDBUP7OQ.png",DIRECTV SPORTS FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78509
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/df8c637616e61c40c1bb699279cb1e2d.png",PL | ESPN 1 FHD (Latino)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78510
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",LALIGA | LA LIGA
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78511
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",LALIGA | LALIGA HD EXTRA
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78512
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",LALIGA | LALIGA FHD *RECOMENDADO*
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78513
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",LALIGA | LALIGA FHD EXTRA 1
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78514
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",LALIGA | LALIGA FHD EXTRA 2
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78515
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",LALIGA | MOVISTAR LALIGA FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78516
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png",ES | LA LIGA TV 4K (SOLO EVENTOS)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78517
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg",ES | Bein Sports LaLiga
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78518
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg",LALIGA | LALIGA BAR SD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78519
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg",LALIGA | TV BAR EXCLUSIVO
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78520
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg",LALIGA | TV BAR EXCLUSIVO 2
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78521
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/LQ8qATgZ-BQ8GBFiShH0YvMtbh6CK74nhIbN8ayb5lN07ETtB05NDhN4ZFoW9qepp7hpBsB2qLc711WuXgyn3isxHJZZdv0o91lI8eM8jYVdAA1IQbyOmwgYdnyHeJHljGvVNJt86npchQq0odZQ3t9E9YlvQ0gtEwb4V1JYJ_SojQ8LVP_t1979DkzKvWns.png",LALIGA | SKY SPORTS LALIGA
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78522
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png",LALIGA | MOVISTAR LALIGA 1
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78529
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png",LALIGA | MOVISTAR LALIGA 2
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78530
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png",LALIGA | MOVISTAR LALIGA 3
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78531
-#EXTINF:-1 group-title="CHAMPIONS LEAGUE / la liga" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png",LALIGA | MOVISTAR LALIGA 4
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78532
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1O9P7PZUgQ04bYRnCh6HayxYK3-beYgrwS36hSBtwppOC1fMwWXfOHrnSQS6RBiXgw.png",CANADA | NBA TV HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78653
-#EXTINF:-1 group-title="NBA (solo eventos)" tvg-logo="http://quebuscasaqui.xyz:8080/images/50540172d3714af78cc93c06e33619dd.png",US: NBA TV
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/78654
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108907
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108908
-#EXTINF:-1 group-title="ESPAÑA DAZN" tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCdngtvZMlSNghodGuDSTw8ayBZPoTNAqicDuQ4G5t77g.png",DAZN LA LIGA HD 1080P
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/108909
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://i.ibb.co/vXLZZ6H/8046e93e-ae14-4ea5-bf71-c5bde7bbb0a9.jpg",Directv Sports FIGHT ᶠᴴᴰ
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/114993
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://cm-inter.xyz/Logos/USA/UFCFIGHTPASS.png",USA: UFC Fight Pass FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/114996
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG62.png",USA: UFC FIGHT PASS
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/114997
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://cm-inter.xyz/Logos/UK/UFC%20FIGHT%20PASS.png",UK: UFC FIGHT PASS
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/114998
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s91306_ll_h3_aa.png",US: WWE NETWORK
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/114999
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://tinyurl.com/y6249rxw",US: WWE
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115000
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES",WWE | WWE Network HD (EXCLUSIVO) UHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115002
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES",WWE | WWE Network (EXCLUSIVO) UHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115003
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/ufc-combate-png-3.png",Combate
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115004
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="http://svtv.xyz/nologo.png",COMBATE HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115005
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="http://todoplus.digital:8080/images/f2yjER7A62ohfxfjlHMD0AYub00MkCRQasrRVS2JQR024DuPTpMKZOyR-Ev2K40cGgN9OmZ0i6UMB5xQ_uzzaOaqZ2op0yjMoGhn8H219BF-OWqM5g4tLkYsPtvVr6qw.png",DTV | Fighting Spirit
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115027
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="http://todoplus.digital:8080/images/mzCXjwAyF8-qG4BNA7ZIRtfKWLI76PLrCb4FNh3syxvY5EQzGeBGQKV4IMfMfZjE8gcP_ROngeatrTHoYEvNp_A9S4FZotq1M9eZQLhmppA.png",DTV | Channel Fight
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115028
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://i.ibb.co/S7NDXKY/descarga.jpg",The Fight Network
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115029
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://i.ibb.co/HnGJX1t/descarga.png",Ca: Fight Network HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115030
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://cm-inter.xyz/Logos/USA/FIGHTNETWORK.png",USA: Fight Network HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115031
-#EXTINF:-1 group-title="PPV EVENTOS LIVE Y DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",USA: FIGHT NETWORK
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/115032
