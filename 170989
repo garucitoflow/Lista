@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="ATV IPTVHY" tvg-logo="https://i.imgur.com/qEgpN5D.png" group-title="NOTICIAS",ATV IPTVHY
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV PLUS IPTVHY" tvg-logo="https://i.imgur.com/bGt2LdE.png" group-title="NOTICIAS",ATV PLUS IPTVHY
