@@ -2,8 +2,12 @@
 
 
 
-#EXTINF:-1 group-title="PERÚ" tvg-logo="https://i.imgur.com/sONBKS6.png" group-title="NOTICIAS",PERU | LATINA
-https://www.tvplusgratis.com/d8272dbd-8a1b-4a29-b856-ac0004f096d1
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://i.imgur.com/TUT1RQ5.png" group-title="NOTICIAS",PERU | LATINA TV
+https://live.tvplusgratis.com/16265541-b89b-40cd-a230-9af56616e403
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://i.imgur.com/DivVdOv.png" group-title="NOTICIAS",PERU | AMERICA TV
+
+#EXTINF:-1 group-title="PERÚ" tvg-logo="https://i.imgur.com/UwJ59UZ.png" group-title="NOTICIAS",PERU | ATV TV
+
 #EXTINF:-1 group-title="PERÚ" tvg-logo="https://i.imgur.com/i0CPEXg.png" group-title="NOTICIAS",PERU | PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
@@ -32,4 +36,3 @@ http://zaza1.ddns.net:8080/Jmalvaro/31122023/560742
 http://zaza1.ddns.net:8080/Jmalvaro/31122023/560743
 #EXTINF:-1 tvg-id="" tvg-name="LOS CABALLEROS DEL ZODICACO - SAINT SEIYA Saga Hades Elíseos" tvg-logo="https://i.imgur.com/c7ddNTS.jpg" group-title="TAQUILLA 24/7",LOS CABALLEROS DEL ZODICACO SAINT SEIYA Saga Hades Elíseos
 http://zaza1.ddns.net:8080/Jmalvaro/31122023/560744
-
