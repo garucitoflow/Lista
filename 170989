@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
 http://mael-tv.online:8880/live/gerald-garcia2023/gerald-garcia2023/9462.m3u8
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
@@ -1904,4 +1905,20 @@ http://mael-tv.online:8880/live/gerald-garcia2023/gerald-garcia2023/199919.m3u8
 http://mael-tv.online:8880/live/gerald-garcia2023/gerald-garcia2023/199920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: Cuarto Milenio HD 24H" tvg-logo="http://faucontv.live:8080/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJIkscP8r0AqgtWepnyNPE1Ve8uhhv54YyMtR_QqxlP9Hg.png" group-title="24/7 ESPAÑA",ES: Cuarto Milenio HD 24H
 http://mael-tv.online:8880/live/gerald-garcia2023/gerald-garcia2023/199921.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
