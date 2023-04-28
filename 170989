@@ -4,27 +4,33 @@
 #EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9473.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 2
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9474.ts
-#EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 3
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9475.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 4
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9473.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 5
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 3
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9474.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 4
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9474.ts
+#EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 5
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9475.ts
 #EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina 6
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9475.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="https://i.imgur.com/MVDJzPY.png" group-title="PERU",AMERICA TV 1 ONLINE
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrIFhBwosU0--enyHNmsKESpM4tWZLZp19ik8_x7u1byaodxJ3Bi9jcIlMGZVmMg37NDrR0LqtJvFzPTUlTA3M1zhha_hBCtilQjNDO9f8cDXtwX8eWVuVwIgfU5bGnfA_VXpmjpWixcUZE6sH57WbF-cCOr9xQMzhDRf4csx54RcXYdnckePWNGbjbkxSI18XEY2E3i2mhqkFD0VwdvFEEM75-aztJDXAcPpLL9SKU2nA6oyHbFyx42rTXvyG3Fr9X_zumUtV6BF2oEg0JQntuqlcV9TMts92EGJ2dLbCjNH1jaYLZsGoi-rbRQ0Km2tJ-iru0fPGxV5XyLZONbYoFetgCUHh1fjB9EgzVwrNzV4qpVrODwpWfZiuvKT0zUh1sfw5GVqFlOyBDtM9bQL0SWlwMYUp4MG0EelZSxX6GMyx9AcVeTAUc9QwJGPtR4nE6VgQb4ql4fQpyK1iSVU8PpWYETCBwGRvZq3yT02ZCfZYkiEbAKCseD0dfgavAMSDoY8MLvNZgZ18qzfLbDq3Ik1vAxIKjlvFScr6TRwIuEBTY6qzs8bCrpGFEB7gPPOzUCYFWZLnyoXkjnJDHjv8VnwzhVDQffV__GRJ8ACOIi_emN-WWYgNQTQdTucrQ8NO2Xk1Pmk3K9kwqbYPCGvzrjkUdtCZtRWmHvsJUvh7dnN5yrMqD43ytza9i-6Gccfxwe_JFQt9CmAJl_ldZgpkaimQ0G_Xzi13oAzLtyRsvlwYU1DvqEuYneXcSt7sP7Q-oAXP29UtrIpzOHlJcUJIIaoPOWCOhefnUY9G9c23UhuQJa3HrZuyvKudWDOFhkRfVLaYujKGZuepah8QSfyZpB4FhzE_l8ThsYdzNUQPb61LORrBncwhMy4xddemQFH4ikir1FB4WL3NJKEuloEARpBSjOGgx6GwCwKD95oO4lMTwgASoJdXMtZWFzdC0xMOwE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="https://i.imgur.com/MVDJzPY.png" group-title="PERU",AMERICA TV ONLINE
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrEFnPxqTf-HGLEmrQzDihRDFUSct_gIare5pwVEkYc8y9dVFljB3JXtkRSmFifOgW8XOaK-E8qoF6OHyz3TRLenVBhovyqDyYJyUmHQR-JuNBSicxUIumA1CNRvvKu4AGX3wf1cIEUphOTMEzPbrFSycHiKC5LgIM_kQk_3J7kITZQRVR8ksfVc_O3XqAqOJoilH-i5KLx1UL9JnnFx6j0v7KaGBkos4SkTycRTuJNTiimqmsP4lP8ZHiIshb7Iz4a8lVRow6wLKclAeQLJ9Xja8jARczzzkXaajpH6kHx08mVOvrpbRMppg_20MiIj6m4bXiqgapJvMTjB8OCSvmuGAXNPEuA4oywivEH5HY-jAQM0AxsCFU2miU6y9Av9-GEB1ZsUoA8D42AFWdnY8c1LGi3ZpWiVob-gMzSYpWJfC0X8na4f53StPii36FMDvJ022djcknvX6PxkYPN5zXsISR-AdV0ZaBpeOaKDsPknSPw2ZbmDXtrlaHY0qZqpYb3Wr7gC-fDYn_NZtIjf-cOrsh3W7onoU_SFlRvw4_gGv2jcJotU6QNGN6g2yvbkmZvsHpVrpqVG0P6FfJt4-4ul6BBZ16x3dT_AJJzQG9XrqCZQPDK_4GU8upct6iOeQ-iKAAQr-WhLjSlj_iNSob5BpFIZTunG5Hsa4aPY6vwQadQGdjaJCp8fxAED4I0P6ECsaZzEMDLYJPjGgh6-a9mspVCygkrD9fAHi4taEQG-Vo_Wt_Ku1nWME1D_jYK7mC16B0knOvgDr2qQcmXVs9B-4Gw-m5rL71w5LfqsfffIQ_AYD1TAvZAUbnbR1weXrG8ZcXqcy30aNKZvwpBgOV3JOjgNQb2o0j6INq8G6mNDtwxBlr1y8vf2ATL2fRUhGSsh5fcnD7n-6u0LzQvB_lXRycoaDHupd74Hr1gLCKf-vSABKgl1cy1lYXN0LTEw7QQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9476.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 3
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9476.ts
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 4
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9477.ts
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 4
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 5
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9478.ts
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 6
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9478.ts
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 7
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9477.ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
@@ -41,11 +47,6 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9482.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9483.ts
 #EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV +" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV +
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9484.ts
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9479.ts
