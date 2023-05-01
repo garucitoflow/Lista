@@ -1,10 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="HUARMEY TV" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",HUARMEY TV
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrEFRcIUidljowk8cP2J6spiYrqALmzocNIx2dsevmD0N2tMuMYXSPT3J3rE8LrhB1IGq_7DuYg_cBV2Ai4YIdbFMSg1LE6vbu0oh_5liVc0F4WUCZ7iVJYwSIB-PGDy-MRnGHgWbvw0JRY9iE9GHQV2BvRc2yqfX9WQrl1fB3XCURczPjl1HN0U38Aop_aprcGOoUN--BukTyGt5n4mcQ-eqYdbq4cP40TKLP_MEPMPsJiSI4oNvR2dfYLr9f1NDquOUGPQZ1sXXSJO7mm59G7VVpQ64daHyRI7u_DIH2ggexHIH8Uyy5pXHv0DXgZC5BnHqphaat1WmQ7Y6y8REzcsDt4ffyfRtb34giSVmlTiMN2H_Mm9FqhofJQbYCKimWLHBw69VQr-2sEAzp_JBGw49Er29-1lCqrqinuIpCPZcdlmRtn4m1rmuVijI9YfY4DGSuVYGqp8p_cIN94DDXf_uuDV2f1ISxqEBR44lEvxvsVVM3fwkqVHgPFDfpkmRNjnX2cNOnXBqY_4aglvz1QxJMKuSDwnGjkS3uvIIY16MM4y-U_4TiS6KXPB41Tpfxc9qyO7mjzJCJAvJMjN5-726yestJ0NG1Bjhvkv521QMmzxFaSGT4LTd7MkWALeTxhThn7X39n0GT0SzKnTZ4NR4Zioett2FBJ76MyQZS9Lr5EKiURpBBJ2tC7bI8AvnnoplxRMg-qYL0UZrWz4vp-sDzr4FxfgPI6j7M4tTqELQIppeja6QGf73xngu31uhBATrdwgrpOAWMfEfFc52Y_16xaiXpAS3O6euoZ4A13fMSSFbrAOw_Cw87GvbcLfDt-JHnqnmXdnPz5U1XieDB6jSDxuiGnIzf8nKDw4HU5LMk-uOUV93MlEPpvDDl62LvyksXLazx4BYQJ3oTCBYQoDV0waDHeid00iPh7wo5Fe1CABKgl1cy1lYXN0LTEw7wQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE JAHS HUARMEY" tvg-logo="https://i.imgur.com/HGVITRH.png" group-title="PERU",TELE JAHS HUARMEY
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CocF7CY0-dfBGKgSxf5EKwPzuei9edGSTc8Lgf4xzjZTdN_S1tOPxsf_odFA5KAJHX3WpekqtQBecKmQgzSEPBQfgTicghq--MWm4fPppFiIhR4LUxlteZKqmm06GZmlI28DWIgqtElETfrW9o4ciAI4nJiVPZ0-FKRikGBo6WRp-BwAnqy1Sb0-n0Mxzp-Ws31J4ipBlSpkbmztetwQ-egsMlVG2L9XlTWAxAlw70SdTLfxkA99nqlslXTiIPtLGda4aO9WdrQ1ckctCmOg7JdZoVxdMDmD_LMvVKIIEnYQ13El7OCVAee4JjPT8U0SolBSalm-O1YbYmplnwg0FV8KvjjFzbkc9Wh4ut8831vHmo_MQt96Xgy4hKruQ4xf8a6DJKzlH9VZFXGt7TC1YRRgqt1btLsCOuodfIYU4PIaXwdtmc4rmDRj2YCtdPtUulmgWt2_lZdA9vY41Zw9wxZtkl0UdOKTfzxcdF9ALQbjF-tXPTiYFTgJKjMjQYYfHbQprk16UX7NlOV1IJeOfGO4yR85hhI8XIjVgliBwIWw19heU_h_vGIH1LMRRvd8z-tmgpzcYi2o6Rwy7PF-r_ottE-lvIS0qN_SSp1RlclJZc6iTTd8ogOxvMeldJ5O4feWfF5sn0DuHzUXrMUCIrZgz4i-L1Fnh3O8XKJE58jOm_cgl_Uy2PWxZ2w2tMygkJ7LpErQ62PNTNHqHM6c4R1V0E0C_FxvAviu2LuRAUC53tPmMjFIDtK1s_U6dVAxLmSf6syMu678OvAGkDCTk4Kkz_MiRmyb1hZ3imjfEZQEkhZsryBhlamRabzE1ohdw8V8G1r2zcvAcyE6cvIuZH7PwVCAIf-rh94aDJpjFcMdDCJq8Ro99iABKgl1cy1lYXN0LTEw8AQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CABLE VISION" tvg-logo="https://i.imgur.com/rfSFubZ.png" group-title="PERU",CABLE VISION
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1932111191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="PERU",BEST CABLE SPORT
@@ -17,11 +13,11 @@ https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",AMERICA TV DIRECTO
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrUF9ubX2-snp6sV1xgW3aR6WC6ajkKNmNFLtrQNL7NlegqfNYyhTslWLYWsl8r_UtuQZQDgsUeKnobqW3ennLtJTsYWnKmAxLJ6HKUYCiCAsNPi1DBOKBKDIKUAlwZ1YInQw6lrbcHV-9x8vBmrWnR2JzV9v8DpJzNQbf-FD1xPRqBb9R1ML0kh9SQYYBnioTGFONvt6sczWP8yPz4dJ9KA2v0BK1EDv07B2bpzoX5zgR27oXB-q3k0JBTWjCtCf4aR2Oah5Lsrgo2cVrikA_QGBd5KoZYNc2F8qV0BO-Ei6hPrA4vIV5VZ-6pInAlZpq33x6if7NJQF4iGHILhr-adwOEh_KpQG4yRSoxvVzL8mI6ISh4rnEfM3ZqAFiBF37A5DZpA8F3yCskkZHRp9AOWr1eSp9UtkrkiA0ODkgfIDR4baw5HWBzi982aEmopHPcuil0m6cgtFUct_tIc7Bs0CN7s1Y1N_YlYiOEjVE_qnS-6iZXcs29sYvTBcDf8v1z_qnqyNEZJpc9NTqHccIDK4KiN1zXMBPVJNaWxZq9zTMvijbTIeHxqsdh_2eTl1qN0jVTO2V1QG3DIazuY2kVfyszzdsDpWuOElOFNuYpc5PCWSjetey-ZbY9s6Awkk_I3FHZwpLRSRhJ-EkIMN3O9jbYNempD26dPiLvUrkb-ag_UqXqCpP1KrcQ5DNrB2wokSQPAf4WkvRSbkgnBJPBSmBvytuXs2tb30va2TZPY9OMnQb_-WN8ItIkZa2QiLJ9anP8QlvbYZXcrXWoXhorJltSy1uv2ov2_BuAFvTVjZR9TyEOMo7ygTnPd6OxyYTnsr8utHnG3xORcnVS2e7lQ39kwnSIKUrKtxENOLObKTUeYt2JmSENhK7HJGYcmVyQ3i99OCIY62YR5FXSltVA9u_9CdA51GgyTKvd5P7qyJ4lEXQ0gASoJdXMtZWFzdC0xMPAE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9476.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 3
@@ -9846,7 +9842,899 @@ http://mael-tv.online:8080/movie/aaron-garcia2023/aaron-garcia2023/240500.mp4
 
 
 
-ROEQBAfFsKfSq9Q.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S3 E2
+VnWoCmGMpiCD2V60G2R2.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/ax51wMOYGIiiXC0B0JkauFhUw5c.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/u2rCTzwDf6ePfZ0kBIwTmrNl5rK.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carnival Row (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/bGCazyN5DmDS7A5PnJVDBv7XdV7.jpg" group-title="Series Amazon Prime (CAST.)",Carnival Row (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Soprano (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/fxyNkfPJCKVP5DFHj3wYie5xHSk.jpg" group-title="Series HBO (CAST.)",Los Soprano (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/lk5pu5nolJf0gNVzPyTALGem7Fz.jpg" group-title="Series HBO (CAST.)",Kung Fu (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/nkRurwG6BIT2sGpM9mGpFxD6vZb.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Soprano (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/s9yTbvnNK4LCYfsUfWHQbI5ooBN.jpg" group-title="Series HBO (CAST.)",Los Soprano (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/zVGRan7EjtktzLJTgnlpV5cdq6Y.jpg" group-title="Series HBO (CAST.)",Kung Fu (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/mqkTqOpXtbhPPvneA1OfLEyrfPe.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E11" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/z6shJknqcxxGZNT80ybJwBfrpH5.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/gpjOWmxlz7PzhrM65TwO9dKswlK.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/wwmmhrbZ4JEctNeXdN3oarQUpXA.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E12" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Soprano (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/nBUs5abBMFiBmXcMZROfSXnEhni.jpg" group-title="Series HBO (CAST.)",Los Soprano (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/s9KOvybPWovDaLQ7vQswTg2rAX8.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/jij3ah441WdfLhwi1y2GNHRydds.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/mltZNDCOO2H3zz2tgwZaXGgxQXB.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/lcfl6fkbVDPvws4gLoxwnRmMsPI.jpg" group-title="Series HBO (CAST.)",Kung Fu (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/2xGqP2HMFDvYBa5pXQYnGMENeu8.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/mzI9CMJOpqxtYRnrFka3HqEyGXl.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Soprano (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/r7fSRh8PCzuA7mJGhXP5Tlvhe1s.jpg" group-title="Series HBO (CAST.)",Los Soprano (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/sdIU4knF5Qk2hxTXlKtE0aeC779.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/6Eftkn9WYlqpAuRPfb93Cfae2g6.jpg" group-title="Series HBO (CAST.)",Kung Fu (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E13" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/cIt7QaL9udsogijp8bFEA22RZRA.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E14" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/eLSoqOZD7w5CesLrCyxDOTqVBDi.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/4KJHEvdAH978TopdZL0XsPekDMF.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/o2PTB1MTHosKbQpCkvPQHS5xNzD.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E15" tvg-logo="https://image.tmdb.org/t/p/w400/pZpBABUF1rJAllxEsUOtAECZMVp.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E15" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E15" tvg-logo="https://image.tmdb.org/t/p/w400/vhwy5BFA3SdJRanXA3ZpqWsA1g8.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E16" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E16" tvg-logo="https://image.tmdb.org/t/p/w400/8qbMUBHTmhXRMwVgSdikrvRhGjp.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E16" tvg-logo="https://image.tmdb.org/t/p/w400/pmrSI7g6sI9ZF8ut4sC3tjGRc21.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E17" tvg-logo="https://image.tmdb.org/t/p/w400/cBYaDXbMo2bCM8p9pVtLrLfZMTQ.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E17
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E17" tvg-logo="https://image.tmdb.org/t/p/w400/bwUxFTzoDHdqC2impdXMzyhnRMo.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E17
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S2 E17" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S2 E17
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E18" tvg-logo="https://image.tmdb.org/t/p/w400/8GwfGFbc1HMYEM6YeIzsJoUZ78h.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E18
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E18" tvg-logo="https://image.tmdb.org/t/p/w400/cJoCY6wdOh1oOgBl2n15OrS374S.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E18
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E19" tvg-logo="https://image.tmdb.org/t/p/w400/uaI3RPc37AZCSXW7ewWWVjmXFM2.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E19
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E19" tvg-logo="https://image.tmdb.org/t/p/w400/t2jRTxY0lu6ZOJ0Rtiea6zRUTV4.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E19
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E20" tvg-logo="https://image.tmdb.org/t/p/w400/n6k7Rjtbyh3PlEMOmty1pHNMaZT.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E20
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E20" tvg-logo="https://image.tmdb.org/t/p/w400/lCu4yBLWO8pD7ioZ9xvFlKV0uVP.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E20
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E21" tvg-logo="https://image.tmdb.org/t/p/w400/2QZVky3MtMJPEnCAD8dy6Skwros.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E21
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E21" tvg-logo="https://image.tmdb.org/t/p/w400/rxuYCLXgZUEsbsUXAdhdsyxO3bn.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E21
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E22" tvg-logo="https://image.tmdb.org/t/p/w400/3EOsB3IU0VCZxrrCHu9rDmTnhIu.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E22
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E22" tvg-logo="https://image.tmdb.org/t/p/w400/hqM6C1ZkYPQ8kAbArsM5SHTVeEB.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E22
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E23" tvg-logo="https://image.tmdb.org/t/p/w400/mN7HpMr6m3w3V5HysZmezz4gqky.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E23
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S2 E23" tvg-logo="https://image.tmdb.org/t/p/w400/qfBQSFWMoqutuytnKvOqTDuvF3w.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S2 E23
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E24" tvg-logo="https://image.tmdb.org/t/p/w400/yPuGkU1QOQdEvjmzRbveGD9mEiM.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E24
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E25" tvg-logo="https://image.tmdb.org/t/p/w400/38s6Le8KHgVw7viUWCHF8lgkibt.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E25
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E26" tvg-logo="https://image.tmdb.org/t/p/w400/ltis3tEhrafyQe9k2xMaTnxYpy1.jpg" group-title="Series Netflix ( CAST. )",¡¡¡Alvinnn!!! Y las ardillas (CAST.) S2 E26
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E1" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/7L0fZHC70xZx7HXt4kPyuOMo03j.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/9llpXO2ku9ByCyxWzXWSp3UWBFh.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/ldrORdkl6t8HfrM1hoJFWDwiT8A.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/1XaUBvz3VC12IhNQjJ9zP2XPPF.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Picard (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/fNqxIaorxkC7gnyMqMFGMqNzMFB.jpg" group-title="Series Amazon Prime (CAST.)",Star Trek: Picard (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/tdXs72WUE5L97kuHbAXBAWSrcg6.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Picard (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/xZX5x1OVz6uMxx5jg2yDqor1PZe.jpg" group-title="Series Amazon Prime (CAST.)",Star Trek: Picard (CAST.) S3 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/zzUI5137deygViH3gQMN1mODoyd.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E2" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/kbLjLR2Y3dgMwAWSKFGlRFonG44.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/qV0UGxuSCSPWNmrb4J6bPKlOyBS.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E3" tvg-logo="https://image.tmdb.org/t/p/w400/zwTwYmyWqCkq2v8QiiathUNo4LF.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E3" tvg-logo="https://image.tmdb.org/t/p/w400/pj9Qf41QVC6nIWyuL8uCHDSxXTJ.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E3" tvg-logo="https://image.tmdb.org/t/p/w400/nUQ0FyfeC6X4mv7tDgTXlpEHDZO.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Picard (CAST.) S3 E3" tvg-logo="https://image.tmdb.org/t/p/w400/6NcB1l37laa9gAEaks5hYJzIH4A.jpg" group-title="Series Amazon Prime (CAST.)",Star Trek: Picard (CAST.) S3 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E3" tvg-logo="https://image.tmdb.org/t/p/w400/9xf7oQglIs8qrKkY3CdrukSsicH.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E3" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E4" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E4" tvg-logo="https://image.tmdb.org/t/p/w400/1KUXVXTLv8evDgOaPv3y4msfaqZ.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E4" tvg-logo="https://image.tmdb.org/t/p/w400/zn079GEGFGKcRx934r6fgbrAxli.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E4" tvg-logo="https://image.tmdb.org/t/p/w400/l0oALdXeMqmVebSJlQyj7GAAej.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Picard (CAST.) S3 E4" tvg-logo="https://image.tmdb.org/t/p/w400/b5J9q6byFSTnsrbnGu2mtULHm31.jpg" group-title="Series Amazon Prime (CAST.)",Star Trek: Picard (CAST.) S3 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E4" tvg-logo="https://image.tmdb.org/t/p/w400/3pRIFekUU0medMG9A750DgkQVOZ.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Picard (CAST.) S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/3xEOIVFQIuo93Wd71xvDf5CiLDv.jpg" group-title="Series Amazon Prime (CAST.)",Star Trek: Picard (CAST.) S3 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/8K4P4nh27s1lrYhBpt75WEN3ecF.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/cwAc0K1W0O988pK5NfG9epAmUDm.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/yYh3EIKhPyzMczptOaNOzrB046s.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E5" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E5" tvg-logo="https://image.tmdb.org/t/p/w400/rSW2SnzyuiYCh29dIpxAS3BnnZd.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E6" tvg-logo="https://image.tmdb.org/t/p/w400/bmvs2sVLbvSInrsX5ad9l8mEPSx.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E6" tvg-logo="https://image.tmdb.org/t/p/w400/9Hc7yqmcQ069cSbLjwmxNgZKYd4.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Picard (CAST.) S3 E6" tvg-logo="https://image.tmdb.org/t/p/w400/tUPFKtRIf8F9i2svf3LE5bqR9Ax.jpg" group-title="Series Amazon Prime (CAST.)",Star Trek: Picard (CAST.) S3 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E6" tvg-logo="https://image.tmdb.org/t/p/w400/4i8qYcPorWqquskWJL11WH6dyVN.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E6" tvg-logo="https://image.tmdb.org/t/p/w400/vSCxvYyfnkXgsFC9aFYlxYUz2U0.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E6" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E7" tvg-logo="https://image.tmdb.org/t/p/w400/gdQn4WmIgHt51EUw29U8eF4GwqJ.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E7" tvg-logo="https://image.tmdb.org/t/p/w400/7OLiKZ0uEfYmvhQNzuLHkAXVIo9.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E7" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E7" tvg-logo="https://image.tmdb.org/t/p/w400/fT6IZ9J0uWMee4WkDPupI8ChItO.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E7" tvg-logo="https://image.tmdb.org/t/p/w400/swRds0o4yMQI9lUd0RawaenCB1E.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E8" tvg-logo="https://image.tmdb.org/t/p/w400/2w89qGT5I7GshDMDGV2jfDdc16P.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E8" tvg-logo="https://image.tmdb.org/t/p/w400/cScEDn7jmWjuM4zuguInkRbuJc8.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E8" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E8" tvg-logo="https://image.tmdb.org/t/p/w400/bh4mu7QLJNVrMjOLS3PJ9dzD7P.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E8" tvg-logo="https://image.tmdb.org/t/p/w400/i9kJ1RFyq5HvqKVTvKvOr84P5pW.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E9" tvg-logo="https://image.tmdb.org/t/p/w400/geBorwJRsQo4rnIxiOoFTJPpWis.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S3 E9" tvg-logo="https://image.tmdb.org/t/p/w400/nICvIa1FXjbTw6Uf275rN9fmffr.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S3 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E9" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E9" tvg-logo="https://image.tmdb.org/t/p/w400/b0zHe6ZJBeLLcM40b7G65bXVuiB.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E9" tvg-logo="https://image.tmdb.org/t/p/w400/cr1jMUmFuD8e2ZlXYgMnkvelGcY.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E10" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E10" tvg-logo="https://image.tmdb.org/t/p/w400/feDCpFzlf2pY8GeFmNKwokHUVzx.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E10" tvg-logo="https://image.tmdb.org/t/p/w400/tlVrTIQnXINhdz5lZttub7IZzlK.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E10" tvg-logo="https://image.tmdb.org/t/p/w400/2m5Yy0T2MyM8BzbsSmdNEzN7Op6.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E11" tvg-logo="https://image.tmdb.org/t/p/w400/a60WRRMtZq964FgEefE5upnkjQc.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E11" tvg-logo="https://image.tmdb.org/t/p/w400/jplqc2vvGiEtiO4YQKiJM3qa0De.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E11" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E11" tvg-logo="https://image.tmdb.org/t/p/w400/k7CroZkbuxckQziO5t03lEQmH5r.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E12" tvg-logo="https://image.tmdb.org/t/p/w400/sjBoyAezF2XaGGkqPgXYRdM52xY.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E12" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E12" tvg-logo="https://image.tmdb.org/t/p/w400/5My6z159cQzFja8eewgVkGN8otM.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E12" tvg-logo="https://image.tmdb.org/t/p/w400/wCE5PTcnLGBHGEy5oVVt3t9k59d.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E13" tvg-logo="https://image.tmdb.org/t/p/w400/8bHeI3cJwKAPcwQSe6FvmQUWNHx.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E13" tvg-logo="https://image.tmdb.org/t/p/w400/5iVE2vgddgwr9IjFuzuErSxFYW.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E13" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los misterios de Laura (CAST.) S3 E13" tvg-logo="https://image.tmdb.org/t/p/w400/ld4bRxxzkFtklaxjhVNmdLtacgm.jpg" group-title="Series Amazon Prime (CAST.)",Los misterios de Laura (CAST.) S3 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E14" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E14" tvg-logo="https://image.tmdb.org/t/p/w400/d5YjMxjPNgayXifSe7slylIS6lO.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E14" tvg-logo="https://image.tmdb.org/t/p/w400/mlwRkBRmJbVwfTupI97if34J7zz.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E15" tvg-logo="https://image.tmdb.org/t/p/w400/nW22dRNVzF90PTk1qwzfArJp2RF.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E15" tvg-logo="https://image.tmdb.org/t/p/w400/vr3qbJudy6Q4czkuNELVr8lOp9V.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Tetas no hay Paraíso (CAST.) S3 E15" tvg-logo="" group-title="Series Amazon Prime (CAST.)",Sin Tetas no hay Paraíso (CAST.) S3 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E16" tvg-logo="https://image.tmdb.org/t/p/w400/x9MBZOPsi1if7lxfqSzrRWNGCd8.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Barco (CAST.) S3 E16" tvg-logo="https://image.tmdb.org/t/p/w400/j0ypY3CZgPWzTJADsjIgmGMibJw.jpg" group-title="Series Amazon Prime (CAST.)",El Barco (CAST.) S3 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E17" tvg-logo="https://image.tmdb.org/t/p/w400/8wPQ5ApJwPdIIcxU7zgoRkP28JI.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E17
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E18" tvg-logo="https://image.tmdb.org/t/p/w400/usnFTiLMv8bmbENxTwSlBdUySOe.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E18
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E19" tvg-logo="https://image.tmdb.org/t/p/w400/wMbUrpUkw5Ghvf67nAfG3GTywJZ.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E19
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E20" tvg-logo="https://image.tmdb.org/t/p/w400/jMc2UqKnQCbg2Y4HC2zo9lVnkXM.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E20
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E21" tvg-logo="https://image.tmdb.org/t/p/w400/wsnRrzggQrAhIpvPmJuSwZ27p56.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E21
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash (CAST.) S3 E22" tvg-logo="https://image.tmdb.org/t/p/w400/noQGl7UedNApFvAIbpDpixIJW4g.jpg" group-title="Series HBO (CAST.)",The Flash (CAST.) S3 E22
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E1" tvg-logo="https://image.tmdb.org/t/p/w400/iNHjD4wl7xzD6fxYTgrjqPeN1eS.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E2" tvg-logo="https://image.tmdb.org/t/p/w400/qnaRgMYTpLE4ZjDATf9MDS8HLwa.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E3" tvg-logo="https://image.tmdb.org/t/p/w400/2rmF6QbJX9860UN8qQlnbGhwqcQ.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E4" tvg-logo="https://image.tmdb.org/t/p/w400/vANNdGRxWa040cLHCsBsISl3iJe.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E5" tvg-logo="https://image.tmdb.org/t/p/w400/mZe3wxKhfI5xtKfktYAOMMUetqI.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E6" tvg-logo="https://image.tmdb.org/t/p/w400/z4cN0Gw7Ka52EX6WNJIwxSkvbHN.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E7" tvg-logo="https://image.tmdb.org/t/p/w400/dRH1eOKDKICUBRbM6otabXDMHnN.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E8" tvg-logo="https://image.tmdb.org/t/p/w400/kWrD4kuKORYrKMj3vcQigVX8pBv.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E9" tvg-logo="https://image.tmdb.org/t/p/w400/tG4mBqfcqUfkjoCMBDonaBnFQoy.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E10" tvg-logo="https://image.tmdb.org/t/p/w400/yBaWWPucV4lGGCl1RjdlQOZ85d2.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S4 E11" tvg-logo="https://image.tmdb.org/t/p/w400/NiHeHrayleVWz3gXRjsLZqhlOu.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S4 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E1" tvg-logo="https://image.tmdb.org/t/p/w400/sT9NYBz6LvbafKgu43xnTzVrEuT.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E2" tvg-logo="https://image.tmdb.org/t/p/w400/cLJEiVIZ71H8jrPn4FTPzxGx5ud.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E3" tvg-logo="https://image.tmdb.org/t/p/w400/2KrxPwLelk8MYb2sfgnMGA9ei7C.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E4" tvg-logo="https://image.tmdb.org/t/p/w400/aclwrDKmSn0dU5bVmDcWYkiUEXK.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E5" tvg-logo="https://image.tmdb.org/t/p/w400/eYafj0oXowaJE9yhUIhy5F5Gxcf.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E6" tvg-logo="https://image.tmdb.org/t/p/w400/xeJLVhKXh12NwmxMANsnGVvoTuK.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E7" tvg-logo="https://image.tmdb.org/t/p/w400/kWKnXixYrtBllAWvIXSskfbIrKT.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E8" tvg-logo="https://image.tmdb.org/t/p/w400/gMNlSYpsEjt2wZopXAU2F0TwlGl.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S5 E9" tvg-logo="https://image.tmdb.org/t/p/w400/mIp0VIoFGuK39wZHn9gPZipKIVw.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S5 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E1" tvg-logo="https://image.tmdb.org/t/p/w400/nGtpfZcqu8hZ4W4cxBrRnww7M9w.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E2" tvg-logo="https://image.tmdb.org/t/p/w400/52Kn5PRKhGqAimXOwFmMerNQekx.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E3" tvg-logo="https://image.tmdb.org/t/p/w400/po1jqMGfcbljhaGTLBaidZTH2Pj.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E4" tvg-logo="https://image.tmdb.org/t/p/w400/jX2l733aIFR6WEoTxV6AwOlwLND.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E5" tvg-logo="https://image.tmdb.org/t/p/w400/mvj3ToxLuJwbbPkTfhHIRml5kNQ.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E6" tvg-logo="https://image.tmdb.org/t/p/w400/nJ25Kk9t8K1in447SxCKmWKroWu.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E7" tvg-logo="https://image.tmdb.org/t/p/w400/e9JtTVfLROMN4cMpXze6HU8pyM8.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E8" tvg-logo="https://image.tmdb.org/t/p/w400/wtDSgeHP7n3MaYARGlmXGb3CbkW.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E9" tvg-logo="https://image.tmdb.org/t/p/w400/haO03SIE7PffcMvTbu7utAQWS9Y.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E10" tvg-logo="https://image.tmdb.org/t/p/w400/uU3YYS1Vazy5toSMtzoGyxqbUoV.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E11" tvg-logo="https://image.tmdb.org/t/p/w400/mGQk1p5zzHUqh06rxq85v3N7UKy.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E12" tvg-logo="https://image.tmdb.org/t/p/w400/2yMXnUAt9pTEPbICWu8xFheLrK.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S6 E13" tvg-logo="https://image.tmdb.org/t/p/w400/pi4aPDx66ljhtm09ZQr4OqR2Lqc.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S6 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E1" tvg-logo="https://image.tmdb.org/t/p/w400/m45MI1hWdNdP7zF5h1btNaEwTpu.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E2" tvg-logo="https://image.tmdb.org/t/p/w400/zYLSYYAeYcrTqAIyuTpgpeFv5MV.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E3" tvg-logo="https://image.tmdb.org/t/p/w400/bcXvu89f3xVQur6cniVqbWevAOk.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E4" tvg-logo="https://image.tmdb.org/t/p/w400/fJV24dBRcZexxbWvZw4tGMUO1Ll.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E5" tvg-logo="https://image.tmdb.org/t/p/w400/befI1tIHCinmJehM5rEYznoERLW.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E6" tvg-logo="https://image.tmdb.org/t/p/w400/1SzXN3PL1sHB1x2298aGZIuQlXF.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E7" tvg-logo="https://image.tmdb.org/t/p/w400/lj6IFKII8pm1y8zey0a9peIwjqr.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E8" tvg-logo="https://image.tmdb.org/t/p/w400/jBqqt4UwhWHwkc9g919Gaa2UlAA.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E9" tvg-logo="https://image.tmdb.org/t/p/w400/Cqvx7NfxMTxeQ3hHsVCEL95OXK.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E10" tvg-logo="https://image.tmdb.org/t/p/w400/lkreZQeRWgedoCObvwQ6Ktks5vW.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E11" tvg-logo="https://image.tmdb.org/t/p/w400/mUwCQ98SbWQaolVTmJqUQmheX89.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E12" tvg-logo="https://image.tmdb.org/t/p/w400/qaobWvw8TdiEeCJcPm8GjR3g2N9.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E13" tvg-logo="https://image.tmdb.org/t/p/w400/cKrtzh7Q6TQ0z8CgLdqTghH4lnd.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E14" tvg-logo="https://image.tmdb.org/t/p/w400/ijjpQlffj42sstcEAYp3AV9FN5J.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El internado (CAST.) S7 E15" tvg-logo="https://image.tmdb.org/t/p/w400/sIcp4L6Bh8IZecD7ILO862OVpQ5.jpg" group-title="Series Amazon Prime (CAST.)",El internado (CAST.) S7 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/248881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/5drpoVxqBSBGQlCgdBcoS4dAASd.jpg" group-title="Series HBO (CAST.)",Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/dZjyjF1cArywOiW29bqeamyVD98.jpg" group-title="Series HBO (CAST.)",Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/hZYDMzndu7tNgF3DHTGPyGFGn89.jpg" group-title="Series HBO (CAST.)",Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/19uOGHh6G9YqPG8xgRSMSf2uG21.jpg" group-title="Series HBO (CAST.)",Harry Potter: Torneo de las Casas de Hogwarts (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/rMbvEg7lZwaTT7VGKWMfuZ4E0mS.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/hGlIPX9mFNubYePWnHRJItV7ECi.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/rFd6dW0h8guHZhH0qXmPT2Kej0U.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/iWfKweL1JHq7rNvXgvDzJLpCKR6.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/eusrr7ccI7pheEzrYz0khFQ5rNJ.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/nA9LUtKYlMCmcuiieGfgVNiZX37.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/xJAbyaQSNm9s9Qw5nYO2SBJ03w.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/iX6eY41B0FtvhXsDLUuzpT9xR1l.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/84cN13mM16uXIUOuvn4xA6i6rWK.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/7h7UoTdpBx3yFvnc803EjLf0vSt.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E11" tvg-logo="https://image.tmdb.org/t/p/w400/k0EO7KoC3BXA5FVzzojhr22yn65.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gossip Girl (CAST.) S1 E12" tvg-logo="https://image.tmdb.org/t/p/w400/ij8uKajYsnLT6ob7wKCBsFqHXnE.jpg" group-title="Series HBO (CAST.)",Gossip Girl (CAST.) S1 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/249009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/xXQKZgTBynnYWn7ygOk7RWh9Sko.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/uYSkeGzyZMWl7jSFiWuPhN54edb.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/tplu6cXP312IN5rrT5K81zFZpMd.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/fFirzr3lHUjTXeACGIWmaahPydo.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/g1bCJEu4joxA2KvvBocojaqUVzz.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/gsednonJYjMlLYiGKMiHqC1nHxb.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/2GmJD80FGtMIcca1UuLIIuIm2c1.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E1" tvg-logo="https://image.tmdb.org/t/p/w400/cBmF9rdO52rajyI0bBZFiKEC4Uf.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/vD4kugm8aVaxHQojb6afhQpB0w0.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/gFmn5m6o9HQnUrVJ7WrdIv8aRDo.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/n0bGqpX5jZaxG3vvw4Gq5InvxFF.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/pQMNMFCJf4qbMcIVDyTMrqVM5Lj.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/9TE1XQF8eQJUJkrlmyEeWtypUC3.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/tjDNvbokPLtEnpFyFPyXMOd6Zr1.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/9VtgYzLkutdvVugjKt0HL3vCaDp.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E2" tvg-logo="https://image.tmdb.org/t/p/w400/9ceGj46UVmG8W9B4Z1oiiIew5w8.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/kAeJOecCqgHHDHQEpNEunHqvjWE.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/cpYPesxOMm6vjX5YZ3XcKVdRctP.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/jt37Cz2XF1iidKeuO8QyCKrI4Ef.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/rohDcpKFJwRXvHrEuh3j6eGOuLw.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/eTRQGrNXhg3t1Z3dhNLOsGxomxm.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/xEeUZj58SsP2FO6HXVAt07Z52bs.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/8aI8TkJNjaDWsprmQ9nY73mZ9iP.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E3" tvg-logo="https://image.tmdb.org/t/p/w400/1IEDLPnuTgrYbJRzyu2hQSGRO4K.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/i5BAJVhuIWfkoSqDID6FnQNCTVc.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/mIMn71VYixR1CTMJByh1AXqNCcG.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/3R6zqVb4v3CWCQQmlagFIcLkqqV.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/jT6UcjnRP1MH8zUf0zL7NFGqhNQ.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/cjqfqteWbTlSfQcVfX6E8eQvFlN.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/qh1MC6YEIhjG0AICDdqwdGlEc3q.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/n5ugFuHn5peWedHpU7dDU2xGGjZ.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E4" tvg-logo="https://image.tmdb.org/t/p/w400/u7Ips46UxRF9F0BJAdSxa0aQeMj.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/7QOF7DF6ThqLziyc0OHSl0INuUd.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/rmIh7NHAfreZgVoX7hG3EHEKIe6.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/tsZShswYlo4VG6Jrf6Ca3tOyUxs.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/11HGUikej3bARNmp44vEnkBel5K.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/n00dC6eF9U8MNX4rGojHTcobj0o.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/nrRGeYit3Tvr2NocDmKEA5bH9sz.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/1AJBjizzwRviK9zrXiE7BIEu3Hs.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/82G3wZgEvZLKcte6yoZJahUWBtx.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/rlpwEgvgyJoNCnkvi8EvzDtISEk.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E5" tvg-logo="https://image.tmdb.org/t/p/w400/jpIl5X9JfUvLI01BTzxhx8qCcBJ.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/ywvIK9V7oyZlc9Cw4yBIemgStHm.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/6601H35PBPCj1bjSIaEeEAWNb2Y.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/iCPIYG06s4rEUAffTI7D1xuVPvy.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/cDF1HyDpO4Cbmqi2QNlLto7aH0z.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/xXfem9qMwaxnayx78yBStEysnt4.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/yT4t1HJEx2jJTEYeJIZnTN1Y8za.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/vhsqIcLWnZOVMGpmS1rEFEP91fp.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E6" tvg-logo="https://image.tmdb.org/t/p/w400/hyYwqbmcHn3fuxWE3h4IhZZbkU3.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/iDf0bshxtZ54Ayzxcp4lTcM0zAN.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/pzCDyg5lO8bXlVrMHadnlStCz5H.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/70RkU7wutbo320rjZAdJk2zkTAs.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/ij9lTHPmVwEaanF1ShN84YY3Z5d.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/qZNVeetYoZo3JCPRu5oQbjsl3B5.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/3QkYv78ZlxYf54sLO71xYnoqzMr.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E7" tvg-logo="https://image.tmdb.org/t/p/w400/5NBDjHEKEXMuUxJlVf5r9hzYm3E.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/wfayeln7TwG6BDxArGJtKwuL67l.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/hsfEwCAPwdSJNqC4ADLYh57pal1.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/kCvPxVQ0OLyQG7VwPOzHTHGsbKV.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/k3BwKfdW9yKAkBAR509DB3Za4Re.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/eYAwDjSk68gL3ZFj4umxbDKiSDd.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/lUFk2TYXKPZKtbu8vxkYuHqDIFs.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E8" tvg-logo="https://image.tmdb.org/t/p/w400/9sbZaLgSL8dSCxP8cZzVnoUR6h4.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/oxB6THWezq1zxKcYevcwmxddvZG.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/gVvJk0ulyiATBqWq4yYgNLG3gy0.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/yGJKe1YRb4LeHNzZA20ZGObU6kq.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/guWoA5SLNMVMo6J3vaZSMIEGyXh.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/7dpXIVCN6ha3Ftad16Tm8jddI92.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/fIynnH3wjc8ArqfCULBCYdyWCB8.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S1 E9" tvg-logo="https://image.tmdb.org/t/p/w400/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S1 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/aqCLf3sbEvGQfLlKg1cYccu1hYK.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/4XdKG9BHVxQ53CRCy4TdCyOlSiZ.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/4PrnmETDQgH8mZQk1YE1aRVo3Qz.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/dgOfJYDFgDzjMGYsx2w32fAmIgl.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/fQ6pnHaSVsDyzq5H4NHA4h9HtPZ.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E10" tvg-logo="https://image.tmdb.org/t/p/w400/zcFmv1Bc40p4mBDO493pHmPwpcx.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E11" tvg-logo="https://image.tmdb.org/t/p/w400/xp7PNFBcZqjQoSoBr78GCyjFZzg.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E11" tvg-logo="https://image.tmdb.org/t/p/w400/sI1Sr6oOleCrk4pwaa7zifOCo1.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E11" tvg-logo="https://image.tmdb.org/t/p/w400/6VXES8xwUwpf9ChX87dZP02byQR.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E11" tvg-logo="https://image.tmdb.org/t/p/w400/m0EeNM6XyMb2gMKF1b6vyFoaTND.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E11" tvg-logo="https://image.tmdb.org/t/p/w400/4zPzCl3xqn1B6MCUdpnHyQAJHsf.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S1 E12" tvg-logo="https://image.tmdb.org/t/p/w400/cssJ7NhSXYfWNHdDJYXmDGgGYEp.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S1 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E12" tvg-logo="https://image.tmdb.org/t/p/w400/a6oXxzZQcs8NmAlmmb5kdben8Nv.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E12" tvg-logo="https://image.tmdb.org/t/p/w400/u2TRn2R3D3cFhERtzeMcA8kfaFb.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E12" tvg-logo="https://image.tmdb.org/t/p/w400/jycEjP6R7cd23FasOdNp61d8Xk1.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E12" tvg-logo="https://image.tmdb.org/t/p/w400/psks21SgKAHUtaXadRKrrTifctQ.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/fUOlgpJgR9GBHBvLqad0zZUk0aO.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S1 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/j9Bj0pjUgRLW6MW7j8CJPoGj2Wi.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S1 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/bdbSopVq0BbqfNuVO7S9BDEk0t4.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S1 E13" tvg-logo="https://image.tmdb.org/t/p/w400/fiEsXneKbDVaZoggZDv6pcRXwph.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S1 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E14" tvg-logo="https://image.tmdb.org/t/p/w400/p14Ys9JzA4aYgM7yig7ynjILYkf.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E15" tvg-logo="https://image.tmdb.org/t/p/w400/sNdtzr6t3hNxt7tprgC8uD2cXzj.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S1 E16" tvg-logo="https://image.tmdb.org/t/p/w400/cVNgieayhYH35RVnNEYhw9EAwBW.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S1 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/50bCRSkM2rLx4nEGnijqhAQgBOL.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/new6dK6yNOcXysMvm8KDp7pKqod.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/io7d2vXzkFQDkuJkvZf7QRPbsWr.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/lDHpFEueqDnbYTrbwOKNmBCKssB.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/7vVujNqjP23MtPqUTBNITIW3DDA.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/cs9hmdG9w6w5OkvcFKVOj5AiAZ9.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/i03Gc5a3kT2W6XlE836vHBxzjMv.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/uxeYwRWvKa66LFKK5dqj5yPLV0h.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/lYFabsw3SBbrWfKGWoKEaHTZ3JF.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/gi1DQ0wSPkEbxSZReL73ESsS2XB.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E1" tvg-logo="https://image.tmdb.org/t/p/w400/io7d2vXzkFQDkuJkvZf7QRPbsWr.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/v6viaCxUbYLqUmBLnTJK56Unpms.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/ke2QIHsaWb5qJI4KugXvGPTK7qu.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/prmX51ZHMMoDhKH1t0TEUNjxVGg.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/clxK6oT6F5FD8EWsg3J0CiQIXWx.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/fNTvPUeldtfm8THkrC8hOZjibs2.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/tOomU1t5ZGqw1VNWgIzYRmNCbjs.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/iZEPz9MBEy9Zoc11NvNCWuElvVC.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/gffNVV4WmEnvgRsnX0X3LurJ4V2.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/pMz0yDOqJ0tQpdL2eR6UqlK79C2.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S2 E2" tvg-logo="https://image.tmdb.org/t/p/w400/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S2 E2
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/nL1rYzK54PDDE1RARxOErilHnLc.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/8ojOKp4wZhFU2Qv4eV5HvAboqzs.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/p69fPkpnnxUmevhupJiDeYfQxxl.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/zXVyqFFb4DixdL6PkFxBmSKYwIB.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/hIGTO4fmJPD1z6scsKrQ4ItwMXL.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/ahKCwbOOrlxKTU7MPMZrjWe442N.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/sQ6oD8xZ2lJwvhk01jQ5QPF6syI.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/a7v9k61yKmqRnRvr20cw4lzckJq.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E3" tvg-logo="https://image.tmdb.org/t/p/w400/sjsGePPjklecdtspcWcymllnVhB.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E3
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/juWaNsM6TDCvxQ1J5j7T9qM4AVT.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/1DmsrYDuHZNQ7rjaMGxqm9j1fDj.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/yK7niDJXEdr6AKLimgV8ZpdWQvy.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/3QEwjhReRDT3rlwUSX7uYAdoo4L.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/koaGMtpxFhBt2SdSzZlgT9kDAu4.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/c7ZzRki57zGk1uA6bYA96nnffkw.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/vvNsTer2CG7OkVDCyNoVru2LnaR.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/gMXeL0qcQZi5Tfd4UhnkRJeI9oa.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/1PO2x0Tc5Qk2vihMHkrewwvk5PS.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E4" tvg-logo="https://image.tmdb.org/t/p/w400/7VdwhntEMnIz1EhxkcRk09gv5ts.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E4
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/uMctGpmxDEfFcLDv37y63IxURHC.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/nzg3q6uIjV1N5ELSTQ2epa7G07u.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/trUVc4nroLCWayW1Bl61uieY1ET.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/ts8QTzD4H6mpCbaH5c5lsgiJqP2.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/6ljSoSp9ImsczGvtepnBpjlRAKq.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/adxd0ppqT9zOynFvtSjl7Fq5knP.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/k3qcDOGo6C39EsUBYdS3RsT3TkI.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/qkkkIpVhx7wwLNgJIJJAEXDRdsn.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/rcNm61JHgYNF0vKIZkQ1ysqtZOf.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E5" tvg-logo="https://image.tmdb.org/t/p/w400/c6lRYTvJR3o6oU0DabE38EBSUIu.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E5
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/6GUxO1L8T6mJybB3UvLiHsTRhJB.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/ykomsIPlGq3uhvadIpY0eoToa0J.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/fKNgMdTJHmrrBMUvdtSoOPOKoiE.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/dIN13YP9z4yUl8LfLuVSQp9MBW5.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/dGHHkqSP45GinfwXvfrF9hn8qXM.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/bwTLLOML8VpuJ3ACrY3yHCqGJqc.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/hS0pqJLCh9HAWI9JC76sc4ScnFN.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E6" tvg-logo="https://image.tmdb.org/t/p/w400/avu1h4hzWumE9B0nTo14Lfp4E9i.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E6
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/wbXdN2d1pNVrcWugMiwpdng89UM.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/5cifsP8FNSVolSgVFx88ctHfRpp.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/qxumKipIFtni0AYgg4B2uu9nkHB.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/cyZqaYrhFfHcNNrRvpIcTtFFLgM.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/3TQCpmmPbiGUKO4OkEAPhQdd5Bp.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/8BdK5HFFv627REaT0EAaP0s5lH5.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/3qqi6dwKyUHqowyfR3lQhSFOphB.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/31HRKsKiTdKcjC5FmkUesmLhQsR.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E7" tvg-logo="https://image.tmdb.org/t/p/w400/gv7yM01BPxu5IEyiOXAlriqKIV7.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E7
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/KmFdF23FtbPwwz3FJF2T885r2Z.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/yYNgjuYHDJ8ZU929S96FZc2X2Af.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/cQ29XCZiAyiDpKnmB6hTAJSgR9u.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/jTxgqQUJyBJg39oKSwdk6IRafy1.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/4QEzv8clMpsrq9HyzzBMFYtpZkE.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/9DQESENeZ0S9ZUMBQIEh9hCDlMU.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/5PpzqoelWJvKiPaSDVLM9u43Rf7.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/tKU7Okh2g7XrS7rBMoOy67N3sWn.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S2 E8" tvg-logo="https://image.tmdb.org/t/p/w400/bo3qq7F4lFOEqfDLMobsadLD42v.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S2 E8
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/8ZZs4WRSoYV7i8OrDk6Vsjk9Anc.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/3bprO7iFRbHpjJzRsFjvjDjQIYm.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/f4njZlqWLYXE7qEZcw0HHMvalbX.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/nhfazUEFaMef7hX8pH28nv9Dbvb.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/80CKoa5pB2sgCacDudK1I3OvEEs.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E9" tvg-logo="https://image.tmdb.org/t/p/w400/3lQrsd0qop10xsaXhlrCJMnzDIh.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E9
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/p5pXS66qptzWwUUo80NXZyH1PVw.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/qJvm57aPMMEraJ62bDb79O0XXG9.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/4Z2SajfuraGexYgXkPOhC9MGuKV.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/WA2yAVExj3CaKuu7Hrc4V095EL.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/esqGAolgHlsE2PBMqO3qvpeQGK1.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/muaurjvMczn6PZE2hOGKuh4EkqR.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E10" tvg-logo="https://image.tmdb.org/t/p/w400/itHmPMHji0sq79oX4iOWnnSMFaN.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E10
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/3UAn0oxAiEuxNfSTpBv0M9iaa8Q.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/tRC4UaJIdlZyvM2kkeRtTiFAAs4.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/mUJTSMmxpXL9hiDI0wCdAW39H81.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/vLxEgVe2fahsFAsZBukA6T4xQwT.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/gYxxRr8GLKlmn9ICBQ9MdW3TUsy.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E11" tvg-logo="https://image.tmdb.org/t/p/w400/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E11
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/jeIvHAxZbDL0QE8aFxN9UbWXVjS.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/hQUv5sTDN3P2sn5CpCkEugmzC1G.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/7fY3QJRQGtdYsMbteTw30GarU79.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/6ndineWrMygrfJE9wip435rnCTr.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/jQOTkXzI4yBBQexPKqPcz9whFIk.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E12" tvg-logo="https://image.tmdb.org/t/p/w400/raqY9j057YfyLq58u1gJURGd9K0.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E12
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/i2C27CFN1WzuGBCTmFo19fweiST.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/nEgJh7OhNaNTS8mMbhoPkJ2HvWl.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/r0QmCpuj133WbgCo9PLUqbqeOfR.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/nWH1yHMozeI1BEJtNGi58AzAU4.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/6f5hQYlF1fCWUf4bm7IgxcBk8Rx.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E13" tvg-logo="https://image.tmdb.org/t/p/w400/dzyXiBetjvP4lAtvMzz5IDww1ae.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E13
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/rM0pP8Gpl690hDzJ7AGLb7aE0t2.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/9JsguU7Ehw6AuqB4z1s1dtRx9Ka.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/r6rtRYqayP2M7yELQ1KVNseLIvW.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E14" tvg-logo="https://image.tmdb.org/t/p/w400/bwdVJBEzCfL2MFoixPy9gKXob0f.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E14
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E15" tvg-logo="https://image.tmdb.org/t/p/w400/hepWWJSwEGv3OtjkKEPd9CC1U8T.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E15" tvg-logo="https://image.tmdb.org/t/p/w400/sHqZilPG5T0IYlnBDSPg8sWu5Z6.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E15" tvg-logo="https://image.tmdb.org/t/p/w400/t3eHAODLk44xeeHsi3nlhwnAzOz.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E15" tvg-logo="https://image.tmdb.org/t/p/w400/jDzK1uE2ied6viZ98uDtx3xjJEw.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E15
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E16" tvg-logo="https://image.tmdb.org/t/p/w400" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S2 E16" tvg-logo="https://image.tmdb.org/t/p/w400/wqLV57rFhBS5LyWKf1koHKcwETd.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E16" tvg-logo="https://image.tmdb.org/t/p/w400/mugH9bd2QiclxwSwkA5uaUsdutJ.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S2 E16" tvg-logo="https://image.tmdb.org/t/p/w400/nBcok8hBlRW4UG9Bx5mrWiUbdD5.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S2 E16
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E17" tvg-logo="https://image.tmdb.org/t/p/w400/pShv1t2WbziDPmRfVDs2Qicc61p.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E17
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E17" tvg-logo="https://image.tmdb.org/t/p/w400" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E17
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S2 E18" tvg-logo="https://image.tmdb.org/t/p/w400/ndpTp1akAYGkJ7ZqGKQ6Ns6IRtj.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S2 E18
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (CAST.) S2 E18" tvg-logo="https://image.tmdb.org/t/p/w400/vef3nKZf7BUPSOzZl0doAWu4uFu.jpg" group-title="Series Netflix ( CAST. )",El príncipe (CAST.) S2 E18
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingos (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg" group-title="Series Netflix ( CAST. )",Vikingos (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/mXwCIgBnpHdmMPu7RIUNwqXQM4v.jpg" group-title="Series Netflix ( CAST. )",Manifest (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/lvX5DPGYXGpJs0SHMkXIP4BzE6H.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/lvX5DPGYXGpJs0SHMkXIP4BzE6H.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/gIk9qBkpJDsVXdrU3kqtan2Ylg5.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucifer (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/sYdotmAglkEL7y1NqVmJLxjWn8J.jpg" group-title="Series Netflix ( CAST. )",Lucifer (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/nDigUBnlR20e3xItmW3foEIRzCD.jpg" group-title="Series Netflix ( CAST. )",Breaking Bad (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/dx8qs7IutNjlEyhCY3QaFuTKbiG.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Élite (CAST.) S3 E1" tvg-logo="https://image.tmdb.org/t/p/w400/npRQpIohHp4cMx64juNXkiNqv9E.jpg" group-title="Series Netflix ( CAST. )",Élite (CAST.) S3 E1
+http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peaky Blinders (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg" group-title="Series Netflix ( CAST. )",Peaky Blinders (CAST.) S3 E2
 http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251276.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Emily en París (CAST.) S3 E2" tvg-logo="https://image.tmdb.org/t/p/w400/cKOy9t5woCV4KfHVXZsmsBWkUeq.jpg" group-title="Series Netflix ( CAST. )",Emily en París (CAST.) S3 E2
 http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250604.mp4
@@ -10612,80 +11500,4 @@ http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250776.mp4
 http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251396.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E5" tvg-logo="https://image.tmdb.org/t/p/w400/dc3oOcsVrMRkTByKQVVbGFF0gm3.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E5
 http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E6" tvg-logo="https://image.tmdb.org/t/p/w400/zm0IQRnKoGc7SrevCuS56srAfAV.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E6
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E6" tvg-logo="https://image.tmdb.org/t/p/w400/wN2jKNIZrDAADXdj6dfF4ert8yh.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E6
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E7" tvg-logo="https://image.tmdb.org/t/p/w400/5CY79ewUpcmK0FewSbv46c8V41M.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E7
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E7" tvg-logo="https://image.tmdb.org/t/p/w400/tGbcJL68jSrGnXv50sqVwLMx408.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E7
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E8" tvg-logo="https://image.tmdb.org/t/p/w400/fZj6iUHQhd1YgCDvhcRdCcVySLJ.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E8
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E8" tvg-logo="https://image.tmdb.org/t/p/w400/5c08FKCd2zpNYiRw5ObFRFDE0is.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E8
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E9" tvg-logo="https://image.tmdb.org/t/p/w400/xZUAhZlj9BOIeFo2soDRIWoLcGf.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E9
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E9" tvg-logo="https://image.tmdb.org/t/p/w400/nEeFEpDmwOVpMXdBhrMro18j6GC.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E9
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E10" tvg-logo="https://image.tmdb.org/t/p/w400/PWKluQslULQ761vNXi3yJyWkem.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E10
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E10" tvg-logo="https://image.tmdb.org/t/p/w400/kvgpGFaDEJMk05BXRZ4MpXEa80a.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E10
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E11" tvg-logo="https://image.tmdb.org/t/p/w400/95pNVpSVFERZ799ZYdoBfM60TK9.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E11
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E11" tvg-logo="https://image.tmdb.org/t/p/w400/h1AZ4xfLMtqSF7ULCPOaOyyGDPD.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E11
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E12" tvg-logo="https://image.tmdb.org/t/p/w400/hsVZkqirhrw3T0jFvyDuxF9mrw1.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E12
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E12" tvg-logo="https://image.tmdb.org/t/p/w400/vh1839CG79zJMF4ThoXfm8IHG4O.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E12
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E13" tvg-logo="https://image.tmdb.org/t/p/w400/yYO4pJRoROezxB9FtOm7qdXtvJg.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E13
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E13" tvg-logo="https://image.tmdb.org/t/p/w400/r61WmOBHnwLWyuX61HvTOKsRChl.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E13
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E14" tvg-logo="https://image.tmdb.org/t/p/w400/bcImqW5fBFCJkAHQmyO0sy8Z6Ix.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E14
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E14" tvg-logo="https://image.tmdb.org/t/p/w400/p0dhZyJKdIVQfSIGQPWc8XMvhmd.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E14
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E15" tvg-logo="https://image.tmdb.org/t/p/w400/nXiraJqOApHb07KM5VUSs7wgi6N.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E15
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E15" tvg-logo="https://image.tmdb.org/t/p/w400/fzRtic9p1FVJsFdJ4M8LSYzNKcN.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E15
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los 100 (CAST.) S7 E16" tvg-logo="https://image.tmdb.org/t/p/w400/zUZTFrSu7OSq53FVBm99wolZFSa.jpg" group-title="Series Netflix ( CAST. )",Los 100 (CAST.) S7 E16
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/251383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E16" tvg-logo="https://image.tmdb.org/t/p/w400/2Tf11LtXCMJELjhw1KjSBYpN3d5.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S7 E16
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E1" tvg-logo="https://image.tmdb.org/t/p/w400/irMbpaKsh9ZMUfc1gfFxUQVUsOV.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E1
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E2" tvg-logo="https://image.tmdb.org/t/p/w400/eR3fEt9tDFAMdCeGj0ecYWGwHVl.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E2
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E3" tvg-logo="https://image.tmdb.org/t/p/w400/debMKpLwQOjMw4pGGw0UTYj5Zp0.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E3
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E4" tvg-logo="https://image.tmdb.org/t/p/w400/5dizq553p2WL3PQymokOvvdQQDF.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E4
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E5" tvg-logo="https://image.tmdb.org/t/p/w400/fOFgHXnUJ20fxRNrVdTw1qYuoeq.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E5
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E6" tvg-logo="https://image.tmdb.org/t/p/w400/h5a19IndgRfP8tA7u1CBUiLDKLX.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E6
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E7" tvg-logo="https://image.tmdb.org/t/p/w400/s9LtHmKQVjzhm8omPGtdUsW1FAp.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E7
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E8" tvg-logo="https://image.tmdb.org/t/p/w400/vAJx24Sg9wPcDl6P4qa3BIQeqxr.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E8
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E9" tvg-logo="https://image.tmdb.org/t/p/w400/3JIccjqkciZkGFtm3QyjYrdFKX6.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E9
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E10" tvg-logo="https://image.tmdb.org/t/p/w400/pf5ItXUnV1UyGwBBUcEkGbtWMl.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E10
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E11" tvg-logo="https://image.tmdb.org/t/p/w400/dSZ0eSWUtgCQwIA5NEa6OKzstDo.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E11
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E12" tvg-logo="https://image.tmdb.org/t/p/w400/8d16O500ai9w5ZyKpY3d5OC39n6.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E12
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E13" tvg-logo="https://image.tmdb.org/t/p/w400/zLvIqkeXMfaHCPwOcXwa2Rr6xzN.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E13
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E14" tvg-logo="https://image.tmdb.org/t/p/w400/mZcZgsgR90e5JTSPKyRd7Cc6in.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E14
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E15" tvg-logo="https://image.tmdb.org/t/p/w400/hfPrIhegS0p6UDoi0eSllsoEmsP.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E15
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S8 E16" tvg-logo="https://image.tmdb.org/t/p/w400/aLu4shQMUrEQWE2MTXD9gKw4g0m.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.) S8 E16
-http://mael-tv.online:8080/series/aaron-garcia2023/aaron-garcia2023/250791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S9 E1" tvg-logo="https://image.tmdb.org/t/p/w400/iiBwtxBWyHrBFIYZp7aNKEo83eD.jpg" group-title="Series Netflix ( CAST. )",Suits (CAST.
+#EXTINF:-1 tvg-id="" tvg-name="Suits (CAST.) S7 E6" tvg-logo="https://image.tmdb.org/t/p/w400/zm0IQRnKoGc7SrevCuS56srAfAV.jpg" group-title="Series Netflix ( CAST
