@@ -59,8 +59,14 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9492.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9491.ts
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bethel" tvg-logo="" group-title="RELIGION",Bethel
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42433.ts
 #EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="" group-title="RELIGION",BETHEL PERU
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42434.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bethel" tvg-logo="" group-title="RELIGION",Bethel
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42433.ts
+#EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="" group-title="RELIGION",BETHEL PERU
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42434.ts
 
 
 
@@ -114,6 +120,20 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9472.ts
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrUFMGEGziyErzG9gjye_WafCz6HCXcVyJyVlKwR1ChRYy2GBvcArxlOcTacYfwg40p_UuIhfmy0NWIeDikCujsP09LNMvJQURjpDZ3Murt8uBPMFJ8ZHLmPqyJxryLXlF49GUGSiwqgfrpjVLGWnK2vpkhajhEb39oUPVv2bSQMEhLh72PQ9vfdVIYWbWxB57yyAbqUpUMyA7zTBs_Ju5RoHD7ljdHEQRYl1z-9SNknugVy5Oq3vaveX2v16Cs1ax3U3erEv1FIKHHQWHLKbdTQwl-zs3TVJ2D78nZXOOA-71KP0G1m5gFoQzO8AQO2rMZmtmxwKQfgFiVOgciTKZfofwtb1HKM6RQNwvTKp6IS8pXH5NIKjoM6-Cu_zdMU5DwxHwDSzlt-nbuCi5OC4vHRyx051NmM-Z7S_hc1XvrHKfN3Feyzo4Hfh9i8JPXjyr6gyX9nNHEKrtLq5O80ocIoCW3hEA4057YOr9497v4-CiV_3hBUeP9qlbr2CkjFW5G1vVqGeW9BPq4k-RsffywTSXPJ2yyc8gPCtJzFI5K7pjcXsrOWYh3ZHQ1otUmcQLlmu_H5kGX-E8GgU0zStTH7RY8V94aIxBYYEavRvtI0YSvHt8x_ernLlzLnp2HmMeecyFXgJFx-A6n92rXcCNMTwqZ2Nr5TC5PnaCXh2cRKmkwX3d-nNitjt0p7FhAXvXuk90Mczeudszvu-mdfS4W9fA-GuWP9CXBmeVVO7XU1Iisni_Dv5-4fuwfFRoPWbIP1cM5SGp-rkYnSK7Cx6gCnaasKiJ4oyESafriyNY2fSrUpyqynGmQOpmAvKbc6gPB3y-CXarIpilgCqAxv0FJ8yoa5ZrfKzXTFG8F7nwosydrekz-5Dt0gZ6kxzFGqshyoBLud7lg4UFmh9tk6pmgD4tWLaO70GgxgicC4exeRE3PgqrsgASoJdXMtZWFzdC0xMPAE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RANMA 1/2 DIRECTO" tvg-logo="https://i.imgur.com/rC3XSuo.png" group-title="24/7",RANMA 1/2 DIRECTO
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrYFrI8ahsZ6GhvqJJCCM6Q0t3iivaZzTeiXq-u4k0rqF9jgi3MtgLBb_HLCNo18cUCSUZD3yETIolJ8-e6Mg921vOghppzVzZTNiOXjdtLqQDNcClzrdPmk_Oq5aBaB5H38q6l1PbYG2BCOTL3lYcX_JsJtLwaXu6i4BMc77w0keuOrkp11Bkp83impx4LJcPDh7K4kvAJN9jaDbrth0f0Wem3G8eO8lu-g5TG1QhsU8gdAn5sJxjpj21fzCTZyLZu4KD4sTuSo5tpUCQIMsw_uXuZaDSOQs-n4nSBlmA7Xn12VkyVvmHUzaWzj-q-KiN9S5kgzGA5XPTkL6HeDrHZ60jgvZ-owwh1c_pTraLJ5hvMrWf-jGGgbutjEYOmtvFf_hG24C7OxM8k203eEChwUyJ5YnKnwISoQcGM4VBr02FDwUG7S0uCxyznYwhCEoeZQuQ4u4Iu66LyBHjXZFS3ZK7jdhCNO9LfRErrQwxddTq5wztgRrQ86mtZi4D0Ilu63OWYvweH6fuXkSoEp6bC6Ll4DE14oTX9Usz-rbQno53O6_XEXSHJQOBnPeekSUW2tCY6vdBgQCyGSB4bRgxc_S13Dxxc8dmdciqI-Eq1Pu0VbbVbuVYo79uGhd-_7f6IXNw2tkkzH1pRtufVkODgPvPokah3R7Z1EDgLZizIk-o2x1jVJepgeE6yKX5y_ztE4cFvMfCuA7ruD5IHi1Re_QhjAcymOUfbkVm-CDVHWpw2dlRykdaN1lgyRMR2hdyGbNukrEoJZnIeRbuli0y97WOMOtrOsuIdzNz-oftNniBu0pZ0mw74Ob6DUflLjBUXbxomkOospUkK3oVg0VJPrqr-Y5cR1Ezw5VOSJ4-_9mayPN1-KYuV32i-qDZ0itkDqBG1OHvduhNs1FGc-w0lDe0iOOF2phRoM1zwxU3RlXbt_n7nZIAEqCXVzLWVhc3QtMTDwBA.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto De La Esfera Del Dragón" tvg-logo="https://i.imgur.com/YR4jzk2.jpg" group-title="DRAGON BALL",El Secreto De La Esfera Del Dragón
+https://archive.org/download/1-el-secreto-de-la-esfera-del-dragon/1%20El%20secreto%20de%20la%20esfera%20del%20drag%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="La busqueda del emperador" tvg-logo="https://i.imgur.com/YR4jzk2.jpg" group-title="DRAGON BALL",La busqueda del emperador
+
+
+
 
 
 
@@ -1479,18 +1499,6 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4768.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4772.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
