@@ -32,7 +32,8 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9477.ts
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV FHD DIRECTO
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9482.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
@@ -40,8 +41,7 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9483.ts
 #EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV +" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV +
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9484.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV FHD DIRECTO
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9482.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
