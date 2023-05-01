@@ -86,8 +86,6 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9493.ts
 #EXTINF:-1 tvg-id="EXITOAA" tvg-name="Exitosa HD" tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="PERU",Exitosa HD 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9494.ts
-#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",WILLAX HD DIRECTO
-https://www.youtube.com/embed/z63zxg2PY_s
 #EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9495.ts
 #EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD DIRECTO
