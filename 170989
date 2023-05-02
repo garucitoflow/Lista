@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-name="CABLE VISION" tvg-logo="https://i.imgur.com/rfSFubZ.png" group-title="PERU",CABLE VISION
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1932111191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="DEPORTES PERU",BEST CABLE SPORT
@@ -10,13 +11,15 @@ https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST HATUN TV
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1726825464.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",AMERICA TV DIRECTO
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrIFYf4KoD_peMn9g1vGXj2APTz826qdh1ymVEtIDA777Sp6GpeIiRVji5ZJ18aSoD-AGPv291KdKHN7XubN4LEMaMSdJDABVFAGZ59rQmZix33dxTYM6QgiL2HI6PEFpkmjCQiPVhE9wNZB_30p4YBIXBDioPEW6rFo7Q-EFIgmmFF8HCg7GBCusoypZgxsGW99X7V1yvJ5VzIw-ORC0mvyEyhuTzDDJ7y6nbMCBUnRfPgHrCmxN1Ad3LMYTTyovVpUK7CzxwEqGdubN5WdjuFKuxedvi55ALB2QQY4vbtsHvgHWY6i-bH1aw0wGy7A1oHRVG6qC8Q8E_A9xkGiHETZpMmSUsu6lrXxSZRvE0mkG54T03rpK4rwf7K1Uwca7kmgpud3OyeJUdDUGUNTiPZr8u5ZHCT8aacfXaJnSAfMNgQFXJAIfmv58iDgl28MQXQ2HGDdcDRPk7-mh6J_Ugj-W71awFBlRzpecyA2RG28RyRwZM1vwHvNqBoQ1-aqS3AEVm6frOwA0zfs7lnY7t64jaZnWtTYurAgBj163OVfswPenQ52KR0337WvsMTTjApB-F26I1iBrSVlYctrEeAJ1VtXeklTn7je39ejq1QtR-asjpGJyt_n5wzjhyh1UVNRLzjH4JwvQlYn8EcLQbGOHZKlhgwWKjlmKeBfsUtxrmY8eYT8ckdm7YtHzMU6y-KWpRb5yYo297u8RdBoHehXJYzlCwYYe99LlC5GB25XH1UcR6DJLvDhJPn3BN9seTx9xBmSQQWVqgiodMFdWiNpwIjcANRHfP46veecreeywbGaicffvAUIvT-i4-XZAeHkeCheL9EdBgKc3h4NzEDseIVBfNoFERanFDkJy1ZP3Yf1vfOEep1GERpG4UnypJ8hGV0zMMYgrNwiDgfy9XtdckZ7Ggzd6vQ6f0EwOTyoKDYgASoJdXMtZWFzdC0xMPAE.m3u8
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CrYFVpJ7pvNxtjsEbn0FPcJuOuwrU97VX9T82eCn1QvlYIuYX_XkxEY_B5nFDHbbSsdmwJXpB-m2jypNsxR4xzXHvQLhyGq9Pn6MbsR6nFnetfaBnM0_VvSu6DxjJwxgbCaHoChNLYwYJxp2pl0OKPWgzl-rPjY_3j0pudMsc1QgOpwiq_xgAXMzdk0KSvcfbRtU7nh1FatCxAqU8LNb5KhSh_sWSK40gw1T6yXsX50wgbPZtqB_Dje5TvckZLdlFXxbNzHb7jK9IoPc1q_W5mfanffxqZ63OwajaUpzCj6XziQYO46eOYyiZxoyt6KuUMFp9fTtEW-Z2mifA9CKJz78Ilnc9Xd0Wfab1hV6w1ZrzRqaP4W_fSFml2Eu5Pfm-aoTWMVPzEvpgrwEzAsh_1aTSrR4XNAPzeUabLAv1Ac4fmiJ9f5M4_xgTbTXnr4lFve-EEqCB48F6Qvk7jWb7kC8qivixGDYiR-uUeEQXwQvnzAC8fRvIBjIfpav9YRTV4ShP5rSqbcnD2OU_pUrhlMEz0ycBuoEPx2BCOqi70opTNzOCpGLUHjbTyQIzeTyjgBZrQAlc1xz3EsaeUmKglB5UI93TYe_4y1cZIjZImaejroiWR_bqpmjhHwUX3kGeSLllYM8y7xpJtt4zfUbCwCRI0sNYbxdqhiyPoA6LAHI1iI7BD_2JukP5LLQWXTnm9ZxdNy76s4l7YUH87Zz95RTm2VQfcuGGLIJ5Uh8eNwefwKoJoGiZH6RSwHxNsIrc4tme6eVd-em0piMfEnMWqQI25zrKTkeFaFV2orwzIo0CxNOiY2XqPuhvOu02I0lv7lfP3oi2LCI3tpYgMf9XZo73cabCtF7nVsbAOJ9GosXJ3PBmKzvE5rt6wj770TgEGWfSnjMAoCtglekDAxKTZy6bIVsgVNP9hoMErPVsmQz2NwXeqcKIAEqCXVzLWVhc3QtMTDxBA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9476.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 3
@@ -1779,6 +1782,20 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4768.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4772.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
