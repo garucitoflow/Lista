@@ -12,7 +12,8 @@ https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1726825464.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="TELE JAHS" tvg-logo="https://i.imgur.com/HGVITRH.png" group-title="PERU",TELE JAHS
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cq8F8K0p2EjVOaJNvlETe8FHg46kIb3R-Goo2DzcWF3aFav2MB2yfXYd7ZCwVUhmg8DwAtHeMIfiPMBP2_dRXABV2cNTVLwUd1HRj2ziSv8wXOJj1FxuJpVXj7h7Bsyc-8taySD5JYf32JrpVlHd7wUnI97fKen3Fm3yB4nzZwsx2RhqCuQKzVFLm55VcNrh3tRGPyrYhuY0Hv-mRgjJK6vAUqnvhh13z3qhZ76ju6zW0QmWJ5YTyELm8wZiAbi_thc23G8s_NzfNKeDzWTUaSZkPJnkwPKfi9g19XtTI-KRRT6I7ZnVVRlyP02fKQ0UP7l-YmTO_RqV88lmlrm-gzpM7LlFWmiL6jw4sJp_r9N9nVvx0GpQ1zv0duFBES3Ab1lkpguuW1tLkW2QpGZQR2aBklU1ydOGEhDoNwJD0Ezw9dQbGMoS8VJ7UT4-GaZjpqQKJYgLE8N6XLvfdRtnZvlrvQZzee99pIY0YQqLRRHW-Y6hwwhOpoRRBjIE1O7GHXRcuF-jE2S9tdMlIQVrliGM_WQy1Ca2mlY_P85E0yWldnrTpLVto3BMYn9yKXYKxduWEG8koKnYqN4y9Z4JUa9y-j65aWAaynyyWkShCyz0t3wtyDV9dHkwXPKOHygYUrediI2yHRqW6sXdn29MISIggOX62r1ROXaHvyziI2JaiSTPxC4vdRFHhtAfANMeZ0h6NWrmx6drsQWLSfhNEV_S-mqJp16QcsUIAtNxcgTtgyf87Hbith_X0yF3hlPlllhEKVQnsGXMe_iNGclXotpOyWx2ez4LBcPs7Kw-9nF72m3f998H-IqxhU65mwYiD8uSNUmpOTBkM6Lz5m32iy4rtQz1BZvDE4Dv9XMMXSqOax9H72br6M_deYx7utOXrhKv82FBwmMJtdvY400Wp69ZGgx8_oGK8u56CUe39BggASoJdXMtZWFzdC0xMPIE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -1909,6 +1910,8 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4768.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4772.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
+
+
 
 
 
