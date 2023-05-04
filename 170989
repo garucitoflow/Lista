@@ -8,8 +8,10 @@ https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST HATUN TV
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO DIRECTO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1726825464.m3u8
+#EXTINF:-1 tvg-id="CLIPS TV DIRECTO" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="MUSICA",CLIPS TV DIRECTO
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
@@ -104,6 +106,9 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcF2Eef7LK0E2u0HJYAZgSNlH5
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="PERU",TNT
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcFiCglH3xsiVd9LRSayU8T-dws_EKwepZX5hYc7IiZuU6oeH-HOBUJhjQWIYdE9G0tID2ACtMbD-hmmvDNZp8ivrkzCzaStLKFlsy9VoQOCbCsbICs9qnjQyaWdFi3dCtFfhBvvVNyiSFUVe3Y2RaJCJy41wo5DJ2ZRys1QRtbfFp3nlBmisjeF9yLsxqJgwMrUIH1rBuRR1A9zuz2MxZpQ7iu_bVJjxcojmHU7pLppSBvIW27n0z9tPdxLyg6FSC4YalvAZMxfp89OzmPbwvjePA5d3gA4NwDyDDzzK2GGoLGXdXSn_dCldV8b0rUgMYd13PVX_mgB3LYnYGWS0g7PbRslBLpPtRbF67rCC2pCXotYwsJLAJg0eiq8wBDWC6_8YbWn5E0UffNOgt9sEzxQBWs29cnnjLFafws5c4lpcUh-QLE0Wf-VUS2_jwYTgRo292eG66YyohUnSyGdZN8XMCBuViOokeyqRM-Z0SPFF9EiKOhrW2Vr1rhM-4FoWRj-kliy_UmthX-SkOfg6DJnAE6QKvbBECfGRlxgiVV9MahFna7zO-C67B5XAXnxsNqUHs0OkUH6t3p29BRo1avR4wmxBlcpLdb-IA811sSY6HiTmO-UMqUXfUYfvI51qLcRXwzu9vdXJcVaLp8WXDdu4VZCpxB9gu4irqgVSEi45YNN4bzPT2BBQJADOxNc-OTqCzCHO44YULge91f2uo2yeJZ8daf1JrmZ959OK6xNO3usi7oW1MaW8kB4B24Wc9a8UFOxuxIHyElIT_wEw5M6-9bK3EK5PYA4WR0miTFpPjo_1aB_dZKX37OgVaAQrmcO4jPT4imk9pgcuC4pKweV_AreDHu7oGlcXB4uRb6tgmkWjSYmujgaYSfus0VJSecpn06v2UdKN1DSrUZ2JQKkn1hyBh0nsQaDL31KKq63h9dkEeTfiABKglldS13ZXN0LTIwvgY.m3u8
 
+#EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="General",DOBLE C TELEVISION DIRECTO
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
 #EXTINF:-1 tvg-id="AGRO TV DIRECTO" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="PERU",AGRO TV DIRECTO
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
@@ -119,8 +124,11 @@ https://ca2.inka.net.pe/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-id="CENTRAL TV DIRECTO" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="PERU",CENTRAL TV DIRECTO
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-logo="https://i.imgur.com/tFRmMkf.png" group-title="General",CharapaTV (Pucallpa) [Not 24/7]
-https://cloudvideo.servers10.com:8081/8168/index.m3u8
+#EXTINF:-1 tvg-id="CONGRESO TV DIRECTO" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="PERU",CONGRESO TV DIRECTO
+https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
+
+#EXTINF:-1 tvg-id="CONTROVERSIA TV DIRECTO" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="PERU",CONTROVERSIA TV DIRECTO
+https://live.obslivestream.com/controversiatv/index.m3u8
 
 
 
@@ -135,7 +143,8 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CGTN ESP DIRECTO" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN ESP DIRECTO
+
+#EXTINF:-1 tvg-id="CGTN ESP DIRECTO" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="PERU",CGTN ESP DIRECTO
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL IPE DIRECTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="PERU",CANAL IPE DIRECTO
@@ -147,6 +156,8 @@ https://stream.plixitv.live/westv/westv/playlist.m3u8
 EXTINF:-1 tvg-id="CANAL 8 DIRECTO" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="PERU",CANAL 8 DIRECTO
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
+#EXTINF:-1 tvg-id="CONECTA TV DIRECTO" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="PERU",CONECTA TV DIRECTO
+https://servilive.com:3114/live/liveulive.m3u8
 
 
 
@@ -158,6 +169,19 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CULTURA 24 DIRECTO" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CULTURA",CULTURA 24 DIRECTO
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="DEPORTES PERU",BEST CABLE SPORT
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
@@ -2011,19 +2035,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
