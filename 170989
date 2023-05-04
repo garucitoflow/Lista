@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="CABLE VISION" tvg-logo="https://i.imgur.com/rfSFubZ.png" group-title="PERU",CABLE VISION
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1932111191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST MUSIC
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST CUMBIA
 https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST HATUN TV
@@ -18,6 +17,17 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="MEGA TV DIRECTO" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="MUSICA",MEGA TV DIRECTO
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="OK TEVE DIRECTO" tvg-logo="https://i.imgur.com/07rA14I.png" group-title="MUSICA",OK TEVE DIRECTO
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST MUSIC
+https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OASIS RTV DIRECTO" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="MUSICA",OASIS RTV DIRECTO
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-id="RADIO EL PUEBLO DIRECTO" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="MUSICA",RADIO EL PUEBLO DIRECTO
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 tvg-id="RARIO RUTAS DEL PERU DIRECTO" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="MUSICA",RARIO RUTAS DEL PERU DIRECTO
+https://tv.portalexpress.es:3731/stream/play.m3u8
+
 
 
 
@@ -27,7 +37,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="" tvg-name="CABLE PERU DIRECTO" tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1536x438.png" group-title="PERU",CABLE PERU DIRECTO
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",AMERICA TV DIRECTO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrIFPe6JzQFOOzT73VspJK_oR57KKMVK8Ws0mf6vY-0VHlgqwVPTENYBqeLNNrmc0D-pu5VvzzJXKGw9RpHMpU_D0KITxClsxkPKAC1HUU55yTybpc8LjXOA8hS9v_T-qwhrZpqautP1BeZMDtYNfMyaSNbeggI2bmtTlzyfNF_RjVc-yWtLnpPqH2ViGcu5_VL1PlGmP84_IJKsCSKvLpMwROIMOoWipau4HMZMMGSZYEwagGqih8VU5-c9lIobqOogB-gHNYNR6IH8nmJgJJu2OQppiv0AkN_5KBuwAuBRHRf7ur5abc_Zc_Lxh99rvTvCIwP5LRUSayAYfhmtHBhBALgRrzQTpsbZMPXT5rf79s84oxJC-sgFkmObyNA77-Yr4qQJIy8iAS9s3SObqqajXyncprCseZLWcd2f2nO55WelelWOPA1nnSWD_U2dwpxscpo7SpZqmWSSrab5kwkrTS2czIMDaNA7zmsHnBgsWXny8_zPQBmxqKyzDjhY7M_4-f1Mm73ic8hDgSnpafa-Oa9eK8-xwYxLchgFDqkeVKqD-kGZJEZA5vUjgKEJ216VwG37y3uZF2aAaY1duvN8KONazA-GvEyyzv_tM3i8DobSux6a8GvwAlxq8f6RFJltbjCle5sRDDIK94bRtvVSkcjXANU3pm3uAetZLzaXv_iQICvtLD10tWRnmHnI12yNPr-rmacpSov1pwWjDWKBSwywhpt3zO4cYInZ7FraacxzS2j3tAA-DZOf9-yzDFSFoYCLGuU1avIXxQ-vQtnbemFtWnjTMLnETayaQRIdnclLEq4z1W72kSXCwLS0W94O2_5dY7Ym8CmSqu6Pnd4NhXIRr2uOS2VoMVeDK5G41Hh2EiQTJ-l1yvWYoNrIlKPLlfB0u8drUnx8XLt59BmTPHlfGgxw5gfHMRAirC7-36wgASoJdXMtZWFzdC0xMPIE.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEFcS8HxA1xotU2yTsuTMcycZC_E75Ivvcvv0XPD8e9_TC-qRgpizUcM3Z3AqkzIxvT_yHhdHPXajz55mkVPopQ-xxUHJpdFU_VeHV51Jb0j5lIpcYRHb2lT9WgMVT791wZ_c45YFirfofxcU8zGw5aWT6DGlfCGeeSQ35qz5Y2dsS9630eaSMQW1iQ2UDzwZ89o1G43TynmcsE8Wh2Fm7ZNEtQ_R4JVUNnpA7SxhVBNQm28OvIrI2hq3bOoSwxsiDs8VpFpenmdl2ERb5X07Z41SU1kNJXoJRYbwwhNxKAZ5CDNE9nnxt_Jry_UYgYgnEr7I5YjxzFUzm76bKxva6uzDIjgj5lCu-hcVLXPi4yTNOpSl9PMHDelVXDECIDzpJY14SDPq0pA9k9clHIzE1cKl-WAOfa7-Y9JnZo1_X0GEkU0t_8j7xlNBER89IPKowLfWOOCzb7L5mOugZAzwczm4m0ByX-zV0RQxvu-JuA7kN4BTIIvPrUV_asKuJwQcgOYroT-aFvLsdOT_pClllP4ED3LGDiG4cYh0zekY1oUdbXmiyLdJacf29tWVH9prkRfZpBl6mTV-Ii486y4gdMcqJN5DiYHzgkUac39GD3JyIWc-xes1IWtP9qXjJZ1PEusa8DMaevD7qucZNeVIBgTrFCb-TzrvcF2mdMGWbk93Fy19fdwvxWNT_DNoIVj2lvEb0qzmpl5VxerzYBjNR7u3VL87ofemtNgjYwkT0W_y6x60HSWYZe-ouIoLAW5GKDp2KsQAYnKf2VS4NJoWrpC2VSQWnwHGOO9PqRM1hvEJ_UbJAs9poxozvXd-x_OfUDppW5S1eaOHOcVEtQNWs93PrdHsXvpewJxjRJFjsZKVSSaiz1G4KMNwFgqFl_NB0LYK20Ckd7a_KhsC-el1MZ-ooaDIshL1amEYF4qN7lYiABKgl1cy1lYXN0LTEw8wQ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9476.ts
@@ -97,6 +107,12 @@ https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 #EXTINF:-1 tvg-id="LA LUZ TV DIRECTO" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="RELIGION",LA LUZ TV DIRECTO
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NUEVO TIEMPO DIRECTO" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="RELIGION",NUEVO TIEMPO DIRECTO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PAX TV DIRECTO" tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="RELIGION",PAX TV DIRECTO
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bethel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",Bethel
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42433.ts
 
@@ -152,6 +168,24 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="MIEL TV DIRECTO" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="PERU",MIEL TV DIRECTO
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
+#EXTINF:-1 tvg-id="NATIVA DIRECTO" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",NATIVA DIRECTO
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 tvg-id="NATIVA TV DIRECTO" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="PERU",NATIVA TV DIRECTO
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 tvg-id="PLANETA TV DIRECTO" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PERU",PLANETA TV DIRECTO
+https://live.obslivestream.com/planetatv/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,6 +212,8 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 tvg-id="CONECTA TV DIRECTO" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="PERU",CONECTA TV DIRECTO
 https://servilive.com:3114/live/liveulive.m3u8
 
+#EXTINF:-1 tvg-id="QT TELEVISION DIRECTO" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="PERU",QT TELEVISION DIRECTO
+https://servilive.com:3753/live/qosqotimeslive.m3u8
 
 
 
@@ -193,11 +229,18 @@ https://servilive.com:3114/live/liveulive.m3u8
 
 
 
+#EXTINF:-1 tvg-id="PRIMAVERA 15 TV DIRECTO" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="PERU",PRIMAVERA 15 TV DIRECTO
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="PLATZI TV DIRECTO" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="CULTURA",PLATZI TV DIRECTO
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="El Histonauta TV" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="CULTURA",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA 24 DIRECTO" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CULTURA",CULTURA 24 DIRECTO
@@ -817,6 +860,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="BOOMERAN DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s26089_ll_h3_ab.png" group-title="INFANTILES",BOOMERAN DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="PAKAPAKA DIRECTO" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="INFANTILES",PAKAPAKA DIRECTO
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BABTAMC" tvg-name="Baby TV SD (MX)" tvg-logo="http://fanc.tmsimg.com/assets/s56036_ll_h3_ab.png" group-title="INFANTILES",Baby TV SD (MX)
