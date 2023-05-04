@@ -34,6 +34,19 @@ https://tv.portalexpress.es:3731/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9474.ts
+#EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9475.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9473.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9474.ts
+#EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina SD
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9475.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CABLE PERU DIRECTO" tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1536x438.png" group-title="PERU",CABLE PERU DIRECTO
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",AMERICA TV DIRECTO
@@ -56,36 +69,46 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV + DIRECTO" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV + DIRECTO
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana DIRECTO
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFnBjTlyABg2UtOr7hiR7OpMXEhuEEuN5-cuMw5Seu_2t)/dm/3/x774s7s/s/live-2.m3u8
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFnBjTlyABg2UtOr7hiR7OpMXEhuEEuN5-cuMw5Seu_2t)/dm/3/x774s7s/s/live-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9479.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9481.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD2
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9479.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD2
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana2
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9481.ts
-#EXTINF:-1 tvg-id="EXITOAA" tvg-name="EXITOSA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="PERU",EXITOSA DIRECTO
+#EXTINF:-1 tvg-id="EXITOSA" tvg-name="EXITOSA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="PERU",EXITOSA DIRECTO
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N HD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9489.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD
+#EXTINF:-1 tvg-id="" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9490.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N HD2
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9489.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD
+#EXTINF:-1 tvg-id="" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD2
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9490.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU DIRECTO" tvg-logo="https://i.imgur.com/hgy6XPk.png" group-title="PERU",TV PERU DIRECTO
 https://cdnh74.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE JAHS" tvg-logo="https://i.imgur.com/HGVITRH.png" group-title="PERU",TELE JAHS
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEFlKQQ1OpOrtghqFvvjfwgb9nHdzc9_uW65GLmPMcHltmcEL87iTqtwF7ozqk86TZyCoxpji5oNrjVvLjMxWklDPnR6N3qSvPx5m2HmStL9LusKHcFMc6rTPGKmeDObkLURwZJEM4VFA6ZjpSrlzghWGEmwJ7H8vHCLmAvmRBUh-aPClWj8jKFddiyb_WMs5ra5OvRm-RzyBz4sU06eH2DoqX3ATO6uZ65Vlej62YT821QNUc2stebvhERSTGCrHG4hKt9VFwPoWvDc5QfVmhjyr03bY9K94xqpQ0lWYMydAcGni6pwP9rnQc7T8gWzf6RT5zphx8t72WvSjuH7_xwtoLliawjxNXad_3sZo7-cGBv4_psJqSqc7v-7nBd6D2JDxeLkKuwD25hSqPV6idhPc32rzhyocTYPtapZqj8E-T7frcqKaIXH9WSc1sMIejMFQ-6nq_QEBRQ6R6pT85G3t1Y7R71Na9oFqdVoWUVZy1ZLzePNfSWAhXipFwueRXIPxRioSVnlw6N2O4RYGWGVRUFVdwXoWBQOrHXa2SRooINLpATz-xqqsPOJy9_DlcD0eV9ODDhHvCp0T4U4Peb81S3dOH_oTudcxObim--J1bBg4pOVDnCFOBfjCzPqu5K3WclPlcjWLt98niGdi3ZcnpfCwZNcv-i4TJ1cmBO3k-TLrFSkDhVBf6opYDiZboYABevvH1QrYGCjYC9E-WKJWUQLkYjc6tjQVM-7D-rfXvt_0i-seO9O4YrrFFxhRlrIHXMzdEZStrPhtEFdsqa5BsjsTUIY7OMSlIIxhzIZ9oexcGMUO8p--uNEf-vFArr0cDfcXWHDEFhYYNy_cVCoH578WxzB3Vhg69H5m1bjnAPDe4rLMCRuIIkaFtL0POR1v7-mcc-IQTwne1FOZ3kXCQaDFTfSIalpnKkoswGkyABKgl1cy1lYXN0LTEw8wQ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",WILLAX TV DIRECTO
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtSv54pAbPEn3JSHNFSYY1z96CHtOJgBEOGvFRGwGjX6)/dm/3/x7x4dgx/s/live-0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD1
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD 1
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD2
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD 2
+http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9496.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
@@ -96,7 +119,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9492.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9491.ts
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9492.ts
-
 
 
 #EXTINF:-1 tvg-id="JN19 DIRECTO" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="RELIGION",JN19 DIRECTO
