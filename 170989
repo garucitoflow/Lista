@@ -113,12 +113,39 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="AUTENTICA TELEVISION DIRECTO" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="PERU",AUTENTICA TELEVISION DIRECTO
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
+#EXTINF:-1 tvg-id="CAJAMARCA TV DIRECTO" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="PERU",CAJAMARCA TV DIRECTO
+https://ca2.inka.net.pe/cajamarcatv/index.m3u8
+
+#EXTINF:-1 tvg-id="CENTRAL TV DIRECTO" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="PERU",CENTRAL TV DIRECTO
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-logo="https://i.imgur.com/tFRmMkf.png" group-title="General",CharapaTV (Pucallpa) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="CGTN ESP DIRECTO" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN ESP DIRECTO
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL IPE DIRECTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="PERU",CANAL IPE DIRECTO
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="CANAL E DIRECTO" tvg-logo="https://i.imgur.com/T6FJIc4.png" group-title="PERU",CANAL E DIRECTO
+https://stream.plixitv.live/westv/westv/playlist.m3u8
+
+EXTINF:-1 tvg-id="CANAL 8 DIRECTO" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="PERU",CANAL 8 DIRECTO
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
 
 
