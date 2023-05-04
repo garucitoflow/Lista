@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="CABLE VISION" tvg-logo="https://i.imgur.com/rfSFubZ.png" group-title="PERU",CABLE VISION
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1932111191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="DEPORTES PERU",BEST CABLE SPORT
-https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST MUSIC
 https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST CUMBIA
@@ -78,14 +76,22 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9492.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9491.ts
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9492.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="3ABN DIRECTO" tvg-logo="https://i.imgur.com/BGZfPtJ.png" group-title="RELIGION",3ABN DIRECTO
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bethel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",Bethel
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42433.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",BETHEL PERU
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42434.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Bethel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",Bethel
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42433.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",BETHEL PERU
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42434.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TELE NOVELAS DIRECTO" tvg-logo="https://www.teleblanca.com/img/tlnovelas.png" group-title="PERU",TELE NOVELAS DIRECTO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqMGK5gcfu4o8iRZXy-KGcowma5UkX5ro57gQC-G8ZjR7i1ciQ6Kz2ji9ZqDPpvEp_2PMTecYqpGrDyLnD4cE8105kcQUiUXHeM2sSPP0YHvkgtERJXAbHN0HTdLZeh0t4A0V6S31kMIQNLxLQxWNUjtQU6OjLrgIRL-FA2NuzkKVpdfFykstTRaghe_4IN7tr9Sl0NAI1egW85gWtLKy_gSwx5cz2rjWOfa9rRLjmfsTdL2dv9aj3Lxk4HUCIAqd3CYyaNYHonK0ejIS81SiYj5FHGDNyRXQwUjMpw8QC_UGB1-KIVUy5rKw07_1N_Wb9xdDr9VjYJNR5XzVTehHUosVjEXNdwF0q1jyAJrOqxnpW-p-9I75VcPkr3LQtLmbwtVxp6cCkGjHM4sNObx00NsDOb5RTCrow8LjPoyUwjwSXtgjoFUadPMUnHE7oEfGVvW9KRHx1D2jgjblpgAu97NInDbBads6vNneajcjmX8KHvQnXTeNXfIMUBxdn2TQpLG5SPdBmzn6YwjudqAEFO8s06RAFu0f45hzyw_DBah3hlXau3yMlo4ReIBn5QRE-NazqkOXUSzc314R1zlb6-5PnV3dD4f6MMlzysKocheus_iQAb3ODPpnYzesJdGysp4jMfW_DRtvvRBpp2vhWpovG-2En5kOfm7nr1sWVN9OkS3T5tflokUCqGF0xVO82GGC4YgYy1laJsV3vhwPGeUlcxFEUMJJCq6Mxy4_XGwusFNdUGYW6U6_v8ZIR7GKLWsG_C-LVqulEpa8nhQ7Vq7Lj_ic6Hfa06iNbqPkSr9tnmX270rmjOtaWqFgcJyu7e8TeO8S0eZ9gHw422ioMyUICFujirs1F60Pm1HYm8I2oSZxLxgzRVawwM8egYPl8YeSOU89zxTAvAutngVr5GOIz_vZClJNlOZHTPrMhfLqJSgS86aR0zEik4kwitU_C_UuRxOF-eTZZ_qpFLjsrD3aURjp5Vi3VWJkOVWvujj54gX5KfzWC6OXslIh22HJTJosi_yzHESddI-XhjmAs2Al6dbrmquTMfQUycDtBUb3E5TLygaDGYRxU9c72kVmUyBaiABKglldS13ZXN0LTIwvgY.m3u8
 
@@ -95,6 +101,17 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrgF0X0T8QowXvuLKlip3iNYAQS
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO DIRECTO" tvg-logo="https://www.teleblanca.com/img/telemundo.png" group-title="PERU",TELEMUNDO DIRECTO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcF2Eef7LK0E2u0HJYAZgSNlH5_4IIkb1rI6PIHO37m6Stw5PBgbHkjzOzocgFZij5QCBdHFJ44wC9Dg5TkW22hEmnu6ejk2K2O9z2wxOg6m5Gx7KCTMxbUrQGko402re7TDEZ0VP6ngN3_DCvWM1XuMJmn9JbLyO93MeepUMpe4nnY00TRe0EunWaIi2X6jeYBdsaniMgmIegMNM2SRT1MoWeVMo_bi6kwoI-90ZadBkq1BFyy6ZdHyW_u-ApKsupXzlxnoCni6fUxb7L7_dU89hocB1U6r4EdLjqaci2r2wG032yirFcraQacS2DOJNFQr54--4EO8Cjx7cLox7QYAWGZ5O9FYZ-YunHjRh3l-KvXOlgyPidnUrdh_8Kfc5ohr_EZfPrqwkw8g4qlGzkygOpUVlxeR_ZCuxh2xJAtOvs36oirO3tfU2SKd0mRwoeg5cADl1Bx5Azm7e7Vr09QCGi_wFlsSv1BfStlPL8Stf1vkKXcnnRuZvIMBo2AMJH8TyRjg1wxRYeSD5NVsMxUi1IR_tkKF5jgqH55weX93wijEvRtIzuSIX05DQSD4PuNpXlrwwnCvewndYCvODz8WWI3cAgkv8PK1o6cLEcH1sS7_bdje_Zv7D_VoQrvbjDgW7U399XKYCq80Iv_A_adBm6CD33ENmlycT4sTTKfzrDpNtjpfixAMGLBo4UzRt7NdGUINSjIkRBcutk4VyGhEEtqdS__m9Vp6Szn-eaM1APeXl4sYb9dVxnU8Yq54sgaOPzQ63Lz36ouO-Vm4T38PZYGawSqyfOH9hZ3llYIjGlU2ervKv1sh5vUYmxhqrPu31PDJ_qsklJa7tSnDTR6pv0ZNG0YWCgJS6Gq1Kd5r0TR3bLu3vBF5jO_MJK1-SsF786vGhF20o-0ZcxFu7xrMj4pD9rfiNEaDBSiJMvDW7MW09G1USABKglldS13ZXN0LTIwvgY.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="PERU",TNT
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcFiCglH3xsiVd9LRSayU8T-dws_EKwepZX5hYc7IiZuU6oeH-HOBUJhjQWIYdE9G0tID2ACtMbD-hmmvDNZp8ivrkzCzaStLKFlsy9VoQOCbCsbICs9qnjQyaWdFi3dCtFfhBvvVNyiSFUVe3Y2RaJCJy41wo5DJ2ZRys1QRtbfFp3nlBmisjeF9yLsxqJgwMrUIH1rBuRR1A9zuz2MxZpQ7iu_bVJjxcojmHU7pLppSBvIW27n0z9tPdxLyg6FSC4YalvAZMxfp89OzmPbwvjePA5d3gA4NwDyDDzzK2GGoLGXdXSn_dCldV8b0rUgMYd13PVX_mgB3LYnYGWS0g7PbRslBLpPtRbF67rCC2pCXotYwsJLAJg0eiq8wBDWC6_8YbWn5E0UffNOgt9sEzxQBWs29cnnjLFafws5c4lpcUh-QLE0Wf-VUS2_jwYTgRo292eG66YyohUnSyGdZN8XMCBuViOokeyqRM-Z0SPFF9EiKOhrW2Vr1rhM-4FoWRj-kliy_UmthX-SkOfg6DJnAE6QKvbBECfGRlxgiVV9MahFna7zO-C67B5XAXnxsNqUHs0OkUH6t3p29BRo1avR4wmxBlcpLdb-IA811sSY6HiTmO-UMqUXfUYfvI51qLcRXwzu9vdXJcVaLp8WXDdu4VZCpxB9gu4irqgVSEi45YNN4bzPT2BBQJADOxNc-OTqCzCHO44YULge91f2uo2yeJZ8daf1JrmZ959OK6xNO3usi7oW1MaW8kB4B24Wc9a8UFOxuxIHyElIT_wEw5M6-9bK3EK5PYA4WR0miTFpPjo_1aB_dZKX37OgVaAQrmcO4jPT4imk9pgcuC4pKweV_AreDHu7oGlcXB4uRb6tgmkWjSYmujgaYSfus0VJSecpn06v2UdKN1DSrUZ2JQKkn1hyBh0nsQaDL31KKq63h9dkEeTfiABKglldS13ZXN0LTIwvgY.m3u8
+
+#EXTINF:-1 tvg-id="AGRO TV DIRECTO" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="PERU",AGRO TV DIRECTO
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-id="ANTARES TELEVISION DIRECTO" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="PERU",ANTARES TELEVISION DIRECTO
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TELEVISION DIRECTO" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="PERU",AUTENTICA TELEVISION DIRECTO
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 
 
@@ -104,6 +121,21 @@ https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcF2Eef7LK0E2u0HJYAZgSNlH5
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="DEPORTES PERU",BEST CABLE SPORT
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CONTACTO DEPORTIVO" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="DEPORTES PERU",CONTACTO DEPORTIVO
+https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
@@ -153,8 +185,6 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9472.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="LIVIANOS",TNT
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrcFiCglH3xsiVd9LRSayU8T-dws_EKwepZX5hYc7IiZuU6oeH-HOBUJhjQWIYdE9G0tID2ACtMbD-hmmvDNZp8ivrkzCzaStLKFlsy9VoQOCbCsbICs9qnjQyaWdFi3dCtFfhBvvVNyiSFUVe3Y2RaJCJy41wo5DJ2ZRys1QRtbfFp3nlBmisjeF9yLsxqJgwMrUIH1rBuRR1A9zuz2MxZpQ7iu_bVJjxcojmHU7pLppSBvIW27n0z9tPdxLyg6FSC4YalvAZMxfp89OzmPbwvjePA5d3gA4NwDyDDzzK2GGoLGXdXSn_dCldV8b0rUgMYd13PVX_mgB3LYnYGWS0g7PbRslBLpPtRbF67rCC2pCXotYwsJLAJg0eiq8wBDWC6_8YbWn5E0UffNOgt9sEzxQBWs29cnnjLFafws5c4lpcUh-QLE0Wf-VUS2_jwYTgRo292eG66YyohUnSyGdZN8XMCBuViOokeyqRM-Z0SPFF9EiKOhrW2Vr1rhM-4FoWRj-kliy_UmthX-SkOfg6DJnAE6QKvbBECfGRlxgiVV9MahFna7zO-C67B5XAXnxsNqUHs0OkUH6t3p29BRo1avR4wmxBlcpLdb-IA811sSY6HiTmO-UMqUXfUYfvI51qLcRXwzu9vdXJcVaLp8WXDdu4VZCpxB9gu4irqgVSEi45YNN4bzPT2BBQJADOxNc-OTqCzCHO44YULge91f2uo2yeJZ8daf1JrmZ959OK6xNO3usi7oW1MaW8kB4B24Wc9a8UFOxuxIHyElIT_wEw5M6-9bK3EK5PYA4WR0miTFpPjo_1aB_dZKX37OgVaAQrmcO4jPT4imk9pgcuC4pKweV_AreDHu7oGlcXB4uRb6tgmkWjSYmujgaYSfus0VJSecpn06v2UdKN1DSrUZ2JQKkn1hyBh0nsQaDL31KKq63h9dkEeTfiABKglldS13ZXN0LTIwvgY.m3u8
 
 
 
@@ -1941,6 +1971,19 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 1
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
 
 
