@@ -70,7 +70,7 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9477.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV FHD DIRECTO
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV + DIRECTO" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV + DIRECTO
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana DIRECTO
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD1
@@ -100,7 +100,7 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9490.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU DIRECTO" tvg-logo="https://i.imgur.com/hgy6XPk.png" group-title="PERU",TV PERU DIRECTO
 https://cdnh74.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE JAHS" tvg-logo="https://i.imgur.com/HGVITRH.png" group-title="PERU",TELE JAHS
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEFlKQQ1OpOrtghqFvvjfwgb9nHdzc9_uW65GLmPMcHltmcEL87iTqtwF7ozqk86TZyCoxpji5oNrjVvLjMxWklDPnR6N3qSvPx5m2HmStL9LusKHcFMc6rTPGKmeDObkLURwZJEM4VFA6ZjpSrlzghWGEmwJ7H8vHCLmAvmRBUh-aPClWj8jKFddiyb_WMs5ra5OvRm-RzyBz4sU06eH2DoqX3ATO6uZ65Vlej62YT821QNUc2stebvhERSTGCrHG4hKt9VFwPoWvDc5QfVmhjyr03bY9K94xqpQ0lWYMydAcGni6pwP9rnQc7T8gWzf6RT5zphx8t72WvSjuH7_xwtoLliawjxNXad_3sZo7-cGBv4_psJqSqc7v-7nBd6D2JDxeLkKuwD25hSqPV6idhPc32rzhyocTYPtapZqj8E-T7frcqKaIXH9WSc1sMIejMFQ-6nq_QEBRQ6R6pT85G3t1Y7R71Na9oFqdVoWUVZy1ZLzePNfSWAhXipFwueRXIPxRioSVnlw6N2O4RYGWGVRUFVdwXoWBQOrHXa2SRooINLpATz-xqqsPOJy9_DlcD0eV9ODDhHvCp0T4U4Peb81S3dOH_oTudcxObim--J1bBg4pOVDnCFOBfjCzPqu5K3WclPlcjWLt98niGdi3ZcnpfCwZNcv-i4TJ1cmBO3k-TLrFSkDhVBf6opYDiZboYABevvH1QrYGCjYC9E-WKJWUQLkYjc6tjQVM-7D-rfXvt_0i-seO9O4YrrFFxhRlrIHXMzdEZStrPhtEFdsqa5BsjsTUIY7OMSlIIxhzIZ9oexcGMUO8p--uNEf-vFArr0cDfcXWHDEFhYYNy_cVCoH578WxzB3Vhg69H5m1bjnAPDe4rLMCRuIIkaFtL0POR1v7-mcc-IQTwne1FOZ3kXCQaDFTfSIalpnKkoswGkyABKgl1cy1lYXN0LTEw8wQ.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CoEGmXi48PJLmYr62F2Fnfd8g4FbV_MY8ItQj5yaY3aULSNSYWsHmFqNnK0bKyxXO_kmgDRyp6zrrMryihMOFsYFDNA1towNVvXosNNImHRPNXj8Gzl08KI9vQYWra8w0Ibt7zHituKRTvFTwfh6Q8Ad5-Zv6hPXNsm99D-8E-_s-rZyoAJb3rGvmeT9V7iHH_Ypr84-b48vU9EV205On6wjS9bcTwRxfmrH4CvuukmhbWdh540VkwyfbGRv4YFzSMqUA7FnuPANGgHK9TTpxw0QgpgqOjGtalH5EcBvOMFMCTg2a1CSgQNRaoBw8vc57Zoycek8W3HM3zLrQIzMwbSVRTat4-A69bQeAg-uIsXPW5FOHezFlN-eMtk5ucwnCaRE44_xoGt0augdViOZuQwr9zaSMH1B-HZJauuAwgeXzLZGl-kmtdWClIRKEbSVH-kWtBaXJKjsauPDu_QDueai_5f7VuSzLEa1STr_lvZj5hdLdNYHwq_hk_HoYkT4dVcCcX1jMjC6fqouDf_uLZW5PSMQ5figEgcr-M3ihC_puYBOBQsV_4aFKVHgJbi-MN5de9x67H36R_qwV-Cg5ZaW5vLFMizBo4eSyGQXK4-0vJS_1OW_1HTf3wUcSaArxyq-vy1LeUHof7k_IUevTHgkaKxiyhLdA-0imGnqKRoMSR8-qrU_Cj_WE8Q0kG8s7inmdduCOQwu-5-vUcl8BzU8N_1U_5Usqx4FCzRPXXdlUX18w6L3tlS4ycPauBNwG_-KrDutr-2dxCJ4YiEri8yqFgjF2VqZ4-5PBycfzF23ZgSaI5U_jWxXgjG-cLBieo9CvlGycHHM79ijKuxviYX5TYlc9oR0tucz7tpE8cmzXKDVNUJLbXXYYLCYCsCBus_VCpfGPvk9V8aeH9tKHhVkXJjE7BElm8MFR2gR3I3gY3uNVXk1P57B_s09QpZYn2sd8DVhL6z2P_j3Q1i5_N5gW0bA6ah8RATBefvuZzoAtH9cc9e4_lIrllZ2Ga6Px-tXIRoMEcXfP61fyWPZE4akIAEqCXVzLWVhc3QtMTDzBA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",WILLAX TV DIRECTO
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtSv54pAbPEn3JSHNFSYY1z96CHtOJgBEOGvFRGwGjX6)/dm/3/x7x4dgx/s/live-0.m3u8
@@ -2122,15 +2122,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
