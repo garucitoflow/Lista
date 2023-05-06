@@ -17,8 +17,6 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="MEGA TV DIRECTO" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="MUSICA",MEGA TV DIRECTO
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="OK TEVE DIRECTO" tvg-logo="https://i.imgur.com/07rA14I.png" group-title="MUSICA",OK TEVE DIRECTO
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST MUSIC
 https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OASIS RTV DIRECTO" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="MUSICA",OASIS RTV DIRECTO
@@ -54,7 +52,7 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9475.ts
 #EXTINF:-1 tvg-id="" tvg-name="CABLE PERU DIRECTO" tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1536x438.png" group-title="PERU",CABLE PERU DIRECTO
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV DIRECTO" tvg-logo="https://i.imgur.com/UE0bpsd.jpg" group-title="PERU",AMERICA TV DIRECTO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrQF4ca6I8yH6Rp5o6EPJW3DIfiH4LEH7UzYSXzJkquYnv04oPV97ZfIpGhGbudCypC5z8aj2l30yi3h452CLU3kvBXzqqYWqapYdEK899AQKQYENHPeD_p2BM0XFs6aZJhdxf3qT3EttXd8sM_TOmdpBZ6hasyuQ0Y_PWiv132xip-Vyvb--qZxsOlDIOLHnKcSEOpvlG_NMPyGfj6vF5X3wj27liokpZY8C4jcn2erPrhFDSuOHVxQsV_dl5sA0H4K2UeUMOvY52je4B9-y7F2Fa6-A2mb7Inl_ABchPxWL_pd5YJFK9I5tuxb2kUNqPskiwcaDoIgnXqw9EsxEpiVm-ZB9KCAa8YbPFBkUenOOmZHihHRRIf2487cLj3trc8L5Eb-yuu5ypHoMvoDIvN2tvHs5ZrsiUmN-iAQ8v_kpeGqZXsXseBF2KbVoD2ulTLFGCj0afXTqmoDwL_3mGlFJC8XcyaSZm2bvcokTf8KkfLDyj2kWMExsNTCmsWVNQ6wAilrtutEDKzKkDoZDDs7DIZ-8hAmLJ9r2nBcofGz73YOu8elqzwJBmONI2Z_HTLEBBInt0VM2d3qs-50NqYqUa9hLccFvuTG-LNZo11C9AjVn0dkT22zNja6LM4CWgWbUhIl7knLf9RTCn1yKCfaKePQsJcYP57jn95FbdomfzvTMTQ7gc9Baj3E4LKZt70GShyJchQmm6W_SWO1jJaALj0M36R7QLmF9R9HA49-O20s6ABLil1SdQ3qvoaf2INuKpA71MSjdLN5Q6VlSBNcPq2Y1-til-SiS--Sd6NbADbeZywxt9pTWIw_-ZDNbR9rTW0Lx1vv4gnASJc1wwnFhipedjrA0srYG6Ge9lR_fbGSaR5Nn3kWuyP7YNS-w321eJCy3__jqX6FP2clrlM3mOli4BUaDDm5QXD5I-TlE0K3FiABKgl1cy1lYXN0LTEw9QQ.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrQFsFSBjjV0vanXp367ybuQxCcKkvJYHGCvZvpFOmqya0tU02xWnUgFD-oerSR3akNfrm7tZYzgbubbuGpit9KJsDr58zg5kVo1bhy4eMOR7bYB2BPZUx3bW2DfR6JSKcmU-0nHYGQWk1Eeskt6Pl1KQS2YOcjc8vdkdWqyp8jd2IOv2oz-CZSHpaLaOh3fA8E7UDCzCGLpZnoV6xw8gYop9EyR-SdeDU9kZQXF9l_f15ciNRjPfptKz-YCNG6BOFPicXqglAKqe7facJu8W2uPz3_sQGr6OuuZnU2caqqMJ5cgRCZF4FuJLO_RlOKL3L1RJXZyHylahASO7ttCodZMDPZ5LHJTX63iBa_B0GyCHGpRKUI-DeiGQUOTruckHp8P3oHyCazgzjHYDc-wzYUgaaHXOB5SLb55CIG6jMThrEEgX7PSp1ItZ-GVx4VYdDwbNl57K5JVd7j_NZMzaA5tOLuNAJXpiOqNVC3f7yr0jmnbzuQNcaWIGBaVpXaqUyd4qMfofLx7q8qAR4AKxlF8VlD_0CS5D5Hcew0qDmg2T7-jDS5jzBktd7quQSiPfy6gpgYZMCbQHbx2DkkVA4I3bxHkfjxWrrcEgfF8iZ8-9NpI2tuNyF8mQESA8l7kJkWVtY72g5SrzWV_UtyDizT3qqiiSBo8vH-OibHYAREMoI19We4-GFHddCUw1N5lFPIRN0Le4IXmBq_bDMwYwR7EOUpzzXt9tJkX0lR5OHZGl6ZGIaEIMIDDmieJyUGdC160PzS0BWtV3tWcGN9S443QcXcR3uwwqvtxybTZLnQD7YgWFf841TCVFmVsmbn8L4DAG_pd-m921Jtofa41bTHQ0ArF3Cw8sgQy6nP9zELHeukFgfroztIoYGq9NF7Xn2kjKx9BRhVWL75GV-RdOIUIDTxoAJMaDHJAaN_JyDgvvD0oPSABKgl1cy1lYXN0LTEw9QQ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9476.ts
@@ -154,6 +152,10 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42433.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",BETHEL PERU
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42434.ts
+
+
+#EXTINF:-1 tvg-id="OK TEVE DIRECTO" tvg-logo="https://i.imgur.com/07rA14I.png" group-title="PERU",OK TEVE DIRECTO
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="URANIO TV DIRECTO" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="PERU",URANIO TV DIRECTO
 https://live.obslivestream.com/uraniotv/index.m3u8
@@ -306,7 +308,7 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="LA LIGA 1 MAX DIRECTO" tvg-logo="https://i.imgur.com/7BgILXg.png" group-title="DEPORTES PERU",LA LIGA 1 MAX DIRECTO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CroFZFCaA_6hAM2X4H50y3wA48s3TjZc9ui4IOkWmTtEYqeLovz3nyv2tJB_10JdcY1n1u02EC6u6kfHqc8Jl4Mi27hhp0bSxB8SpMyToG9TmqGc7JQZFFCqqHq3P1wcjYsFJUmhVt8TatpVXBPSq_dBj8fVNveqlmswC275c7suEHIwfWC9bDLJfYaVYn1KTKocp_V6128yFBxhkuHRZTMH8j3ADTvbCTRErHzB2an7kgK1avoZPVrhrq826Mwsttva6rNl6iMULaKDo9KVPIXiAc1f_EbA9AlpZtV2-1zyxRxW0TtuKjWFHib1A03QtafyciJj18s0Aw__5sC4iBHudG3sgKFx-oVkBTZw9W5ekO9T8nxP7UUCqj8DXZIdVg8W7SIzI5bcOb6NOFe-PZsfNJQ3XJ9gLpXUPZzCHTB5lmAfteIqAPAW6q0ReWBmrVNSCQJvzCkZ7HprPCCFBZ-3R9zk4slzDCWDK-qY5m3t8y8B4ck7EKu2HVIyTboi6RejbDXEP6QgDw_FD0JPUA4N7aOgFmy3CawzLyoFxSrlVwlu0YrcZSmY2ocYLhdlMum6-ZDIfa-bgGYLbndtuf09EwCq-FF5qsFzkWRVdZSwn_EBCPkgrehJ_5KHMtjufD11DZaPnaCcWNJCJssYUVcf4EiBSryR04Ov-R6yGhsTkIMywCXyYI8z7tplX0NOGO8q4rPjnbywvfl3kiAEiKbLEB2wQ05CumsU2Fwq9p9VGTjU-c9XWkuz5iE6ZnKastMyTCLnfvmmM3oekaiiOwcKs_SkEHSQVSwJxOGmaesd4ilCLS8MZ36gfHP1lPz1TxKzNBpef360_VzGlxU0x--WoPbOLmmq05J5UQ3fh7lMBHYWZMPgdqrBX0wR9ONx1Pi29grq_EpQcU4OmIwegbb8Fx_uF8yUMP-vcPMaDGqY3FZ6shBVSKkF4CABKgl1cy1lYXN0LTEw9QQ.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CtQFVrg87MK9soOtML9eyQs4cj_myuSgh3Y6ds0Y_K8KJeDctua-v8Lgmv0_a5wCbLC8x6VPXBaT894Kdf3TV8JLeBWKpnrfpoaNITpsJF3Iab7J4773atRND6jYBiUY0eLINe6uecbNvKT_dp_GsnUMrvZl9aCt8rribRzITSLzkdugyNX1nWMkimmopP2Lt3S_NtsqwGR7uppxAoC8V9i2ng2996EhGvAOaRuouNeZT51VeNO4YorlEirI8HXSB1bewUMdtXj2i-nQd3lwBPFaJSOxvKc158O1QQhbeUpLvY3eBmYWQ4vJWTDd6paHawF-mmeakOZ_kUuFR3b2mAgENdEgLnk0egPMKu7qq0SZXrPZvWwd0KbHhH06gYExbvF8NejsWJwwryG0H_z1fXzU-8GkS7KAu-YdrUS_M7pzWA45zJT3eIFStrVWoKqnKubYriwbMbdMKUtwPdrSemYSBzOmvaZbA5ZNTeyVhOI7PMoIaF7BJOGMbYL7gCs8ukdoFyjHNxuWwOmzwy2objLyQ1gkXCDnZGiAf-YWqO-iSgg-z3f1rqN78t71-YJ3HSPFFb-rSKTxp_E-7BcwPaRMTFIQ7ZzUI9bBhwVYU4PKD3wvn_FQDAcW38_63kiEgZluWqNlKArnPa38ET3rUE8ia3Yq_v0Ndrpeu-nSzy6hGlScv_U6PuIl1QTw2hov6zQ_c_SgMgW0x9JQ5VDJ2eM_MuBntlkDooATo3hxQz1WSzvAdVG37qhA9wH63SWwj-mGYw113Mkh0Y7aYL5WIsV5hMpgSYWIJfFeJSSLPZ6i9Qiqon2QgMU6XGW6bCsjHjVylCfVPtk7vW7v-hzaIPeBI4WtSwscEsrCuJ32qC4cWqrjweIr5GiLgQX8zsQaX02BxdFDQcoC-OU5Zi6iS0uaP-htVly51q5PycQdEnp1Sra6RpPaZ2GoLGcJjd2OJejHxIhZlBoMvj-rDub1c4t8v7zzIAEqCXVzLWVhc3QtMTD1BA.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Esports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="DEPORTES PERU",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
@@ -2119,6 +2121,18 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
