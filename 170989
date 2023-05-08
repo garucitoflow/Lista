@@ -42,11 +42,29 @@ https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC_SC
 #EXTINF:-1 tvg-id="RADIO LA KALLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/9hxrjuhEGv.jpeg" group-title="MUSICA",RADIO LA KALLE
 https://cpliv3.onliv3.com/stream/lakalle/stream
+#EXTINF:-1 tvg-id="RADIO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO FELICIDAD" tvg-logo="https://static.mytuner.mobi/media/radios-150px/byptfumktqde.png" group-title="MUSICA",RADIO FELICIDAD
+https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
+#EXTINF:-1 tvg-id="RADIO LA INOLVIDABLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2b7cvuLrCb.png" group-title="MUSICA",RADIO LA INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO OXIGENO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ns3bnMSxg9.jpeg" group-title="MUSICA",RADIO OXIGENO
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1 tvg-id="RADIO NOVA TRUJILLO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/zR9JymzqpQ.png" group-title="MUSICA",RADIO NOVA TRUJILLO
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
+#EXTINF:-1 tvg-id="RADIO OASIS" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png" group-title="MUSICA",RADIO OASIS
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO LUNA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hveq3etzdt3q.png" group-title="MUSICA",RADIO LUNA
+https://cast1.lunabroadcasting.net/listen/lunaworld/radio.aac
+#EXTINF:-1 tvg-id="RADIO RITMO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO RITMO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
-
+https://live-latinaX
 /playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9473.ts
@@ -2130,4 +2148,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+
 
