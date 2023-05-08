@@ -58,8 +58,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?cse
 https://cast1.lunabroadcasting.net/listen/lunaworld/radio.aac
 #EXTINF:-1 tvg-id="RADIO RITMO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO RITMO ROMANTICA
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
-
-
+#EXTINF:-1 tvg-id="RADIO ESTUDIO 92" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gScBgqwDEp.jpg" group-title="MUSICA",RADIO ESTUDIO 92
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8
+#EXTINF:-1 tvg-id="RADIO PLANETA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png" group-title="MUSICA",RADIO PLANETA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=30008&dist=30008
 
 
 
@@ -2140,6 +2142,11 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 2
@@ -2148,6 +2155,19 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
