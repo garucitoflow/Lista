@@ -28,9 +28,16 @@ https://tv.portalexpress.es:3731/stream/play.m3u8
 #EXTINF:-1 tvg-id="ENERGEEK FAN POPDIRECTO" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="MUSICA",ENERGEEK FAN POPDIRECTO
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ENERGEEK FAN POPDIRECTO" tvg-logo="https://f.rpp-noticias.io/2020/06/05/rpp-feed_952838.png" group-title="MUSICA",RPP RADIO
+#EXTINF:-1 tvg-id="RADIO RPP" tvg-logo="https://f.rpp-noticias.io/2020/06/05/rpp-feed_952838.png" group-title="MUSICA",RADIO RPP
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=641b564000df2c8b_3992046_oRrO1ogj__0000001T0hG&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc&sid=iqpptk68qb13K4xZdd9UPLyKrmoYLBRz&pid=d1XbqTEqiL0ok4cl7g2DJSkkgIXmpgyT&ref=rpp.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1683591595408&ot=3E4ayg_AQZhppLQvDejn2Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc
-
+#EXTINF:-1 tvg-id="RADIO PANAMERICANA" tvg-logo="https://www.radiopanamericana.com/j/images/programacion/2022-12-19_-1671483949.png" group-title="MUSICA",RADIO PANAMERICANA
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 tvg-id="RADIO NUEVA Q" tvg-logo="https://mmo.aiircdn.com/766/643805bf42ae5.png" group-title="MUSICA",RADIO NUEVA Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO MODA" tvg-logo="https://mmo.aiircdn.com/766/6452a23bb515a.png" group-title="MUSICA",RADIO MODA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lazona.png" group-title="MUSICA",RADIO LA ZONA
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8
 
 
 
@@ -313,8 +320,6 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA LIGA 1 MAX DIRECTO" tvg-logo="https://i.imgur.com/7BgILXg.png" group-title="DEPORTES PERU",LA LIGA 1 MAX DIRECTO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrAFkfusQTR5nU-V2iKQupkLbJ6369kq-cbbrOxvgotwEG_afVrr6wHmHuxXPOdE0KLg31vnrHFQrUnOxFn3S4pb1MWEn5ioHJ32RuZfIjul3Jz3w1jdDrr6l1OCiSPmTxcCX2XwHtt-8oV1Ku9iWTG9o7n590YU2Nf3MLqTqVvX7OMAQzRDwRJ5ZhBdDCTaSym7nWAbaas-W27w9oHqcLgpnXTaBR_hQmR7vyTxB51qw0KZCDJaBMx8EZIC-8Z1bOimUXdyarsAn4fwgEL87KwcOObuGpyEX_KbRwccuvanPYW-IHPzxx9ry6fwVPHWaLVQkkSkwgQlcaxdqfjj9Oco7shdJ1SgS_eI9f3M5Yx0vE7v5hDGWFtng2I3e5j2I2x8ezb_mRxeJM4S1tZFpb7lLmPnX6J8vw21Qsd1p4iImijdOZnvVYjLKphnVU-6qmcIAMe2SdbPKFm1bNpzcKyvsus25AMjDDsTTyDYJbyoAKOA_NSBzkzXfg-RauthUsSwwURBQAlpZPvcIccFZiWYM9DkC47YMH64bJlps8ezKxCRCJlUthlF8346Cdv-XxnXCGBY-RBTE49bv0HgTJ7yQq-4akfYL3UczgNNahXIT06UvCGSLxppBK8wFctiMaS9c8dA2ExWaFJhzkLQhcacNJI3npr0F64e5J04K1-fYDz52SBQZK4ix_IUDhs_eAQb4AxjXKRfbLs5HCrOt9ZwtHHm4Iwumvvb7Zz-Y7TaTkj8uk1KTILvK3UyyMfNFH-VN40uWZAQfF8tMw0HHjWVSUpcnxf6-omq-J8v4aH5jBBwxAFNw903qG1F_fEvXNh-vDr6nJVFyzU99y8_4h74LLB7Qk_jXNE0OQC-BYHxw5rzeKT1bwMwK_fAktLKcVQhVnVSWFUO0m9XVJSrKABG1xoMhVAjf37AAwCQxHzVIAEqCXVzLWVhc3QtMTD3BA.m3u8
-#EXTINF:-1 tvg-id="WIN SPORT DIRECTO" tvg-logo="https://i.imgur.com/ZFeWfj1.png" group-title="DEPORTES PERU",WIN SPORT DIRECTO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cq4FZ1wvhOg5Wr91uG2-QjBWD6DAyNkpwDdaNvU7-1TxjtaLLGMhgw9dfow9AogOpVn4Qa4SAdcTQS4tmRyEMe0HBzNWUTY9NnEkxr8len4h5e4aK8Wyy71S5eRQTTq6exzLh3EJeHduQ9vgbe0DDUrJOXpcBx8663NirQcrXu7ymi7DtZ-zWCHs3aGSrWb0efmmuocrf4UFfMa8oPUEaW41XFObpdycK8e7bsQhJxuGKb34gXisfuAoamP5619yyDGLqGLrp7gyM_kL27OzOgWEdcQgWHWFGUH2r9k7HCnB7vhJ2Nnm1d7whjrhqL-7rTHFHjKUgP2EWHzAGfxDdYG0RkF8q-emSeOyj1qNoKGXb_K-tZrbQT9BLcYxWbkcR9DFPmTRI1vBDdWSpN1JGiwuQDd_MIsMSknZuiLJsqIUv2mBBivHxfl_JFYtwsBfv_ojWcCr09xeDUPuyqMJkZ5H-sk_WrGA2j1O1FCmFQlWa10V_ljxWUYvp4QcAqOHOqLz2ZCuspD0L6acyJ-J4QR1eVg1ROgxMU5mJNPzNtyeNHbgCiFFGJhjCVPCLUUNdWsWh-W94POyp4ui6gRpySrNwB8kStu0CbJ99P_1XlWx_sJrTpcGlbF0r3d18sFFCb7kg_VgKs5Be2Qp3LuVtunCdh0kYc2WtQBF5BQtRQ_YK_-XRDTxDH7xpWZjzLT6Oh6BuBGv1hYoxB9u4-2gi_cbz-SvHqWDtcrgX7tiWMleOFHVZF8WlfYwIw7hriG0WqgfbvCfAGwjFsVOFRtsOnULbraVL-PrO4QOTueC027JnLyhF2W0Nw80USHG8gvo5x29Dvdj7ADl8nrJN4lchNUBGxzF3s3Ttg45poIA9sA_V-54DoKv_ZG9XxuA9m70m_kKK--7tiMcWsNaSFkj6vcaDDOXd9cwwMbLz4Qe5iABKgl1cy1lYXN0LTIwwAY.m3u8
 #EXTINF:-1 tvg-id="OVACION TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTES PERU",OVACION TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Esports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="DEPORTES PERU",Esports Max
@@ -2128,6 +2133,4 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-
 
