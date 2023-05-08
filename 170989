@@ -30,16 +30,18 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RADIO RPP" tvg-logo="https://f.rpp-noticias.io/2020/06/05/rpp-feed_952838.png" group-title="MUSICA",RADIO RPP
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=641b564000df2c8b_3992046_oRrO1ogj__0000001T0hG&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc&sid=iqpptk68qb13K4xZdd9UPLyKrmoYLBRz&pid=d1XbqTEqiL0ok4cl7g2DJSkkgIXmpgyT&ref=rpp.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1683591595408&ot=3E4ayg_AQZhppLQvDejn2Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc
-#EXTINF:-1 tvg-id="RADIO PANAMERICANA" tvg-logo="https://www.radiopanamericana.com/j/images/programacion/2022-12-19_-1671483949.png" group-title="MUSICA",RADIO PANAMERICANA
+#EXTINF:-1 tvg-id="RADIO PANAMERICANA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/xgbPEVhymn.png" group-title="MUSICA",RADIO PANAMERICANA
 https://streaming.gometri.com/stream/8000/stream
-#EXTINF:-1 tvg-id="RADIO NUEVA Q" tvg-logo="https://mmo.aiircdn.com/766/643805bf42ae5.png" group-title="MUSICA",RADIO NUEVA Q
+#EXTINF:-1 tvg-id="RADIO NUEVA Q" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8fTKXj2Ynz.png" group-title="MUSICA",RADIO NUEVA Q
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO MODA" tvg-logo="https://mmo.aiircdn.com/766/6452a23bb515a.png" group-title="MUSICA",RADIO MODA
+#EXTINF:-1 tvg-id="RADIO MODA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dEg9AUE3CD.png" group-title="MUSICA",RADIO MODA
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://eaudioplayer.radio-grpp.io/static/dist/img/logo_lazona.png" group-title="MUSICA",RADIO LA ZONA
+#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Z6ZZYZYE6R.jpg" group-title="MUSICA",RADIO LA ZONA
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8
-
-
+#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gaF98DkLrX.png" group-title="MUSICA",RADIO MAR
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC_SC
+#EXTINF:-1 tvg-id="RADIO LA KALLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/9hxrjuhEGv.jpeg" group-title="MUSICA",RADIO LA KALLE
+https://cpliv3.onliv3.com/stream/lakalle/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -2115,11 +2117,6 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4768.ts
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4772.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
-
-
-
-
-
 
 
 
