@@ -2141,6 +2141,12 @@ http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4772.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
 http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
 
+
+#EXTINF:-1 tvg-id="" tvg-name="TLENOVELAS SD" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="NOVELAS Y NOVELAS",TLENOVELAS SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218438.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="NOVELAS Y NOVELAS",TLNOVELAS HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218439.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="NOVELAS 1" tvg-logo="https://i.ibb.co/b17GNdd/LOGOWEIB-1.png" group-title="NOVELAS Y NOVELAS",NOVELAS 1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/149227.ts
 #EXTINF:-1 tvg-id="" tvg-name="NOVELAS 2" tvg-logo="https://i.ibb.co/b17GNdd/LOGOWEIB-1.png" group-title="NOVELAS Y NOVELAS",NOVELAS 2
