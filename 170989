@@ -2410,7 +2410,28 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/150534.ts
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 op2 (E)" tvg-logo="https://imgmedia.libero.pe/670x369/libero/original/2022/08/27/630a73fd0260905637334baa.webp" group-title="DEPORTES PERU",LIGA 1 op2 (E)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208114.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 opc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOiKghOyzXw4R_tMA11SmwVDseQhxWfh9aA&usqp=CAU" group-title="DEPORTES PERU",LIGA 1 opc3
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208115.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MAX 1 opc2 (E)" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA MAX 1 opc2 (E)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208116.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc3" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc3
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208117.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc4" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc4
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208118.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE HD" tvg-logo="http://dalepley.club:8080/images/ZCtyqWEU9008K1wyo3nGnXyeDu8418Co82RNGNcHRNKBPwKmPVzIUNgxOQx16s1m.png" group-title="DEPORTES PERU",ESPN PE HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208119.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgNzIWFCCFVVdnBF8VsID4DAEQA5NyqPDaGJSyegwmnXA.png" group-title="DEPORTES PERU",ESPN PE
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208120.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://dalepley.club:8080/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWISoFNIAGjbxTNa85AHnHESUFs9-_9sj3Yx5XLN56iRc.png" group-title="DEPORTES PERU",ESPN PE
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208121.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE" tvg-logo="http://dalepley.club:8080/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWvq1GhLU38M1kWlLzcr_lV0GZIpPyK9T7SHldfSgs1-8.png" group-title="DEPORTES PERU",ESPN 2 PE
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208122.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE SD" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcum4vK9YOluc1JbNSTPd3oKiGdfkXoc4qZlQT8VS5JRPs.png" group-title="DEPORTES PERU",ESPN 2 PE SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208123.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  PE HD" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcum4vK9YOluc1JbNSTPd3oKiGdfkXoc4qZlQT8VS5JRPs.png" group-title="DEPORTES PERU",ESPN 2  PE HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208124.ts
 
 
 
