@@ -66,7 +66,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?cse
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",ADONAI TV HUARMEY
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cr0FBjI1SLm1GBjont81ibQq3As3dETnQBKhUkeWMheqptsNmNwuD8A-Mu6mSEdIp-ISpgYFakIMISGpV5VDIkwxso0Z0wkAkyLHagD9btUtnQ45oYXWRUFYI0tL4EaYZQC6tSBVxsPFAOt-cfvDpmEJK_yCI3TOIkVqPSmSK_flzgFlGj40XY0BrZfbBiULNaltc4DhxbtIcaFZtzPS8xSsR0UwUfIlKwwXVhWnyLdiE2h0cx0ByVq2xk1rQWN2Y0j9J8ZU3DDmrtwibjaoKJPrFtNucc-TSPJ_MZD3eaLRgzRi5dPNVkEk-7EstqVZb03k5_GH79TOuSHFG97GOyD_0TR55lW6s3FVV13nY4Fgs50OYZUu16j-tYCfkSA-9Y1nP_Faa39b18t2DloYbUZZ3I40hsKn_LOTca1DV_02cOp86N1bcab_R5yHTteQO5G2GBroD29AdHMusVOLw8jeO4MUhRsHshAu_yxOdKDGhsqBlwWY1N97pEijFXB1_-94QSEoyfW7SNNtdQ3Q4yjatw9ZYIJhfElSH41JQ29-8uDv2213YazjIQjuS2dl3kLkh_N06npCAdUAok-2ISFJgcQIib1Nx8gDd986EfOASX5RIA6KvX49zYvcATPER2wudXJ1uwI8fz2unRc7r_qwXHiCWrafQfoocywMTI4N4M84XK8I0gdBGK0C1EEKKpinkRFrIp1bpM-0dpammv2DXoIG7XfLky4S6hX6hViHVITpW0EaW0eWErr-JWSp_32B5VzjP5dDyi8_OoJcinSUf-8xjIFkGBgHFjOQYCxEG4PTs19DE0PGWvYG6Furw99o66i2iy5nqOHg0ya1J4FTr1sASu7DBnifCaCpAt0sgGHECbqnCtgs1RoFj4393tQrXY5-dM1vuFAU6OLnEV10Z2wMggndQhjJk6jktxwaDFWooIbBa67EOTk9LiABKgl1cy1lYXN0LTEw-QQ.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CsEF9OD1F4gEzsl8ct10RH4nmlofZ4bwMsfQG4ze2C2i0LiuW2O9FW2JHOqfVljJZ2mRqxatqILlzXyCdNzGD4lTs5-QUGnGOKBat448Yp2O9-YOCtu9AeJB-CwlPwG2y2UJ_pQqh3MLxB8yuFs7nJlbLUv7uCHitbz0l8WKzHfWTMbFT5Mr33q8Kreu_wV_X-t5ObcyShxy_Isf1WtMHlkrHg-zLlMuTX1zL2yAM-yFwE4F93ZVm7GTnlbG68VYBBqdY1HysRQVU8U7OYD-r4_orjKK3BczU4SQnxlNxoLzN67W6QnBYH4Ex3yU6kusdt5KX70S3MlolN0OdjqnfRGmcNPUYJCS7kgI4CXUHqh4x5Qf0QEIBR2T8Y4u36QhYQB2Xqwwl7Jym7Pf4cm92bmm0DDPUtQ53WjDuahvjQ118M_pEkBvVh2zaXgHfPTW4iazKFy-eW66EJZzyazKBKU4p-B3RDLKggZSzrkMJtGasy3rqhSZClLrVJPVyyY_OO2Gqigq8XfbknOoR2R8mzyIi-5Y0rp2wpL8XutaOYIeQo579DNhTVSNHvzFqS0_iL-SLe1MxTaXQh9ajpSTBW7afLAIscVBLHOdGmkDRWMQs9LTE7a6Xq1aGS6SiantB_jq6RCyei-cc8x7DoJB9jjv-qRe-tiyLn2DGDw_MRKOU8HGfjlaVMpYG4tK6v7Nz1POw7l10rkXozi1FITnlfF4YgE6pK01fdw4dvvpA31M7lcbcPkl2kLERIaoiSjnCygj08uTEapVU08YWbyAQ67U01ARz4Rw-_jm0rfaQisBfAduy5LPn58tb4COzVAU2oXaoz1VsGHBUROUVLLNiqSWSohEhriSQhQ8TEmn7EhedIDbVMAwdYan505tcJL2U9qMWLTriM4h-x5rUm1uMwQtV11CYGZp48gpzDE2xSSSV3xnGgz6H9C-j3g1OKbaLvQgASoJdXMtZWFzdC0yMMIG.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -2246,38 +2246,11 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208122.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208123.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  PE HD" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcum4vK9YOluc1JbNSTPd3oKiGdfkXoc4qZlQT8VS5JRPs.png" group-title="DEPORTES PERU",ESPN 2  PE HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208124.ts
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
