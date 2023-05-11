@@ -873,6 +873,17 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="BOOMERAN DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s26089_ll_h3_ab.png" group-title="INFANTILES",BOOMERAN DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
+
+#EXTINF:-1 channel-id="pluto-63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-chno="728" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="INFANTILES" , Las Tortugas Ninja
+https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-chno="727" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="INFANTILES" , Los Padrinos Mágicos
+https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+#EXTINF:-1 channel-id="pluto-632119a92c3b880007d3f5dc" tvg-id="632119a92c3b880007d3f5dc" tvg-chno="335" tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="INFANTILES" , Beyblade
+https://i.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="INFANTILES" , Bob Esponja Pantalones Cuadrados
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+#EXTINF:-1 channel-id="pluto-619d5e6a093e7c0007489211" tvg-id="619d5e6a093e7c0007489211" tvg-chno="701" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="INFANTILES" , Baby Shark TV
+https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="327" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Anime
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-chno="703" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Junior
@@ -903,6 +914,8 @@ https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="INFANTILES" , Nick Teen
 https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="719" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Kids" , Pluto TV Anime Kids
+https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fb554d87a0c480007c8dada" tvg-id="5fb554d87a0c480007c8dada" tvg-chno="347" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="INFANTILES" , ESR 24/7
 https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fcea93ffcf94500071c4b2f" tvg-id="5fcea93ffcf94500071c4b2f" tvg-chno="177" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="INFANTILES" , Kenan y Kel
@@ -911,14 +924,20 @@ https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 https://i.mjh.nz/PlutoTV/5fceaab478f2af00080ff51f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ff4b9ccf938f8000779eb99" tvg-id="5ff4b9ccf938f8000779eb99" tvg-chno="337" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="INFANTILES" , One Piece
 https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Retro Cartoons
+https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-chno="342" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="INFANTILES" , Tokusato
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-
-
-
-
-
-
+#EXTINF:-1 channel-id="pluto-5ff3934600d4c7000733ff49" tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV E-Sports
+https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="INFANTILES" , Los Tres Chiflados
+https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-chno="161" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="INFANTILES" , MTV Teen Mom
+https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-620ff0a01f9e8700076c6f9d" tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="INFANTILES" , Nickelodeon iCarly
+https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-chno="332" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="INFANTILES" , Death Note
+https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
 
 
 
@@ -2287,10 +2306,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208122.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208123.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2  PE HD" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcum4vK9YOluc1JbNSTPd3oKiGdfkXoc4qZlQT8VS5JRPs.png" group-title="DEPORTES PERU",ESPN 2  PE HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208124.ts
-
-
-
-
 
 
 
