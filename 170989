@@ -727,9 +727,9 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="FILM STREAM DIRECTO" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINE PERU",FILM STREAM DIRECTO
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-chno="20" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title=""CINE PERU" , CSI: Miami
+#EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-chno="20" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="CINE PERU" , CSI: Miami
 https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title=""CINE PERU" , NCIS
+#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="CINE PERU" , NCIS
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Acción
 https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
@@ -741,6 +741,36 @@ https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Estelar
 https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dd6ddb30a1d8a000908ed4c" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="87" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Familia
+https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dd7ea2aeab5230009986735" tvg-id="5dd7ea2aeab5230009986735" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Romance
+https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ddc4e8bcbb9010009b4e84f" tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Suspenso
+https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5de802659167b10009e7deba" tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Series Retro
+https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5defde6d6c07b50009cf0757" tvg-id="5defde6d6c07b50009cf0757" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV  Nuestro Cine
+https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e972a21ad709d00074195ba" tvg-id="5e972a21ad709d00074195ba" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="CINE PERU" , Estrellas de Acción
+https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f4d3696d938c900072679fd" tvg-id="5f4d3696d938c900072679fd" tvg-chno="263" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="CINE PERU" , Historias de Ultratumba
+https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-chno="309" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="CINE PERU" , Misterios sin Resolver
+https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d" tvg-chno="100" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="CINE PERU" , Paramount+ Presenta
+https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-609059dc63be6e0007b4eca6" tvg-id="609059dc63be6e0007b4eca6" tvg-chno="85" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Clásico
+https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-624af40c004f8000079b784d" tvg-id="624af40c004f8000079b784d" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Crimen
+https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62c5d80dc6de440007e033eb" tvg-id="62c5d80dc6de440007e033eb" tvg-chno="76" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="CINE PERU" , Runtime
+https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="CINE PERU" , Hechizada
+https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="CINE PERU" , Reviví Gran Hermano
+https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
+
+
 
 
 
@@ -2346,12 +2376,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="CIENCIA" , Pluto TV Investiga
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
-
-
-
-
-
-
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA" , Pluto TV Ciencia
+https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
 
 
 
