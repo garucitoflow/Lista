@@ -873,6 +873,38 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="BOOMERAN DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s26089_ll_h3_ab.png" group-title="INFANTILES",BOOMERAN DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
+#EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="327" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Anime
+https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-chno="703" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Junior
+https://i.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dd6dae8ce788b0009eaf77b" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-chno="721" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Kids
+https://i.mjh.nz/PlutoTV/5dd6dae8ce788b0009eaf77b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dd6de52b9914200091f047a" tvg-id="5dd6de52b9914200091f047a" tvg-chno="179" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Teen
+https://i.mjh.nz/PlutoTV/5dd6de52b9914200091f047a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="INFANTILES" , Nick Clásico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-chno="706" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="INFANTILES" , Nick Jr. Club
+https://i.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e67e20c93312100076f3ffe" tvg-id="5e67e20c93312100076f3ffe" tvg-chno="715" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png" group-title="INFANTILES" , Babar
+https://i.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e6a4d875d7ccf0007cc2cf1" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-chno="329" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Animé Acción
+https://i.mjh.nz/PlutoTV/5e6a4d875d7ccf0007cc2cf1-alt.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
