@@ -355,6 +355,8 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CONTACTO DEPORTIVO" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="DEPORTES PERU",CONTACTO DEPORTIVO
 https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="DEPORTES PERU" , La Liga Premier | Paramount+
+https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
@@ -725,8 +727,28 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="FILM STREAM DIRECTO" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINE PERU",FILM STREAM DIRECTO
 https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CSI:MIAMI DIRECTO" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINE PERU",CSI:MIAMI DIRECTO
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9255c111bc0008fe6ec4/3063648/playlist.m3u8?terminate=false&sid=5cd2ec60-efb3-11ed-95d9-de87989e8bec&deviceDNT=0&deviceLat=-12.0432&deviceLon=-77.0282&deviceModel=web&deviceVersion=113.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=c1cefc36-b8a4-41c7-9bea-e8a0acc49a2a&appVersion=7.0.0-5be6dadc7535b498a3b3c186a281977403f4d134&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg3ZTQzYjkyLWI1NmEtNDkzNS1hMmVkLTYxZWQ1NzlmM2ZlMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1Y2QyZWM2MC1lZmIzLTExZWQtOTVkOS1kZTg3OTg5ZThiZWMiLCJjbGllbnRJUCI6IjE4MS42Ni4xNzYuMTcwIiwiY2l0eSI6IkxpbWEiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IlBFIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTEyLjA0MzIsImRldmljZUxvbiI6LTc3LjAyODIsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjExMy4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuMC4wLTViZTZkYWRjNzUzNWI0OThhM2IzYzE4NmEyODE5Nzc0MDNmNGQxMzQiLCJjbGllbnRJRCI6ImMxY2VmYzM2LWI4YTQtNDFjNy05YmVhLWU4YTBhY2M0OWEyYSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZekZqWldaak16WXRZamhoTkMwME1XTTNMVGxpWldFdFpUaGhNR0ZqWXpRNVlUSmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjgzODY1MzE1LCJpYXQiOjE2ODM3Nzg5MTUsImp0aSI6IjY5NmQxYzI3LTA5OTEtNGI2ZS05MGM5LWQyMGQzOWQyNjc1NCJ9.MNOT24eERN3XPO4GM4jtnl_ETu66gw5sDiIuDLTafrk&CMCD=mtp%3D47500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228ab1ce5f-3ee6-40f6-8145-050ea8a53114%22
+#EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-chno="20" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title=""CINE PERU" , CSI: Miami
+https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-chno="21" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title=""CINE PERU" , NCIS
+https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Acción
+https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Terror
+https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcddfcb229eff00091b6bdf" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Series
+https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde437229eff00091b6c30" tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Estelar
+https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+
+
+
+#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="NOVELAS" , Pluto TV Novelas
+https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
+
+
+
 
 
 
@@ -915,7 +937,7 @@ https://i.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="INFANTILES" , Nick Teen
 https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="719" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Kids" , Pluto TV Anime Kids
+#EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="719" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Anime Kids
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fb554d87a0c480007c8dada" tvg-id="5fb554d87a0c480007c8dada" tvg-chno="347" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="INFANTILES" , ESR 24/7
 https://i.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
@@ -2322,6 +2344,15 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208124.ts
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="CIENCIA" , Pluto TV Investiga
+https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MIAMI TV 1 DIRECTO" tvg-logo="" group-title="Z ADULTO",MIAMI TV 1 DIRECTO
