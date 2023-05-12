@@ -26,6 +26,12 @@ https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 https://tv.portalexpress.es:3731/stream/play.m3u8
 #EXTINF:-1 tvg-id="ENERGEEK FAN POPDIRECTO" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="MUSICA",ENERGEEK FAN POPDIRECTO
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA" , Conciertos por Stingray
+https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA" , Karaoke por Stingray
+https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62444f34ea3ade0007ade6ac" tvg-id="62444f34ea3ade0007ade6ac" tvg-chno="603" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="MUSICA" , MTV Urban Music
+https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 
 #EXTINF:-1 tvg-id="RADIO RPP" tvg-logo="https://f.rpp-noticias.io/2020/06/05/rpp-feed_952838.png" group-title="MUSICA",RADIO RPP
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=641b564000df2c8b_3992046_oRrO1ogj__0000001T0hG&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc&sid=iqpptk68qb13K4xZdd9UPLyKrmoYLBRz&pid=d1XbqTEqiL0ok4cl7g2DJSkkgIXmpgyT&ref=rpp.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1683591595408&ot=3E4ayg_AQZhppLQvDejn2Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc
@@ -340,7 +346,10 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA 24 DIRECTO" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CULTURA",CULTURA 24 DIRECTO
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-
+#EXTINF:-1 channel-id="pluto-5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-chno="450" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="CULTURA" , Pluto TV Cocina
+https://i.mjh.nz/PlutoTV/5f1acdaa8ba90f0007d5e760-alt.m3u8
+#EXTINF:-1 channel-id="pluto-600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="457" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="CULTURA" , Pluto TV Animales
+https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
 
 
 
@@ -357,6 +366,30 @@ https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="DEPORTES PERU" , La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES PERU" , Pluto TV Deportes
+https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60e5ea9a9bb4200008376f76" tvg-id="60e5ea9a9bb4200008376f76" tvg-chno="430" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="DEPORTES PERU" , Motorvision TV
+https://i.mjh.nz/PlutoTV/60e5ea9a9bb4200008376f76-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-chno="500" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="DEPORTES PERU" , Top Gear
+https://i.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="DEPORTES PERU" , Tuning
+https://i.mjh.nz/PlutoTV/6076c74daa05ac0007d0eb07-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f99a772c54853000797bf18" tvg-id="5f99a772c54853000797bf18" tvg-chno="412" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="DEPORTES PERU" , Lucha Libre AAA
+https://i.mjh.nz/PlutoTV/5f99a772c54853000797bf18-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e98b0447665f200078caded" tvg-id="5e98b0447665f200078caded" tvg-chno="408" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="DEPORTES PERU" , Pluto TV Peleas
+https://i.mjh.nz/PlutoTV/5e98b0447665f200078caded-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63211ba9cad976000794f988" tvg-id="63211ba9cad976000794f988" tvg-chno="406" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="DEPORTES PERU" , La Selección
+https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63c6e37e636b7e0007ccb635" tvg-id="63c6e37e636b7e0007ccb635" tvg-chno="390" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png" group-title="DEPORTES PERU" , Pluto TV Fútbol
+https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="420" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="DEPORTES PERU" , ITV Deportes
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
@@ -723,6 +756,10 @@ https://archive.org/download/dragon.-ball.-super.-capitulo.-131.-dual.-latino.-j
 
 #EXTINF:-1 tvg-id="TECSATEL CINE DIRECTO" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="CINE PERU",TECSATEL CINE DIRECTO
 https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-id='1066' tvg-name='Conecta TV' tvg-logo='https://www.iptvgratis.cl/logocanal/conectatv.png' group-title="CINE PERU", Conecta TV * | MX
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id='7' tvg-name='ADN40' tvg-logo='https://www.iptvgratis.cl/logocanal/adn40.png', group-title="CINE PERU"ADN40 * | MX
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="RETRO PLUS 3 DIRECTO" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="CINE PERU",RETRO PLUS 3 DIRECTO
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="FILM STREAM DIRECTO" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="CINE PERU",FILM STREAM DIRECTO
@@ -769,6 +806,87 @@ https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6320ddef274b1b0007b2ee88" tvg-id="6320ddef274b1b0007b2ee88" tvg-chno="141" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="CINE PERU" , Reviví Gran Hermano
 https://i.mjh.nz/PlutoTV/6320ddef274b1b0007b2ee88-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Comedia
+https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Misterios
+https://i.mjh.nz/PlutoTV/5dcde2f53449c50009b2b4dc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-602ba1cfb386d30007aecbbe" tvg-id="602ba1cfb386d30007aecbbe" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Investiga
+https://i.mjh.nz/PlutoTV/602ba1cfb386d30007aecbbe-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6086d3f420fc8500075f8dbf" tvg-id="6086d3f420fc8500075f8dbf" tvg-chno="212" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE PERU" , Runtime
+https://i.mjh.nz/PlutoTV/6086d3f420fc8500075f8dbf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-chno="210" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine de autor
+https://i.mjh.nz/PlutoTV/60cc807324d60a0007708dc8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Clásico
+https://i.mjh.nz/PlutoTV/61373bb45168fe000773eecd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f2817d3d7573a00080f9175" tvg-id="5f2817d3d7573a00080f9175" tvg-chno="74" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5fcea359e533cb0007215c71" tvg-id="5fcea359e533cb0007215c71" tvg-chno="77" tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Filmstream
+https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61b793ccf571b80007b7a610" tvg-id="61b793ccf571b80007b7a610" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Adrenalina Freezone
+https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-chno="24" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="CINE PERU" , MacGyver
+https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="CINE PERU" , MTV Originals
+https://i.mjh.nz/PlutoTV/5f1aadf373bed3000794d1d7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1aae8c65727d0007d15a17" tvg-id="5f1aae8c65727d0007d15a17" tvg-chno="558" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="CINE PERU" , MTV Prank
+https://i.mjh.nz/PlutoTV/5f1aae8c65727d0007d15a17-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-chno="550" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="CINE PERU" , MTV Catfish TV Show
+https://i.mjh.nz/PlutoTV/5f1ab3c7778230000735cf41-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ab9c6d8f1300007f54e30" tvg-id="5f1ab9c6d8f1300007f54e30" tvg-chno="559" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="CINE PERU" , MTV Cribs
+https://i.mjh.nz/PlutoTV/5f1ab9c6d8f1300007f54e30-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Estelar 2
+https://i.mjh.nz/PlutoTV/5f1ac1f1b66c76000790ef27-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac2591dd8880007bb7d6d" tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="201" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Acción 2
+https://i.mjh.nz/PlutoTV/5f1ac2591dd8880007bb7d6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac8099c49f600076579b2" tvg-id="5f1ac8099c49f600076579b2" tvg-chno="204" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Comedia 2
+https://i.mjh.nz/PlutoTV/5f1ac8099c49f600076579b2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac8a87cd38d000745d7cf" tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="207" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Thrillers 2
+https://i.mjh.nz/PlutoTV/5f1ac8a87cd38d000745d7cf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac947dcd00d0007937c08" tvg-id="5f1ac947dcd00d0007937c08" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5f1ac947dcd00d0007937c08-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ac9a2d3611d0007a844bb" tvg-id="5f1ac9a2d3611d0007a844bb" tvg-chno="206" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Cine Romántico
+https://i.mjh.nz/PlutoTV/5f1ac9a2d3611d0007a844bb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1aca8310a30e00074fab92" tvg-id="5f1aca8310a30e00074fab92" tvg-chno="307" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="CINE PERU" , Asesinatos de Midsomer
+https://i.mjh.nz/PlutoTV/5f1aca8310a30e00074fab92-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1acb4eebe0f0000767b40f" tvg-id="5f1acb4eebe0f0000767b40f" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="CINE PERU" , Las reglas del juego
+https://i.mjh.nz/PlutoTV/5f1acb4eebe0f0000767b40f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1acba0d1f6340007db8843" tvg-id="5f1acba0d1f6340007db8843" tvg-chno="302" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="CINE PERU" , Los nuevos detectives
+https://i.mjh.nz/PlutoTV/5f1acba0d1f6340007db8843-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1acbed25948a0007ffbe65" tvg-id="5f1acbed25948a0007ffbe65" tvg-chno="303" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="CINE PERU" , Los archivos del FBI
+https://i.mjh.nz/PlutoTV/5f1acbed25948a0007ffbe65-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1acc3e061597000768d4ea" tvg-id="5f1acc3e061597000768d4ea" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="CINE PERU" , Andrómeda
+https://i.mjh.nz/PlutoTV/5f1acc3e061597000768d4ea-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1acc91cc9e1b000711ff21" tvg-id="5f1acc91cc9e1b000711ff21" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="CINE PERU" , Mutante X
+https://i.mjh.nz/PlutoTV/5f1acc91cc9e1b000711ff21-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6a38eaa5b68b0007a00e7a" tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="203" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="CINE PERU"" , Pluto TV Sci-Fi 2
+https://i.mjh.nz/PlutoTV/5f6a38eaa5b68b0007a00e7a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="300" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="CINE PERU" , Archivos Forenses
+https://i.mjh.nz/PlutoTV/5f984f4a09e92d0007d74647-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f9853138d19af0007104a8d" tvg-id="5f9853138d19af0007104a8d" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Series Comedia
+https://i.mjh.nz/PlutoTV/5f9853138d19af0007104a8d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="556" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="CINE PERU" , MTV Embarazada a los 16
+https://i.mjh.nz/PlutoTV/5f98537a5a4341000733aefe-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245c03922d9d4000760d205" tvg-id="6245c03922d9d4000760d205" tvg-chno="103" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png" group-title="CINE PERU" , Melrose Place
+https://i.mjh.nz/PlutoTV/6245c03922d9d4000760d205-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245c2a5eec07b0007249fc8" tvg-id="6245c2a5eec07b0007249fc8" tvg-chno="102" tvg-logo="https://images.pluto.tv/channels/6245c2a5eec07b0007249fc8/colorLogoPNG.png" group-title="CINE PERU" , Sensación de Vivir (90210)
+https://i.mjh.nz/PlutoTV/6245c2a5eec07b0007249fc8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6267d4d1fb694f0007a6af0e" tvg-id="6267d4d1fb694f0007a6af0e" tvg-chno="202" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Horror
+https://i.mjh.nz/PlutoTV/6267d4d1fb694f0007a6af0e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="CINE PERU" , Pluto TV Western
+https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61c49a1b5ec8d40008673251" tvg-id="61c49a1b5ec8d40008673251" tvg-chno="211" tvg-logo="https://images.pluto.tv/channels/61c49a1b5ec8d40008673251/colorLogoPNG.png" group-title="CINE PERU" , Cortos
+https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -993,7 +1111,6 @@ https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
 https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-626c2ed933a2890007e91422" tvg-id="626c2ed933a2890007e91422" tvg-chno="332" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="INFANTILES" , Death Note
 https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5f1aa7aab66c76000790ee7e" tvg-id="5f1aa7aab66c76000790ee7e" tvg-chno="911" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="INFANTILES" , Big Time Rush
 https://i.mjh.nz/PlutoTV/5f1aa7aab66c76000790ee7e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f1aa9bcd8160700076d45d1" tvg-id="5f1aa9bcd8160700076d45d1" tvg-chno="907" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Junior
@@ -1014,6 +1131,10 @@ https://i.mjh.nz/PlutoTV/610c09219fc0430007a3fce6-alt.m3u8
 https://i.mjh.nz/PlutoTV/61373c865ed5810007173fbc-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-chno="805" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="INFANTILES" , Las Tortugas Ninja
 https://i.mjh.nz/PlutoTV/61373f1a12dd9f00077dcd6f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6054ab20a365c70007e4fd44" tvg-id="6054ab20a365c70007e4fd44" tvg-chno="71" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="INFANTILES" , Garfield
+https://i.mjh.nz/PlutoTV/6054ab20a365c70007e4fd44-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6054acc871ec430007f54c7d" tvg-id="6054acc871ec430007f54c7d" tvg-chno="70" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="INFANTILES" , Anime Clásico
+https://i.mjh.nz/PlutoTV/6054acc871ec430007f54c7d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-chno="913" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" group-title="INFANTILES" , iCarly
 https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
 #EXTINF:-1 channel-id="pluto-624466b26ab25e0007dd7cfb" tvg-id="624466b26ab25e0007dd7cfb" tvg-chno="908" tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png" group-title="INFANTILES" , Dora la Exploradora
@@ -1032,7 +1153,8 @@ https://i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8
 https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb944dc111bc0008fe7021" tvg-id="63eb944dc111bc0008fe7021" tvg-chno="910" tvg-logo="https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV Teen
 https://i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8
-
+#EXTINF:-1 channel-id="pluto-6228b6a38717420007375848" tvg-id="6228b6a38717420007375848" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="INFANTILES" , Nickelodeon Ukraine
+https://i.mjh.nz/PlutoTV/6228b6a38717420007375848-alt.m3u8
 
 
 
@@ -4170,12 +4292,3 @@ https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x4%20Dual%2
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x5%20Dual%20%40Girohens~1.mp4
 #EXTINF:-1 group-title="MOVIE  SUSPENSO" tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem.jpg",Post Mortem 1x6
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x6%20Dual%20%40Girohens~1.mp4
-
-
-
-
-
-
-
-
-
