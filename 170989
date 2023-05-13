@@ -2329,7 +2329,7 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142001.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142066.ts
 #EXTINF:-1 tvg-id="a2baaf58-f485-4eae-8b26-b67cbfffd0ad" tvg-name="24/7 Élite" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/06/29/bigbang/1593433117_130907_1593433381_noticia_normal.jpg" group-title="24/7 - VARIADO",24/7 Élite
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142068.ts
-#EXTINF:-1 tvg-id="8b0091c4-4f1f-48e2-a31d-caa398ac60d9" tvg-name="24/7 Cantinflas" tvg-logo="https://www.infobae.com/new-resizer/jmYmd_SBey9a7tA8fN6y0VoLLYM=/1200x900/filters:format(webp):quality(85)//s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/04/19171022/cantinflas2.jpg" group-title="24/7 - PELICULAS-N",24/7 Cantinflas
+#EXTINF:-1 tvg-id="8b0091c4-4f1f-48e2-a31d-caa398ac60d9" tvg-name="24/7 Cantinflas" tvg-logo="https://www.infobae.com/new-resizer/jmYmd_SBey9a7tA8fN6y0VoLLYM=/1200x900/filters:format(webp):quality(85)//s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/04/19171022/cantinflas2.jpg" group-title="24/7 - VARIADO",24/7 Cantinflas
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142069.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="https://www.hostales-madrid.net/wp-content/uploads/2020/03/Imagen-promocional-temporada-Juego-Tronos_EDIIMA20190415_0238_1.jpg" group-title="24/7 - VARIADO",24/7 Juego de tronos
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142070.ts
@@ -4157,6 +4157,12 @@ https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x4%20Dual%2
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x5%20Dual%20%40Girohens~1.mp4
 #EXTINF:-1 group-title="MOVIE  SUSPENSO" tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem.jpg",Post Mortem 1x6
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x6%20Dual%20%40Girohens~1.mp4
+
+
+
+
+
+
 
 
 
