@@ -364,6 +364,8 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-chno="403" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="DEPORTES PERU" , FUEL TV
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6335a79d10efe80007297a94" tvg-id="6335a79d10efe80007297a94" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/6335a79d10efe80007297a94/colorLogoPNG.png" group-title="DEPORTES PERU" , La Media Inglesa
+https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
 #EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
@@ -437,18 +439,67 @@ https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
 https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-chno="159" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MTV Con Mi Ex
 https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Pluto TV Novelas
+https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="ENTRETENIMIENTO",Kanal D Drama
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4693.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="ENTRETENIMIENTO",UNIVISION TELENOVELAS HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4778.ts
+#EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="ENTRETENIMIENTO",RCN Novelas SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/13785.ts
+#EXTINF:-1 tvg-id="ETVAHAM" tvg-name="E! HD" tvg-logo="http://fanc.tmsimg.com/assets/s30259_ll_h3_aa.png" group-title="ENTRETENIMIENTO",E! HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/31960.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="ENTRETENIMIENTO",TLC AR(E)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46233.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s100841_h3_aa.png" group-title="ENTRETENIMIENTO",TLC CO(E)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novelas con la abuela" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Novelas con la abuela
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/50481.ts
+#EXTINF:-1 tvg-id="CCLASHD" tvg-name="COMEDY CENTRAL" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79058.ts
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="MX: El Gourmet" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",MX: El Gourmet
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79060.ts
+#EXTINF:-1 tvg-id="GOURNSD" tvg-name="SUR: EL GOURMET HD" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",SUR: EL GOURMET HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79061.ts
+#EXTINF:-1 tvg-id="FOODLA" tvg-name="FOOD NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="ENTRETENIMIENTO",FOOD NETWORK
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://fanc.tmsimg.com/assets/s17457_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Mas Chic
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79064.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79065.ts
+#EXTINF:-1 tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fanc.tmsimg.com/assets/s63665_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Fashion TV 4K
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79066.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="http://fanc.tmsimg.com/assets/s91588_ll_h3_ab.png" group-title="ENTRETENIMIENTO",NBC UNIVERSO
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79070.ts
+#EXTINF:-1 tvg-id="TRUTLAA" tvg-name="Tru TV FHD (MX)" tvg-logo="http://fanc.tmsimg.com/assets/s16496_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Tru TV FHD (MX)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79072.ts
+#EXTINF:-1 tvg-id="PASNLAH" tvg-name="CO: PASIONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CO: PASIONES FHD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79073.ts
+#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASIONES HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",PASIONES HD MX
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tlenovelas FHD MX" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="ENTRETENIMIENTO",Tlenovelas FHD MX
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79075.ts
+#EXTINF:-1 tvg-id="CESTREL" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79078.ts
+#EXTINF:-1 tvg-id="CANESTR" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s78628_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79079.ts
+#EXTINF:-1 tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png" group-title="ENTRETENIMIENTO",GLITZ
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/85727.ts
+#EXTINF:-1 tvg-id="LIFEAM" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/113864.ts
+#EXTINF:-1 tvg-id="LIFELCH" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/113865.ts
+#EXTINF:-1 tvg-id="" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ogrd459EL.png" group-title="ENTRETENIMIENTO",GlewedTV Yoga & Fitness
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/150496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fashion Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png" group-title="ENTRETENIMIENTO",Fashion Box
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/156961.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC HD MX
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/161518.ts
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="ENTRETENIMIENTO",Televisa Ciudad Juarez
+https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 
 
 
@@ -896,33 +947,6 @@ https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="NOVELAS" , Pluto TV Novelas
-https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="50 Clasicos de Disney" tvg-logo="https://i.ibb.co/W5SCmVc/images-1.png" group-title="EXTRA CINE",50 Clasicos de Disney
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235582.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Happy Madison" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",A Happy Madison
@@ -1105,19 +1129,6 @@ https://i.mjh.nz/PlutoTV/63d7a8e5a9957100086bfc23-alt.m3u8
 https://i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6228b6a38717420007375848" tvg-id="6228b6a38717420007375848" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="INFANTILES" , Nickelodeon Ukraine
 https://i.mjh.nz/PlutoTV/6228b6a38717420007375848-alt.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1501,188 +1512,10 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79493.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/165861.ts
 #EXTINF:-1 tvg-id="DSCE" tvg-name="Discovery Español HD" tvg-logo="http://fanc.tmsimg.com/assets/s19247_ll_h3_ac.png" group-title="CULTURA",Discovery Español HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/170155.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="ENTRETENIMIENTO",Kanal D Drama
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4693.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="ENTRETENIMIENTO",UNIVISION TELENOVELAS HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4778.ts
-#EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="ENTRETENIMIENTO",RCN Novelas SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/13785.ts
-#EXTINF:-1 tvg-id="ETVAHAM" tvg-name="E! HD" tvg-logo="http://fanc.tmsimg.com/assets/s30259_ll_h3_aa.png" group-title="ENTRETENIMIENTO",E! HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/31960.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="ENTRETENIMIENTO",TLC AR(E)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46233.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s100841_h3_aa.png" group-title="ENTRETENIMIENTO",TLC CO(E)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46234.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novelas con la abuela" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Novelas con la abuela
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/50481.ts
-#EXTINF:-1 tvg-id="CCLASHD" tvg-name="COMEDY CENTRAL" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79058.ts
-#EXTINF:-1 tvg-id="GOURNSD" tvg-name="MX: El Gourmet" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",MX: El Gourmet
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79060.ts
-#EXTINF:-1 tvg-id="GOURNSD" tvg-name="SUR: EL GOURMET HD" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",SUR: EL GOURMET HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79061.ts
-#EXTINF:-1 tvg-id="FOODLA" tvg-name="FOOD NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="ENTRETENIMIENTO",FOOD NETWORK
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79063.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://fanc.tmsimg.com/assets/s17457_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Mas Chic
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79064.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79065.ts
-#EXTINF:-1 tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fanc.tmsimg.com/assets/s63665_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Fashion TV 4K
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79066.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="http://fanc.tmsimg.com/assets/s91588_ll_h3_ab.png" group-title="ENTRETENIMIENTO",NBC UNIVERSO
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79070.ts
-#EXTINF:-1 tvg-id="TRUTLAA" tvg-name="Tru TV FHD (MX)" tvg-logo="http://fanc.tmsimg.com/assets/s16496_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Tru TV FHD (MX)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79072.ts
-#EXTINF:-1 tvg-id="PASNLAH" tvg-name="CO: PASIONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CO: PASIONES FHD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79073.ts
-#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASIONES HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",PASIONES HD MX
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tlenovelas FHD MX" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="ENTRETENIMIENTO",Tlenovelas FHD MX
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79075.ts
-#EXTINF:-1 tvg-id="CESTREL" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79078.ts
-#EXTINF:-1 tvg-id="CANESTR" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s78628_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79079.ts
-#EXTINF:-1 tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png" group-title="ENTRETENIMIENTO",GLITZ
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/85727.ts
-#EXTINF:-1 tvg-id="LIFEAM" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/113864.ts
-#EXTINF:-1 tvg-id="LIFELCH" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/113865.ts
-#EXTINF:-1 tvg-id="" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ogrd459EL.png" group-title="ENTRETENIMIENTO",GlewedTV Yoga & Fitness
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/150496.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fashion Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png" group-title="ENTRETENIMIENTO",Fashion Box
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/156961.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC HD MX
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/161518.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",TELEMUNDO BOSTON
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4694.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 17 WRIW Providence" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 17 WRIW Providence
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4695.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo Miami
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4696.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 26 KFDY Lincoln" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 26 KFDY Lincoln
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4697.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 17 KUAN Poway, Etc." tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 17 KUAN Poway, Etc.
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4698.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo WEST" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo WEST
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4699.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 36 KXTX Dallas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 36 KXTX Dallas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4700.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 29 WSNS Chicago" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 29 WSNS Chicago
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4701.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 19 KSTS San Jose" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 19 KSTS San Jose
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4702.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 34 KTAS San Luis Obispo" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 34 KTAS San Luis Obispo
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4703.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 27 KASA Santa Fe" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 27 KASA Santa Fe
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4704.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Las Vegas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo Las Vegas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo WZDC-WASHINGTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo WZDC-WASHINGTON
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 30 WSCV Fort Lauderdale" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 30 WSCV Fort Lauderdale
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4707.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 16 KHRR Tucson" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 16 KHRR Tucson
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4708.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 15 KVDA San Antonio" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 15 KVDA San Antonio
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4709.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 22 KTMD Galveston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 22 KTMD Galveston
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4710.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 14 KTLM Rio Grande City" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 14 KTLM Rio Grande City
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4711.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 25 KVEA Corona" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 25 KVEA Corona
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4712.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 26 KTDO Las Cruces" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 26 KTDO Las Cruces
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4714.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 24 KRDO Colorado Springs" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 24 KRDO Colorado Springs
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Houston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo Houston
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4716.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 35 WNJU Linden" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 35 WNJU Linden
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4717.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 11 KNSO Merced" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 11 KNSO Merced
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4718.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 29 KTAZ Phoenix" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 29 KTAZ Phoenix
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4719.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 20 KTMW Salt Lake City" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 20 KTMW Salt Lake City
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 19 KFBI Medford" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 19 KFBI Medford
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo New Orleans HD" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo New Orleans HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4722.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 24 KXTQ Lubbock" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 24 KXTQ Lubbock
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 3 KCSO Sacramento" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 3 KCSO Sacramento
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 17 KUTU Tulsa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 17 KUTU Tulsa
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 34 WZDC Washington DC" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 34 WZDC Washington DC
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4726.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 52 Los Angeles" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 52 Los Angeles
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 31 WTMO Orlando" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 31 WTMO Orlando
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4728.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 23 WDMR Springfield" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 23 WDMR Springfield
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4729.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 34 WZTD Richmond VA" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 34 WZTD Richmond VA
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4730.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 30 WWDT Naples" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 30 WWDT Naples
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4731.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 27 KOHA Omaha" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 27 KOHA Omaha
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4732.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 30 WRMD Tampa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="NOVELAS",Telemundo 30 WRMD Tampa
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional HD" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="NOVELAS",Telemundo Internacional HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4734.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO New York" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/5/58/Telemundo_47_2018.png" group-title="NOVELAS",TELEMUNDO New York
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4735.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Austin HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Austin HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4736.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Cleveland HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Cleveland HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4737.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Dallas HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Dallas HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4738.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision East HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision East HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4739.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Fresno HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Fresno HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4740.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Houston HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Houston HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4741.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Los Angeles HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Los Angeles HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4742.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Las Vegas HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Las Vegas HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision RALEIGH HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision RALEIGH HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4744.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision New York HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision New York HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4745.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Philadelphia HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Philadelphia HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4746.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Phoenix HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Phoenix HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4747.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Sacramento HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Sacramento HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision SALT LAKE HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision SALT LAKE HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4749.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision San Antonio HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision San Antonio HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4750.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision San Francisco HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision San Francisco HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4751.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision West HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision West HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4752.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ATLANTA HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/48_es.png" group-title="NOVELAS",GALAVISION ATLANTA HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Alburquerque Santa Fe HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision Alburquerque Santa Fe HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision MIAMI HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="NOVELAS",Galavision MIAMI HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4756.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="NOVELAS",UNIVISION MIAMI HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4768.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NEW YORK HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="NOVELAS",UNIVISION NEW YORK HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4772.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="NOVELAS",UNIVISION DALLAS TX HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4777.ts
+
+
+
+
 
 
 
@@ -1884,35 +1717,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/146437.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/150534.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: ESPN SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218463.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN FHD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: ESPN FHD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218464.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2 SD" tvg-logo="http://fanc.tmsimg.com/assets/s67765_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: ESPN 2 SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218465.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3 SD" tvg-logo="http://fanc.tmsimg.com/assets/s73833_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: ESPN 3 SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218467.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s73833_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: ESPN 3 FHD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218468.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports SD" tvg-logo="http://fanc.tmsimg.com/assets/s17754_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: Fox Sports SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218469.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports 2 SD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: Fox Sports 2 SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218471.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71328_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: Fox Sports 2 FHD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218472.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Fox Sports 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s79923_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: Fox Sports 3 FHD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218474.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN HD" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: TUDN HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218475.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN HD" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="DEPORTES PREMIUM - OPC 2",MX: TUDN HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218476.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL VIX LO MEJOR LIGA MX (HD)" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="DEPORTES PREMIUM - OPC 2",MX: CANAL VIX LO MEJOR LIGA MX (HD)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218477.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: CANAL VIX LO MEJOR LIGA MX (SD)" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="DEPORTES PREMIUM - OPC 2",MX: CANAL VIX LO MEJOR LIGA MX (SD)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218478.ts
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 op2 (E)" tvg-logo="https://imgmedia.libero.pe/670x369/libero/original/2022/08/27/630a73fd0260905637334baa.webp" group-title="DEPORTES PERU",LIGA 1 op2 (E)
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208114.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 opc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOiKghOyzXw4R_tMA11SmwVDseQhxWfh9aA&usqp=CAU" group-title="DEPORTES PERU",LIGA 1 opc3
@@ -1945,456 +1749,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="CIENCIA" , Pluto TV Ciencia
 https://i.mjh.nz/PlutoTV/5dd8364ea1d6780009929902-alt.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX NEW RELEASES HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX NEW RELEASES HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218289.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MYSTERY MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MYSTERY MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218290.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX WAR MOVIES HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX WAR MOVIES HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218291.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX SCIFI HORROR MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX SCIFI HORROR MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218292.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218293.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218294.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218295.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218296.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX HISTORY DOCUMENTARY MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218297.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MYSTERY MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MYSTERY MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218298.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 16 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 16 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218299.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 15 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 15 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218300.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 14 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 14 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218301.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 13 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 13 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218302.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 12 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 12 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218303.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 11 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 11 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218304.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 10 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 10 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218305.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 9 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 9 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218306.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 8 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 8 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218307.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 7 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 7 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218308.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 6 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 6 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218309.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218310.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218311.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218312.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218313.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX DRAMA ROMANCE MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX DRAMA ROMANCE MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218314.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CRIME MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CRIME MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218315.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CRIME MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CRIME MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218316.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CRIME MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CRIME MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218317.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CRIME MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CRIME MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218318.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CRIME MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CRIME MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218319.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 9 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 9 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218320.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 8 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 8 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218321.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 7 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 7 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218322.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 6 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 6 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218323.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218324.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218325.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218326.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218327.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX COMEDY MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX COMEDY MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218328.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 8 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 8 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218329.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 7 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 7 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218330.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 6 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 6 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218331.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218332.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218333.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218334.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218335.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX CLASSIC MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX CLASSIC MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218336.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX BIOGRAPHY MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX BIOGRAPHY MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218337.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX BIOGRAPHY MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX BIOGRAPHY MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218338.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX BIOGRAPHY MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX BIOGRAPHY MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218339.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ADVENTURE FANTASY MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ADVENTURE FANTASY MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218340.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ADVENTURE FANTASY MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ADVENTURE FANTASY MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218341.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ADVENTURE FANTASY MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ADVENTURE FANTASY MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218342.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ADVENTURE FANTASY MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ADVENTURE FANTASY MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218343.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ADVENTURE FANTASY MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ADVENTURE FANTASY MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218344.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 12 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 12 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218345.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 11 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 11 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218346.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 10 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 10 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218347.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 9 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 9 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218348.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 8 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 8 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218349.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 7 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 7 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218350.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 6 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 6 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218351.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218352.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218353.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218354.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218355.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX ACTION THRILLER MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX ACTION THRILLER MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218356.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 29 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 29 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218357.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 24 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 24 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218358.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 32 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 32 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218359.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 31 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 31 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218360.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 30 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 30 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218361.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 28 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 28 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218362.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 36 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 36 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218363.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 37 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 37 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218364.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 38 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 38 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218365.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 15 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 15 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218366.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 16 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 16 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218367.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 17 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 17 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218368.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 18 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 18 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218369.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 19 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 19 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218370.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 14 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 14 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218371.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 13 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 13 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218372.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 12 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 12 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218373.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 11 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 11 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218374.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 10 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 10 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218375.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 20 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 20 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218376.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 21 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 21 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218377.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 22 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 22 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218378.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 23 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 23 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218379.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 4 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 4 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218380.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 1 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 1 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218381.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 5 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 5 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218382.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 3 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 3 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218383.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 2 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218384.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 25 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 25 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218385.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 26 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 26 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218386.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7: HBO MAX MOVIES 27 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="24/7 - VARIADO",24/7: HBO MAX MOVIES 27 HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/218387.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAL GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/c717a602e3ca555b3cd31c45407aa4af/adjuntos/296/imagenes/009/065/0009065941/1200x675/smart/santiago-del-moro.jpeg" group-title="24/7 - VARIADO",CANAL GRAN HERMANO 24/7
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/171591.ts
-#EXTINF:-1 tvg-id="f3129ade-8964-44a8-bae4-78cc93e871f4" tvg-name="24/7 Porque el Amor Manda" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcOcp5fCObjRnmk4FhFiZhYq1rHRX7GXFbQzbxf4Ag4t8uAArdVgFJbEB0HO1IbTFVZQ&usqp=CAU" group-title="24/7 - VARIADO",24/7 Porque el Amor Manda
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141087.ts
-#EXTINF:-1 tvg-id="8b739137-7ced-4d66-8b17-70c5e4647a8e" tvg-name="24/7 Si nos dejan" tvg-logo="https://www.cine.com/media/series/4049.jpg" group-title="24/7 - VARIADO",24/7 Si nos dejan
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141088.ts
-#EXTINF:-1 tvg-id="05249bd0-f318-4c31-a3ca-373db6077980" tvg-name="24/7 La usurpadora" tvg-logo="https://pics.filmaffinity.com/La_usurpadora_Serie_de_TV-213609384-large.jpg" group-title="24/7 - VARIADO",24/7 La usurpadora
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141089.ts
-#EXTINF:-1 tvg-id="e632f958-d230-4134-9e3f-a3cb84760c98" tvg-name="24/7 Café con Aroma de Mujer" tvg-logo="https://es.web.img2.acsta.net/pictures/17/05/04/19/13/462204.jpg" group-title="24/7 - VARIADO",24/7 Café con Aroma de Mujer
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141093.ts
-#EXTINF:-1 tvg-id="91ffb798-efe6-42b9-a839-04275cf9a0fb" tvg-name="24/7 Yo soy Betty, la fea" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4YzM5ZTItNGFmZi00MDRhLTgyMjUtZDJjMTI2ZmU5ZjNlXkEyXkFqcGdeQXVyMTcxNTYyMjM@._V1_FMjpg_UX1000_.jpg" group-title="24/7 - VARIADO",24/7 Yo soy Betty, la fea
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141094.ts
-#EXTINF:-1 tvg-id="80ad5c95-e75a-435e-a413-59c7c80b34d7" tvg-name="24/7 Amar y Vivir" tvg-logo="https://es.web.img3.acsta.net/pictures/20/08/29/08/19/5349005.jpg" group-title="24/7 - VARIADO",24/7 Amar y Vivir
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141102.ts
-#EXTINF:-1 tvg-id="c1c7b3af-4b4b-4691-abff-64da7f2964d5" tvg-name="24/7 Pedro El Escamoso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUwayBv8o8UkkVq4T0bW7T3uFI1-6JHINAZn5T3uzhXDQVfWtO1GQdC0C00i72bzp9iM&usqp=CAU" group-title="24/7 - VARIADO",24/7 Pedro El Escamoso
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141103.ts
-#EXTINF:-1 tvg-id="a2e4b736-44c4-4904-a7a1-2a24fe4fd8ea" tvg-name="24/7 Rosario Tijeras" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/0/01/Rosario_tijeras_2010.jpg/revision/latest?cb=20201024021603&path-prefix=es" group-title="24/7 - VARIADO",24/7 Rosario Tijeras
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141114.ts
-#EXTINF:-1 tvg-id="b19d5c30-9af6-46b0-b6bd-43a69a79cbeb" tvg-name="24/7 Xica da Silva" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3e/Xicadasilva.jpg/revision/latest/top-crop/width/360/height/450?cb=20100425234805&path-prefix=es" group-title="24/7 - VARIADO",24/7 Xica da Silva
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141115.ts
-#EXTINF:-1 tvg-id="c34ed375-d7cd-487f-b7fe-60c8d5748faf" tvg-name="24/7 Hugo Chávez, El Comandante" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE0NTI2MjgtY2EwMC00MGQwLTk5MjctMTJhYTJmYTExODk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjMxNzQ2NTQ@._V1_.jpg" group-title="24/7 - VARIADO",24/7 Hugo Chávez, El Comandante
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141116.ts
-#EXTINF:-1 tvg-id="49366bb5-cc97-479e-a0df-9bda9ae7a55f" tvg-name="24/7 Amor Eterno" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fseries%2F000%2F006%2F385%2Famor-eterno-1.jpg&nuevoancho=690&medio=abc" group-title="24/7 - VARIADO",24/7 Amor Eterno
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141117.ts
-#EXTINF:-1 tvg-id="f6a507a6-b26c-4f63-bc0a-8584ad316f34" tvg-name="24/7 Amigas y rivales" tvg-logo="https://static.wikia.nocookie.net/telenovela-database/images/a/a9/Amigas-y-rivales.jpg/revision/latest/top-crop/width/360/height/450?cb=20200608130851" group-title="24/7 - VARIADO",24/7 Amigas y rivales
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141118.ts
-#EXTINF:-1 tvg-id="d611009d-aef6-44d1-9eb0-8aeeb47bd01e" tvg-name="24/7 La Prepago" tvg-logo="https://pics.filmaffinity.com/la_prepago-988349028-large.jpg" group-title="24/7 - VARIADO",24/7 La Prepago
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141119.ts
-#EXTINF:-1 tvg-id="5622ca72-ac69-4aa7-a03d-c1660aa22051" tvg-name="24/7 Diomedes, el Cacique de La Junta" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg2ODEyOTUtNGJmMC00ZDRkLWEzOTMtYWI4MDUwYWJlNmNjXkEyXkFqcGdeQXVyMzM0NTc2MTE@._V1_.jpg" group-title="24/7 - VARIADO",24/7 Diomedes, el Cacique de La Junta
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141120.ts
-#EXTINF:-1 tvg-id="58e4f12d-e2b4-43fc-af9b-9a57a5545d39" tvg-name="24/7 Todo por mi Familia" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiILF-iRVn1Vja2WK9v3eVcDL1q7Guigot-WeQBI5liFI_m2tjjo2ZJvU15MUw-PtjaNYqchm3IkaTCQyVZ1LjHpuvXIt7fzhvwFvAZjvAduh5mx26fw5o5Fy916XguR2wS0orZxvjkzbkfqXsz-9G-PHwJyL5CyYvxHzaIpRrC9JOoqBuqMMX1RM7WvQ=w1200-h630-p-k-no-nu" group-title="24/7 - VARIADO",24/7 Todo por mi Familia
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141122.ts
-#EXTINF:-1 tvg-id="fcfb08f2-93e1-44ef-9508-bbd7d5089999" tvg-name="24/7 Nosotros los Guapos" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/f/f8/Nosotros_los_guapos_series_logo.png/250px-Nosotros_los_guapos_series_logo.png" group-title="24/7 - VARIADO",24/7 Nosotros los Guapos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141123.ts
-#EXTINF:-1 tvg-id="c731b761-08d9-4c86-a35d-bc851df6b449" tvg-name="24/7 La Reina del Sur" tvg-logo="https://pics.filmaffinity.com/La_reina_del_sur_Serie_de_TV-640634627-large.jpg" group-title="24/7 - VARIADO",24/7 La Reina del Sur
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141138.ts
-#EXTINF:-1 tvg-id="a411e092-abfb-4337-87d7-5c6fd1501c06" tvg-name="24/7 La Reina del Flow" tvg-logo="https://peru21.pe/resizer/XrshPbwxGBQURBMRQuaLVtY-h_0=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LTC77UXXJRAZHPROE2WMTDI6JY.jpg" group-title="24/7 - VARIADO",24/7 La Reina del Flow
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141139.ts
-#EXTINF:-1 tvg-id="9d13b88f-73d4-4d87-a859-3015b92503d9" tvg-name="24/7 El Clon" tvg-logo="https://m.media-amazon.com/images/I/91NcZ7ybCBL._SL1500_.jpg" group-title="24/7 - VARIADO",24/7 El Clon
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141143.ts
-#EXTINF:-1 tvg-id="c44304ab-d5d1-4091-9862-f873ccedca45" tvg-name="24/7 Soñadoras" tvg-logo="https://pics.filmaffinity.com/So_adoras_Serie_de_TV-619926396-mmed.jpg" group-title="24/7 - VARIADO",24/7 Soñadoras
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141146.ts
-#EXTINF:-1 tvg-id="396fe8ce-f4df-4f33-a1e5-f7f55daaab52" tvg-name="24/7 Luz de luna" tvg-logo="https://www.ecured.cu/images/b/b8/Luz_de_luna.jpg" group-title="24/7 - VARIADO",24/7 Luz de luna
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141986.ts
-#EXTINF:-1 tvg-id="4af2f1e8-27a0-45f0-b720-3d73e326d660" tvg-name="24/7 La Rosa de Guadalupe" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPfVXHDqBFIuOv4Zdy5a4xCJkrolwNwyuFrDjX0Rg=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 - VARIADO",24/7 La Rosa de Guadalupe
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/146464.ts
-#EXTINF:-1 tvg-id="233ad9a4-b9de-47f2-a6c9-406587ce417a" tvg-name="24/7 María la del Barrio" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQBS76NSIurmfAuLH7NX9Eti-DJdqZXoDRmv4xDDar61QGSBGm" group-title="24/7 - VARIADO",24/7 María la del Barrio
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141081.ts
-#EXTINF:-1 tvg-id="d2314ee6-5210-4c4c-926a-c7a452acbf52" tvg-name="24/7 María Mercedes" tvg-logo="https://static0.blim.com/images/picture/2019/04/09/26225/mariamercedes_portrait_1.jpg" group-title="24/7 - VARIADO",24/7 María Mercedes
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141083.ts
-#EXTINF:-1 tvg-id="e8cb10be-7778-46c4-bde8-d728ec1d80fa" tvg-name="24/7 Reina de Corazones" tvg-logo="https://img.betaseries.com/jnBWT93oYPC-RsrWl1eqW6nWabc=/600x900/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffonds%2Fposter%2F98f927416224eb7c5a87d251f03ec241.jpg" group-title="24/7 - VARIADO",24/7 Reina de Corazones
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141084.ts
-#EXTINF:-1 tvg-id="94b2627d-067e-47ca-9f7a-97875753c418" tvg-name="24/7 Cuna de lobos" tvg-logo="https://pbs.twimg.com/profile_images/378800000320085445/263049d5497ddf6e8e79e19062a83ebd_400x400.jpeg" group-title="24/7 - VARIADO",24/7 Cuna de lobos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141085.ts
-#EXTINF:-1 tvg-id="58b16461-2e28-407e-8f99-871bbb3bc00f" tvg-name="24/7 Super Campeones" tvg-logo="https://static.wikia.nocookie.net/wikiseriesjaponesas/images/6/6f/Dvd-los-supercampeones-serie-animada-super-campeones-oliver-17097-MLC20132238145_072014-F.jpg/revision/latest?cb=20160710181041&path-prefix=es" group-title="24/7 - VARIADO",24/7 Super Campeones
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141814.ts
-#EXTINF:-1 tvg-id="5844f6c4-4efb-4cbb-8bca-cadb5bdd9736" tvg-name="24/7 Dragon Ball" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Serie_de_TV-973171538-mmed.jpg" group-title="24/7 - VARIADO",24/7 Dragon Ball
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141815.ts
-#EXTINF:-1 tvg-id="edc7b806-26d2-44fd-9202-e81cb14220d4" tvg-name="24/7 Birdman" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/Birdman.jpg/revision/latest/top-crop/width/360/height/450?cb=20100924021644&path-prefix=es" group-title="24/7 - VARIADO",24/7 Birdman
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141816.ts
-#EXTINF:-1 tvg-id="507213f6-1fcc-4d57-9e8c-3255c2fb807f" tvg-name="24/7 Candy Candy" tvg-logo="https://www.prensalibre.com/wp-content/uploads/2018/12/edf2230e-1730-4cae-8f73-c1bca76c991c.jpg?quality=52" group-title="24/7 - VARIADO",24/7 Candy Candy
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141817.ts
-#EXTINF:-1 tvg-id="ba76ac6f-d870-4f37-973f-9b10cadc5f81" tvg-name="24/7 Animaniacs" tvg-logo="https://pics.filmaffinity.com/animaniacs_tv_series-832495331-large.jpg" group-title="24/7 - VARIADO",24/7 Animaniacs
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141819.ts
-#EXTINF:-1 tvg-id="f1a67f16-13da-4b63-a72d-587d86ec02aa" tvg-name="24/7 Los Caballeros del Zodiaco" tvg-logo="data:image/png;base64,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" group-title="24/7 - VARIADO",24/7 Los Caballeros del Zodiaco
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141820.ts
-#EXTINF:-1 tvg-id="492a1538-16a5-4400-9bd7-228b2a83394b" tvg-name="24/7 Dragon Ball GT" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/6c/Dragon_Ball_GT1.jpg/revision/latest?cb=20211110163017&path-prefix=es" group-title="24/7 - VARIADO",24/7 Dragon Ball GT
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141821.ts
-#EXTINF:-1 tvg-id="455c94a1-5f2e-4292-89ec-ecc016a3985a" tvg-name="24/7 Captain Tsubasa" tvg-logo="https://img1.ak.crunchyroll.com/i/spire1/41c3cd1d910578720cdaa307c9e060611626739994_full.jpg" group-title="24/7 - VARIADO",24/7 Captain Tsubasa
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141822.ts
-#EXTINF:-1 tvg-id="31b8b01d-694f-449f-8d35-4b580bf6ca35" tvg-name="24/7 Halcones Galacticos" tvg-logo="https://pics.filmaffinity.com/silverhawks_tv_series-694193002-large.jpg" group-title="24/7 - VARIADO",24/7 Halcones Galacticos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141824.ts
-#EXTINF:-1 tvg-id="46795c89-1823-4a67-937d-3270ecd61b39" tvg-name="24/7 Capitán Cavernícola" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/cc/Cave.jpeg/revision/latest?cb=20200708093936&path-prefix=es" group-title="24/7 - VARIADO",24/7 Capitán Cavernícola
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141825.ts
-#EXTINF:-1 tvg-id="90787136-7ab5-4961-a372-c23071201d75" tvg-name="24/7 Coraje, el perro cobarde" tvg-logo="https://i1.sndcdn.com/artworks-000176098600-mppt6k-t500x500.jpg" group-title="24/7 - VARIADO",24/7 Coraje, el perro cobarde
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141826.ts
-#EXTINF:-1 tvg-id="32d16a56-58d3-4942-befe-50d355757130" tvg-name="24/7 El inspector Gadget" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8f/Inspectorgadget_v1.jpg/revision/latest/top-crop/width/360/height/450?cb=20100516165136&path-prefix=es" group-title="24/7 - VARIADO",24/7 El inspector Gadget
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141827.ts
-#EXTINF:-1 tvg-id="c2dd3fb3-3001-44b8-b9e2-cbb79f4cd923" tvg-name="24/7 El laboratorio de Dexter" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/d/dc/221975_10150172117895680_1273681_n.jpg/revision/latest/top-crop/width/360/height/450?cb=20130921015205&path-prefix=es" group-title="24/7 - VARIADO",24/7 El laboratorio de Dexter
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141828.ts
-#EXTINF:-1 tvg-id="31dbf972-3d8d-4e82-bfd8-7446af81e0cb" tvg-name="24/7 El gato Félix" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/99/Felixthecat.png/revision/latest?cb=20150508214521&path-prefix=es" group-title="24/7 - VARIADO",24/7 El gato Félix
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141829.ts
-#EXTINF:-1 tvg-id="40e29c79-5c47-4bfb-9d00-9cc26a42d235" tvg-name="24/7 La pequeña Lulu" tvg-logo="https://www.themoviedb.org/t/p/w500/qvMb4xMSg01H9HSWdZDSeBSCosU.jpg" group-title="24/7 - VARIADO",24/7 La pequeña Lulu
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141831.ts
-#EXTINF:-1 tvg-id="50753a48-cfd9-4f55-a9dc-236ca68115a2" tvg-name="24/7 Pájaro Loco" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTduNRgljyee4jDR55-pGuHYXKcCw4eLD_fFgmp=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 - VARIADO",24/7 Pájaro Loco
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141832.ts
-#EXTINF:-1 tvg-id="9ba9e1dc-da79-4282-92fa-9b2ba62394f0" tvg-name="24/7 Ositos Cariñositos" tvg-logo="https://i.pinimg.com/236x/5c/c8/1d/5cc81d1419945943c790f55b40a4fce3.jpg" group-title="24/7 - VARIADO",24/7 Ositos Cariñositos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141833.ts
-#EXTINF:-1 tvg-id="5d82ce06-683a-4c36-98c7-feac4ee6bd89" tvg-name="24/7 La máscara" tvg-logo="https://i.pinimg.com/originals/01/aa/9d/01aa9d9234d709317b9fab92e20bd8b6.png" group-title="24/7 - VARIADO",24/7 La máscara
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141834.ts
-#EXTINF:-1 tvg-id="f9195526-82e2-43c5-945d-2f7f819edb26" tvg-name="24/7 Droopy, El gran detective" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Droopy_dog.png" group-title="24/7 - VARIADO",24/7 Droopy, El gran detective
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141835.ts
-#EXTINF:-1 tvg-id="0241e9fb-be18-4cd3-87a2-d90ccdff6c3b" tvg-name="24/7 Charlie Brown y Snoopy" tvg-logo="https://www.peanuts.com/sites/default/files/cb-color.jpg" group-title="24/7 - VARIADO",24/7 Charlie Brown y Snoopy
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141836.ts
-#EXTINF:-1 tvg-id="4dcf533b-510e-4dc8-b94d-db35a5a14f2a" tvg-name="24/7 Popeye" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/Popeye-0.jpg/revision/latest?cb=20200527044515&path-prefix=es" group-title="24/7 - VARIADO",24/7 Popeye
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141837.ts
-#EXTINF:-1 tvg-id="aac524c9-e067-4889-add0-966117afd500" tvg-name="24/7 La hormiga atómica" tvg-logo="https://i.pinimg.com/originals/64/65/90/6465907c690be529106e4ada2c94d0d6.jpg" group-title="24/7 - VARIADO",24/7 La hormiga atómica
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141838.ts
-#EXTINF:-1 tvg-id="f97a2380-cde0-499a-902c-83bd70c91e12" tvg-name="24/7 El Show de Bugs Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/1200px-Bugs_Bunny.svg.png" group-title="24/7 - VARIADO",24/7 El Show de Bugs Bunny
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141839.ts
-#EXTINF:-1 tvg-id="85630753-2314-4c76-b456-a2cd6ac9640f" tvg-name="24/7 Los pequeños Picapiedra" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/05/Flintstone_Kids.jpg/revision/latest?cb=20210804012847&path-prefix=es" group-title="24/7 - VARIADO",24/7 Los pequeños Picapiedra
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141840.ts
-#EXTINF:-1 tvg-id="b0764d6d-33c9-4e9d-81dd-b776864d0c9d" tvg-name="24/7 Un cachorro llamado Scooby Doo" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9b/APupNamedScoobyDoo.jpg/revision/latest?cb=20200802022933&path-prefix=es" group-title="24/7 - VARIADO",24/7 Un cachorro llamado Scooby Doo
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141841.ts
-#EXTINF:-1 tvg-id="04ff791a-7ae8-42c2-a1a7-49335e3eeaef" tvg-name="24/7 Canuto Y Canito" tvg-logo="https://i.pinimg.com/originals/a8/79/c8/a879c8b3d6533d5cd7d5f227e3b52c39.jpg" group-title="24/7 - VARIADO",24/7 Canuto Y Canito
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141842.ts
-#EXTINF:-1 tvg-id="2f12f1f5-ccc8-43d6-a16b-683588e1ee4d" tvg-name="24/7 Dave el bárbaro" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/5/5a/Dave_el_b%C3%A1rbaro.jpg/revision/latest/top-crop/width/360/height/450?cb=20200813190336&path-prefix=es" group-title="24/7 - VARIADO",24/7 Dave el bárbaro
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141843.ts
-#EXTINF:-1 tvg-id="99341688-6e0f-407c-9b00-b5684fa49c7c" tvg-name="24/7 Heidi" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/76/Heidi.jpg/revision/latest/top-crop/width/360/height/450?cb=20220315003908&path-prefix=es" group-title="24/7 - VARIADO",24/7 Heidi
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141845.ts
-#EXTINF:-1 tvg-id="b0c0c9c1-50d3-4d62-8515-0502615284c5" tvg-name="24/7 He-Man y los Masters del Universo" tvg-logo="https://www.filmmusicsite.com/es/images/covers/xlarge/93985.jpg" group-title="24/7 - VARIADO",24/7 He-Man y los Masters del Universo
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141846.ts
-#EXTINF:-1 tvg-id="c21517ce-5860-4459-8ea1-b7f4020b06a1" tvg-name="24/7 Johnny Bravo" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8a/Johnny_Bravo_Full_Color_-full.jpg/revision/latest?cb=20091223223249&path-prefix=es" group-title="24/7 - VARIADO",24/7 Johnny Bravo
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141847.ts
-#EXTINF:-1 tvg-id="6e6447dc-3459-4388-a676-496ca3698d03" tvg-name="24/7 Soy Comadreja" tvg-logo="https://i.pinimg.com/originals/a4/65/46/a465461b22eff50ca16f9bf93406737e.png" group-title="24/7 - VARIADO",24/7 Soy Comadreja
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141848.ts
-#EXTINF:-1 tvg-id="5b6de700-bc39-41bf-b181-90b689de6498" tvg-name="24/7 Las Chicas Superpoderosas" tvg-logo="https://bolavip.com/__export/1630010783880/sites/bolavip/img/2021/08/26/las_chicas_superpoderosas_sexorita_bellum_1_crop1630010614848.jpg_1159711837.jpg" group-title="24/7 - VARIADO",24/7 Las Chicas Superpoderosas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141849.ts
-#EXTINF:-1 tvg-id="97685cc3-b7cc-4957-be7d-03f871effbb7" tvg-name="24/7 Las Tortugas Ninjas" tvg-logo="https://t2.uc.ltmcdn.com/es/posts/3/1/2/como_se_llaman_las_tortugas_ninja_23213_600.jpg" group-title="24/7 - VARIADO",24/7 Las Tortugas Ninjas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141850.ts
-#EXTINF:-1 tvg-id="1ba66e51-260c-4c9d-9709-04c026e0e58e" tvg-name="24/7 Los pitufos" tvg-logo="https://i.pinimg.com/550x/d5/4e/61/d54e61233c804b66da89f9f06a9caae9.jpg" group-title="24/7 - VARIADO",24/7 Los pitufos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141851.ts
-#EXTINF:-1 tvg-id="c646d868-4e53-4b1c-943b-c89310a2730d" tvg-name="24/7 Los auténticos cazafantasmas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/1/16/The_real_ghostbusters_dvd.jpg/revision/latest?cb=20200711182316&path-prefix=es" group-title="24/7 - VARIADO",24/7 Los auténticos cazafantasmas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141852.ts
-#EXTINF:-1 tvg-id="9bccd7b5-5dbc-4542-9305-422f6f428af3" tvg-name="24/7 Transformers" tvg-logo="http://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="24/7 - VARIADO",24/7 Transformers
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141853.ts
-#EXTINF:-1 tvg-id="a9562192-7024-4bc1-a596-a95b8b461a4f" tvg-name="24/7 Osos Gummi" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b8/1188049449_gummi_bears_poster.jpg/revision/latest/top-crop/width/360/height/450?cb=20200816173359&path-prefix=es" group-title="24/7 - VARIADO",24/7 Osos Gummi
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141855.ts
-#EXTINF:-1 tvg-id="59af06dd-d159-4f7a-ad4f-f19e00ec6d84" tvg-name="24/7 Gran Mazinger" tvg-logo="https://m.media-amazon.com/images/I/61dOHnuBNvL._AC_.jpg" group-title="24/7 - VARIADO",24/7 Gran Mazinger
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141856.ts
-#EXTINF:-1 tvg-id="c09703d8-570c-4b82-8a63-987833795323" tvg-name="24/7 Los padrinos mágicos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/68/Padrinos_m%C3%A1gicos.jpg/revision/latest?cb=20200906215022&path-prefix=es" group-title="24/7 - VARIADO",24/7 Los padrinos mágicos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141857.ts
-#EXTINF:-1 tvg-id="f4580a41-7196-4415-a388-227ab3f92ace" tvg-name="24/7 Jimmy Neutrón" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/f/f2/JimmyNeutron.png/revision/latest?cb=20150321002039&path-prefix=es" group-title="24/7 - VARIADO",24/7 Jimmy Neutrón
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141858.ts
-#EXTINF:-1 tvg-id="16d2ea78-89e9-4ed8-9f94-3dc74636811f" tvg-name="24/7 South Park Temp 1-5" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fb/Poster-South-Park.jpg/revision/latest?cb=20201015031131&path-prefix=es" group-title="24/7 - VARIADO",24/7 South Park Temp 1-5
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141871.ts
-#EXTINF:-1 tvg-id="57e68607-b870-4ea7-8923-b3413b7c3ae8" tvg-name="24/7 Peppa Pig" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c2/Peppa1.jpg/revision/latest?cb=20210209225731&path-prefix=es" group-title="24/7 - VARIADO",24/7 Peppa Pig
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141985.ts
-#EXTINF:-1 tvg-id="7178a093-4af6-417d-b8ce-a956a65c7ab0" tvg-name="24/7 Dragon Ball Z Saga de los Saiyayin" tvg-logo="https://img1.ak.crunchyroll.com/i/spire2/ab001b1cb053ec0d7b1b47b0f7bf98e71647329181_full.jpg" group-title="24/7 - VARIADO",24/7 Dragon Ball Z Saga de los Saiyayin
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141993.ts
-#EXTINF:-1 tvg-id="4e6ba217-f32b-48ac-9f9a-bb830afe729b" tvg-name="24/7 Rugrats: Aventuras en pañales Temp 1 al 5" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2018616/rs_600x600-180716155148-600x600.new-rugrats-lp.71618.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top" group-title="24/7 - VARIADO",24/7 Rugrats: Aventuras en pañales Temp 1 al 5
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142080.ts
-#EXTINF:-1 tvg-id="5faf1bb8-2e83-49f7-9ff2-cdc7cceeadca" tvg-name="24/7 ThunderCats" tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/27/12/35/462200.jpg" group-title="24/7 - VARIADO",24/7 ThunderCats
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142081.ts
-#EXTINF:-1 tvg-id="753ca82d-003e-4195-b612-191d6105c3ea" tvg-name="24/7 Masha y el Oso" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzNQr8p9wBStICTLKWocGxCPbc1f7lZf8fPFEguvX6ujUVcQ-kwx4w6RdQ975FfhDkUAs&usqp=CAU" group-title="24/7 - VARIADO",24/7 Masha y el Oso
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142960.ts
-#EXTINF:-1 tvg-id="8e785b1e-d456-4bcc-9ac7-a42287c9f10f" tvg-name="24/7 Los Simpson Temp 1 al 10" tvg-logo="https://pics.filmaffinity.com/Los_Simpson_Serie_de_TV-397676780-large.jpg" group-title="24/7 - VARIADO",24/7 Los Simpson Temp 1 al 10
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/143694.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="http://vodtvpremium.ddns.net:8080/images/72f0b5748bb10c5708ff96e08bbab550.png" group-title="24/7 - VARIADO",24/7 FUTURAMA 1999
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/146435.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA" tvg-logo="" group-title="24/7 - VARIADO",24/7 FUTURAMA
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/146436.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="https://mundodigitaltoday.files.wordpress.com/2020/05/2005-01-digimon-adventure-2020-espac3b1ol.jpg?w=729" group-title="24/7 - VARIADO",24/7 Digimon Adventure
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/147286.ts
-#EXTINF:-1 tvg-id="d71ec0bf-e870-4f26-a63f-20a6fb6f19ac" tvg-name="24/7 Chespirito" tvg-logo="https://pbs.twimg.com/media/FJZzL7wXwAEj1cj?format=jpg&name=large" group-title="24/7 - VARIADO",24/7 Chespirito
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141862.ts
-#EXTINF:-1 tvg-id="7fb4de21-1acf-47fa-967d-f3e37aea831d" tvg-name="24/7 La Casa de Papel" tvg-logo="https://www.infobae.com/new-resizer/hwZ9qTBGLjy6oypBAr6jsffVGr8=/1200x900/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/FITHDQNSBFHXHC6UNQTHI7O22Y.jpg" group-title="24/7 - VARIADO",24/7 La Casa de Papel
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141865.ts
-#EXTINF:-1 tvg-id="0b678502-1a3c-4f73-949f-d142235654a2" tvg-name="24/7 La casa de las flores" tvg-logo="https://www.formulatv.com/images/series/posters/1700/1749/dest_1.jpg" group-title="24/7 - VARIADO",24/7 La casa de las flores
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141866.ts
-#EXTINF:-1 tvg-id="ea75ede7-297d-4ba0-8792-48f5b21b197d" tvg-name="24/7 Hechizada" tvg-logo="https://www.clarin.com/img/2020/05/14/hechizada-la-serie-con-elizabeth___D5RMl8JWi_720x0__1.jpg" group-title="24/7 - VARIADO",24/7 Hechizada
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141868.ts
-#EXTINF:-1 tvg-id="b1e091b9-54a1-4af1-b9f8-4bd4eb9e02bf" tvg-name="24/7 Pablo Escobar, el patrón del mal" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fseries%2F000%2F003%2F887%2Fpablo-escobar-el-patron-del-mal-1.jpg&nuevoancho=690&medio=abc" group-title="24/7 - VARIADO",24/7 Pablo Escobar, el patrón del mal
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141869.ts
-#EXTINF:-1 tvg-id="01e01f36-3107-4dae-abad-245a7c9e3344" tvg-name="24/7 Malcolm" tvg-logo="https://flxt.tmsimg.com/assets/p7896127_b_v8_aa.jpg" group-title="24/7 - VARIADO",24/7 Malcolm
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141870.ts
-#EXTINF:-1 tvg-id="be75994b-420e-41b4-92db-4c9fed2d4ccd" tvg-name="24/7 Mi bella genio" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e0/Genio_Poster.png/revision/latest?cb=20210129151558&path-prefix=es" group-title="24/7 - VARIADO",24/7 Mi bella genio
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141987.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang Theory" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/06/La_teor%C3%ADa_del_Big_Bang.jpg/revision/latest/top-crop/width/360/height/450?cb=20220214011226&path-prefix=es" group-title="24/7 - VARIADO",24/7 Big Bang Theory
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141999.ts
-#EXTINF:-1 tvg-id="1369d72c-f7f9-4f79-a390-9e92c46a0525" tvg-name="24/7 Better Call Saul" tvg-logo="data:image/jpeg;base64,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" group-title="24/7 - VARIADO",24/7 Better Call Saul
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142000.ts
-#EXTINF:-1 tvg-id="92b1a231-55f5-4bfa-b5ba-6d3465209092" tvg-name="24/7 El príncipe de Bel-Air" tvg-logo="https://es.web.img2.acsta.net/pictures/20/10/06/05/38/5009694.jpg" group-title="24/7 - VARIADO",24/7 El príncipe de Bel-Air
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142001.ts
-#EXTINF:-1 tvg-id="1d18352c-5e7a-48a6-b5fe-3a81b5cdb48e" tvg-name="24/7 Caso Cerrado" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/program_guide/public/images/show_program/2018/10/17/02_cc_220x228.jpg?itok=dBAcause" group-title="24/7 - VARIADO",24/7 Caso Cerrado
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142066.ts
-#EXTINF:-1 tvg-id="a2baaf58-f485-4eae-8b26-b67cbfffd0ad" tvg-name="24/7 Élite" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/06/29/bigbang/1593433117_130907_1593433381_noticia_normal.jpg" group-title="24/7 - VARIADO",24/7 Élite
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142068.ts
-#EXTINF:-1 tvg-id="8b0091c4-4f1f-48e2-a31d-caa398ac60d9" tvg-name="24/7 Cantinflas" tvg-logo="https://www.infobae.com/new-resizer/jmYmd_SBey9a7tA8fN6y0VoLLYM=/1200x900/filters:format(webp):quality(85)//s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/04/19171022/cantinflas2.jpg" group-title="24/7 - VARIADO",24/7 Cantinflas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142069.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="https://www.hostales-madrid.net/wp-content/uploads/2020/03/Imagen-promocional-temporada-Juego-Tronos_EDIIMA20190415_0238_1.jpg" group-title="24/7 - VARIADO",24/7 Juego de tronos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142070.ts
-#EXTINF:-1 tvg-id="c4895fc6-4fb9-4e3c-a312-3d03468011ae" tvg-name="24/7 Luis Miguel: La Serie" tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2021/09/luis-miguel.png" group-title="24/7 - VARIADO",24/7 Luis Miguel: La Serie
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142071.ts
-#EXTINF:-1 tvg-id="b028da16-14d7-4312-bf38-d24d86018283" tvg-name="24/7 La niñera" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/2/28/La_Ni%C3%B1era.jpg/revision/latest?cb=20180226174132&path-prefix=es" group-title="24/7 - VARIADO",24/7 La niñera
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142079.ts
-#EXTINF:-1 tvg-id="ecf63b33-5618-4150-a2c3-156f3836769a" tvg-name="24/7 Anatomía de Grey" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/14/20/10/1210231.jpg" group-title="24/7 - VARIADO",24/7 Anatomía de Grey
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142082.ts
-#EXTINF:-1 tvg-id="7a2931eb-450e-400d-94e4-fefe79bf4379" tvg-name="24/7 Dos hombres y medio" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/17/14/20/340032.jpg" group-title="24/7 - VARIADO",24/7 Dos hombres y medio
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142083.ts
-#EXTINF:-1 tvg-id="6c928dab-78f1-4cfd-99dc-9fc18af814cc" tvg-name="24/7 Friends" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/65/250px-Friends_titles.jpg/revision/latest?cb=20171119185557&path-prefix=es" group-title="24/7 - VARIADO",24/7 Friends
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142084.ts
-#EXTINF:-1 tvg-id="abfc7c29-4293-4b6e-8b83-c238005461e7" tvg-name="24/7 Los Tres Chiflados" tvg-logo="https://pics.filmaffinity.com/Los_tres_chiflados-237897686-large.jpg" group-title="24/7 - VARIADO",24/7 Los Tres Chiflados
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142085.ts
-#EXTINF:-1 tvg-id="d88a92aa-d069-4188-8f89-78bf5b9c1e78" tvg-name="24/7 Perdidos" tvg-logo="https://pics.filmaffinity.com/Perdidos_Lost_Serie_de_TV-399964179-large.jpg" group-title="24/7 - VARIADO",24/7 Perdidos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142086.ts
-#EXTINF:-1 tvg-id="a6ce61ea-1fdd-4d08-b0c4-b2aa4232376c" tvg-name="24/7 Los Soprano" tvg-logo="https://es.web.img3.acsta.net/pictures/18/06/29/05/57/0806452.jpg" group-title="24/7 - VARIADO",24/7 Los Soprano
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142088.ts
-#EXTINF:-1 tvg-id="77c83114-b58b-4fcd-bb18-b7876019afa9" tvg-name="24/7 CSI: Las Vegas" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fcapitulos%2F000%2F009%2F618%2Fjugar-con-fuego-1.jpg&nuevoancho=690&medio=abc" group-title="24/7 - VARIADO",24/7 CSI: Las Vegas
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142178.ts
-#EXTINF:-1 tvg-id="3ac174d6-bc8c-4d09-98ca-7f855e24985e" tvg-name="24/7 Billions" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/23/10/00/5610070.jpg" group-title="24/7 - VARIADO",24/7 Billions
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142179.ts
-#EXTINF:-1 tvg-id="29b0a80d-f4e8-421c-b810-56e3506ae0f8" tvg-name="24/7 Dr. House" tvg-logo="https://okdiario.com/img/series/2015/12/house.jpg" group-title="24/7 - VARIADO",24/7 Dr. House
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142180.ts
-#EXTINF:-1 tvg-id="afa637eb-b222-438d-a1da-c03ff7cd017e" tvg-name="24/7 Dexter" tvg-logo="https://elfinalde.s3-accelerate.amazonaws.com/2016/01/zboTCE1OUJ5kd9r4G94Eh4KvnO5.jpg" group-title="24/7 - VARIADO",24/7 Dexter
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142181.ts
-#EXTINF:-1 tvg-id="c449da40-663e-418e-b575-f286bb7f2893" tvg-name="24/7 iCarly" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczOGE2NGYtMGE4MS00MTEwLWIxOWEtZmQ3MDJlOWViY2ViXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="24/7 - VARIADO",24/7 iCarly
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142868.ts
-#EXTINF:-1 tvg-id="2ea9797b-cd73-432d-ad0c-67a6abd45634" tvg-name="24/7 Selena: La serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Selena%2C_The_Series.png" group-title="24/7 - VARIADO",24/7 Selena: La serie
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142961.ts
-#EXTINF:-1 tvg-id="7be735ba-18df-403c-829e-a9b57fb70151" tvg-name="24/7 The Good Doctor" tvg-logo="https://es.web.img3.acsta.net/pictures/18/09/20/17/08/1922378.jpg" group-title="24/7 - VARIADO",24/7 The Good Doctor
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142962.ts
-#EXTINF:-1 tvg-id="17d107e1-0444-442c-98af-f682944b919e" tvg-name="24/7 El cuento de la criada" tvg-logo="https://i0.wp.com/seriefilosenfurecidos.com/wp-content/uploads/2020/12/thehandmaidstale-poster.jpg?fit=1024%2C768" group-title="24/7 - VARIADO",24/7 El cuento de la criada
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/143692.ts
-#EXTINF:-1 tvg-id="21d74476-68ae-485d-84c7-f115c590b2fe" tvg-name="24/7 El Último Rey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/El_%C3%BAltimo_rey_tv_series_poster.jpg" group-title="24/7 - VARIADO",24/7 El Último Rey
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142963.ts
-#EXTINF:-1 tvg-id="b8b61d57-8def-4661-9d2e-589ddab7145a" tvg-name="24/7 40 y 20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyi6tAzMPYG4dvk3z54hka0mQnZwkByIBYWSZm8Ceg0pNVneQzt7DLYuzZujnRmhZz6w&usqp=CAU" group-title="24/7 - VARIADO",24/7 40 y 20
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142078.ts
-#EXTINF:-1 tvg-id="ed2b5370-4019-4774-8a49-1579dc42e4d1" tvg-name="24/7 El Chavo del Ocho" tvg-logo="https://ep00.epimg.net/elpais/imagenes/2014/11/28/album/1417210275_213796_1417212692_album_normal.jpg" group-title="24/7 - VARIADO",24/7 El Chavo del Ocho
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141991.ts
-#EXTINF:-1 tvg-id="69c92706-9ccf-44cc-b40c-90631f8e3c67" tvg-name="24/7 El Chema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/El_Chema_poster.jpg" group-title="24/7 - VARIADO",24/7 El Chema
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141144.ts
-#EXTINF:-1 tvg-id="561fa2da-b7fd-4d93-938b-ee8f9996cea8" tvg-name="24/7 El señor de los cielos" tvg-logo="https://www.fiebreseries.com/wp-content/uploads/2021/04/El-seor-de-los-cielos_poster_serie0.jpg" group-title="24/7 - VARIADO",24/7 El señor de los cielos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141141.ts
-#EXTINF:-1 tvg-id="ebb7549e-e064-413b-9f42-27eb0d063bf6" tvg-name="24/7 Vecinos" tvg-logo="https://pics.filmaffinity.com/vecinos-633268711-large.jpg" group-title="24/7 - VARIADO",24/7 Vecinos
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/141121.ts
-#EXTINF:-1 tvg-id="7781fd4d-9a01-4ef4-8574-2e22ec2d4ba2" tvg-name="24/7 Aquellos maravillosos años" tvg-logo="s:1:/images/21aQKq3lw6igEp9QUHohe3V5EBxB1ZDCMPKt0RmZXVqJwesSfn6BPc8sE8XLLWFDqoyzo2tN4lWIVCz3qeA4MByTLJV4i4rZDaEOIWxkX9CPP2a3Wo-N7l3M_bRXXynhSHajue6hHsKOfh8TnnB92Q5goGOOIWKSNTjAbVvZei7krwa-OIz5ZaS6prcIZTyTJH-KF-9doDZ5ejWuKn63iQ.jpeg" group-title="24/7 - VARIADO",24/7 Aquellos maravillosos años
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/114050.ts
-#EXTINF:-1 tvg-id="20566b6e-e0bf-4f4f-9249-65bdba4c29a7" tvg-name="24/7 ALF" tvg-logo="https://www.eluniverso.com/resizer/uEs8MTOMrNBA_E259XK6PXgb74o=/773x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/RHCBXZMR3RB7JBZXNGE6YDB7PY.jpg" group-title="24/7 - VARIADO",24/7 ALF
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/113804.ts
-#EXTINF:-1 tvg-id="1bec1945-7930-41be-bb69-0fd18e62c663" tvg-name="24/7 The Walking Dead" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/78/35/82/20303823.jpg" group-title="24/7 - VARIADO",24/7 The Walking Dead
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/113794.ts
-#EXTINF:-1 tvg-id="2fab5e25-cee6-4fc6-930f-07a98c024f07" tvg-name="24/7 Cobra Kai" tvg-logo="https://www.cronica.com.ar/__export/1640731273614/sites/cronica/img/2021/12/28/prin_1.jpg" group-title="24/7 - VARIADO",24/7 Cobra Kai
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/80027.ts
-#EXTINF:-1 tvg-id="6c4aa090-6f3c-466f-ab7f-b64f9bbc841a" tvg-name="24/7 Acapulco" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFDj7RfYs3UHJbM24kfstVgvxJ5V2C1tXxCUUaL-O7pMzYYYvhYOnffutKUfBJqKI3BA&usqp=CAU" group-title="24/7 - VARIADO",24/7 Acapulco
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46253.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 9-1-1" tvg-logo="data:image/jpeg;base64,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" group-title="24/7 - VARIADO",24/7 9-1-1
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46252.ts
-#EXTINF:-1 tvg-id="2c8a039f-46c9-4adc-a8cf-4f67807f3f43" tvg-name="24/7 ¿Quién mató a Sara?" tvg-logo="https://s.yimg.com/ny/api/res/1.2/2uBUAvpIlB6lY8I6dOFiQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTExNjY-/https://s.yimg.com/uu/api/res/1.2/mleo0opMw_UOwrJb2wu0Ag--~B/aD04NTA7dz03MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/es/hola.com/53dd5c659fea1bb2c753a728148ac6b7" group-title="24/7 - VARIADO",24/7 ¿Quién mató a Sara?
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/146463.ts
-#EXTINF:-1 tvg-id="6efe410f-db89-44ca-af4c-19d008cc2d99" tvg-name="24/7 El Capo" tvg-logo="https://pics.filmaffinity.com/el_capo_tv_series-512656384-large.jpg" group-title="24/7 - VARIADO",24/7 El Capo
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/142087.ts
-
-
+#EXTINF:-1 channel-id="pluto-6109a9f5531b840007a4a187" tvg-id="6109a9f5531b840007a4a187" tvg-chno="304" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="CIENCIA" , Cazador de Homicidas
+https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 
 
 #EXTINF:-1 group-title="MOVIE ANIME" tvg-logo="https://i.imgur.com/IHXiFS1.jpg",Super Mario Bros La Pelicula
@@ -4157,11 +3513,6 @@ https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x4%20Dual%2
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x5%20Dual%20%40Girohens~1.mp4
 #EXTINF:-1 group-title="MOVIE  SUSPENSO" tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem.jpg",Post Mortem 1x6
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x6%20Dual%20%40Girohens~1.mp4
-
-
-
-
-
 
 
 
