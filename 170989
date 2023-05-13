@@ -72,7 +72,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?cse
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",ADONAI TV HUARMEY
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=uNjsaPxzsfwPSUFKyM5GxVU3fywPxVXn&sid=LMtjo9kAL4dd4sOgTyBWA0kJ6QwyIaEB&pid=qn2tlFuIgYm5ykFPXv0IuYwMmLpC2TJv&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=Dy9vQnrOtmsC0KzXLmKv2zhYP8BPr74frVgbmKALNfVuGHvBxLXu0r2uHvhFK0hfnEMTHrSMbW6&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1684037966332&ot=gM91YMamGB_cTD0FP6_VQQ&proto=https&pz=us
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqUGTN24Th9MH1Gsoleremt7FJ4UJT93F7CM9HTqstDrpt5lUJHSwU9eL9clUBeGEe88wwljmO_74dNK7OcgILd8zGXkeCC8DvNmL8BQCdWXloVC3MVUEBQNGhYbrfQEjvjeuJNAz5nbkhOzrD5-ENzlSecczCie57QNhfDYege2dYK7eeIo-UxKOckNzBuTQIfwiLkjh2n2U1iOPz8CrAPqRJMWhB9isy3Dna9442jKJ7HJmwfZ5jzdOLsfetRNt9B_fh2n6SFjDNH_CDuTk9r3VEqOmX76Y0b27WHQyC_thSP5gyRQxFKFyVtuq3uENn82mUWaLqV0KJjIWBlNGe-Z8-BURgO38P1ClMFSddZ1f9qn24_8e7yqEyDUqTPwrqKb0bZZM6BPbI2ZF6_wnjTHZ4UxTCiflsj89B4GLojCCQtzA5PP6P8DrI7cS93Jd5rq7bqDnyllANKpioMrMgbw2Z8kuqmzTINpYWbwXuyeZU_osONxyiwYCMBXfbDRxuyLAE6IuW9ZRJO5DcfIdEkSpGFd7nXylmaf-h2jWSK-H4bO5l1jdYdTUgQuUdMeUypRnRlLgPL3eV7Mucmy5wr-mCbMalmf8kT_H_TYvEEpJMUuC4lvYfAFVwHqqgjN2_f4rQUKznfqIBLCeKI9SIBOmRSJgiMTp12FoXaua_Jzk0AiUwSBeWviZyA8_a6ruBspGnNr58sCaL4fTTEUMkA4Cbvt2WA8P8sLcnRrrZlslCFhznob4hd32SO2KniGqxgxh7OnBSrmNzT3l47LiDLWqua9IkOQCyOZ8sJHrMV-MVDwGUxddCuIEsEuAR10rjrogwpceGFrwdxXqvIh6-0iy16DmuLAgVRuBBNw9gbkp08xvFgYKakyb2lprS2zVAbs2yK780TGhr6YZ8JIkSqCMdXGfQJLM7LzO4_1oSgsv6gqYDnAJdjTym3o6an8CaDB7rtiqJa-Q4HRKyBnaBmU3z1K-NXjNeTpSXGaRnxocX18VxtnWM5gwRBop4SX5aoZW8xIwlv6Otq_QsWDJQvfchjeTxhzTVDyybL0e6_b_ox6a29lmhoMHaMk3Elnz1p8ZWo8IAEqCXVzLWVhc3QtMTD8BA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -82,31 +82,18 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9473.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9474.ts
 #EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina SD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9475.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD3
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9473.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD4
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9474.ts
-#EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina SD2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9475.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="CABLE PERU DIRECTO" tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-1536x438.png" group-title="PERU",CABLE PERU DIRECTO
 https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA TV DIRECTO" tvg-logo="https://i.imgur.com/UE0bpsd.jpg" group-title="PERU",AMERICA TV DIRECTO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cr8FlrtCwfXLxU6Q5pkish4CqzBryqNnELbGQDDaRS80uScic2GbEojd1h81LjuifENqp2Gpw5JuzGoWLLtjGUcr9intPasfw7mIyKpjhXA9Bn84aM6GrZHYmI5M8UN1Gyj0KVFzcQu6s-on8WDvduPOgfCTT0gWLOZO9jb7N022Ehitp_swwTVzszRYB7lnnJMIYsEfI-Dn0MZ7yHOG-NyiI0FnlUnoK3e4KngUTYAI5mXY8Ng8zU1sGkxs5AkqUHHTUHOvYrwSFnSEH0iHplxU6ZZ0ouid5JhpqYLulI2ssH1dGMSrX1IaB4qPtQ3p_yAtaGS4OkK3LDyfS5bp8H9ZmqT-mHKDy5Ki2nTWYEIum2ps-tbXIJ81TaFp6HI-DB6W870_qGt5WgIEfoso0R7U7i66WOI8RT63641IDsaCqE6JcPimHv6G92l46TnmvSmsw6DUrLFYAATl_lPoqreVirIsEv854BDqbRwr3gu1NyQMc5sSiGj1rb_hrlK8vxF0uuJo57qzAQjgQ31QqryhzN8HnNuqVL1OSjgEnTakdpPNRGSG1dAH1g0AoBgmNey-Wdi82yR-Oy1a7H1fKaSBnVQzxszsnpbCCSCHcvXRq9g-s2m_b22IEJHG7YkxVd8mxd5deJClaX_q5fOyd-rE2dW4gtmf42megZhiaZZ8c8l9TBrTh0G1S-usy7YAJc6UsfNpGC9t3nGW8g3QvXw6Dgl78TplmIy2rAJPW0faCb7BGKMrRXJAoQ0IXlZ-CCBXAha3KN4cy8iahv9A5sdR6GWkpd0C9iv2gMTE_6qJtw33eDa-agyH60YS55EhiIoIec8p2uNaW--iOl8o3dWcha6iN7oKnQHdITcB7YbxAIH50ydd8IWl7-Eg4PUHJalQjo00dim7dWKgi7FDETTgSx6uVJLcQ5jZBX0tF1_bNBoMRhnhWVAwcuFx3fvzIAEqCXVzLWVhc3QtMTD7BA.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CtYFHrwgurjZc_yfeD4Pge_oG3If9Yh_JcTLrYu72H8p1KejBCDWNgcXz5EtEOdV0GmzzEh52JXsN3kfqNYKjdqZ94btfGUHd4VdxcdQ2DUQ9lFWME7u21ocgpnS_jVTKO2L7aInb-2v7naD9cY-_ra7X6cf1NJsQ7XHmBlT6RBL73-wRbIZ5w374YUjELIAiwGgGu2moTFVINS_Ws5cNLKqx7RZN_QkmfF8oAOPLbALDHfIQTlF7DZWO2KTFH9dh3KbohkXNx84N_1FTqKs7PbYVPkAW0mwK3MumUjm2wkd7mfrGSpvXJe7a_JFzlUGzFc0-fIGAEBk5wtYN8XxbNQiK99qYdWYSDTk2flSuIDvat29nX9xSWu3fbQYHRN1aDm_vIbUGONS_ik36lVy2K8b4InrQsUCEuVOFRiVkcvHIRJ5JHx5wrbIjLg19V1QFg7I51rIgvzRokShflNOkfV_cES4i9nOTG2NV9Dm6BkkGehXQwAzxvElEsU3Zvj4DBgunEP9zHM6y0KNUuB8Rh7gI28cWk5VPTTgZYYnhvPJSNBzK162q-6AwoBmnyUpnvnf511SnuprCwIzcWtHld6ALnoquvfcgRQHaWwOUpHSQ4MSHc48JJbE2DvmIH4FcYxlM4R-pxZgYODYX5a_gwxg7CLHXWJpFYkmUI1k3DkmefmPyBMo_aT6oLq2qiJmyHqZc1LZpfX7SiSZ2zF1idwk5jkHl9xlD6GJemVGk4wn2U33kKtlG0MnTo0geliMpHpbVHDFy9UUvD7oLHMDelz4XCLxRPyvjojh6gFe3HJVU1KRk-FGN0SnI9ZKvqehAGNq7j9EHtNhcRQdtw2Jx0XKjyV7oRdELPIFSDCZd-EesEtd-5FZYdRHULUXEonyDHC3EGnQK_NDyEq6p_clWN5DG6lE9W2UnxBcGNiaMpLV6XLXAgMWWAMvkXM94BkhaUQcAripqA57Ggw47LLrzoNLaolz9F0gASoJdXMtZWFzdC0xMPwE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 2
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9476.ts
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 3
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9476.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 4
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9477.ts
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 5
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9478.ts
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 6
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9478.ts
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV 7
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9477.ts
 #EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV FHD DIRECTO
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV + DIRECTO" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV + DIRECTO
@@ -120,12 +107,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9479.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9480.ts
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9481.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9479.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9481.ts
 #EXTINF:-1 tvg-id="EXITOSA" tvg-name="EXITOSA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="PERU",EXITOSA DIRECTO
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
@@ -135,10 +116,6 @@ https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9489.ts
 #EXTINF:-1 tvg-id="" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9490.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal N HD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N HD2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9489.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9490.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU DIRECTO" tvg-logo="https://i.imgur.com/hgy6XPk.png" group-title="PERU",TV PERU DIRECTO
 https://cdnh74.iblups.com/hls/RMuwrdk7M9.m3u8
 
@@ -149,20 +126,12 @@ https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpn-CexpUSRRWVpICw
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9495.ts
 #EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD 1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9496.ts
-#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9495.ts
-#EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9496.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9491.ts
 #EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9492.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9491.ts
-#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9492.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CABLE VISION" tvg-logo="https://i.imgur.com/rfSFubZ.png" group-title="PERU",CABLE VISION
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1932111191.m3u8
@@ -189,12 +158,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42433.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",BETHEL PERU
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42434.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Bethel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",Bethel
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42433.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BETHEL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",BETHEL PERU
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/42434.ts
 
 
 
@@ -410,28 +373,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9470.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9471.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9472.ts
-
-#EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9462.ts
-#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9463.ts
-#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports + Plus" tvg-logo="http://fanc.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports + Plus 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9465.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD 12
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9466.ts
-#EXTINF:-1 tvg-id="MOVDEPH" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD DIRECTO 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9470.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9471.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/9472.ts
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="El Secreto De La Esfera Del Dragón" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL",1 El Secreto De La Esfera Del Dragón
@@ -967,72 +908,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235585.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235567.ts
 #EXTINF:-1 tvg-id="" tvg-name="CONCERT Channel" tvg-logo="https://i.ibb.co/MGWLLxX/co-concert-channel-hd-m.png" group-title="MUSICA",CONCERT Channel
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235601.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="50 Clasicos de Disney" tvg-logo="https://i.ibb.co/W5SCmVc/images-1.png" group-title="EXTRA CINE",50 Clasicos de Disney
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235582.ts
-#EXTINF:-1 tvg-id="" tvg-name="A Happy Madison" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",A Happy Madison
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235577.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Full HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",Cinema Accion Full HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235568.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks Full HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",Cinema Dreamworks Full HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235590.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia Full HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",Cinema Familia Full HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235570.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror Full HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",Cinema Horror Full HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235572.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studio Full HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",Cinema Marvel Studio Full HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235566.ts
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Cine Animations" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_alquiler.png" group-title="EXTRA CINE",Marvel Cine Animations
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235562.ts
-#EXTINF:-1 tvg-id="" tvg-name="Estrenos" tvg-logo="https://i.imgur.com/lbQJ2At.png" group-title="EXTRA CINE",Estrenos
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235587.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil" tvg-logo="https://i.imgur.com/lbQJ2At.png" group-title="EXTRA CINE",Infantil
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235586.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME FHD" tvg-logo="https://i.ibb.co/7Q9n3m1/descarga.png" group-title="EXTRA CINE",AMAZON PRIME FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235571.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ FHD" tvg-logo="https://i.ibb.co/kmbwWWv/descarga.png" group-title="EXTRA CINE",DISNEY+ FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235579.ts
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX FHD" tvg-logo="https://i.ibb.co/QP93v6B/daf30fac5e16393d66a3684dd27e29af.png" group-title="EXTRA CINE",NETFLIX FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235580.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ FHD" tvg-logo="https://i.ibb.co/tbpK2zf/descarga.png" group-title="EXTRA CINE",PARAMOUNT+ FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235589.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR+ FHD" tvg-logo="https://i.ibb.co/z8t9rC6/descarga-1.png" group-title="EXTRA CINE",STAR+ FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235575.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 01 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 01 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235588.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 02 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 02 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235574.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 03 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 03 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235584.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 04 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 04 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235583.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 05 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 05 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235573.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 06 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 06 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235561.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 07 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 07 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235565.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 08 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 08 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235578.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 09 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 09 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235569.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 10 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 10 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235564.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 11 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 11 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235563.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 12 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 12 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235581.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 13 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 13 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235576.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 14 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 14 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235585.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 15 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 15 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235567.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONCERT Channel" tvg-logo="https://i.ibb.co/MGWLLxX/co-concert-channel-hd-m.png" group-title="MUSICA",CONCERT Channel
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/235601.ts
-
 
 #EXTINF:-1 tvg-id="ENERGET RETRO DIRECTO" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="INFANTILES",ENERGET RETRO DIRECTO
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
@@ -1735,566 +1610,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4772.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4777.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE PREMIUM",A&E FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46085.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE PREMIUM",A&E HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46086.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://i.ibb.co/kKgT2Fy/A-E.png" group-title="CINE PREMIUM",A&E
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46087.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE PREMIUM",AMC FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46089.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE PREMIUM",AMC HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46090.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.ibb.co/3Fy00fn/amc.png" group-title="CINE PREMIUM",AMC
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46092.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE PREMIUM",AXN FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46093.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE PREMIUM",AXN HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46094.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="CINE PREMIUM",AXN
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46095.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATRESCINE FHD" tvg-logo="https://i.ibb.co/grB1xfX/a3ciner454.png" group-title="CINE PREMIUM",ATRESCINE FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46097.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATRESCINE HD" tvg-logo="https://i.ibb.co/0Dgh0ND/A3Cine.png" group-title="CINE PREMIUM",ATRESCINE HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46098.ts
-#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES" tvg-logo="https://i.ibb.co/qYs2x7w/Atreseries.png" group-title="CINE PREMIUM",ATRESERIES
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46100.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA HD" tvg-logo="https://i.ibb.co/1RF070Z/azcienmas.png" group-title="CINE PREMIUM",AZ CINEMA HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46101.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="https://i.ibb.co/1RF070Z/azcienmas.png" group-title="CINE PREMIUM",AZ CINEMA
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46102.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO HD" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE PREMIUM",CINE LATINO HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46103.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE PREMIUM",CINE LATINO
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46104.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO FHD" tvg-logo="https://i.ibb.co/GPFShhQ/Cine-Latino-logo-svg.png" group-title="CINE PREMIUM",CINE LATINO FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46106.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CINECANAL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46107.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CINECANAL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46108.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineCanal HD" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CineCanal HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46109.ts
-#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="https://i.ibb.co/7b8zcvc/cincemas.png" group-title="CINE PREMIUM",CineCanal
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46110.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="CINE PREMIUM",CINEMAX
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46111.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://i.ibb.co/zSbPFXZ/cienmax2.png" group-title="CINE PREMIUM",CINEMAX HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46112.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD" tvg-logo="https://i.ibb.co/G3DXZ9d/cienmax3.png" group-title="CINE PREMIUM",CINEMAX FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46114.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.ibb.co/bbDPNVG/CINEDINAMITA.png" group-title="CINE PREMIUM",CINEMA DINAMITA
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46116.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS HD" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="CINE PREMIUM",DE PELICULA PLUS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46118.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://i.ibb.co/Zx31D3Y/de-pelioiasd.png" group-title="CINE PREMIUM",DE PELICULA PLUS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46119.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA HD" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="CINE PREMIUM",DE PELICULA HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46120.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="CINE PREMIUM",DE PELICULA
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46121.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHE FHD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="CINE PREMIUM",DHE FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46122.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://i.ibb.co/m9TtGfd/dhe2.png" group-title="CINE PREMIUM",DHE
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46123.ts
-#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="https://i.ibb.co/MBvTm7y/dhe.png" group-title="CINE PREMIUM",DHE HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46124.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/SKbQ4mG/euroapa.png" group-title="CINE PREMIUM",EUROPA EUROPA
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46125.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA HD" tvg-logo="https://i.ibb.co/Nt50S6w/europa-euor.png" group-title="CINE PREMIUM",EUROPA EUROPA HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46127.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.ibb.co/z2PqF2T/FX1.png" group-title="CINE PREMIUM",FX
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46130.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://i.ibb.co/hDvN9HZ/FX2.png" group-title="CINE PREMIUM",FX HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46132.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="https://i.ibb.co/grpxgB4/FX3.png" group-title="CINE PREMIUM",FX FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46133.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="CINE PREMIUM",GOLDEN PLUS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46138.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/wQBkWCT/GOLDENPLUS.png" group-title="CINE PREMIUM",GOLDEN PLUS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46139.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE PREMIUM",GOLDEN PREMIER
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46140.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE PREMIUM",GOLDEN PREMIER HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46141.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE PREMIUM",GOLDEN
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46142.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN HD" tvg-logo="https://i.ibb.co/x8x7LYX/GILDEN.png" group-title="CINE PREMIUM",GOLDEN HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46143.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/58VvdgP/hbo1.png" group-title="CINE PREMIUM",HBO HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46144.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/NSG7tNS/hbo3.png" group-title="CINE PREMIUM",HBO FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46145.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/Syv8Wd6/HBO.png" group-title="CINE PREMIUM",HBO
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46146.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/3Y1tZwW/HBO33.png" group-title="CINE PREMIUM",HBO
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46147.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="CINE PREMIUM",HBO 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46148.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="CINE PREMIUM",HBO 2 FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46149.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/KV2tjc7/hbo2.png" group-title="CINE PREMIUM",HBO 2 HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46150.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="https://i.ibb.co/K0x3Lm1/hbo22.png" group-title="CINE PREMIUM",HBO 2 HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46151.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="CINE PREMIUM",HBO FAMILY
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46152.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/xLxZy4s/hbfa3.png" group-title="CINE PREMIUM",HBO FAMILY
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46153.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://i.ibb.co/LRWCv9G/hbofam1.png" group-title="CINE PREMIUM",HBO FAMILY HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46154.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY FHD" tvg-logo="https://i.ibb.co/pZYKmQ4/HBOF2.png" group-title="CINE PREMIUM",HBO FAMILY FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46155.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="CINE PREMIUM",HBO PLUS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46156.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="CINE PREMIUM",HBO PLUS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46157.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/HVFhb7C/hbo-3.png" group-title="CINE PREMIUM",HBO PLUS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46158.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD" tvg-logo="https://i.ibb.co/WHn2z6Z/hbp-a1.png" group-title="CINE PREMIUM",HBO PLUS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46159.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://i.ibb.co/PZmFTXB/hbosig2.png" group-title="CINE PREMIUM",HBO SIGNATURE FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46161.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/BwRLTk1/hbosig1.png" group-title="CINE PREMIUM",HBO SIGNATURE
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46162.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/BfvZWCJ/hb0sig3.png" group-title="CINE PREMIUM",HBO SIGNATURE HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46163.ts
-#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="https://i.ibb.co/f12YjGL/ISAT.png" group-title="CINE PREMIUM",I-SAT
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46166.ts
-#EXTINF:-1 tvg-id="" tvg-name="I-SAT HD" tvg-logo="https://i.ibb.co/f12YjGL/ISAT.png" group-title="CINE PREMIUM",I-SAT HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46167.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER HD" tvg-logo="https://i.ibb.co/qWxHGjC/MULTIPRE2.png" group-title="CINE PREMIUM",MULTIPREMIER HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46168.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://i.ibb.co/R45HbrJ/MULPREM1.png" group-title="CINE PREMIUM",MULTIPREMIER
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46169.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="CINE PREMIUM",PARAMOUNT CHANNEL FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46170.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.ibb.co/tDgxkRL/PARAMU2.png" group-title="CINE PREMIUM",PARAMOUNT CHANNEL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46171.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.ibb.co/wr5LRY4/PARAMOUNT.png" group-title="CINE PREMIUM",PARAMOUNT CHANNEL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46172.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="https://i.ibb.co/rFMxhPH/SONY2.png" group-title="CINE PREMIUM",SONY MOVIES
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46175.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE PREMIUM",SONY CHANNEL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46176.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL" tvg-logo="https://i.ibb.co/M7nmfDY/SONY1.png" group-title="CINE PREMIUM",SONY CHANNEL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46177.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://i.ibb.co/qjqScj2/space1.png https://i.ibb.co/K0JqT9S/space2.png" group-title="CINE PREMIUM",SPACE
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46178.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://i.ibb.co/qjqScj2/space1.png" group-title="CINE PREMIUM",Space HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46179.ts
-#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="https://i.ibb.co/K0JqT9S/space2.png" group-title="CINE PREMIUM",Space FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46180.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/fSbvx7T/STAR22.png" group-title="CINE PREMIUM",STAR CHANNEL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46186.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="CINE PREMIUM",STAR CHANNEL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46188.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo="https://i.ibb.co/vHVVM6K/STARCHA1.png" group-title="CINE PREMIUM",STAR CHANNEL FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46189.ts
-#EXTINF:-1 tvg-id="" tvg-name="Star CLASSICS HD" tvg-logo="https://i.ibb.co/ZmBxYZz/STARCL.png" group-title="CINE PREMIUM",Star CLASSICS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46195.ts
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.ibb.co/kmQCLLM/STUDI2.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46217.ts
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46218.ts
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/jL5S1mw/STUDIO.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46219.ts
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.ibb.co/4Nh3KcF/STUD1.png" group-title="CINE PREMIUM",STUDIO UNIVERSAL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46220.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://i.ibb.co/tp9YpGG/syfy.png" group-title="CINE PREMIUM",SYFY HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46222.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="https://i.ibb.co/rdSrfY0/syfy2.png" group-title="CINE PREMIUM",SYFY FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46223.ts
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://i.ibb.co/tp9YpGG/syfy.png" group-title="CINE PREMIUM",SYFY
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46224.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="https://i.ibb.co/L08bKjQ/TBS1.png" group-title="CINE PREMIUM",TBS FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46226.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://i.ibb.co/L08bKjQ/TBS1.png" group-title="CINE PREMIUM",TBS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46227.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://i.ibb.co/SKg3qV5/TBS2.png" group-title="CINE PREMIUM",TBS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46228.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="CINE PREMIUM",TCM
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46230.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://i.ibb.co/myRdt2X/TCM.png" group-title="CINE PREMIUM",TCM HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46231.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="https://i.ibb.co/340KS9Y/tcm2.png" group-title="CINE PREMIUM",TCM FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46232.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="CINE PREMIUM",TNT
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46236.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="CINE PREMIUM",TNT FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46237.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://i.ibb.co/Fhsz28h/TNT1.png" group-title="CINE PREMIUM",TNT FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46238.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/DwLT1NH/TNT2.png" group-title="CINE PREMIUM",TNT HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46239.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="CINE PREMIUM",TNT SERIES FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46240.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="CINE PREMIUM",TNT SERIES HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46241.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/0q8QzgN/tntseries.png" group-title="CINE PREMIUM",TNT SERIES
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46242.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="https://i.ibb.co/gzS5WjX/tntser2.png" group-title="CINE PREMIUM",TNT SERIES HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46243.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="CINE PREMIUM",UNIVERSAL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46244.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE PREMIUM",UNIVERSAL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46245.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL FHD" tvg-logo="https://i.ibb.co/4YqhnVc/universa2.png" group-title="CINE PREMIUM",UNIVERSAL FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46246.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/Mpx2y51/UNIVERSAL1.png" group-title="CINE PREMIUM",UNIVERSAL HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46247.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://i.ibb.co/TRgfNRw/WARNERTV2.png" group-title="CINE PREMIUM",WARNER TV
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46248.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="CINE PREMIUM",WARNER TV HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46249.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://i.ibb.co/jHC94Xm/WARTNER3.png" group-title="CINE PREMIUM",WARNER HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46250.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER FHD" tvg-logo="https://i.ibb.co/q5TYp7p/WARNER1.png" group-title="CINE PREMIUM",WARNER FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46251.ts
-#EXTINF:-1 tvg-id="" tvg-name="MORBIDO TV" tvg-logo="https://i.ibb.co/HPZDyvb/MORVIDO.png" group-title="CINE PREMIUM",MORBIDO TV
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79427.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY" tvg-logo="https://i.ibb.co/dcZ8bsY/UNIVESALREA.png" group-title="CINE PREMIUM",UNIVERSAL REALITY
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/90077.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://i.ibb.co/NrFxsBV/UNIVERSALCIEN.png" group-title="CINE PREMIUM",UNIVERSAL CINEMA
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/90078.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="https://i.ibb.co/Rj4HpMq/UNIVESALCRIME.png" group-title="CINE PREMIUM",UNIVERSAL CRIME
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/90079.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://i.ibb.co/TBLRttd/UNIVESALCOMEDY.png" group-title="CINE PREMIUM",UNIVERSAL COMEDY
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/90081.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE PREMIUM",UNIVERSAL PREMIERE HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/90082.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://i.ibb.co/NCKFnDN/UNIVERSALPRE.png" group-title="CINE PREMIUM",UNIVERSAL PREMIERE
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/90083.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD" tvg-logo="https://i.ibb.co/vxK0tVp/hbopop3.png" group-title="CINE PREMIUM",HBO POP FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96201.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://i.ibb.co/nmPF9J3/hbopop2.png" group-title="CINE PREMIUM",HBO POP HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96202.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/tMJw0Cs/hbopop1.png" group-title="CINE PREMIUM",HBO POP
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96203.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="https://i.ibb.co/GHngdzz/hbomun3.png" group-title="CINE PREMIUM",HBO MUNDI FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96204.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/7Qr4FNj/hbomu1.png" group-title="CINE PREMIUM",HBO MUNDI HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96205.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/rH1sYsg/hbomu2.png" group-title="CINE PREMIUM",HBO MUNDI
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96206.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://i.ibb.co/bPRQG6P/hboext1.png" group-title="CINE PREMIUM",HBO XTREME HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96207.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/CtGbJqx/hboextr3.png" group-title="CINE PREMIUM",HBO XTREME
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96208.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="https://i.ibb.co/K7bvj7t/hboext2.png" group-title="CINE PREMIUM",HBO XTREME FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/96209.ts
-#EXTINF:-1 tvg-id="MCINLHD" tvg-name="Multicinema" tvg-logo="http://fanc.tmsimg.com/assets/s18329_ll_h3_aa.png" group-title="CINE PREMIUM",Multicinema
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/140365.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE ESTELAR" tvg-logo="" group-title="CINE PREMIUM",CINE ESTELAR
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/148901.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY COMEDIAS" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="CINE PREMIUM",SONY COMEDIAS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/149223.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY NOVELAS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_NOVELAS_1.jpg" group-title="CINE PREMIUM",SONY NOVELAS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/149224.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Espanol HD" tvg-logo="http://static.epgguide.net/icon/starzencoreespanol.us.png" group-title="CINE PREMIUM",Starz Encore Espanol HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167707.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Espanol HD" tvg-logo="http://static.epgguide.net/icon/starzencoreespanol.us.png" group-title="CINE PREMIUM",Starz Encore Espanol HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167708.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Starz Cinema HD" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="CINE PREMIUM",CINE| Starz Cinema HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167709.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy HD" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="CINE PREMIUM",Starz Comedy HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167710.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz East HD" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="CINE PREMIUM",Starz East HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167711.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="CINE PREMIUM",Starz Edge HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167712.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black HD" tvg-logo="" group-title="CINE PREMIUM",Starz Encore Black HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167713.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic HD" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="CINE PREMIUM",Starz Encore Classic HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167714.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family HD" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="CINE PREMIUM",Starz Encore Family HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense HD" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="CINE PREMIUM",Starz Encore Suspense HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167717.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Western HD" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="CINE PREMIUM",Starz Encore Western HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167718.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz HD" tvg-logo="" group-title="CINE PREMIUM",Starz HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167719.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz West HD" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="CINE PREMIUM",Starz West HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/167720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cinema DC Universe HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/140943.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Cinema Lego Movies HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/140944.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA | Starz East HD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",LA | Starz East HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/140962.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tu Cine 2" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="EXTRA CINE",Tu Cine 2
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/140987.ts
-#EXTINF:-1 tvg-id="FABLHDA" tvg-name="FILM & ARTS SD" tvg-logo="http://fanc.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="CULTURA",FILM & ARTS SD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46128.ts
-#EXTINF:-1 tvg-id="FAMEXHD" tvg-name="Film & arts HD" tvg-logo="http://fanc.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="CULTURA",Film & arts HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46129.ts
-#EXTINF:-1 tvg-id="ANIPAA2" tvg-name="Animal Planet HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA",Animal Planet HD AR(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79446.ts
-#EXTINF:-1 tvg-id="ANIPLAM" tvg-name="Animal Planet HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA",Animal Planet HD MX(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79447.ts
-#EXTINF:-1 tvg-id="CNCRTHD" tvg-name="Concert Channel" tvg-logo="http://fanc.tmsimg.com/assets/s72020_ll_h3_aa.png" group-title="CULTURA",Concert Channel
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79448.ts
-#EXTINF:-1 tvg-id="CGTNEH" tvg-name="CGTN ESPAÑOL HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s44479_h3_aa.png" group-title="CULTURA",CGTN ESPAÑOL HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79450.ts
-#EXTINF:-1 tvg-id="CDLC" tvg-name="Canal De La Ciudad HD" tvg-logo="http://fanc.tmsimg.com/assets/s109691_ll_h3_aa.png" group-title="CULTURA",Canal De La Ciudad HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79451.ts
-#EXTINF:-1 tvg-id="TDCLAM" tvg-name="Discovery Channel AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="CULTURA",Discovery Channel AR HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79453.ts
-#EXTINF:-1 tvg-id="TDCLAM" tvg-name="Discovery Channel Mexico MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="CULTURA",Discovery Channel Mexico MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79454.ts
-#EXTINF:-1 tvg-id="DCIVLA" tvg-name="Discovery Civilization" tvg-logo="http://fanc.tmsimg.com/assets/s46609_ll_h3_aa.png" group-title="CULTURA",Discovery Civilization
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79455.ts
-#EXTINF:-1 tvg-id="DFAMHD" tvg-name="Discovery Family" tvg-logo="http://fanc.tmsimg.com/assets/s99630_ll_h3_aa.png" group-title="CULTURA",Discovery Family
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79456.ts
-#EXTINF:-1 tvg-id="IDLA" tvg-name="Discovery ID AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA",Discovery ID AR HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79457.ts
-#EXTINF:-1 tvg-id="IDLA" tvg-name="Discovery ID MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA",Discovery ID MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79458.ts
-#EXTINF:-1 tvg-id="DHHCV" tvg-name="Discovery Home & Health" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA",Discovery Home & Health
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79459.ts
-#EXTINF:-1 tvg-id="DHHCV" tvg-name="Discovery Home & Health HD" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA",Discovery Home & Health HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79460.ts
-#EXTINF:-1 tvg-id="DSCIENH" tvg-name="Discovery Science" tvg-logo="http://fanc.tmsimg.com/assets/s48527_ll_h3_aa.png" group-title="CULTURA",Discovery Science
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79463.ts
-#EXTINF:-1 tvg-id="DTHLAM" tvg-name="Discovery Theater MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s65940_ll_h3_aa.png" group-title="CULTURA",Discovery Theater MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo MX HD(D)" tvg-logo="http://fanc.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA",Discovery Turbo MX HD(D)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79465.ts
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="Discovery Turbo MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA",Discovery Turbo MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79466.ts
-#EXTINF:-1 tvg-id="DWRLDA" tvg-name="Discovery World MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA",Discovery World MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79467.ts
-#EXTINF:-1 tvg-id="DWRLDHD" tvg-name="Discovery World MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA",Discovery World MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79468.ts
-#EXTINF:-1 tvg-id="GOURNSD" tvg-name="El Gourmet MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="CULTURA",El Gourmet MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79469.ts
-#EXTINF:-1 tvg-id="GOURNSD" tvg-name="El Gourmet MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="CULTURA",El Gourmet MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79470.ts
-#EXTINF:-1 tvg-id="FOODLA" tvg-name="Food Network HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA",Food Network HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79472.ts
-#EXTINF:-1 tvg-id="FOODLA" tvg-name="Food Network HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA",Food Network HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79473.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s111055_ll_h3_aa.png" group-title="CULTURA",HGTV HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79474.ts
-#EXTINF:-1 tvg-id="HGTVLA" tvg-name="HGTV HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s111055_ll_h3_aa.png" group-title="CULTURA",HGTV HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79475.ts
-#EXTINF:-1 tvg-id="HISPNTV" tvg-name="Hispan TV(E)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/559c38874d0ba37800d727925e1654b4.webp" group-title="CULTURA",Hispan TV(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79476.ts
-#EXTINF:-1 tvg-id="H2LATH" tvg-name="H2 History AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80374_ll_h3_ad.png" group-title="CULTURA",H2 History AR HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79477.ts
-#EXTINF:-1 tvg-id="H2LATH" tvg-name="H2 History MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s80374_ll_h3_ad.png" group-title="CULTURA",H2 History MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79478.ts
-#EXTINF:-1 tvg-id="HCCHDA" tvg-name="History Channel AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s40137_ll_h3_aa.png" group-title="CULTURA",History Channel AR HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79479.ts
-#EXTINF:-1 tvg-id="HCCHDA" tvg-name="History Channel MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s40137_ll_h3_aa.png" group-title="CULTURA",History Channel MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79480.ts
-#EXTINF:-1 tvg-id="NATUR" tvg-name="LOVE NATURE FHD(E)" tvg-logo="https://www.ipuntotv.com/IMAGES/Love-nature-logo.png" group-title="CULTURA",LOVE NATURE FHD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79481.ts
-#EXTINF:-1 tvg-id="NATUR" tvg-name="LOVE NATURE FHD(E)" tvg-logo="https://www.ipuntotv.com/IMAGES/Love-nature-logo.png" group-title="CULTURA",LOVE NATURE FHD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79482.ts
-#EXTINF:-1 tvg-id="NGCCLA" tvg-name="National Geographic AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="CULTURA",National Geographic AR HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79486.ts
-#EXTINF:-1 tvg-id="NGCCLA" tvg-name="National Geographic MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25068_ll_h3_ab.png" group-title="CULTURA",National Geographic MX HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79487.ts
-#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="NatGeo Mundo HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s72449_ll_h3_aa.png" group-title="CULTURA",NatGeo Mundo HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79488.ts
-#EXTINF:-1 tvg-id="NGMUNDO" tvg-name="NatGeo Mundo HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s72449_ll_h3_aa.png" group-title="CULTURA",NatGeo Mundo HD(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79489.ts
-#EXTINF:-1 tvg-id="" tvg-name="NASA Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png" group-title="CULTURA",NASA Live Stream
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79490.ts
-#EXTINF:-1 tvg-id="" tvg-name="SER TV" tvg-logo="https://sertv.gob.pa/nacionalfm/wp-content/uploads/sites/6/2020/09/SERTV-1.jpg" group-title="CULTURA",SER TV
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79491.ts
-#EXTINF:-1 tvg-id="SMITHLA" tvg-name="Smithsonian Channel HD" tvg-logo="http://fanc.tmsimg.com/assets/s108211_ll_h3_aa.png" group-title="CULTURA",Smithsonian Channel HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79492.ts
-#EXTINF:-1 tvg-id="TVAGRHD" tvg-name="TV Agro" tvg-logo="http://fanc.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="CULTURA",TV Agro
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79493.ts
-#EXTINF:-1 tvg-id="DWEATHS" tvg-name="USA Latino | THE WEATHER CHANNEL ESPAñOL" tvg-logo="http://visi4k.site:8080/images/41f500431d4f421f6b5029ab77e80f1f.png" group-title="CULTURA",USA Latino | THE WEATHER CHANNEL ESPAñOL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/165861.ts
-#EXTINF:-1 tvg-id="DSCE" tvg-name="Discovery Español HD" tvg-logo="http://fanc.tmsimg.com/assets/s19247_ll_h3_ac.png" group-title="CULTURA",Discovery Español HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/170155.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="ENTRETENIMIENTO",Kanal D Drama
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4693.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="ENTRETENIMIENTO",UNIVISION TELENOVELAS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4778.ts
-#EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="ENTRETENIMIENTO",RCN Novelas SD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/13785.ts
-#EXTINF:-1 tvg-id="ETVAHAM" tvg-name="E! HD" tvg-logo="http://fanc.tmsimg.com/assets/s30259_ll_h3_aa.png" group-title="ENTRETENIMIENTO",E! HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/31960.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="ENTRETENIMIENTO",TLC AR(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46233.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC CO(E)" tvg-logo="http://fanc.tmsimg.com/assets/s100841_h3_aa.png" group-title="ENTRETENIMIENTO",TLC CO(E)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46234.ts
-#EXTINF:-1 tvg-id="" tvg-name="Novelas con la abuela" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Novelas con la abuela
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/50481.ts
-#EXTINF:-1 tvg-id="CCLASHD" tvg-name="COMEDY CENTRAL" tvg-logo="http://fanc.tmsimg.com/assets/s100848_ll_h3_ac.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79058.ts
-#EXTINF:-1 tvg-id="GOURNSD" tvg-name="MX: El Gourmet" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",MX: El Gourmet
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79060.ts
-#EXTINF:-1 tvg-id="GOURNSD" tvg-name="SUR: EL GOURMET HD" tvg-logo="http://fanc.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="ENTRETENIMIENTO",SUR: EL GOURMET HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79061.ts
-#EXTINF:-1 tvg-id="FOODLA" tvg-name="FOOD NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="ENTRETENIMIENTO",FOOD NETWORK
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79063.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="http://fanc.tmsimg.com/assets/s17457_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Mas Chic
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79064.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79065.ts
-#EXTINF:-1 tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fanc.tmsimg.com/assets/s63665_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Fashion TV 4K
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79066.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC UNIVERSO" tvg-logo="http://fanc.tmsimg.com/assets/s91588_ll_h3_ab.png" group-title="ENTRETENIMIENTO",NBC UNIVERSO
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79070.ts
-#EXTINF:-1 tvg-id="TRUTLAA" tvg-name="Tru TV FHD (MX)" tvg-logo="http://fanc.tmsimg.com/assets/s16496_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Tru TV FHD (MX)
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79072.ts
-#EXTINF:-1 tvg-id="PASNLAH" tvg-name="CO: PASIONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CO: PASIONES FHD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79073.ts
-#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASIONES HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",PASIONES HD MX
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tlenovelas FHD MX" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="ENTRETENIMIENTO",Tlenovelas FHD MX
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79075.ts
-#EXTINF:-1 tvg-id="CESTREL" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79078.ts
-#EXTINF:-1 tvg-id="CANESTR" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s78628_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/79079.ts
-#EXTINF:-1 tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png" group-title="ENTRETENIMIENTO",GLITZ
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/85727.ts
-#EXTINF:-1 tvg-id="LIFEAM" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/113864.ts
-#EXTINF:-1 tvg-id="LIFELCH" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/113865.ts
-#EXTINF:-1 tvg-id="" tvg-name="GlewedTV Yoga & Fitness" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Ogrd459EL.png" group-title="ENTRETENIMIENTO",GlewedTV Yoga & Fitness
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/150496.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fashion Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/FashionBox_HD_logo.png" group-title="ENTRETENIMIENTO",Fashion Box
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/156961.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC HD MX
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/161518.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",TELEMUNDO BOSTON
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4694.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 17 WRIW Providence" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 17 WRIW Providence
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4695.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Miami
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4696.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 26 KFDY Lincoln" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 26 KFDY Lincoln
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4697.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 17 KUAN Poway, Etc." tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 17 KUAN Poway, Etc.
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4698.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo WEST" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo WEST
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4699.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 36 KXTX Dallas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 36 KXTX Dallas
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4700.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 29 WSNS Chicago" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 29 WSNS Chicago
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4701.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 19 KSTS San Jose" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 19 KSTS San Jose
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4702.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 34 KTAS San Luis Obispo" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 34 KTAS San Luis Obispo
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4703.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 27 KASA Santa Fe" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 27 KASA Santa Fe
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4704.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Las Vegas" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Las Vegas
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4705.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo WZDC-WASHINGTON" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo WZDC-WASHINGTON
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4706.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 30 WSCV Fort Lauderdale" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 30 WSCV Fort Lauderdale
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4707.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 16 KHRR Tucson" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 16 KHRR Tucson
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4708.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 15 KVDA San Antonio" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 15 KVDA San Antonio
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4709.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 22 KTMD Galveston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 22 KTMD Galveston
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4710.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 14 KTLM Rio Grande City" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 14 KTLM Rio Grande City
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4711.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 25 KVEA Corona" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 25 KVEA Corona
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4712.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 26 KTDO Las Cruces" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 26 KTDO Las Cruces
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4714.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 24 KRDO Colorado Springs" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 24 KRDO Colorado Springs
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4715.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Houston" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Houston
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4716.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 35 WNJU Linden" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 35 WNJU Linden
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4717.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 11 KNSO Merced" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 11 KNSO Merced
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4718.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 29 KTAZ Phoenix" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 29 KTAZ Phoenix
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4719.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 20 KTMW Salt Lake City" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 20 KTMW Salt Lake City
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4720.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 19 KFBI Medford" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 19 KFBI Medford
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4721.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo New Orleans HD" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo New Orleans HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4722.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 24 KXTQ Lubbock" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 24 KXTQ Lubbock
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4723.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 3 KCSO Sacramento" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 3 KCSO Sacramento
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4724.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 17 KUTU Tulsa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 17 KUTU Tulsa
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4725.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 34 WZDC Washington DC" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 34 WZDC Washington DC
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4726.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 52 Los Angeles" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 52 Los Angeles
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4727.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 31 WTMO Orlando" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 31 WTMO Orlando
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4728.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 23 WDMR Springfield" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 23 WDMR Springfield
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4729.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 34 WZTD Richmond VA" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 34 WZTD Richmond VA
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4730.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 30 WWDT Naples" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 30 WWDT Naples
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4731.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 27 KOHA Omaha" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 27 KOHA Omaha
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4732.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo 30 WRMD Tampa" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo 30 WRMD Tampa
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional HD" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Telemundo Internacional HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4734.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO New York" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/5/58/Telemundo_47_2018.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",TELEMUNDO New York
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4735.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Austin HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Austin HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4736.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Cleveland HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Cleveland HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4737.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Dallas HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Dallas HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4738.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision East HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision East HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4739.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Fresno HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Fresno HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4740.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Houston HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Houston HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4741.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Los Angeles HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Los Angeles HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4742.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Las Vegas HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Las Vegas HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4743.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision RALEIGH HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision RALEIGH HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4744.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision New York HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision New York HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4745.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Philadelphia HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Philadelphia HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4746.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Phoenix HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Phoenix HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4747.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Sacramento HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Sacramento HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision SALT LAKE HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision SALT LAKE HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4749.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision San Antonio HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision San Antonio HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4750.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision San Francisco HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision San Francisco HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4751.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision West HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision West HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4752.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ATLANTA HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/48_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",GALAVISION ATLANTA HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4754.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision Alburquerque Santa Fe HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision Alburquerque Santa Fe HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4755.ts
-#EXTINF:-1 tvg-id="" tvg-name="Galavision MIAMI HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/62_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",Galavision MIAMI HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4756.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION MIAMI HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4768.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NEW YORK HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION NEW YORK HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4772.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DALLAS TX HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELEMUNDO-UNIMAS-UNIVISION-GALAVISION",UNIVISION DALLAS TX HD
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/4777.ts
 
 #EXTINF:-1 tvg-id="CLAHDA" tvg-name="CLARO SPORTS COLOMBIA FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS COLOMBIA FULL HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9077.ts
@@ -4292,3 +3607,12 @@ https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x4%20Dual%2
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x5%20Dual%20%40Girohens~1.mp4
 #EXTINF:-1 group-title="MOVIE  SUSPENSO" tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem.jpg",Post Mortem 1x6
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x6%20Dual%20%40Girohens~1.mp4
+
+
+
+
+
+
+
+
+
