@@ -1,79 +1,12 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST CUMBIA
-https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST HATUN TV
-https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO DIRECTO
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1726825464.m3u8
-#EXTINF:-1 tvg-id="CLIPS TV DIRECTO" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="MUSICA",CLIPS TV DIRECTO
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
-#EXTINF:-1 tvg-id="GALACTICA TV DIRECTO" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="MUSICA",GALACTICA TV DIRECTO
-https://pacific.direcnode.com:3715/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="KARIBEÑA TV DIRECTO" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="MUSICA",KARIBEÑA TV DIRECTO
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
-#EXTINF:-1 tvg-id="MEGA TV DIRECTO" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="MUSICA",MEGA TV DIRECTO
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST MUSIC
-https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="OASIS RTV DIRECTO" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="MUSICA",OASIS RTV DIRECTO
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1 tvg-id="RADIO EL PUEBLO DIRECTO" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="MUSICA",RADIO EL PUEBLO DIRECTO
-https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
-#EXTINF:-1 tvg-id="RARIO RUTAS DEL PERU DIRECTO" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="MUSICA",RARIO RUTAS DEL PERU DIRECTO
-https://tv.portalexpress.es:3731/stream/play.m3u8
-#EXTINF:-1 tvg-id="ENERGEEK FAN POPDIRECTO" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="MUSICA",ENERGEEK FAN POPDIRECTO
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA" , Conciertos por Stingray
-https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA" , Karaoke por Stingray
-https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62444f34ea3ade0007ade6ac" tvg-id="62444f34ea3ade0007ade6ac" tvg-chno="603" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="MUSICA" , MTV Urban Music
-https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
-
-#EXTINF:-1 tvg-id="RADIO RPP" tvg-logo="https://f.rpp-noticias.io/2020/06/05/rpp-feed_952838.png" group-title="MUSICA",RADIO RPP
-https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=641b564000df2c8b_3992046_oRrO1ogj__0000001T0hG&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc&sid=iqpptk68qb13K4xZdd9UPLyKrmoYLBRz&pid=d1XbqTEqiL0ok4cl7g2DJSkkgIXmpgyT&ref=rpp.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1683591595408&ot=3E4ayg_AQZhppLQvDejn2Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc
-#EXTINF:-1 tvg-id="RADIO PANAMERICANA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/xgbPEVhymn.png" group-title="MUSICA",RADIO PANAMERICANA
-https://streaming.gometri.com/stream/8000/stream
-#EXTINF:-1 tvg-id="RADIO NUEVA Q" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8fTKXj2Ynz.png" group-title="MUSICA",RADIO NUEVA Q
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO MODA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dEg9AUE3CD.png" group-title="MUSICA",RADIO MODA
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Z6ZZYZYE6R.jpg" group-title="MUSICA",RADIO LA ZONA
-https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8
-#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gaF98DkLrX.png" group-title="MUSICA",RADIO MAR
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC_SC
-#EXTINF:-1 tvg-id="RADIO LA KALLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/9hxrjuhEGv.jpeg" group-title="MUSICA",RADIO LA KALLE
-https://cpliv3.onliv3.com/stream/lakalle/stream
-#EXTINF:-1 tvg-id="RADIO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO ROMANTICA
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO FELICIDAD" tvg-logo="https://static.mytuner.mobi/media/radios-150px/byptfumktqde.png" group-title="MUSICA",RADIO FELICIDAD
-https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
-#EXTINF:-1 tvg-id="RADIO LA INOLVIDABLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2b7cvuLrCb.png" group-title="MUSICA",RADIO LA INOLVIDABLE
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO OXIGENO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ns3bnMSxg9.jpeg" group-title="MUSICA",RADIO OXIGENO
-https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
-#EXTINF:-1 tvg-id="RADIO NOVA TRUJILLO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/zR9JymzqpQ.png" group-title="MUSICA",RADIO NOVA TRUJILLO
-https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
-#EXTINF:-1 tvg-id="RADIO OASIS" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png" group-title="MUSICA",RADIO OASIS
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO LUNA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hveq3etzdt3q.png" group-title="MUSICA",RADIO LUNA
-https://cast1.lunabroadcasting.net/listen/lunaworld/radio.aac
-#EXTINF:-1 tvg-id="RADIO RITMO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO RITMO ROMANTICA
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
-#EXTINF:-1 tvg-id="RADIO ESTUDIO 92" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gScBgqwDEp.jpg" group-title="MUSICA",RADIO ESTUDIO 92
-https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8
-#EXTINF:-1 tvg-id="RADIO PLANETA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png" group-title="MUSICA",RADIO PLANETA
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=30008&dist=30008
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",ADONAI TV HUARMEY
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",ADONAI TV VARIADO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqUGTN24Th9MH1Gsoleremt7FJ4UJT93F7CM9HTqstDrpt5lUJHSwU9eL9clUBeGEe88wwljmO_74dNK7OcgILd8zGXkeCC8DvNmL8BQCdWXloVC3MVUEBQNGhYbrfQEjvjeuJNAz5nbkhOzrD5-ENzlSecczCie57QNhfDYege2dYK7eeIo-UxKOckNzBuTQIfwiLkjh2n2U1iOPz8CrAPqRJMWhB9isy3Dna9442jKJ7HJmwfZ5jzdOLsfetRNt9B_fh2n6SFjDNH_CDuTk9r3VEqOmX76Y0b27WHQyC_thSP5gyRQxFKFyVtuq3uENn82mUWaLqV0KJjIWBlNGe-Z8-BURgO38P1ClMFSddZ1f9qn24_8e7yqEyDUqTPwrqKb0bZZM6BPbI2ZF6_wnjTHZ4UxTCiflsj89B4GLojCCQtzA5PP6P8DrI7cS93Jd5rq7bqDnyllANKpioMrMgbw2Z8kuqmzTINpYWbwXuyeZU_osONxyiwYCMBXfbDRxuyLAE6IuW9ZRJO5DcfIdEkSpGFd7nXylmaf-h2jWSK-H4bO5l1jdYdTUgQuUdMeUypRnRlLgPL3eV7Mucmy5wr-mCbMalmf8kT_H_TYvEEpJMUuC4lvYfAFVwHqqgjN2_f4rQUKznfqIBLCeKI9SIBOmRSJgiMTp12FoXaua_Jzk0AiUwSBeWviZyA8_a6ruBspGnNr58sCaL4fTTEUMkA4Cbvt2WA8P8sLcnRrrZlslCFhznob4hd32SO2KniGqxgxh7OnBSrmNzT3l47LiDLWqua9IkOQCyOZ8sJHrMV-MVDwGUxddCuIEsEuAR10rjrogwpceGFrwdxXqvIh6-0iy16DmuLAgVRuBBNw9gbkp08xvFgYKakyb2lprS2zVAbs2yK780TGhr6YZ8JIkSqCMdXGfQJLM7LzO4_1oSgsv6gqYDnAJdjTym3o6an8CaDB7rtiqJa-Q4HRKyBnaBmU3z1K-NXjNeTpSXGaRnxocX18VxtnWM5gwRBop4SX5aoZW8xIwlv6Otq_QsWDJQvfchjeTxhzTVDyybL0e6_b_ox6a29lmhoMHaMk3Elnz1p8ZWo8IAEqCXVzLWVhc3QtMTD8BA.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",DRAGON BALLZ 24/7
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CpkGgMQBAF82U3jzNmk02OFYrCJwQzWgPa1Y9o3RvFcwr0wsdrE6AoXyhpg6inLju5_9nop_RveY05orNcYiw8A-Fl80T9CTFHgnkgU9d0kNJUV1KCOiJfDS88TB6Ofyy_6KyOgew8GxRqA_O_jRYrEtLwU5ajaIxWOkW9iT6REumyO48Zt2_buXGDgSbKMP1wmQlRFUnpLbknBUIMpbK_EQ9Vr3x9noyCCxx6PFhIUvRENuJDEyD6-33EOaddjKRTeCdFtg5E95-1v7tagVsPrG6e_cEpXxlfyPa2dz69UAd8H3EAKMfhYA1M-OCaObTBcj4uN3HXC5Wg9LCNrTz-Lfdss8O_bXGSikjqWBGYsud3ES6jCHkFw1cGIlFti_43BuV0NZeCbs9BQ4APTOodFvdER2uexAGkJyGhu-L8OIWTLAAaCIiPo8bfvc3Xqeoo7aJdzMO2eLTFiHXkONwAGt3oka5yKGTRf7D-oLMe_tU3BoFXqUpwFFacpct5J_p4QE5Fa4H1Cn9IMb3sr6cxWXVa2CjxTp3G6vrxxDrIoBXzXp-Iy_yqdpWZ0jRq5EFVLTUYSsYOnr0GVZoQ-rxRqGOxqnm7_CGOIYhKi101x8Ht7r1rglghvdx4NQzw3lgikcfTkpD3HB9q7MU2AN2JmBi-e4b3iUXHwXPzLL2qDjb4dnYer54oYFkfNyLmtDJuaX6otNnaCpqopM_uzo8_n-v01COfRAVMOeTBstDlFnjD2u26CU8oYBp5YUeILCx6elEr8LNLOVhcqhDm7ZPZWwMdZ18WQCD_azVUvBFxvIWb9vn_KUkk-9b951oyfKbk2sNWmK5VU40IbvEUpi3pXt_DpMMvMnDF1Tp2eCU5mYQej1N0WB_iPBqyYXQoG0Z3czc0dQtFi6Tw8rinyM7jQc0LlG-iTdR_DtjJfVhAbH-YmFB8o3kV6jd1emyHL0rvGmqhz4fmHZTAg2ujG98WcY-7tdzPwzodoZHd4pVv1XumYn9UUer9VXGaVofroM27OImXdrL04z8cGIibCxI2y8jGy9wtXVxTVfIxoMZeUUUgKslH0HeEslIAEqCWV1LXdlc3QtMjDHBg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU",LOS SIMPSON 24/7
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CsIFe1l5fPEogZ9KqIHd-zHRE4R6UKs2Um1byMUJ-RGVWG7b0OR2KfjAc2zqX6M89u_T1RNPRBFC8OxwpwVY5yxCHyM2wOVPW56ZCzb9GhuMuez-Yov5o7yBhQ4KVbH60df1zcpptwvzkVx3oUsEAb8AB9HAFG6UnwynloK0sYlQNJy8YxZ8RSLQ_aPK0EFVS9uzs5e32B2SrBaj6lota9HygCbnyEB8DeIlsV2Hl4W5Qe2A6W_LM8jCYXCsWT1ND7lqupusL0zxeEeYVf31h5A4xitw3WZkI0HXNTTaFcy0gn5bgs4i7ssLvL-WFD_qKOtGp4M8bKPLyGnLRHA0GwhFnskp1KAD9RO9tF2TXYqruURNursHBnAuXkV6iZtyHCLxt7rWv-TD_6uUYQF1ePhLA0pmP8MXujP91xpYkCpNGZNPc_R60O4tCkh5AtAb044rrj7-awE7atAwUcCuanox2H8WolNBHNIJig32Bp9hlPeTYlMKovWXZh4z8CT6meSGDdMvV2uwB2YkcMBDM2W5AqRuJaNtSq9t5kn98zeseI0voa2xC9ZcHab2cTC_cuJ8WBSxJNixChDzcnmaDEyguqn7aospUj2MbnA7PbXx0fNIL8wt9qDqjD8mfOEoFRso2Afr2usOy92qVXLzAnrZ5LuOJ_Ss77Y4oAwj0JE0vIiAMxZGMplxWNFkI6FKlUkh7cTCjaMx6dzgYjYFJMll_ee1VHA24n8kaahQGKjM-P0-bfd7j2kWNBZPJVIrLtTNafYdP4FRixSUWFSdSy0rE6jaETYy9XbAILF9R1aeA4YrLQ6yto5jviRMvP9TaW0oDO_o4GXqpkPN60BPQaK5XEsNv_JydUokDAUvZMvgZiwtuUFtoJcnDvz8HiH0UW1iB9NPGo4tL5JB2FpuDdlZN0ZFTaUNePpIIjfiNCqov_fBLhoMatMnZwYmQlSEERIWIAEqCWV1LXdlc3QtMjDHBg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 #EXTINF:-1 tvg-id="" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD1
@@ -314,7 +247,85 @@ https://i.mjh.nz/PlutoTV/5f1acdaa8ba90f0007d5e760-alt.m3u8
 #EXTINF:-1 channel-id="pluto-600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-chno="457" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="CULTURA" , Pluto TV Animales
 https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST CUMBIA
+https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST HATUN TV
+https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO DIRECTO
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1726825464.m3u8
+#EXTINF:-1 tvg-id="CLIPS TV DIRECTO" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="MUSICA",CLIPS TV DIRECTO
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="GALACTICA TV DIRECTO" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="MUSICA",GALACTICA TV DIRECTO
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="KARIBEÑA TV DIRECTO" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="MUSICA",KARIBEÑA TV DIRECTO
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+#EXTINF:-1 tvg-id="MEGA TV DIRECTO" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="MUSICA",MEGA TV DIRECTO
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST MUSIC
+https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OASIS RTV DIRECTO" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="MUSICA",OASIS RTV DIRECTO
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-id="RADIO EL PUEBLO DIRECTO" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="MUSICA",RADIO EL PUEBLO DIRECTO
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 tvg-id="RARIO RUTAS DEL PERU DIRECTO" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="MUSICA",RARIO RUTAS DEL PERU DIRECTO
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:-1 tvg-id="ENERGEEK FAN POPDIRECTO" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="MUSICA",ENERGEEK FAN POPDIRECTO
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA" , Conciertos por Stingray
+https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA" , Karaoke por Stingray
+https://i.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62444f34ea3ade0007ade6ac" tvg-id="62444f34ea3ade0007ade6ac" tvg-chno="603" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="MUSICA" , MTV Urban Music
+https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
+#EXTINF:-1 channel-id="pluto-600ad4ad6537680007be2ea6" tvg-id="600ad4ad6537680007be2ea6" tvg-chno="608" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="MUSICA" , Clubbing TV
+https://i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-chno="601" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="MUSICA" , MTV Music Made in Spain
+https://i.mjh.nz/PlutoTV/60a26a056d55b30007918d5a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60c8b3ddaaf9d4000780066f" tvg-id="60c8b3ddaaf9d4000780066f" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="MUSICA" , Pluto TV K-Pop
+https://i.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60db37b8b919720007c07fa4" tvg-id="60db37b8b919720007c07fa4" tvg-chno="607" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="MUSICA" , Qwest Jazz&Beyond
+https://i.mjh.nz/PlutoTV/60db37b8b919720007c07fa4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60f16986acb81b0007c384ac" tvg-id="60f16986acb81b0007c384ac" tvg-chno="606" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="MUSICA" , Qello Concerts
+https://i.mjh.nz/PlutoTV/60f16986acb81b0007c384ac-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6130d6f3f3f7bb0007dbd092" tvg-id="6130d6f3f3f7bb0007dbd092" tvg-chno="604" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="MUSICA" , MTV En Vivo
+https://i.mjh.nz/PlutoTV/6130d6f3f3f7bb0007dbd092-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-chno="600" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA" , VH1 Classics
+https://i.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 
+#EXTINF:-1 tvg-id="RADIO RPP" tvg-logo="https://f.rpp-noticias.io/2020/06/05/rpp-feed_952838.png" group-title="MUSICA",RADIO RPP
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=641b564000df2c8b_3992046_oRrO1ogj__0000001T0hG&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc&sid=iqpptk68qb13K4xZdd9UPLyKrmoYLBRz&pid=d1XbqTEqiL0ok4cl7g2DJSkkgIXmpgyT&ref=rpp.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1683591595408&ot=3E4ayg_AQZhppLQvDejn2Q&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=vv0.1.5&listenerId=3NlL2T3JlWlR8T3lGQYHlE8hoH8A7bvc
+#EXTINF:-1 tvg-id="RADIO PANAMERICANA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/xgbPEVhymn.png" group-title="MUSICA",RADIO PANAMERICANA
+https://streaming.gometri.com/stream/8000/stream
+#EXTINF:-1 tvg-id="RADIO NUEVA Q" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8fTKXj2Ynz.png" group-title="MUSICA",RADIO NUEVA Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO MODA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/dEg9AUE3CD.png" group-title="MUSICA",RADIO MODA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/Z6ZZYZYE6R.jpg" group-title="MUSICA",RADIO LA ZONA
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8
+#EXTINF:-1 tvg-id="RADIO LA ZONA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gaF98DkLrX.png" group-title="MUSICA",RADIO MAR
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MARAAC_SC
+#EXTINF:-1 tvg-id="RADIO LA KALLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/9hxrjuhEGv.jpeg" group-title="MUSICA",RADIO LA KALLE
+https://cpliv3.onliv3.com/stream/lakalle/stream
+#EXTINF:-1 tvg-id="RADIO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO FELICIDAD" tvg-logo="https://static.mytuner.mobi/media/radios-150px/byptfumktqde.png" group-title="MUSICA",RADIO FELICIDAD
+https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8
+#EXTINF:-1 tvg-id="RADIO LA INOLVIDABLE" tvg-logo="https://static.mytuner.mobi/media/radios-150px/2b7cvuLrCb.png" group-title="MUSICA",RADIO LA INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO OXIGENO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/ns3bnMSxg9.jpeg" group-title="MUSICA",RADIO OXIGENO
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1 tvg-id="RADIO NOVA TRUJILLO" tvg-logo="https://static.mytuner.mobi/media/radios-150px/zR9JymzqpQ.png" group-title="MUSICA",RADIO NOVA TRUJILLO
+https://serverssl.innovatestream.pe:8080/167.114.118.120:7168/stream
+#EXTINF:-1 tvg-id="RADIO OASIS" tvg-logo="https://static.mytuner.mobi/media/radios-150px/XrH3yrhdkt.png" group-title="MUSICA",RADIO OASIS
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO LUNA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/hveq3etzdt3q.png" group-title="MUSICA",RADIO LUNA
+https://cast1.lunabroadcasting.net/listen/lunaworld/radio.aac
+#EXTINF:-1 tvg-id="RADIO RITMO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO RITMO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO ESTUDIO 92" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gScBgqwDEp.jpg" group-title="MUSICA",RADIO ESTUDIO 92
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8
+#EXTINF:-1 tvg-id="RADIO PLANETA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png" group-title="MUSICA",RADIO PLANETA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=30008&dist=30008
 
 
 #EXTINF:-1 tvg-id="LA LIGA 1 MAX DIRECTO" tvg-logo="https://i.imgur.com/7BgILXg.png" group-title="DEPORTES PERU",LA LIGA 1 MAX DIRECTO
@@ -347,12 +358,10 @@ https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
 https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="420" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="DEPORTES PERU" , ITV Deportes
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
-
-
-
-
-
-
+#EXTINF:-1 channel-id="pluto-5ff3934600d4c7000733ff49" tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="DEPORTES PERU" , Pluto TV E-Sports
+https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6144d313b34fbf0007107714" tvg-id="6144d313b34fbf0007107714" tvg-chno="403" tvg-logo="https://images.pluto.tv/channels/6144d313b34fbf0007107714/colorLogoPNG.png" group-title="DEPORTES PERU" , FUEL TV
+https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 #EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
@@ -373,6 +382,72 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9470.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9471.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9472.ts
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132" tvg-chno="197" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Pluto TV  Competencias
+https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60e45687313c5f0007bc8e94" tvg-id="60e45687313c5f0007bc8e94" tvg-chno="401" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , El encantador de perros
+https://i.mjh.nz/PlutoTV/60e45687313c5f0007bc8e94-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60e4573c9f963e00077ecf25" tvg-id="60e4573c9f963e00077ecf25" tvg-chno="405" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Mi Extraña Obsesión
+https://i.mjh.nz/PlutoTV/60e4573c9f963e00077ecf25-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61b87bc867b03a0007864e0d" tvg-id="61b87bc867b03a0007864e0d" tvg-chno="403" tvg-logo="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Pluto TV Reality
+https://i.mjh.nz/PlutoTV/61b87bc867b03a0007864e0d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61b9edc4a4ca6100070bb407" tvg-id="61b9edc4a4ca6100070bb407" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Ice Pilots
+https://i.mjh.nz/PlutoTV/61b9edc4a4ca6100070bb407-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e3ddbd27091820009f86dd9" tvg-id="5e3ddbd27091820009f86dd9" tvg-chno="193" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MasterChef
+https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e46e64dc73db400094b5f0b" tvg-id="5e46e64dc73db400094b5f0b" tvg-chno="195" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Minuto Para Ganar
+https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="160" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MTV Ridiculousness
+https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-chno="198" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Wipe Out
+https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dd837642c6e9300098ad484" tvg-id="5dd837642c6e9300098ad484" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Pluto TV Series Latinas
+https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-chno="149" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Telefe Hits
+https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6095ad97351eb0000754c1e6" tvg-id="6095ad97351eb0000754c1e6" tvg-chno="194" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Hells Kitchen
+https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6099600015e88c0007ecda25" tvg-id="6099600015e88c0007ecda25" tvg-chno="196" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Boom
+https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
+#EXTINF:-1 channel-id="pluto-612f8b455ed5810007170b5f" tvg-id="612f8b455ed5810007170b5f" tvg-chno="121" tvg-logo="https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , El Mariachi
+https://i.mjh.nz/PlutoTV/612f8b455ed5810007170b5f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-615b9855c6b58b000724477f" tvg-id="615b9855c6b58b000724477f" tvg-chno="192" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Iron Chef
+https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-619d56d9fa3070000709e3f7" tvg-id="619d56d9fa3070000709e3f7" tvg-chno="175" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Younger
+https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-chno="158" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MTV Shore
+https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61f159209fcc3800076ed4a1" tvg-id="61f159209fcc3800076ed4a1" tvg-chno="122" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Rock Story
+https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-624f4d4a4321e200073f46e0" tvg-id="624f4d4a4321e200073f46e0" tvg-chno="103" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , The Night Shift
+https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-chno="163" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MTV Catfish
+https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62aa5740a47b6c000769f407" tvg-id="62aa5740a47b6c000769f407" tvg-chno="134" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Chilevision Contigo
+https://i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62e017e44823db000726cd9a" tvg-id="62e017e44823db000726cd9a" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , The Ed Sullivan Show
+https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-639751f81a36b400072b8f5a" tvg-id="639751f81a36b400072b8f5a" tvg-chno="113" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Vive Kanal D Drama
+https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-chno="159" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MTV Con Mi Ex
+https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="El Secreto De La Esfera Del Dragón" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL",1 El Secreto De La Esfera Del Dragón
@@ -976,8 +1051,6 @@ https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ff608e60e2996000768c366" tvg-id="5ff608e60e2996000768c366" tvg-chno="342" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" group-title="INFANTILES" , Tokusato
 https://i.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5ff3934600d4c7000733ff49" tvg-id="5ff3934600d4c7000733ff49" tvg-chno="344" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="INFANTILES" , Pluto TV E-Sports
-https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="INFANTILES" , Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-chno="161" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="INFANTILES" , MTV Teen Mom
