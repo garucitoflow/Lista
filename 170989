@@ -833,6 +833,13 @@ https://archive.org/download/dragon.-ball.-super.-capitulo.-131.-dual.-latino.-j
 
 #EXTINF:-1 tvg-id="TECSATEL CINE DIRECTO" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="CINE PERU",TECSATEL CINE DIRECTO
 https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-id="TU CINE TV DIRECTO" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/logo_20211206_224154_68.png" group-title="CINE PERU", TU CINE TV DIRECTO
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/f321d57d-d330-4fc7-8f35-f23d9fb78d00/4.m3u8
+#EXTINF:-1 tvg-id="TOP CINE TV DIRECTO" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/logo_20211206_224726_68.png" group-title="CINE PERU", TOP CINE TV DIRECTO
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/73b0bc69-12d9-4079-8eac-81e888fdd8e5/4.m3u8
+
+
+
 #EXTINF:-1 tvg-id='1066' tvg-name='Conecta TV' tvg-logo='https://www.iptvgratis.cl/logocanal/conectatv.png' group-title="CINE PERU", Conecta TV * | MX
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-id='7' tvg-name='ADN40' tvg-logo='https://www.iptvgratis.cl/logocanal/adn40.png', group-title="CINE PERU"ADN40 * | MX
@@ -1026,6 +1033,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="BOOMERAN DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s26089_ll_h3_ab.png" group-title="INFANTILES",BOOMERAN DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="DKNCHL" tvg-name="DISTRITO TV DIRECTO " tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-espanol/logo_20230426_174329_68.png" group-title="INFANTILES",KIDS TV DIRECTO 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/b25aa349-6bf5-4e56-903d-33a1189bfff2/1.m3u8
+#EXTINF:-1 tvg-id="DKNCHL" tvg-name="CHIQUILINES TV DIRECTO  " tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/logo_20211116_011430_68.png" group-title="INFANTILES",CHIQUILINES TV DIRECTO 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/f15be4a2-4e0d-46a7-84e5-78be03bf9ff3/3.m3u8
 
 #EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="INFANTILES" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
@@ -1766,6 +1777,8 @@ https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 
 #EXTINF:-1 group-title="MOVIE ANIME" tvg-logo="https://i.imgur.com/eqrVivY.jpg",Sonic Pelicula
 https://archive.org/download/sonic-la-pelicula_202305/sonic-la-pelicula.mp4
+#EXTINF:-1 group-title="MOVIE ANIME" tvg-logo="https://i.imgur.com/uds95gi.jpg",Sonic Pelicula 2
+https://archive.org/download/sonic-the-hedgehog-2_202305/sonic-the-hedgehog-2.mp4
 #EXTINF:-1 group-title="MOVIE ANIME" tvg-logo="https://i.imgur.com/IHXiFS1.jpg",Super Mario Bros La Pelicula
 https://archive.org/download/1-a-mario-bross-pelicula.-completa/1%20-%20A%20-%20MARIO%20BROSS%20%28PELICULA.%20COMPLETA%29.mp4
 #EXTINF:-1 group-title="MOVIE ANIME" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg",Afro Samurai Resurrection (2009)
@@ -3526,7 +3539,4 @@ https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x4%20Dual%2
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x5%20Dual%20%40Girohens~1.mp4
 #EXTINF:-1 group-title="MOVIE  SUSPENSO" tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem.jpg",Post Mortem 1x6
 https://archive.org/download/por-encima-de-la-ley-1/Post%20Mortem%201x6%20Dual%20%40Girohens~1.mp4
-
-
-
 
