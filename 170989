@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="24/7",ADONAI TV VARIADO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrIF6P4vFXwZv7WyvkjY-lnkSiaWgELEeTHi2PXK4u4a8Wr45bJc31Ic8G6HetWMNEqZFuQPak2pX1inaGX4xCPAqNNNZ8ZVYfimCUtUXmVea_CZoeMxhOTrfGhvSu4cEvnOxKf1UOsQq1h78JeTrIPv0vLlwJgG1mA66iSWF9TAC46bqdcBR0MaE9YYBOFHP1p04ymYpBEHO8lPFq8F4V2FdbqkpGfBcrtgq6dIeO6HvYR1EYXN6gUbsG8VvHXGB0-5C2-lC7Apf6PLeckrOiK74YoBXhqeSsgYsW0lVDnweqJyufmocY0XL2idFGOXvH93EsuIN4F5TcbS1-wICSo7YEVobXBJfQ3P6ERbEsoGW37b4ZeiQa-LPhQVUTLnpf4Oo9nkQj4Vh6pOiLLK81ODqhvKnGaYF6pjl2b_-sLyelHcf4tri0262o-4uodJfbDY5St6EToesozz8S9hPDMDQFGXCNuSS14swAHHkoZgXzoJmVLX0jFBFk4mlUt1K-hLymcH7FSN9BueciMA5pXQ3DeX6aZGb4Y4HNLmqjTRudED7JJ0usuxJFYvXvkaNFidJ616wagHVPjVmZqrFZHd8rIQ3p3Rk-QjV2g4Ey7jIkMhBGbhz8LOGtZzue2M9RSgmXL5oe_ac8h8Ykjq0u3w-gZrsM8JDpRS3u4lYYz0l1Fd92lo5BqIbpqQpGKR49RqIITDyD5iM9ep1rnpt_gscfHnwpJVPy0gcRqswuY5NS3PUYhJXCYVD52b4G4jJaRHAbCwYDvmLUscBr7EoYxGFSzcCQBaLXXGzlioXAPvqbbTpinkGrJNxf6GR4yO0DCmIbXliSqgagnk5LKwxg1NIwPpHB3YdsWSlwz7lBhcRRuxNL1sKpiMbnM1ohdfvq4oRVGaHa--6sxYUpg1An8VFUvKGgwWon_WtiWDVPJZ5uYgASoJdXMtZWFzdC0yMMcG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALLZ 24/7" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="24/7",DRAGON BALL V1 24/7
@@ -346,7 +348,7 @@ https://cast1.lunabroadcasting.net/listen/lunaworld/radio.aac
 #EXTINF:-1 tvg-id="RADIO RITMO ROMANTICA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/VZd6pyTMTY.png" group-title="MUSICA",RADIO RITMO ROMANTICA
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?csegid=30008&dist=30008
 #EXTINF:-1 tvg-id="RADIO ESTUDIO 92" tvg-logo="https://static.mytuner.mobi/media/radios-150px/gScBgqwDEp.jpg" group-title="MUSICA",RADIO ESTUDIO 92
-https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
 #EXTINF:-1 tvg-id="RADIO PLANETA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png" group-title="MUSICA",RADIO PLANETA
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=30008&dist=30008
 #EXTINF:-1 tvg-id="RADIO MAGICA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/magica-lima.png" group-title="MUSICA",RADIO MAGICA
