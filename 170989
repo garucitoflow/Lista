@@ -243,6 +243,11 @@ https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-id="URANIO TV DIRECTO" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="PERU",URANIO TV DIRECTO
 https://live.obslivestream.com/uraniotv/index.m3u8
 
+#EXTINF:-1 tvg-id="INKA TV DIRECTO" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="PERU",INKA TV DIRECTO
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="PLATZI TV DIRECTO" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="CULTURA",PLATZI TV DIRECTO
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -260,14 +265,18 @@ https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PBMTV DJ DIRECTO" tvg-logo="https://pbmtv.org/wp-content/uploads/2021/01/PBMTV-logo-80x110-1.png" group-title="MUSICA", PBMTV DJ DIRECTO
 https://pbmtvlive-19a58.kxcdn.com/pbmtv/live_abr/pbmtv/live_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="MUSICA",Radio Tropical Tarapoto
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="MUSICA",Radio San Borja TV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVTendencias.pe" tvg-logo="https://i.imgur.com/tsdrrV9.png" group-title="MUSICA",Radio TV Tendencias
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST CUMBIA
 https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEST MUSIC" tvg-logo="https://i.imgur.com/bQNEMjT.png" group-title="MUSICA",BEST HATUN TV
 https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://i.imgur.com/dEe12aC.png" group-title="MUSICA",TOP LATINO DIRECTO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1726825464.m3u8
-#EXTINF:-1 tvg-id="CLIPS TV DIRECTO" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="MUSICA",CLIPS TV DIRECTO
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1 tvg-id="GALACTICA TV DIRECTO" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="MUSICA",GALACTICA TV DIRECTO
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="KARIBEÑA TV DIRECTO" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="MUSICA",KARIBEÑA TV DIRECTO
@@ -1057,9 +1066,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235576.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235585.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA VIP 15 FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="EXTRA CINE",CINEMA VIP 15 FHD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235567.ts
-#EXTINF:-1 tvg-id="" tvg-name="CONCERT Channel" tvg-logo="https://i.ibb.co/MGWLLxX/co-concert-channel-hd-m.png" group-title="MUSICA",CONCERT Channel
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/235601.ts
-
 
 
 #EXTINF:-1 tvg-id="ENERGET RETRO DIRECTO" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="INFANTILES",ENERGET RETRO DIRECTO
