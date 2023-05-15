@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="24/7",ADONAI TV VARIADO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrIF6P4vFXwZv7WyvkjY-lnkSiaWgELEeTHi2PXK4u4a8Wr45bJc31Ic8G6HetWMNEqZFuQPak2pX1inaGX4xCPAqNNNZ8ZVYfimCUtUXmVea_CZoeMxhOTrfGhvSu4cEvnOxKf1UOsQq1h78JeTrIPv0vLlwJgG1mA66iSWF9TAC46bqdcBR0MaE9YYBOFHP1p04ymYpBEHO8lPFq8F4V2FdbqkpGfBcrtgq6dIeO6HvYR1EYXN6gUbsG8VvHXGB0-5C2-lC7Apf6PLeckrOiK74YoBXhqeSsgYsW0lVDnweqJyufmocY0XL2idFGOXvH93EsuIN4F5TcbS1-wICSo7YEVobXBJfQ3P6ERbEsoGW37b4ZeiQa-LPhQVUTLnpf4Oo9nkQj4Vh6pOiLLK81ODqhvKnGaYF6pjl2b_-sLyelHcf4tri0262o-4uodJfbDY5St6EToesozz8S9hPDMDQFGXCNuSS14swAHHkoZgXzoJmVLX0jFBFk4mlUt1K-hLymcH7FSN9BueciMA5pXQ3DeX6aZGb4Y4HNLmqjTRudED7JJ0usuxJFYvXvkaNFidJ616wagHVPjVmZqrFZHd8rIQ3p3Rk-QjV2g4Ey7jIkMhBGbhz8LOGtZzue2M9RSgmXL5oe_ac8h8Ykjq0u3w-gZrsM8JDpRS3u4lYYz0l1Fd92lo5BqIbpqQpGKR49RqIITDyD5iM9ep1rnpt_gscfHnwpJVPy0gcRqswuY5NS3PUYhJXCYVD52b4G4jJaRHAbCwYDvmLUscBr7EoYxGFSzcCQBaLXXGzlioXAPvqbbTpinkGrJNxf6GR4yO0DCmIbXliSqgagnk5LKwxg1NIwPpHB3YdsWSlwz7lBhcRRuxNL1sKpiMbnM1ohdfvq4oRVGaHa--6sxYUpg1An8VFUvKGgwWon_WtiWDVPJZ5uYgASoJdXMtZWFzdC0yMMcG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALLZ 24/7" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="24/7",DRAGON BALL V1 24/7
@@ -840,12 +841,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 #EXTINF:-1 tvg-id="TOP CINE TV DIRECTO" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/logo_20211206_224726_68.png" group-title="CINE PERU", TOP CINE TV DIRECTO
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/73b0bc69-12d9-4079-8eac-81e888fdd8e5/4.m3u8
 
-
-
-#EXTINF:-1 tvg-id='1066' tvg-name='Conecta TV' tvg-logo='https://www.iptvgratis.cl/logocanal/conectatv.png' group-title="CINE PERU", Conecta TV * | MX
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 tvg-id='7' tvg-name='ADN40' tvg-logo='https://www.iptvgratis.cl/logocanal/adn40.png', group-title="CINE PERU"ADN40 * | MX
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="CINE PERU",Xtrema Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="CINE PERU",Xtrema Comedy
