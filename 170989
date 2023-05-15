@@ -284,6 +284,7 @@ https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
 https://tv.portalexpress.es:3731/stream/play.m3u8
 #EXTINF:-1 tvg-id="ENERGEEK FAN POPDIRECTO" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="MUSICA",ENERGEEK FAN POPDIRECTO
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MUSICA" , Conciertos por Stingray
 https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="MUSICA" , Karaoke por Stingray
@@ -339,6 +340,22 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?cse
 https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8
 #EXTINF:-1 tvg-id="RADIO PLANETA" tvg-logo="https://static.mytuner.mobi/media/radios-150px/tPMrZYueEe.png" group-title="MUSICA",RADIO PLANETA
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC?csegid=30008&dist=30008
+#EXTINF:-1 tvg-id="RADIO MAGICA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/magica-lima.png" group-title="MUSICA",RADIO MAGICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_SC?csegid=20001&dist=20001&ttag=20001
+#EXTINF:-1 tvg-id="RADIO MEGAMIX" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-mega-lima.png" group-title="MUSICA",RADIO MEGAMIX
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8
+#EXTINF:-1 tvg-id="RADIO MARIA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/maria.png" group-title="MUSICA",RADIO MARIA
+https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream/1/
+#EXTINF:-1 tvg-id="RADIO CORAZON" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/corazon.png" group-title="MUSICA",RADIO CORAZON
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1 tvg-id="RADIO CUMBIAMIX" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/mas-91-9.png" group-title="MUSICA",RADIO CUMBIAMIX
+https://streaming.gometri.com/stream/8017/stream
+#EXTINF:-1 tvg-id="RADIO LA KARIBEÑA" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/la-karibena.png" group-title="MUSICA",RADIO LA KARIBEÑA
+https://cpliv3.onliv3.com/stream/radiokaribena/stream
+#EXTINF:-1 tvg-id="RADIO NUEVO TIEMPO" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pe/nuevo-tiempo.png" group-title="MUSICA",RADIO NUEVO TIEMPO
+https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="LA LIGA 1 MAX DIRECTO" tvg-logo="https://i.imgur.com/7BgILXg.png" group-title="DEPORTES PERU",LA LIGA 1 MAX DIRECTO
