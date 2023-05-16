@@ -357,7 +357,7 @@ https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="LA LIGA 1 MAX DIRECTO" tvg-logo="https://i.imgur.com/7BgILXg.png" group-title="DEPORTES PERU",LA LIGA 1 MAX DIRECTO
-rtp://@239.0.0.76:8208
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CrEFzr86S6V3RnW8fk8pMzzZWnsfIXMcTd1-bWtPgJ0wxTF8_SFeg32gzmr8cX4TYW6FP5hU78_znz1YV6s15gCK5c1i5Dz9gUjLmYdQFgK53nNEBdNsKZeNym7fJWLGiao4__BU-C9IQ44H041FBA3kO_ESNgFRITW6zQh-UmtlmcaYfxV4V5JWm4xPgFAylWNV19jKAnbM50rXuqsaYhHtJnGzYSFSdEcIKuBMUnvWJSyoFubwjp-gy8tnH85Q0vj3saJjbBKapGaMu57VChqvnQ1quNVDQp_ZzhEkusHG5mbHB93BQOutDP49t0R8iLW5P3xGwAVQnBVPJSAA9k4PebMpEEl3YPEpaBOuETgiQC_FXhlKUEiQOIOEqQaRYK73knMiNW-wAGFlBlSinHCm5KQ8OEauAJgB3-DGpt7gzod0k-Jcd6qPL5ceX0EGSgCBpScgivJZwa-54kXQemCisXxhg8GyEaQ2MoEfyP72vtad8_Gp87IFpVsw4meA84A5Y7tOWo_y18StXSXSv4BNtjUvw9oBBM3g4-akJZEe5Lj4q7fgzNzCISFcBF17uSf2ZSwZRT3ZRXr6vBrJJveMCTlrM05YYXA7wBJi2ZeBwrZFN8ioR1UYtjz1CJc_WzbiYi2jCrFW46hXmFEGI3xYeXNMKyO0W69se5VVtwz9XzPL_CLlQVElBSfsMTGuIItdOKQY7pAJQzdItcFmX_PpK6mpy_pCzQCvidU9FEdCnC_9Pm4z82Gw110Af_lJeWrCsj-s2Cjw3y-rWmzBMZc26u1ChNFePe4uZFFRIs-TGk3W5wnOe9mAXxVgTHNOQ0GUQkmYICFryQ-FrJBBxnEoMC_PgWQWZ22bzgyq9TNXZb5MRxau3XswSw5EnqhNtvWsDIfibeXLYeQRdsi1JjHRuOMaDCHOMoJu8oxENRYtnyABKgl1cy1lYXN0LTIwyAY.m3u8
 #EXTINF:-1 tvg-id="OVACION TV" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTES PERU",OVACION TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Esports Max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="DEPORTES PERU",Esports Max
