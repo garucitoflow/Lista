@@ -34,7 +34,6 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana DIRECTO
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFplUBpCFL4uof3FiVzpkzEvX6TLsr-jwCskMVNhpV5_F)/dm/3/x774s7s/s/live-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9479.ts
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD1
@@ -55,7 +54,7 @@ https://cdnh74.iblups.com/hls/RMuwrdk7M9.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",WILLAX TV DIRECTO
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpn-CexpUSRRWVpICwg4whu4XfvKYQBiOrhBgiGsZuAb)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmghAu5nbJdf6TgL21X0aTaCMPo8NCfMqYUAYrmJHB7CO)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9495.ts
 #EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD 1
