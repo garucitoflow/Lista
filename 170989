@@ -1083,7 +1083,7 @@ https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="INFANTILES",Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://www.iptvgratis.cl/wp-content/uploads/2022/09/elchavo.jpg" group-title="INFANTILES",EL CHAVO PLUS
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/75kLfVJ.png" group-title="INFANTILES",EL CHAVO PLUS
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.pinimg.com/originals/09/fe/4c/09fe4ce9bb6cd81715463ce1d03d8135.png" group-title="INFANTILES",FUTURAMA
 https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
@@ -1095,6 +1095,10 @@ https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://www.iptvgratis.cl/logocanal/latinokids.png" group-title="INFANTILES",Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png",Magic Kids
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg",Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="INFANTILES" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
