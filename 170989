@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU", IPTV VARIADO 2023
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU", IPTV VARIADO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CpEGBgONKbXMpKEr-yYtQ2qXWZQfyj6Zy5Lk8A3J99rzzLnuiz37ZcxPOSsc_5aJFaaol_EiKw_wq_lBAOC2MNaozOZLE-a-OKeXiCK_ugvIMeEBHfRfnSqOvkJ992a_IDFpnArwHkArjefRKJJp9eTlesaxk3hSfl_x2RPQyAXjJlnR1c80Z4KWz7h5SyhU-6xXJk-XzwVEEjQdSF2WxloL-rc0oQdAPKBNBuUOcQnuGjZ8cJa1U0djBmUOuT74TE2Z9ZgzgTi4crnxu81YyPMPnD9cr8PJF_yiqKt3m5YpU9oHaOoS2KRkra0CffzODhef1vTPchCTNO8co3bnimArY6eWzpAQppmlpuyBWZ7127SpaBTMl50dE9_5m8LUDWg4ZrYrG0ypi2FvQLPAXUoN7Iz6TA8BbeAvQXM2sJicDMjWnWWpsQNrsb7l0d77fz1NRvIdoa9WKtgdUymgATX6yU6c9qXw3PzuynJLSH07ODjj5Iqh7pk0wY7a9l8STp-NT3cdGNnQqt4kmDYOY-_0FRHmYvqDnrHJBy-Deg_p_n9BvRsyMLO7Q2fwbAxqq21S-p5m9ric7YHGFrQHq62uKB-K3aMn5Q3SNut-fCRjATeb_WCN-H18Y9rHekHPPp9umHNQZsPccshqinHSYSCjzVqOCi1VW72DdyZmMAaCY8hS9teL8Sd1bdgp0HZxbHPeVC1XUVx_9Vg-ls0wRWjacnkNk7n5f8-EQ2YkO2i_fOvW3XoKmIL3q-Ih9S1VgwvtXXCtFJyhvHXqMZ8LQ9xEJkksT0QzmsgXNlRh01TfiBtWvKywM1hNKkg66cKOGSYIkcIiG7pruLduwhyzz2fsQqGHfsOt_04ryXCdVp8aTijREDjaaurscys4iuzTv8aqadKnl-a9jO6wDk85RIslp1p_FFCF18qI6t1reYCLvCnRf-s3OBD9otsCM7cbbQG0XuH22t6oAw3BfABu76zNNWiClNzhQWxOEpZWQf9XLnBjOYVepWOMuIc9MyM7uv89wmEFfioUTNhGbUGXE1QPiWUaDMiWoveDhzEj3xv6lCABKgl1cy1lYXN0LTEwgwU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -4322,7 +4322,7 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33731
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33733
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1ea29ac81e62157172ba49b0d396461.png",FUTURA FHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33734
-#EXTINF:-1 group-title="BRASIL TV: HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png",GLOBO TV VERDES MARES HD
+#EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png",GLOBO TV VERDES MARES HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33736
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png",Globo TV Liberal HD Belém
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33737
