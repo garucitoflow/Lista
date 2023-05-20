@@ -3856,9 +3856,9 @@ http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31301
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31304
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/41d1f5c5b62b7ac7de31aeb45fc48756.png",WARNER CHANNEL FULLHD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31305
-#EXTINF:-1 group-title="BRASIL TV: FILMES ESPECIAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png",CINEMA 7
+#EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png",CINEMA 7
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31322
-#EXTINF:-1 group-title="BRASIL TV: FILMES ESPECIAIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png",CINEMA 8
+#EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc9e20a156288e0d1c218eb3d31219b5.png",CINEMA 8
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31324
 #EXTINF:-1 group-title="BRASIL" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png",HBO 2 HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31460
@@ -4654,21 +4654,6 @@ http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/sunacrip/sunacrip/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA" tvg-logo="https://i.imgur.com/TdxaCVd.png" group-title="VENEZUELA", Torococo TV | VE
 https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
