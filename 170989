@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU", IPTV VARIADO 2023
+
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7C25IRu.jpg" group-title="PERU", IPTV VARIADO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqYG0x9sLs4Fnmqi9zB7CM7tKc7LldYvOTYhlMNgq7KAABtgrtpbsMUNAXHc13052WocR5FTUEm1KAiEX9UgzmieWU0eSlqR8U-GXtbYLYpX5xl2ZS1ZYW42EVfxrTMysBe_3xaKNU_-MYVGH9Ywo74iLfikBJv9OaNhPvHgFcUTdoe19FN66ixsb7vgT7vPQSQhxEKYB38Fyix9i4Bqyct55wQyOqBejBmKfT6RTM5XP5RQqIsCA53F6FLt4B676pqxWIf6hzxYd1gTbOKjoC3cno7rofxk0bkG12nx31io50IXPnBSnhGwy8K7wDdbjcJ6XYOcoOtlwmu-xf4fMHLpvjDIcrK1cv2C-3c302zit5nW5jW8kI9MZ6t5GZtS0emp63FaiA21SJZqGd813PqIccONaCSDf-vWgsF2YWNlxI2oWaNVyiE5VL_KNEFkkU95OJ9vQB0rlk5OVT9CUVtkK2niGZi9_ObhnOnnCBg5P2nEsL956FH6XsOM51xt4B0Qq_oSaTj4EnAb_UURrfCyJM7FgnSN_JJWdb3cvYcpj9F-U1zDl3oBek4nmjRdiFXR-xITr6lS-QMvsuPTREVCYxfdJqHuarI6fcM0lafOoCVyaPVRcpswwRfyzy75JHzEgq-MyK3HdFbhqH549-sJLWiSU9YbOGioNwtAlIV0zabhaewF2FK3j6X2y2FUz_q8vbaHAh7vyPFPyU-CLXsuLWh-y04Tt9qpBBGgC3JGPEjWn-G82wzUV4FOqp0kfmVW_OeU8zriCdTv-PwMJ7B8cgzjdIELQbfJwxYuSExSwQIL_Zk_ei9mQjz_8cN6p75ifpqW3VjDH077IHSQK4hodwNaoRjz4oQKltrsW2xfTJzwSvBWy4M9OYkXtzRsyUkadEDDkyYd1Wb0_PDTs2gu_POCoBlJo_PS206e9IlHcbG_o5CUySc16e4V6WiitP0I2gB_ETCbtBijOdL4Io4NarafQwy5jUxMRgn3abVnnk73RD_vMEfKm9wdrEwg_TguE_SNJKxZJX2P0QQxmxLddK5x79N2qwV5XNgW7fTY47fSOtQvM0UaDMsgjHX76BYVvPP6ACABKgl1cy1lYXN0LTEwhQU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -236,7 +237,14 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="DISCOVERY CIVILIZATION (MX)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2284/brand.gif?itok=T6MNi5XX" group-title="CULTURA",DISCOVERY CIVILIZATION (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27985
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="DISCOVERY ID (MX)" tvg-logo="https://s8.postimg.cc/inzxqh9z9/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.jpg" group-title="CULTURA",DISCOVERY ID (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27987
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="DISCOVERY THEATER (MX)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1083/brand.gif?itok=AyjIcQMr" group-title="CULTURA",DISCOVERY THEATER (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27989
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DISCOVERY WORLD (MX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0NOz9i9OJPbG51b7zLdbiQhG1I6RHJ5lMibphG0sedE3aUYL" group-title="CULTURA",DISCOVERY WORLD (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27991
 #EXTINF:-1 tvg-id="PLATZI TV DIRECTO" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="CULTURA",PLATZI TV DIRECTO
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="El Histonauta TV" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="CULTURA",El Histonauta TV
@@ -367,6 +375,94 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CONTACTO DEPORTIVO" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="DEPORTES PERU",CONTACTO DEPORTIVO
 https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
+#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9463.ts
+#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports + Plus" tvg-logo="http://fanc.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports + Plus
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9466.ts
+#EXTINF:-1 tvg-id="MOVDEPH" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9468.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD DIRECTO
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9471.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9472.ts
+
+
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS (MX)" tvg-logo="https://i.imgur.com/AkzZdSj.jpg" group-title="DEPORTES PERU",FOX SPORTS (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 (MX)" tvg-logo="https://i.imgur.com/WMVwzDg.jpg" group-title="DEPORTES PERU",FOX SPORTS 2 (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 (MX)" tvg-logo="https://i.imgur.com/onbFSJi.png" group-title="DEPORTES PERU",FOX SPORTS 3 (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 (MX)" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="DEPORTES PERU",ESPN 2 (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27996
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN U HD" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="DEPORTES PERU",ESPN U HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15972
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="DEPORTES PERU",ESPN HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPN NEWS HD" tvg-logo="https://i.imgur.com/wSr8bxd.png" group-title="DEPORTES PERU",ESPN NEWS HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15975
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 HD" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="DEPORTES PERU",ESPN 2 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15974
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (MX)" tvg-logo="http://images.mi.tv/channels/mx_espn-3_m.png" group-title="DEPORTES PERU",ESPN 3 (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27998
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U (MX)" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="DEPORTES PERU",ESPN U (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27999
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN (MX)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="DEPORTES PERU",ESPN (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28000
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN DEPORTES HD" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg" group-title="DEPORTES PERU",ESPN DEPORTES HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="BALLY SPORTS MIDWEST" tvg-logo="https://i.imgur.com/ogXzgpX.png" group-title="DEPORTES PERU",BALLY SPORTS MIDWEST
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15903
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="BALLY SPORTS DETROIT" tvg-logo="https://www.playmichigan.com/wp-content/uploads/2021/04/Bally-Sports-Detroit-Problems-Logo-380x200.jpg" group-title="DEPORTES PERU",BALLY SPORTS DETROIT
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15904
+#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="BALLY SPORTS ARIZONA " tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-arizona/e6b7c46e69-1616530752/bally-sports-arizona-banner-1536x864-crop.png" group-title="DEPORTES PERU",BALLY SPORTS ARIZONA 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15905
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="https://i.imgur.com/0g7zMNc.png" group-title="DEPORTES PERU",FOX SPORTS 1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/kOuHWju.png" group-title="DEPORTES PERU",FOX SPORTS 2 HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
+#EXTINF:-1 tvg-id="foxcollegesportscentral.us" tvg-name="FOX COLLEGE CENTRAL " tvg-logo="https://pbs.twimg.com/profile_images/378800000331441841/3793348373406278725910ed9c9108c7_400x400.png" group-title="DEPORTES PERU",FOX COLLEGE CENTRAL 
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15909
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS HD" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/cbssports2.png" group-title="DEPORTES PERU",CBS SPORTS HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15977
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="BIG TEN NETWORK HD" tvg-logo="https://lh3.googleusercontent.com/_zXSSY4jwjcgR5120xwOaI53AvIZ60VrzYOapXrHp-yauEtxOtvjhPeO-2n1v04ec3s" group-title="DEPORTES PERU",BIG TEN NETWORK HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15978
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="NBC GOLF (MX)" tvg-logo="https://gortoncenter.org/wp-content/uploads/2019/06/NBC-Golf-logo.jpg" group-title="DEPORTES PERU",NBC GOLF (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28054
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 op2 (E)" tvg-logo="https://imgmedia.libero.pe/670x369/libero/original/2022/08/27/630a73fd0260905637334baa.webp" group-title="DEPORTES PERU",LIGA 1 op2 (E)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208114.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 opc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOiKghOyzXw4R_tMA11SmwVDseQhxWfh9aA&usqp=CAU" group-title="DEPORTES PERU",LIGA 1 opc3
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208115.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MAX 1 opc2 (E)" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA MAX 1 opc2 (E)
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208116.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc3" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc3
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208117.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc4" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc4
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208118.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN PE HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208119.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png"DEPORTES PERU",ESPN PE
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208120.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN PE
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208121.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN 2 PE
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208122.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN 2 PE SD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208123.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  PE HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN 2  PE HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208124.ts
+
+
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="DEPORTES PERU" , La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES PERU" , Pluto TV Deportes
@@ -393,27 +489,6 @@ https://i.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6335a79d10efe80007297a94" tvg-id="6335a79d10efe80007297a94" tvg-chno="505" tvg-logo="https://images.pluto.tv/channels/6335a79d10efe80007297a94/colorLogoPNG.png" group-title="DEPORTES PERU" , La Media Inglesa
 https://i.mjh.nz/PlutoTV/6335a79d10efe80007297a94-alt.m3u8
-#EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9462.ts
-#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9463.ts
-#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports + Plus" tvg-logo="http://fanc.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports + Plus
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9465.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9466.ts
-#EXTINF:-1 tvg-id="MOVDEPH" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9469.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD DIRECTO
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9470.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9471.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9472.ts
-
 
 
 
@@ -471,15 +546,28 @@ https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27976
 #EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="TELENOVELAS" , Pluto TV Novelas
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA PUEBLO (MX)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122015/untitled-1_202.png?itok=eJhD8-cT" group-title="TELENOVELAS",TELEVISA PUEBLO (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28066
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="ENTRETENIMIENTO",Kanal D Drama
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4693.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="ENTRETENIMIENTO",UNIVISION TELENOVELAS HD
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/38_es.png" group-title="TELENOVELAS",UNIVISION TELENOVELAS HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4778.ts
-#EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="ENTRETENIMIENTO",RCN Novelas SD
+#EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="TELENOVELAS",RCN Novelas SD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/13785.ts
+#EXTINF:-1 tvg-id="PASNLAH" tvg-name="CO: PASIONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="TELENOVELAS",CO: PASIONES FHD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79073.ts
+#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASIONES HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="TELENOVELAS",PASIONES HD MX
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tlenovelas FHD MX" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="TELENOVELAS",Tlenovelas FHD MX
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79075.ts
+#EXTINF:-1 tvg-id="CESTREL" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="TELENOVELAS",MX: LAS ESTRELLAS HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79078.ts
+#EXTINF:-1 tvg-id="CANESTR" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s78628_ll_h3_aa.png" group-title="TELENOVELAS",MX: LAS ESTRELLAS HD
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="TELENOVELAS",Kanal D Drama
+http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4693.ts
+
+
 #EXTINF:-1 tvg-id="ETVAHAM" tvg-name="E! HD" tvg-logo="http://fanc.tmsimg.com/assets/s30259_ll_h3_aa.png" group-title="ENTRETENIMIENTO",E! HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/31960.ts
 #EXTINF:-1 tvg-id="" tvg-name="TLC AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="ENTRETENIMIENTO",TLC AR(E)
@@ -506,16 +594,7 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79066.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79070.ts
 #EXTINF:-1 tvg-id="TRUTLAA" tvg-name="Tru TV FHD (MX)" tvg-logo="http://fanc.tmsimg.com/assets/s16496_ll_h3_aa.png" group-title="ENTRETENIMIENTO",Tru TV FHD (MX)
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79072.ts
-#EXTINF:-1 tvg-id="PASNLAH" tvg-name="CO: PASIONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CO: PASIONES FHD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79073.ts
-#EXTINF:-1 tvg-id="PASNLA" tvg-name="PASIONES HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s71621_ll_h3_aa.png" group-title="ENTRETENIMIENTO",PASIONES HD MX
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79074.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tlenovelas FHD MX" tvg-logo="http://fanc.tmsimg.com/assets/s37232_ll_h3_ab.png" group-title="ENTRETENIMIENTO",Tlenovelas FHD MX
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79075.ts
-#EXTINF:-1 tvg-id="CESTREL" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79078.ts
-#EXTINF:-1 tvg-id="CANESTR" tvg-name="MX: LAS ESTRELLAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s78628_ll_h3_aa.png" group-title="ENTRETENIMIENTO",MX: LAS ESTRELLAS HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79079.ts
+
 #EXTINF:-1 tvg-id="GLITZS" tvg-name="GLITZ" tvg-logo="http://fanc.tmsimg.com/assets/s61514_ll_h3_aa.png" group-title="ENTRETENIMIENTO",GLITZ
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/85727.ts
 #EXTINF:-1 tvg-id="LIFEAM" tvg-name="Lifetime HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="ENTRETENIMIENTO",Lifetime HD
@@ -893,8 +972,22 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27983
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28011
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="CINEMAX (MX)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/7000/brand.gif?itok=yvWYTa2J" group-title="CINE PERU",CINEMAX (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27980
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="NATGEO (MX)" tvg-logo="https://i.imgur.com/evLrjvW.png" group-title="CINE PERU",NATGEO (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28026
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="NAT GEO WILD (MX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6458w_K7IoPMy8ynpd7xDLj38E88hcvwWEhVYX2kWdaXhTSi" group-title="CINE PERU",NAT GEO WILD (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28025
 #EXTINF:-1 tvg-id="MX - elgourmet" tvg-name="EL GOURMET (MX)" tvg-logo="https://media.tvalacarta.info/canales/256x256/elgourmet.png" group-title="CINE PERU",EL GOURMET (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27994
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="SONY (MX)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O6POn6ScVOXY3OISg8JZQO4O4c3USXlVn5w7sEnyGN5EX-RL" group-title="CINE PERU",SONY (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28033
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="STUDIO UNIVERSAL (MX)" tvg-logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="CINE PERU",STUDIO UNIVERSAL (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28034
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="SYFY (MX)" tvg-logo="https://i.imgur.com/EF36Puc.png" group-title="CINE PERU",SYFY (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28035
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="TCM (MX)" tvg-logo="https://s8.postimg.cc/6yvy2t13p/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.jpg" group-title="CINE PERU",TCM (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28036
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="TLC (MX)" tvg-logo="https://s8.postimg.cc/6m4jwn5z9/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.jpg" group-title="CINE PERU",TLC (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28037
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H (MX)" tvg-logo="https://s8.postimg.cc/wt5qsl8th/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="CINE PERU",DISCOVERY H&H (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27986
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="DISCOVERY CHANNEL (MX)" tvg-logo="https://mms.businesswire.com/media/20170330005788/en/578391/4/2869178_Discovery_Channel_2016.jpg" group-title="CINE PERU",DISCOVERY CHANNEL (MX)
@@ -1039,6 +1132,8 @@ https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="DISCOVERY KIDS DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s16680_h3_aa.png" group-title="INFANTILES",DISCOVERY KIDS DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS (MX)" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/23/kids_0.jpg?itok=AcUmXkxQ" group-title="INFANTIL",DISCOVERY KIDS (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27988
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="INFANTILES",CARTOON NETWORK DIRECTO
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="BOOMERAN DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s26089_ll_h3_ab.png" group-title="INFANTILES",BOOMERAN DIRECTO 
@@ -1047,6 +1142,12 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/b25aa349-6bf5-4e56-903d-33a1189bfff2/1.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="CHIQUILINES TV DIRECTO  " tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/logo_20211116_011430_68.png" group-title="INFANTILES",CHIQUILINES TV DIRECTO 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/f15be4a2-4e0d-46a7-84e5-78be03bf9ff3/3.m3u8
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="DISNEY XD (MX)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062014/disney_xd.jpg?itok=wr1nExtx" group-title="INFANTIL",DISNEY XD (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="NATGEO KIDS (MX)" tvg-logo="https://i.imgur.com/doSZgxQ.png" group-title="VARIADO",NATGEO KIDS (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28067
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK (MX)" tvg-logo="https://i.imgur.com/mves2HL.jpg" group-title="VARIADO",CARTOON NETWORK (MX)
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27979
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="INFANTILES",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="INFANTILES",Xtrema Anime
@@ -1185,73 +1286,6 @@ https://i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6228b6a38717420007375848" tvg-id="6228b6a38717420007375848" tvg-chno="906" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png" group-title="INFANTILES" , Nickelodeon Ukraine
 https://i.mjh.nz/PlutoTV/6228b6a38717420007375848-alt.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX SPORTS (MX)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/58/db/bc/58dbbc42-2d68-2d97-392a-0cf23dc80f6f/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/246x0w.jpg" group-title="DEPORTES PERU",FOX SPORTS (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28008
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2 (MX)" tvg-logo="https://s8.postimg.cc/n9w1yo36d/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="DEPORTES PERU",FOX SPORTS 2 (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28009
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX SPORTS 3 (MX)" tvg-logo="http://epg.justco.cc/guide/logos/mx/FoxSports3.mx.png" group-title="DEPORTES PERU",FOX SPORTS 3 (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28010
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 (MX)" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="DEPORTES PERU",ESPN 2 (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27996
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN U HD" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="DEPORTES PERU",ESPN U HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15972
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="DEPORTES PERU",ESPN HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15976
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPN NEWS HD" tvg-logo="https://lh3.googleusercontent.com/proxy/3CPORYIt4yxLxjg-_wt75Z15qLjGp5L1oQfnIRs0AXLe1GR78CIq0FCWorByYH44K3p3Fyjj6c4ZJYp_01ECXTkc-nQiQHdU3FXqOJpsJxGpt5m7Y99gV74YwWJGeCM8gf90BFGx9JOX4HAlCKM1TnlTM_JtycZlF1L7wry8pF9p" group-title="VARIADO",ESPN NEWS HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15975
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2 HD" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="DEPORTES PERU",ESPN 2 HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15974
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (MX)" tvg-logo="http://images.mi.tv/channels/mx_espn-3_m.png" group-title="DEPORTES PERU",ESPN 3 (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27998
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U (MX)" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="DEPORTES PERU",ESPN U (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27999
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN (MX)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L._SY355_.png" group-title="DEPORTES PERU",ESPN (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28000
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN DEPORTES HD" tvg-logo="http://www.ihustlaz.com/BACKGROUNDS/NETWORKS/241C1939C-9C36-7288-9A0EA107DADBA0B1.jpg" group-title="DEPORTES PERU",ESPN DEPORTES HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15970
-#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="BALLY SPORTS MIDWEST" tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-midwest/b25e9b9cb5-1618516374/bally-sports-midwest-banner-1536x864.png" group-title="DEPORTES PERU",BALLY SPORTS MIDWEST
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15903
-#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="BALLY SPORTS DETROIT" tvg-logo="https://www.playmichigan.com/wp-content/uploads/2021/04/Bally-Sports-Detroit-Problems-Logo-380x200.jpg" group-title="DEPORTES PERU",BALLY SPORTS DETROIT
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15904
-#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="BALLY SPORTS ARIZONA " tvg-logo="https://thestreamable.com/media/pages/channels/bally-sports-arizona/e6b7c46e69-1616530752/bally-sports-arizona-banner-1536x864-crop.png" group-title="DEPORTES PERU",BALLY SPORTS ARIZONA 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15905
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://stmgroup.xyz/logo/fs2.png" group-title="DEPORTES PERU",FOX SPORTS 2 HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15906
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" tvg-logo="http://stmgroup.xyz/logo/fs1.png" group-title="DEPORTES PERU",FOX SPORTS 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15907
-#EXTINF:-1 tvg-id="foxcollegesportscentral.us" tvg-name="FOX COLLEGE CENTRAL " tvg-logo="https://pbs.twimg.com/profile_images/378800000331441841/3793348373406278725910ed9c9108c7_400x400.png" group-title="DEPORTES PERU",FOX COLLEGE CENTRAL 
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15909
-#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS HD" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/04/cbssports2.png" group-title="DEPORTES PERU",CBS SPORTS HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15977
-#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="BIG TEN NETWORK HD" tvg-logo="https://lh3.googleusercontent.com/_zXSSY4jwjcgR5120xwOaI53AvIZ60VrzYOapXrHp-yauEtxOtvjhPeO-2n1v04ec3s" group-title="DEPORTES PERU",BIG TEN NETWORK HD
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/15978
-#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="NBC GOLF (MX)" tvg-logo="https://gortoncenter.org/wp-content/uploads/2019/06/NBC-Golf-logo.jpg" group-title="DEPORTES PERU",NBC GOLF (MX)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28054
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 op2 (E)" tvg-logo="https://imgmedia.libero.pe/670x369/libero/original/2022/08/27/630a73fd0260905637334baa.webp" group-title="DEPORTES PERU",LIGA 1 op2 (E)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208114.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 opc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOiKghOyzXw4R_tMA11SmwVDseQhxWfh9aA&usqp=CAU" group-title="DEPORTES PERU",LIGA 1 opc3
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208115.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA MAX 1 opc2 (E)" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA MAX 1 opc2 (E)
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208116.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc3" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc3
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208117.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc4" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc4
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208118.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PE HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN PE HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208119.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png"DEPORTES PERU",ESPN PE
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208120.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN PE
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208121.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN 2 PE
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208122.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN 2 PE SD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208123.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  PE HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PERU",ESPN 2  PE HD
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/208124.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA NASA DIRECTO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="CIENCIA",CANAL DE LA NASA DIRECTO 1
@@ -4104,6 +4138,19 @@ http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/sunacrip/sunacrip/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA" tvg-logo="https://i.imgur.com/TdxaCVd.png" group-title="VENEZUELA", Torococo TV | VE
 https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
