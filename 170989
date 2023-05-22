@@ -1132,7 +1132,7 @@ https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="DISCOVERY KIDS DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s16680_h3_aa.png" group-title="INFANTILES",DISCOVERY KIDS DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS (MX)" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/23/kids_0.jpg?itok=AcUmXkxQ" group-title="INFANTIL",DISCOVERY KIDS (MX)
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS (MX)" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/23/kids_0.jpg?itok=AcUmXkxQ" group-title="INFANTILES",DISCOVERY KIDS (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27988
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="INFANTILES",CARTOON NETWORK DIRECTO
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
@@ -1142,11 +1142,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/b25aa349-6bf5-4e56-903d-33a1189bfff2/1.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="CHIQUILINES TV DIRECTO  " tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/logo_20211116_011430_68.png" group-title="INFANTILES",CHIQUILINES TV DIRECTO 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/f15be4a2-4e0d-46a7-84e5-78be03bf9ff3/3.m3u8
-#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="DISNEY XD (MX)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062014/disney_xd.jpg?itok=wr1nExtx" group-title="INFANTIL",DISNEY XD (MX)
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="DISNEY XD (MX)" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062014/disney_xd.jpg?itok=wr1nExtx" group-title="INFANTILES",DISNEY XD (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27992
-#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="NATGEO KIDS (MX)" tvg-logo="https://i.imgur.com/doSZgxQ.png" group-title="VARIADO",NATGEO KIDS (MX)
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="NATGEO KIDS (MX)" tvg-logo="https://i.imgur.com/doSZgxQ.png" group-title="INFANTILES",NATGEO KIDS (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28067
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK (MX)" tvg-logo="https://i.imgur.com/mves2HL.jpg" group-title="VARIADO",CARTOON NETWORK (MX)
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK (MX)" tvg-logo="https://i.imgur.com/mves2HL.jpg" group-title="INFANTILES",CARTOON NETWORK (MX)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27979
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="INFANTILES",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -4138,18 +4138,6 @@ http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/sunacrip/sunacrip/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="VENEZUELA" tvg-logo="https://i.imgur.com/TdxaCVd.png" group-title="VENEZUELA", Torococo TV | VE
 https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
