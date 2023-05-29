@@ -30,6 +30,10 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9478.ts
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
 #EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV + DIRECTO" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV + DIRECTO
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="PERU",ATV SUR DIRECTO
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/ojgf3yd.jpg" group-title="PERU",TELE LIMA DIRECTO
+https://mserver.latincable.net/TeleLimapr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana DIRECTO
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD1
@@ -90,6 +94,8 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42433.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/42434.ts
 
 
+#EXTINF:-1 tvg-id="SEO TV HD DIRECTO" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="PERU",SEO TV HD DIRECTO
+https://live.seo.tv.bo/live/1SEO.m3u8
 
 #EXTINF:-1 tvg-id="OK TEVE DIRECTO" tvg-logo="https://i.imgur.com/07rA14I.png" group-title="PERU",OK TEVE DIRECTO
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
@@ -542,6 +548,11 @@ https://i.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-chno="159" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , MTV Con Mi Ex
 https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="SEO TV NOVELAS" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TELENOVELAS",SEO TV NOVELAS
+https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 tvg-id="CO: CANAL DE LAS ESTRELLAS HD" tvg-name="CANAL DE LAS ESTRELLAS (MX) " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0iLsdn7TbhveKShpZNMVFwbPjfVnKiOKtKwoMmmqk0dxapbTN" group-title="TELENOVELAS",CANAL DE LAS ESTRELLAS (MX) 
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27976
 #EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="TELENOVELAS" , Pluto TV Novelas
@@ -922,16 +933,11 @@ https://archive.org/download/dragon.-ball.-super.-capitulo.-130.-dual.-latino.-j
 https://archive.org/download/dragon.-ball.-super.-capitulo.-131.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.131.Dual.Latino.Jap.Subtitulado.mkv
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qP2jvYB.jpg" group-title="SERIES TV",HALO 1.1
-https://drive.google.com/u/0/uc?id=1zvJTGsZos4ZEW6tU81hrm0WAwAUeLNMK&export=download&confirm=t&uuid=3996d5aa-8654-4850-a440-571a4f39c4cd&at=AKKF8vxUn9fkR0pbJEZ74sB6wMCK:1684942012794
-
-
-
-
-
 #EXTINF:-1 tvg-id="TECSATEL CINE DIRECTO" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="CINE PERU",TECSATEL CINE DIRECTO
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/tWNg30D.png" group-title="PERU",Cine Canal
+#EXTINF:-1 tvg-id="SEO TV PELICULAS" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="CINE PERU",SEO TV PELICULAS
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="https://i.imgur.com/tWNg30D.png" group-title="CINE PERU",Cine Canal
 https://6362ca6f1fc28.streamlock.net:443/cinecanal/cinecanal/playlist.m3u8
 #EXTINF:-1 tvg-id="TU CINE TV DIRECTO" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/logo_20211206_224154_68.png" group-title="CINE PERU", TU CINE TV DIRECTO
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/f321d57d-d330-4fc7-8f35-f23d9fb78d00/4.m3u8
@@ -1135,6 +1141,8 @@ https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 
 #EXTINF:-1 tvg-id="ENERGET RETRO DIRECTO" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="INFANTILES",ENERGET RETRO DIRECTO
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1 tvg-id="SEO TV KIDS" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="INFANTILES",SEO TV KIDS
+https://live.seo.tv.bo/live/2SEO.m3u8
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="DISCOVERY KIDS DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s16680_h3_aa.png" group-title="INFANTILES",DISCOVERY KIDS DIRECTO 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS (MX)" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/23/kids_0.jpg?itok=AcUmXkxQ" group-title="INFANTILES",DISCOVERY KIDS (MX)
