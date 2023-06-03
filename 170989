@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", DRAGON BALL 24/7
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cs4FW9FmIrvgkHDHUl2QOD23YjYIq24Tk52BpQX9a4urBAjoAl04tlRlcR0Ze_kh6Npb814fvdsb9fPwsJbIRckCQRfYlZdwieO_9yHGxg5JHqw5XVxzyTAUaBPLg3Y8DsUkzcsN_DU4cXi_c1dd2gKfphPY2tG9yluDaIbQ4YdZeahcd7T5qQSeXneYONjeMvayiAwz3nNI3PAuFOccmZkgM_COgy21lUz1xQlTPfseTpDtPm3Jg2Zw2OfyueI01iWttWde-vIh2bjm7SW0N-QADCsKrE-7mKRtTbgOSqVCNJS1Q-I353omq89zEiEtvEbT3XkFnENx_BS-pszK-wg8dUrmZbnvswPfB5OF33ll9qhfX2ienazj3FcCy4U8dKZ106_5u7su10fgS5TtQrh9s44y9Tzxtv4ZWKG98roFON6DCZT0vW81kynfCY7cG0mKiw66PcGN88sv61DqYLD5RiQ2DWni7hhlgSlHtu-u1zjWz52MMDXGev1NbxuWo6OjLLPGxV6VGboQ96CCswTBQzQXIEi3Cnh9wUaivpuPCdDMf89l73sIIUZCVzERCicp9-f1F8XFcMTr-_YPhRWzbVclHYe2hUVsPr_17NyOAjLfN-V5-w7fu7aNMupW2fFulpvlWcW5JdcAcA-7nxhG-91JfY_0l3StUbd1MXLuqv6PdRlHYgwaFHTrDBt3SI2TaE6qdAsUlgK3r-v2PqG37_BAnuYYV68K-I9NKKYh3rHRIJkmpSFg0Y4bKA3eZM348xL_xIJLqe6IqaorXNckVaVqENqDA1pZQr_WhXuDwoJ63B8efdPUIiTIBBrS7-vwKOUcHUsDG9sxdG-Az1DnUAB_xubv72NzvqD1SNUm5B9Ff76l4zesX0ze-wC7kOUrB-Q_WITJClqoIoSgH-7CKMctRJzMgB3Ju5Ms508xJCFhpDLHZ6TPvkH6IfFuchoM35sLN9tR5__yAhHMIAEqCXVzLWVhc3QtMTCQBQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU",DRAGON BALL 24/7
@@ -628,316 +626,370 @@ https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="El Secreto De La Esfera Del Dragón" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",1 El Secreto De La Esfera Del Dragón
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto De La Esfera Del Dragón" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",1 El Secreto De La Esfera Del Dragón
 https://archive.org/download/1-el-secreto-de-la-esfera-del-dragon/1%20El%20secreto%20de%20la%20esfera%20del%20drag%C3%B3n.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La busqueda del emperador" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",2 La busqueda del emperador
+#EXTINF:-1 tvg-id="" tvg-name="La busqueda del emperador" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",2 La busqueda del emperador
 https://archive.org/download/2-la-busqueda-del-emperador/2%20La%20busqueda%20del%20emperador.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La nube kinto de Kame Sennin" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",3 La nube kinto de Kame Sennin
+#EXTINF:-1 tvg-id="" tvg-name="La nube kinto de Kame Sennin" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",3 La nube kinto de Kame Sennin
 https://archive.org/download/3-la-nube-kinto-de-kame-sennin/3%20La%20nube%20kinto%20de%20Kame%20Sen%C2%B4nin.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oolonh, el demonio secuestrado" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",4 Oolonh, el demonio secuestrado
+#EXTINF:-1 tvg-id="" tvg-name="Oolonh, el demonio secuestrado" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",4 Oolonh, el demonio secuestrado
 https://archive.org/download/4-oolonh-el-demonio-secuestrado/4%20Oolonh%2C%20el%20demonio%20secuestrado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El malvado y poderoso Yamcha del desierto" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",5 El malvado y poderoso Yamcha del desierto
+#EXTINF:-1 tvg-id="" tvg-name="El malvado y poderoso Yamcha del desierto" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",5 El malvado y poderoso Yamcha del desierto
 https://archive.org/download/5-el-malvado-y-poderoso-yamcha-del-desierto/5%20El%20malvado%20y%20poderoso%20Yamcha%20del%20desierto.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viliga la esfera del dragon" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",6 Viliga la esfera del dragon
+#EXTINF:-1 tvg-id="" tvg-name="Viliga la esfera del dragon" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",6 Viliga la esfera del dragon
 https://archive.org/download/6-viliga-la-esfera-del-dragon/6%20Viliga%20la%20esfera%20del%20dragon.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Ox-Satan la montaña de fuego" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",7 Ox-Satan la montaña de fuego
+#EXTINF:-1 tvg-id="" tvg-name="7 Ox-Satan la montaña de fuego" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",7 Ox-Satan la montaña de fuego
 https://archive.org/download/7-ox-satan-la-montana-de-fuego/7%20Ox-Satan%20la%20monta%C3%B1a%20de%20fuego.mp4
-#EXTINF:-1 tvg-id="" tvg-name="8 El kame Ha de Jamme Sinnin" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",8 El kame Ha de Jamme Sinnin
+#EXTINF:-1 tvg-id="" tvg-name="8 El kame Ha de Jamme Sinnin" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",8 El kame Ha de Jamme Sinnin
 https://archive.org/download/8-el-kame-ha-de-jamme-sinnin/8%20El%20kame%20Ha%20de%20Jamme%20Sin%C2%B4nin.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 La Habilidad especial del jefe conejo" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="DRAGON BALL SERIE",9 La Habilidad especial del jefe conejo
+#EXTINF:-1 tvg-id="" tvg-name="9 La Habilidad especial del jefe conejo" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",9 La Habilidad especial del jefe conejo
 https://archive.org/download/9-la-habilidad-especial-del-jefe-conejo/9%20La%20Habilidad%20especial%20del%20jefe%20conejo.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 001" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 001
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 001" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 001
 https://archive.org/download/dragon-ball-z-capitulo-001-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20001%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 002" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 002
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 002" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 002
 https://archive.org/download/dragon-ball-z-capitulo-002-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20002%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 003" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 003
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 003" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 003
 https://archive.org/download/dragon-ball-z-capitulo-003-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20003%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 004" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 004
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 004" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 004
 https://archive.org/download/dragon-ball-z-capitulo-004-saga-de-los-saiyajins_202101/Dragon%20Ball%20Z%20Capitulo%20004%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 005" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 005
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 005" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 005
 https://archive.org/download/dragon-ball-z-capitulo-005-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20005%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 006" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 006
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 006" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 006
 https://archive.org/download/dragon-ball-z-capitulo-006-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20006%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 007" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 007
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 007" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 007
 https://archive.org/download/dragon-ball-z-capitulo-007-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20007%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 008" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 008
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 008" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 008
 https://archive.org/download/dragon-ball-z-capitulo-008-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20008%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 009" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 009
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 009" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 009
 https://archive.org/download/dragon-ball-z-capitulo-009-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20009%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 010" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 010
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 010" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 010
 https://archive.org/download/dragon-ball-z-capitulo-010-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20010%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 011" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 011
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 011" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 011
 https://archive.org/download/dragon-ball-z-capitulo-011-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20011%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 012" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 012
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 012" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 012
 https://archive.org/download/dragon-ball-z-capitulo-012-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20012%20Saga%20de%20los%20Saiyajins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 013" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE. Capitulo 013
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE. Capitulo 013" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE. Capitulo 013
 https://archive.org/download/dragon-ball-z-capitulo-013-saga-de-los-saiyajins/Dragon%20Ball%20Z%20Capitulo%20013%20Saga%20de%20los%20Saiyajins.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 01" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 01
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 01" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 01
 https://archive.org/download/dragon.-ball.-super.-capitulo.-001.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.001.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 02" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 02
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 02" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 02
 https://archive.org/download/dragon.-ball.-super.-capitulo.-002.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.002.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 03" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 03
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 03" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 03
 https://archive.org/download/dragon.-ball.-super.-capitulo.-003.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.003.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 04" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 04
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 04" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 04
 https://archive.org/download/dragon.-ball.-super.-capitulo.-004.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.004.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 05" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 05
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 05" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 05
 https://archive.org/download/dragon.-ball.-super.-capitulo.-005.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.005.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 06" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 06
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 06" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 06
 https://archive.org/download/dragon.-ball.-super.-capitulo.-006.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.006.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 07" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 07
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 07" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 07
 https://archive.org/download/dragon.-ball.-super.-capitulo.-007.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.007.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 08" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 08
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 08" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 08
 https://archive.org/download/dragon.-ball.-super.-capitulo.-008.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.008.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 09" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 09
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 09" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 09
 https://archive.org/download/dragon.-ball.-super.-capitulo.-009.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.009.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 010" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 010
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 010" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 010
 https://archive.org/download/dragon.-ball.-super.-capitulo.-010.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.010.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 011" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 011
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 011" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 011
 https://archive.org/download/dragon.-ball.-super.-capitulo.-011.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.011.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 012" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 012
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 012" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 012
 https://archive.org/download/dragon.-ball.-super.-capitulo.-012.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.012.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 013" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 013
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 013" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 013
 https://archive.org/download/dragon.-ball.-super.-capitulo.-013.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.013.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 014" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 014
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 014" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 014
 https://archive.org/download/dragon.-ball.-super.-capitulo.-014.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.014.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 015" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 015
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 015" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 015
 https://archive.org/download/dragon.-ball.-super.-capitulo.-115.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.115.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 016" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 016
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 016" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 016
 https://archive.org/download/dragon.-ball.-super.-capitulo.-016.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.016.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 017" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 017
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 017" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 017
 https://archive.org/download/dragon.-ball.-super.-capitulo.-017.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.017.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 018" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 018
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 018" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 018
 https://archive.org/download/dragon.-ball.-super.-capitulo.-018.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.018.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 019" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 019
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 019" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 019
 https://archive.org/download/dragon.-ball.-super.-capitulo.-019.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.019.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 020" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 020
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 020" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 020
 https://archive.org/download/dragon.-ball.-super.-capitulo.-020.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.020.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 021" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 021
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 021" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 021
 https://archive.org/download/dragon.-ball.-super.-capitulo.-021.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.021.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 022" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 022
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 022" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 022
 https://archive.org/download/dragon.-ball.-super.-capitulo.-022.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.022.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 023" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 023
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 023" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 023
 https://archive.org/download/dragon.-ball.-super.-capitulo.-023.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.023.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 024" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 024
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 024" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 024
 https://archive.org/download/dragon.-ball.-super.-capitulo.-024.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.024.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 025" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 025
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 025" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 025
 https://archive.org/download/dragon.-ball.-super.-capitulo.-025.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.025.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 026" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 026
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 026" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 026
 https://archive.org/download/dragon.-ball.-super.-capitulo.-026.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.026.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 027" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 027
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 027" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 027
 https://archive.org/download/dragon.-ball.-super.-capitulo.-027.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.027.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 028" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 028
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 028" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 028
 https://archive.org/download/dragon.-ball.-super.-capitulo.-028.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.028.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 029" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 029
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 029" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 029
 https://archive.org/download/dragon.-ball.-super.-capitulo.-029.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.029.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 030" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 030
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 030" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 030
 https://archive.org/download/dragon.-ball.-super.-capitulo.-030.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.030.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 031" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 031
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 031" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 031
 https://archive.org/download/dragon.-ball.-super.-capitulo.-031.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.031.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 032" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 032
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 032" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 032
 https://archive.org/download/dragon.-ball.-super.-capitulo.-032.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.032.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 033" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 033
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 033" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 033
 https://archive.org/download/dragon.-ball.-super.-capitulo.-033.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.033.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 034" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 034
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 034" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 034
 https://archive.org/download/dragon.-ball.-super.-capitulo.-034.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.034.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 035" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 035
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 035" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 035
 https://archive.org/download/dragon.-ball.-super.-capitulo.-035.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.035.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 036" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 036
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 036" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 036
 https://archive.org/download/dragon.-ball.-super.-capitulo.-036.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.036.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 037" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 037
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 037" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 037
 https://archive.org/download/dragon.-ball.-super.-capitulo.-037.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.037.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 038" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 038
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 038" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 038
 https://archive.org/download/dragon.-ball.-super.-capitulo.-038.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.038.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 039" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 039
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 039" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 039
 https://archive.org/download/dragon.-ball.-super.-capitulo.-039.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.039.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 040" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 040
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 040" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 040
 https://archive.org/download/dragon.-ball.-super.-capitulo.-040.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.040.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 041" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 041
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 041" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 041
 https://archive.org/download/dragon.-ball.-super.-capitulo.-041.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.041.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 042" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 042
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 042" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 042
 https://archive.org/download/dragon.-ball.-super.-capitulo.-042.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.042.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 043" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 043
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 043" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 043
 https://archive.org/download/dragon.-ball.-super.-capitulo.-043.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.043.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 044" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 044
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 044" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 044
 https://archive.org/download/dragon.-ball.-super.-capitulo.-044.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.044.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 045" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 045
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 045" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 045
 https://archive.org/download/dragon.-ball.-super.-capitulo.-045.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.045.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 046" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 046
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 046" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 046
 https://archive.org/download/dragon.-ball.-super.-capitulo.-046.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.046.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 047" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 047
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 047" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 047
 https://archive.org/download/dragon.-ball.-super.-capitulo.-047.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.047.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 048" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 048
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 048" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 048
 https://archive.org/download/dragon.-ball.-super.-capitulo.-048.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.048.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 049" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 049
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 049" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 049
 https://archive.org/download/dragon.-ball.-super.-capitulo.-049.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.049.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 050" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 050
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 050" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 050
 https://archive.org/download/dragon.-ball.-super.-capitulo.-050.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.050.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 051" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 051
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 051" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 051
 https://archive.org/download/dragon.-ball.-super.-capitulo.-051.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.051.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 052" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 052
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 052" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 052
 https://archive.org/download/dragon.-ball.-super.-capitulo.-052.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.052.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 053" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 053
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 053" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 053
 https://archive.org/download/dragon.-ball.-super.-capitulo.-053.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.053.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 054" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 054
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 054" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 054
 https://archive.org/download/dragon.-ball.-super.-capitulo.-054.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.054.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 055" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 055
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 055" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 055
 https://archive.org/download/dragon.-ball.-super.-capitulo.-55.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.55.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 056" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 056
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 056" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 056
 https://archive.org/download/dragon.-ball.-super.-capitulo.-056.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.056.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 057" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 057
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 057" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 057
 https://archive.org/download/dragon.-ball.-super.-capitulo.-057.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.057.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 058" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 058
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 058" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 058
 https://archive.org/download/dragon.-ball.-super.-capitulo.-058.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.058.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 059" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 059
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 059" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 059
 https://archive.org/download/dragon.-ball.-super.-capitulo.-059.-dual.-latino.-jap.-subtitulado_202102/Dragon.Ball.Super.Capitulo.059.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 060" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 060
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 060" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 060
 https://archive.org/download/dragon.-ball.-super.-capitulo.-060.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.060.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 061" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 061
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 061" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 061
 https://archive.org/download/dragon.-ball.-super.-capitulo.-061.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.061.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 062" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 062
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 062" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 062
 https://archive.org/download/dragon.-ball.-super.-capitulo.-062.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.062.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 06." tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 063
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 06." tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 063
 https://archive.org/download/dragon.-ball.-super.-capitulo.-063.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.063.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 064" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 064
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 064" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 064
 https://archive.org/download/dragon.-ball.-super.-capitulo.-064.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.064.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 065" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 065
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 065" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 065
 https://archive.org/download/dragon.-ball.-super.-capitulo.-065.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.065.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 066" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 066
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 066" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 066
 https://archive.org/download/dragon.-ball.-super.-capitulo.-66.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.66.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 067" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 067
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 067" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 067
 https://archive.org/download/dragon.-ball.-super.-capitulo.-67.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.67.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 068" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 068
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 068" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 068
 https://archive.org/download/dragon.-ball.-super.-capitulo.-68.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.68.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 069" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 069
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 069" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 069
 https://archive.org/download/dragon.-ball.-super.-capitulo.-69.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.69.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 070" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 070
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 070" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 070
 https://archive.org/download/dragon.-ball.-super.-capitulo.-70.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.70.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 071" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 071
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 071" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 071
 https://archive.org/download/dragon.-ball.-super.-capitulo.-71.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.71.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 072" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 072
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 072" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 072
 https://archive.org/download/dragon.-ball.-super.-capitulo.-72.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.72.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 073" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 073
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 073" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 073
 https://archive.org/download/dragon.-ball.-super.-capitulo.-73.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.73.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 074" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 074
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 074" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 074
 https://archive.org/download/dragon.-ball.-super.-capitulo.-74.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.74.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 075" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 075
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 075" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 075
 https://archive.org/download/dragon.-ball.-super.-capitulo.-75.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.75.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 076" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 076
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 076" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 076
 https://archive.org/download/dragon.-ball.-super.-capitulo.-76.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.76.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 077" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 077
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 077" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 077
 https://archive.org/download/dragon.-ball.-super.-capitulo.-77.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.77.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 078" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 078
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 078" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 078
 https://archive.org/download/dragon.-ball.-super.-capitulo.-78.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.78.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 079" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 079
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 079" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 079
 https://archive.org/download/dragon.-ball.-super.-capitulo.-79.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.79.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 080" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 080
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 080" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 080
 https://archive.org/download/dragon.-ball.-super.-capitulo.-80.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.80.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 081" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 081
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 081" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 081
 https://archive.org/download/dragon.-ball.-super.-capitulo.-81.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.81.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 082" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 082
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 082" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 082
 https://archive.org/download/dragon.-ball.-super.-capitulo.-82.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.82.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 083" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 083
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 083" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 083
 https://archive.org/download/dragon.-ball.-super.-capitulo.-83.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.83.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 084" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 084
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 084" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 084
 https://archive.org/download/dragon.-ball.-super.-capitulo.-84.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.84.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 085" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 085
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 085" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 085
 https://archive.org/download/dragon.-ball.-super.-capitulo.-85.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.85.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 086" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 086
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 086" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 086
 https://archive.org/download/dragon.-ball.-super.-capitulo.-86.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.86.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 087" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 087
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 087" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 087
 https://archive.org/download/dragon.-ball.-super.-capitulo.-87.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.87.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 088" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 088
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 088" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 088
 https://archive.org/download/dragon.-ball.-super.-capitulo.-88.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.88.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 089" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 089
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 089" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 089
 https://archive.org/download/dragon.-ball.-super.-capitulo.-89.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.89.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 090" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 090
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 090" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 090
 https://archive.org/download/dragon.-ball.-super.-capitulo.-90.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.90.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 091" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 091
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 091" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 091
 https://archive.org/download/dragon.-ball.-super.-capitulo.-91.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.91.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 092" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 092
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 092" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 092
 https://archive.org/download/dragon.-ball.-super.-capitulo.-92.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.92.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 093" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 093
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 093" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 093
 https://archive.org/download/dragon.-ball.-super.-capitulo.-93.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.93.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 094" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 094
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 094" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 094
 https://archive.org/download/dragon.-ball.-super.-capitulo.-94.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.94.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 095" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 095
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 095" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 095
 https://archive.org/download/dragon.-ball.-super.-capitulo.-95.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.95.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 096" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 096
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 096" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 096
 https://archive.org/download/dragon.-ball.-super.-capitulo.-96.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.96.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 097" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 097
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 097" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 097
 https://archive.org/download/dragon.-ball.-super.-capitulo.-97.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.97.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 098" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 098
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 098" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 098
 https://archive.org/download/dragon.-ball.-super.-capitulo.-98.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.98.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 099" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 099
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 099" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 099
 https://archive.org/download/dragon.-ball.-super.-capitulo.-99.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.99.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0100" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0100
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0100" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0100
 https://archive.org/download/dragon.-ball.-super.-capitulo.-100.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.100.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0101" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0101
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0101" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0101
 https://archive.org/download/dragon.-ball.-super.-capitulo.-101.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.101.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0102" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0102
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0102" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0102
 https://archive.org/download/dragon.-ball.-super.-capitulo.-102.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.102.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0103" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0103
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0103" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0103
 https://archive.org/download/dragon.-ball.-super.-capitulo.-103.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.103.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0104" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0104
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0104" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0104
 https://archive.org/download/dragon.-ball.-super.-capitulo.-104.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.104.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0105" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0105
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0105" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0105
 https://archive.org/download/dragon.-ball.-super.-capitulo.-105.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.105.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0106" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0106
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0106" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0106
 https://archive.org/download/dragon.-ball.-super.-capitulo.-106.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.106.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0107" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0107
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0107" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0107
 https://archive.org/download/dragon.-ball.-super.-capitulo.-107.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.107.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0108" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0108
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0108" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0108
 https://archive.org/download/dragon.-ball.-super.-capitulo.-108.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.108.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0109" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0109
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0109" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0109
 https://archive.org/download/dragon.-ball.-super.-capitulo.-109.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.109.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0110" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0110
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0110" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0110
 https://archive.org/download/dragon.-ball.-super.-capitulo.-110.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.110.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0111" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0111
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0111" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0111
 https://archive.org/download/dragon.-ball.-super.-capitulo.-111.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.111.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0112" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0112
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0112" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0112
 https://archive.org/download/dragon.-ball.-super.-capitulo.-112.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.112.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0113" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0113
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0113" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0113
 https://archive.org/download/dragon.-ball.-super.-capitulo.-113.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.113.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0114" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0114
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0114" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0114
 https://archive.org/download/dragon.-ball.-super.-capitulo.-114.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.114.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0115" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0115
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0115" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0115
 https://archive.org/download/dragon.-ball.-super.-capitulo.-115.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.115.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0116" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0116
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0116" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0116
 https://archive.org/download/dragon.-ball.-super.-capitulo.-116.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.116.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0117" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0117
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0117" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0117
 https://archive.org/download/dragon.-ball.-super.-capitulo.-117.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.117.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0118" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0118
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0118" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0118
 https://archive.org/download/dragon.-ball.-super.-capitulo.-118.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.118.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0119" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0119
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0119" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0119
 https://archive.org/download/dragon.-ball.-super.-capitulo.-119.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.119.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0120" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0120
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0120" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0120
 https://archive.org/download/dragon.-ball.-super.-capitulo.-120.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.120.Dual.Latino.Jap.Subtitulado.mkv
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0121" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0121
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0121" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0121
 https://archive.org/download/dragon.-ball.-super.-capitulo.-121.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.121.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0122" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0122
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0122" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0122
 https://archive.org/download/dragon.-ball.-super.-capitulo.-122.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.122.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0123" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0123
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0123" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0123
 https://archive.org/download/dragon.-ball.-super.-capitulo.-123.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.123.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0107" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0124
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0107" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0124
 https://archive.org/download/dragon.-ball.-super.-capitulo.-124.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.124.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0125" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0125
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0125" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0125
 https://archive.org/download/dragon.-ball.-super.-capitulo.-125.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.125.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0126" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0126
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0126" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0126
 https://archive.org/download/dragon.-ball.-super.-capitulo.-126.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.126.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0127" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0127
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0127" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0127
 https://archive.org/download/dragon.-ball.-super.-capitulo.-127.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.127.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0128" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0128
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0128" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0128
 https://archive.org/download/dragon.-ball.-super.-capitulo.-128.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.128.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0129" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0129
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0129" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0129
 https://archive.org/download/dragon.-ball.-super.-capitulo.-129.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.129.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0130" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0130
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0130" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0130
 https://archive.org/download/dragon.-ball.-super.-capitulo.-130.-dual.-latino.-jap.-subtitulado_202103/Dragon.Ball.Super.Capitulo.130.Dual.Latino.Jap.Subtitulado.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0131" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="DRAGON BALL SERIE",DRAGON BALL SERIE Super. Capitulo 0131
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SERIE Super. Capitulo 0131" tvg-logo="https://i.imgur.com/rRLrmXP.jpg" group-title="ANIMES SERIES",DRAGON BALL SERIE Super. Capitulo 0131
 https://archive.org/download/dragon.-ball.-super.-capitulo.-131.-dual.-latino.-jap.-subtitulado/Dragon.Ball.Super.Capitulo.131.Dual.Latino.Jap.Subtitulado.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 01
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 02
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 03
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 04
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 05
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 06
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 07
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 08
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 09
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 010
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 011
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 012
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 013
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 014
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 015
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 016
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 017
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 018
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 019
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 020
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 021
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 022
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 023
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 024
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 025
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAFLOWNE" tvg-logo="https://i.imgur.com/xcNpOd6.png" group-title="ANIMES SERIES",ESCAFLOWNE 026
+https://archive.org/download/la-vision-de-escaflowne/La%20Vision%20de%20Escaflowne%20-%20026.mp4
+
 
 
 #EXTINF:-1 tvg-id="TECSATEL CINE DIRECTO" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="CINE PERU",TECSATEL CINE DIRECTO
