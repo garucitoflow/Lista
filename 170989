@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", VARIADO V1
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", VARIADO 
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqUG4mpUIBbnYpo0-p5wKJ2Aw9YnF_ERsMgeMbAzT05XDpyt1NngiplD7ydRyI4wtLaravnpbHKiUPKUODGRLQr0z6JDzLnQPgnOGOakyUjuPcZQQCrD1mqiXQ9RHjg7SwmfiAor5blok6PuLJJ3BsvxMCcmfnAsoTi5PUp_NdTx0O8CK40vUbzFVraearc2kYmILx35TVkf75IpYwfMr09-wCUFjRR856PGW3AMXrSId426O7cHouW71_jGw1oM2B_71x9O6yOPaN_zs8Txr_CbUxTpUTlvplIQF6-6gm-vFiGxsWmQUoJMGz3NXwxXCLbrMwYL_QwEEBBe9fvybBEOyU7L8wonSROx2tx8QOfcbR1aq6QDLSLPeGtLC5_Yknd4CXmROC_nURC-xfXO9HFL9fw-j6Yo7EYRVC_LYeTCkyYhDrR3Fwl3y42SLm31TxaZmoU9klaBRLpBhiXP0yFM3IToLWvURlxp2aER3ammaTMtkXQf4AoH0YRKIIl3RORYohEwZDVrozkgj6j3AFBV2aWLcOk-mFfX0xxzaMsaIuDGlhnPEvnR2RJHT1vZcD3YfI5uNR1KGnI6chkmjeJFio6xdafwRAGA2-6ZJlB6yTrHcz3Eh-_m5J0FrxF9787uKTvNOgQJMPUhhqKWypLDmiH1O0IszQdzFwfGvfMfY_bm9UxhE8Lni9OScYG5LJhyJJ-xUS66aNPG9d6Oh9xN9rmu21OTLqqmuGiPVU5ya1Dbehf6IXHcSYZW91lG3ansY4bFOr6uAQbq7tvowL16_aLCtFm5yh_RKRIcXce-Tv7j_q_kWNwP12cccs3ndljo6aYEDFwj-2Z6FIvXCBxsO7ZGRNNqpq6wn3ANE7mDKScqt1H48ZcBPvAh5pr3f5COqLfGkU-ty-R-wOk3bKvWXh5v-tx2AQ3E9cRzUhwIK5nKBdFKsRsD_ucqrJQMNgb6SZY_TtVDszAjOKcigW-63z6PCOdqG18mj_7a0J07u3fkyNWyh6V6Hz2CWISlW6SJbmxqCyjRLvMo01lEbTQafZN9wTstrAVHlxYTm9wiH1U4O1H0yxoMlBFXksQ4Y0vW3YJ4IAEqCXVzLWVhc3QtMTCXBQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -28,8 +28,6 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9490.ts
 https://cdnh74.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU DIRECTO" tvg-logo="https://i.imgur.com/hgy6XPk.png" group-title="PERU",TV PERU 2 DIRECTO
 http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",WILLAX TV DIRECTO
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmkf96QhRwHkKLURzlY3bixtVH51qgxcCkjuKr0Whm8pk)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD1
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/9495.ts
 #EXTINF:-1 tvg-id="" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD 1
@@ -532,6 +530,12 @@ https://linear-198.frequency.stream/198/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="VESINOS" tvg-logo="https://i.imgur.com/Kk8Hsq1.jpg" group-title="HUMOR",VIX VESINOS
 https://linear-314.frequency.stream/dist/vix/314/hls/master/playlist.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-id="TELEMUNDO DIRECTO" tvg-logo="https://i.imgur.com/XuMwiT8.jpg" group-title="TELENOVELAS",TELEMUNDO DIRECTO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://i.imgur.com/f4t8XaA.jpg" group-title="TELENOVELAS",VIX LA ROSA DE GUADALUPE
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TERESA" tvg-logo="https://i.imgur.com/CJT91Ga.jpgg" group-title="TELENOVELAS",VIX TERESA
