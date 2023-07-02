@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", VARIADO 2020
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", VARIADOS200
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cr4G1HLqKpMoCkNe0baBLpZcWxyxB9h7DOeKHP9AAXYh0VHi5KMorMKsQKZny6eNwoKOYS9p6GKcYVYCGcAHEXBJ04NS67Go4VfkvGXzekvv2UTeLZho4UxQUCLBJJ-R_VlS4XgwpKElRa-hNUkH-1EoFOFTew0i82f5_bb2ZuPlkoO2iRGxFWK3bJ4nKVzAqhm7U0lta-KANKE6fc7UDwtlAyEk8CL3bmqxfIomdSiuGqD7OsQ0pol4JwGswRf9g78_hAjdPHDRZcKJnUNCVereQ6UfASvIPDhl1aW5DO9JTzLTBvygAbnQfvatjCc3M2poIPLfO81zxLoJFDL_-FGJS1p-cdl5XaxnpwoSjcFXOjC7xWHkum2QMI0ylGijgq01eoxOIJXdJwEO1F8_kQzJmceq2ob-kpI8v7bSAm1Ies2-XJlVpFVfz5lE-DC-of-YWYXraZmDhrcFBXrjgMmr2EPibVwSJEBs3OjQa74eU3yGASebtR1xwzg6V_O8XwUtqOqh0nvVPOGv-mw2-W11KYc5EITVMFOtg4W0tUstqG6Y0f6L5jmhi9wxqLg2xyq3eUZVuib3opmsxXnXAtDtUs4_SbkzIwk3NRdR4HhfnjlqxgPbbp0250YWp-_O_yOm3FT0UbUTMYvBDz5lZIMx5vg0zf6LIcz3B8KfHyPTjjUR1JcGBFJIkymbomrGmwp53nj974HXbJdBXwYwZP86UNE64L3Hx2K7Y06rp5dR79qMNLPxJkTJYYh-scwjVfhQZiOSSgRxwKPhqCz-wUs_957foOorMB3hX6o18IhD85nZKj6wigBKC169Wb4t-IiN9ucfN3VkFL4ofYk8g4s5UhwC0KoYIcCvlxLaUadfPAep7nSxb2BfPomoluOiyYz8WivlW48JpBR73q0KCTndDGX-nr0fedeQp5DRbXZSBxl7dTGulQqc31noETtX5NFoH4pFoUP0owPrcMQclFkA_4IRF_Nl9qFit1zzXXwVaOYPSS-2SMulXMVFY_vVyf2Z7LkaNSSQqOA_JwUnFKAy1xLOQFqP0xQ6YPW5mOLBRFZeDunxL9wdv4SOG7G7Bh2qOfUN19jpDlPVJkcP4BQaDGwqBOqHaE4f1ds_aiABKgl1cy1lYXN0LTEwrgU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -180,10 +180,12 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.peru15.com/images/regional/tele-2000.png" group-title="PERU",Tele 2000 DIRECTO
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fzonNWJ.jpg" group-title="PERU",TVPublicaArgentina DIRECTO
-https://www.youtube.com/embed/58bGQD_rSnA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKiYsGt.jpg" group-title="PERU",CARACOL DIRECTO
+https://www.youtube.com/c/noticiascaracol/live
 #EXTINF:-1 tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="PERU",Crónica TV
-https://www.youtube.com/embed/avly0uwZzOE
+https://www.youtube.com/c/cronicatv/live
+
+
 
 #EXTINF:-1 tvg-id="EWTN TV" tvg-logo="https://i.imgur.com/42TJvwk.png" group-title="RELIGION",EWTN TV
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
