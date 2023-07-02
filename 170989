@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", VARIADO 2000
+#EXTINF:-1 tvg-id="" tvg-name="ADONAI TV HUARMEY" tvg-logo="https://i.imgur.com/7Rd2vOI.jpg" group-title="PERU", VARIADO
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cr4G1HLqKpMoCkNe0baBLpZcWxyxB9h7DOeKHP9AAXYh0VHi5KMorMKsQKZny6eNwoKOYS9p6GKcYVYCGcAHEXBJ04NS67Go4VfkvGXzekvv2UTeLZho4UxQUCLBJJ-R_VlS4XgwpKElRa-hNUkH-1EoFOFTew0i82f5_bb2ZuPlkoO2iRGxFWK3bJ4nKVzAqhm7U0lta-KANKE6fc7UDwtlAyEk8CL3bmqxfIomdSiuGqD7OsQ0pol4JwGswRf9g78_hAjdPHDRZcKJnUNCVereQ6UfASvIPDhl1aW5DO9JTzLTBvygAbnQfvatjCc3M2poIPLfO81zxLoJFDL_-FGJS1p-cdl5XaxnpwoSjcFXOjC7xWHkum2QMI0ylGijgq01eoxOIJXdJwEO1F8_kQzJmceq2ob-kpI8v7bSAm1Ies2-XJlVpFVfz5lE-DC-of-YWYXraZmDhrcFBXrjgMmr2EPibVwSJEBs3OjQa74eU3yGASebtR1xwzg6V_O8XwUtqOqh0nvVPOGv-mw2-W11KYc5EITVMFOtg4W0tUstqG6Y0f6L5jmhi9wxqLg2xyq3eUZVuib3opmsxXnXAtDtUs4_SbkzIwk3NRdR4HhfnjlqxgPbbp0250YWp-_O_yOm3FT0UbUTMYvBDz5lZIMx5vg0zf6LIcz3B8KfHyPTjjUR1JcGBFJIkymbomrGmwp53nj974HXbJdBXwYwZP86UNE64L3Hx2K7Y06rp5dR79qMNLPxJkTJYYh-scwjVfhQZiOSSgRxwKPhqCz-wUs_957foOorMB3hX6o18IhD85nZKj6wigBKC169Wb4t-IiN9ucfN3VkFL4ofYk8g4s5UhwC0KoYIcCvlxLaUadfPAep7nSxb2BfPomoluOiyYz8WivlW48JpBR73q0KCTndDGX-nr0fedeQp5DRbXZSBxl7dTGulQqc31noETtX5NFoH4pFoUP0owPrcMQclFkA_4IRF_Nl9qFit1zzXXwVaOYPSS-2SMulXMVFY_vVyf2Z7LkaNSSQqOA_JwUnFKAy1xLOQFqP0xQ6YPW5mOLBRFZeDunxL9wdv4SOG7G7Bh2qOfUN19jpDlPVJkcP4BQaDGwqBOqHaE4f1ds_aiABKgl1cy1lYXN0LTEwrgU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LATINA DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",LATINA DIRECTO
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -182,6 +182,8 @@ https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fzonNWJ.jpg" group-title="PERU",TVPublicaArgentina DIRECTO
 https://www.youtube.com/embed/58bGQD_rSnA
+#EXTINF:-1 tvg-name="Crónica TV" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="PERU",Crónica TV
+https://www.youtube.com/c/cronicatv/live
 
 #EXTINF:-1 tvg-id="EWTN TV" tvg-logo="https://i.imgur.com/42TJvwk.png" group-title="RELIGION",EWTN TV
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/1728/chunklist.m3u8
@@ -582,22 +584,12 @@ https://linear-314.frequency.stream/dist/vix/314/hls/master/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://i.imgur.com/f4t8XaA.jpg" group-title="TELENOVELAS",VIX LA ROSA DE GUADALUPE
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TERESA" tvg-logo="https://i.imgur.com/CJT91Ga.jpgg" group-title="TELENOVELAS",VIX TERESA
-https://linear-342.frequency.stream/dist/vix/342/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="COMO DICE EL DICHO" tvg-logo="https://i.imgur.com/pKiBXkd.jpg" group-title="TELENOVELAS",VIX COMO DICE EL DICHO
-https://linear-341.frequency.stream/dist/vix/341/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SOY TU DUEÑA" tvg-logo="https://i.imgur.com/GbmvfHC.jpg" group-title="TELENOVELAS",VIX SOY TU DUEÑA
 https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TRIUNFO DEL AMOR" tvg-logo="https://i.imgur.com/mQpIU9l.jpg" group-title="TELENOVELAS",VIX TRIUNFO DEL AMOR
 https://linear-338.frequency.stream/dist/vix/338/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="SORTILEGIO" tvg-logo="https://i.imgur.com/DCp6UYL.jpg" group-title="TELENOVELAS",VIX SORTILEGIO
-https://linear-337.frequency.stream/dist/vix/337/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="REBELDE" tvg-logo="https://i.imgur.com/5Gjih1W.jpg" group-title="TELENOVELAS",VIX REBELDE
-https://linear-335.frequency.stream/dist/vix/335/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MI GORDA BELLA" tvg-logo="https://i.imgur.com/fQ4fdck.jpg" group-title="TELENOVELAS",VIX MI GORDA BELLA
 https://linear-330.frequency.stream/dist/vix/330/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MARIA LA DEL BARRIO" tvg-logo="https://i.imgur.com/LlJIVFd.jpg" group-title="TELENOVELAS",VIX LAS 3 MARIAS NOVELAS
-https://linear-328.frequency.stream/dist/vix/328/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AVISMO DE PASION" tvg-logo="https://i.imgur.com/jlW4h2K.jpg" group-title="TELENOVELAS",VIX AVISMO DE PASION
 https://linear-321.frequency.stream/dist/vix/321/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="COMPLICES AL RESCATE" tvg-logo="https://i.imgur.com/BiroMrh.jpg" group-title="TELENOVELAS",VIX COMPLICES AL RESCATE
@@ -619,7 +611,8 @@ https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="ENTRETENIMIENTO",TELEVISA DIRECTO
+https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s98499_ll_h3_aa.png" group-title="TELENOVELAS",UNIVISION TELENOVELAS HD
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/4778.ts
 #EXTINF:-1 tvg-id="RCNTEL" tvg-name="RCN Novelas SD" tvg-logo="http://fanc.tmsimg.com/assets/s65127_ll_h3_aa.png" group-title="TELENOVELAS",RCN Novelas SD
@@ -677,11 +670,7 @@ http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/150496.ts
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/156961.ts
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD MX" tvg-logo="http://fanc.tmsimg.com/assets/s100841_ll_h3_aa.png" group-title="ENTRETENIMIENTO",TLC HD MX
 http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/161518.ts
-#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="ENTRETENIMIENTO",Televisa Ciudad Juarez
-https://ythls.onrender.com/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FELIZ CUMPE" tvg-logo="https://i.imgur.com/jpvMvGo.jpg" group-title="FELIZ CUMPLE",UN DIA MUY ESPECIAL
-https://www.youtube.com/embed/i1zJV3rKJTA
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://i.imgur.com/XM4Q7FG.jpg" group-title="ANIMES SERIES",DRAGON BALL 01
 https://archive.org/download/dragon-ball-1986-espanol-latino/%28By%20Alexis%20Kuroki%29%20Dragon%20Ball-001.mp4
@@ -3388,7 +3377,8 @@ https://i.mjh.nz/PlutoTV/61c49a1b5ec8d40008673251-alt.m3u8
 
 
 
-
+#EXTINF:-1 tvg-name="Pakapaka YOU" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" group-title="INFANTIL",Pakapaka YOU
+https://www.youtube.com/user/CanalPakapaka/live
 #EXTINF:-1 tvg-id="ENERGET RETRO DIRECTO" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="INFANTIL",ENERGET RETRO DIRECTO
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="PlanetaJuniorTVSpain.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="INFANTIL",Planeta Junior TV
