@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AMERICA TV (HD)
+#EXTINF:0 tvg-id="America.pe" group-title="Channels",AMERICA TV (HD)
 http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-hclZzcPKh-IV_FabKyMMAc/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LATINA TV (HD)
 http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-jEBsyyrcsWKvKqcb-vjrRQ/ts
@@ -99,17 +99,7 @@ http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-pAksh18kVYUxvmrwY7shRY/ts
 http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-jfsXVnnbUNbIwuMxqzzPR0/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU
 http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-pO0-k7lD2BjX3nH-QHhySs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CABALLEROS DEL ZODIACO
-http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-l74ZEZXRRKdWfS3Px01za0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL COMPLETO
-http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-g0gR_cgmvxk5svBUnDqexc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOS SIMPSON
-http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-lOWIeK8h6x6yiPkpyEY7ic/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL CHAVO DEL OCHO
-http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-tuVXTuaNxd31zTf_JqFfio/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOB ESPONJA
-http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-kOxIo-pEP7E7iyrXDaYP8o/ts
-#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AMERICA TV (SD)
+#EXTINF:0 tvg-id="America.pe" group-title="Channels",AMERICA TV (SD)
 http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-s6wFycNEQbUDOw3BDV7cic/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LATINA TV (SD)
 http://182.168.1.11:80/play/2t5CfQecCKESqSB3AJCo-sgU_ConE7c_G55nNDR9gAc/ts
