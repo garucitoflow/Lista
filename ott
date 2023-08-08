@@ -67,18 +67,6 @@ http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gsAVSQHml3sofZIveEde5c/ts
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-m0Kyq3YMPoqL4BjQxojF1I/ts
 #EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",DE PELICULA
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-usUJnzZ3aaFVpn1EHFKATs/ts
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY CHANNEL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hJZzGayYNdPMDzNwD8Wec8/ts
-#EXTINF:0 tvg-id="discov_sci" group-title="Channels",DISCOVERY SCIENCE
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lLsQV958d3p3jb8j-1kEgA/ts
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",DISCOVERY TURBO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-trw7ro2eUuLKwN0ZKrukJc/ts
-#EXTINF:0 tvg-id="history-rus" group-title="Channels",HISTORY CHANNEL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qKOWDPoTYScAteVWxhYvcg/ts
-#EXTINF:0 tvg-id="history2-rus" group-title="Channels",HISTORY 2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kzrRVP5XkK33TBuepXvAYk/ts
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",NATGEO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sQG-YzihWXz4D4wp15X6PE/ts
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kB-XLJNYem7XJCJijMum0E/ts
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
@@ -101,33 +89,40 @@ http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oGOvqG675Qby3KB4w907aY/ts
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gIZcN6twBhG6khILe-ZMak/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qp7_2A21J1htKNoE3qK3P8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE CANAL (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kIQh6SPCx9PbNSAfzYtjJ0/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PLANETA TV MOVIE (CL)
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rfaTZSeqlce_DDq7iYqN4s/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",A&E (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ieZhDkIJ5O4T_vNGl8c834/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kDD8zl20I7fWgitVVKi1NY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SONY (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-miJsUGDE0liejT8f8a4IEk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lUoJAJI4W-q_p3VHQCrzdk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN PLUS (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mGP4rSJoqckprRwSpxXMUI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY XD (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jJzT6koNhR4uZ-SATYMNIA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gtSSxDZR3t6VaYkU_SjSvA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL CHAVO PLUS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qQke4jN_XAZq1lYMkYJzcU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FUTURAMA
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tRJnrKA7tlgtilap3Iqo8U/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LOS PICAPIEDRAS PLUS
 http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rO_wiAsVtooYoKGlQjzJUk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOM Y JERRY PLUS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kCD0tx78yJ4StqB1vD-DGs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL GALLO CLAUDIO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rMhijpXjUzo2_mykEwae7g/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO KIDS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-t3XZk2ec77u49U5_D5gMBI/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CONECTA 2 TV
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-n5-PHD0Adca6F786w0f4mQ/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MILENIUM TV
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jstI9r6eUx2z78P6GXJpkk/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",HECHICERA TV
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sLEjFcHt1fmyhRcR_jPGi8/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",X TV
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mOfCbdn21j7NPRE323Oup8/ts
+#EXTINF:0 tvg-id="OKTO.at" group-title="Channels",OK TV
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jSDcg-JCNd7sh_d_AFN1QE/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP LATINO
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-j163q_3uF96LmfYjdvG-Kg/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTAL FOXMIX (CL)
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-g0EgPQKtVjF6HqOm3uP4iY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO TROPICAL
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-q6G1DF-2YZkivFQHs-K_Og/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Memorias TV
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-n5iSFpjwD40UnSOm2IcHok/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio El Pueblo
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gB9rsXUqOIaAa1RBPf_Ses/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Tropical Tarapoto
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ippmND3HFYidpP30nT3krs/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Región TV Callao
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hZ7AptIc8u_9Qxw1A5fTko/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Total Yurimaguas
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-v3fnzsy1dw83eqAbbW_Stw/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",YOLI TV HUARAZ
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rHoQwEKnDVhy2g3g_AWvms/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAGON BALL VARIADO
+http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-k4XuGeqp_tbUZ4THvJvI_c/ts
+
