@@ -1,385 +1,120 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",AMERICA TV (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vKtE9Xiv6hAuNXNDaVwkgA/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSjB19uB50krW-RemECe1woY/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LATINA (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gX3zwEtfFvSE8otX3mS8yQ/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_ho0-lMcA0wEfBYOP884pNkk/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",WILLAX (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jsdYtbAHXAewnPMegkQT9I/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oiZ5NXBhA8gkBuD5CqyYoQ10/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATV (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mbmFObQhZ74mogfQNc_vNs/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM1KPlWLnP5bOi4vzfgNKkqc/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PANAMERICANA (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gV49fypVrFz35szCuePwRk/ts
+http://38.242.220.31:80/play/SejRjEqPbBAoxO_lv7jpn_QBjM3qiCP7IxnPJhtDZC8/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PBO (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-iMdl9RYK-qQbf8hC0VJnBw/ts
+http://38.242.220.31:80/play/4BhIO0Lb91az0xrHbj5W75ytrDdQ19jXfeJx2m1_Dnw/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",EXITOSA (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-o9wDVraqfLu86a4xklSJQw/ts
+http://38.242.220.31:80/play/PPiV7gUOqcT5_8ypeQp3y8NM0tS8EEYQxNNwH8LvWRo/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVPERU (PE)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sDQ7cUJmJbJoddR1semvI0/ts
+http://38.242.220.31:80/play/Z1G1i0XJi3OPXh3Ig6poInBOHASlZopCFdjRJfwNq-M/ts
 #EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-v8UuzPwg2VZg4hNzOnVZ1k/ts
+http://38.242.220.31:80/play/6nV9pwk5_d4MNb1I-jP0jbOwbFqMCWWsQrW-TxZpjrg/ts
 #EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",PASIONES
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rHOuPiCxjRyJ9cSR6E9fA0/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSgcSeXST_x2X_bqYUh_Ve80/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-nD4Eepd8tP_RuORAuhYIVk/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSnroJjDoJfhjj8VT9DHjsa8/ts
 #EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TELENOVELAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-g3gTzizZYcUv6m1L8hq7q8/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSu3R3FsPJtxmRltcbF8fVHw/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",KANALD NOVELAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gQSERsjCN9Th4fJKDkAieI/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSo5wET-yiupgVDsHkG3rmBE/ts
 #EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rwA-z0X6q3j9h5puNDhOlU/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSgXZUoURa38dh8qrW0mwEOc/ts
 #EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",DISNEY JUNIOR
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sqlOhi4j7jOEZ6xEcSq11Q/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSn1JA5khy0Cqqakis1WRt94/ts
 #EXTINF:0 tvg-id="nickelod" group-title="Channels",NICK
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-j0YrZdR42nAKFtwVEfHJVc/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSmNNrFUdRtIz-F54OQsdvhE/ts
 #EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",DISCOVERY KIDS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gggUQrKpk4SQr6jXsKRGOw/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSiRYL6KDfGkRI73aZJsqEpg/ts
 #EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gQ_4SavJo-m4oI-0pevdk4/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSrcRvge1gIjlKjN3uPIrfzE/ts
 #EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITO COMEDIA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-nYoFUqgg6FneRAA8kBri4Y/ts
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSrNNMA5znRAFAN8MRoTtlhk/ts
 #EXTINF:0 tvg-id="Dreamworks.es" group-title="Channels",DREAMWORKS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-si-g4xDmLcG88v_jT9zCDU/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hvTvbhAQANlZm1vZB007WWs/ts
 #EXTINF:0 tvg-id="set" group-title="Channels",SONY
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vHFaZrMJjXJ7Wl4fn2PNNo/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hka6DkvBLtFShZQ0BeQuH7Y/ts
 #EXTINF:0 tvg-id="GREATmovies.uk" group-title="Channels",SONY MOVIES
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mQCWIlvv3MoueF0dHRkQTM/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_huCbt9ljz0GqMuCQOy2fHfE/ts
 #EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-j1hWlO9pOSpxU9KBUIB3fI/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hi_z-NZmIJ32POAi9r80ATY/ts
 #EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lgnBGRU_RCwwyC5UJkyuio/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hid5FH0R-XnwhAwAICZCQOM/ts
 #EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINE CANAL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vzKGNrFvzovE69phB5LKzM/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hq81T-q1r6J0DT9v1PUbIGI/ts
 #EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-idbB70lsstmiotWXqKTnuk/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hmqxCb9L-NYWrI1bJvYRk2s/ts
 #EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Channels",GOLDEN EDGE
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hpEw1mFPqQ-5vCDrt-hW34/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hoanE-F9S4jAwLX4fWP_RZA/ts
 #EXTINF:0 tvg-id="Golden.mx" group-title="Channels",GOLDEN
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-uJyZDP8_4NH2h82UT3YRPE/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hh15Qdn80VztiK1mlIvTe6g/ts
 #EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-o2tgf8XZL2keKdeYF4JbJY/ts
+http://38.242.220.31:80/play/7-u8s2NwsqDnEfdzTh0_hl_JXihrgVnE70JBO59YI5I/ts
 #EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIO UNIVERSAL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oJUdJtuiHWHfZorYpPmmxU/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oieNx3FVvYi84XkFUYhdbjYo/ts
 #EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",PARAMOUNT
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-i2ngfNNL382ob2F1RNF6Zw/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oibiAG8n2ZgbNireqp0O2SdM/ts
 #EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gsAVSQHml3sofZIveEde5c/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",KANALD PELICULA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-m0Kyq3YMPoqL4BjQxojF1I/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oifekhtY2ixypu-ItT8urJ3o/ts
 #EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-usUJnzZ3aaFVpn1EHFKATs/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oiR6b6okbaJcBCiiA5FDOJC0/ts
 #EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",DE PELICULA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hJZzGayYNdPMDzNwD8Wec8/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oia9qiVMyv4gmMUNFc8AN65M/ts
 #EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY CHANNEL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lLsQV958d3p3jb8j-1kEgA/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oifRVxZEtZDhhDhiS4bXQAo0/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CIENCE
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-trw7ro2eUuLKwN0ZKrukJc/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oidnma-cLgFWwFBV3Y-uQYAE/ts
 #EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",DISCOVERY TURBO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qKOWDPoTYScAteVWxhYvcg/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oiV9wO1aOC0sVBMfbZbesmYA/ts
 #EXTINF:0 tvg-id="history-rus" group-title="Channels",HISTORY CHANNEL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kzrRVP5XkK33TBuepXvAYk/ts
+http://38.242.220.31:80/play/EnaPG2oeR01g18ZZeP9oiU1_3xYEFnMA5dZlZYrRvXE/ts
 #EXTINF:0 tvg-id="history2-rus" group-title="Channels",HISTORY 2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sQG-YzihWXz4D4wp15X6PE/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM4WB-w8hLpeIFQ--kUU2mKc/ts
 #EXTINF:0 tvg-id="natgeo" group-title="Channels",NATGEO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mk-pjmHwf-BTg2LN7b4ToM/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZMxXPWS086J2r2QT7Xetc33k/ts
 #EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMAL PLANET
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kB-XLJNYem7XJCJijMum0E/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM1GCk7O72VeQqalH-wSGlQ0/ts
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-l2iIFgHougBvytvhpAdSbA/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM85A0IDBRO9A3IubmPpWtWo/ts
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-r-7YD4HJ_qfBjzzx41OL0E/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM1jXtVWGeye7EionJnLGwoo/ts
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN3
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-g66jBkBVdt3k88jHrnbBBA/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM2TIIQ2yQ2TiCN_D7R3HJvg/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN4
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-uI93In--mHUYnD59M-S_iI/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZMw-HiGpmZaXr5QIbi4IVA-0/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPNXTRA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-grukhIOu0R8WuU2srUEVOU/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM2EQEPdMoB_Fb40-0FXK6vU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-nG7dvKLH30YFZH2Zfz7Ab8/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZM2DZ3lcY4vC1cNOUYblY6qQ/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT3
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oG10gNaJBdA3EDCYuntE_g/ts
+http://38.242.220.31:80/play/FyXkJFy-2yc9SE2FU-6ZMzyZMmjyBxvdAKqQy78_Sww/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LIGA 1 MAX
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qp7_2A21J1htKNoE3qK3P8/ts
+http://38.242.220.31:80/play/SejRjEqPbBAoxO_lv7jpny1-fYBho9dWWDaAomZA3og/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kIQh6SPCx9PbNSAfzYtjJ0/ts
+http://38.242.220.31:80/play/SejRjEqPbBAoxO_lv7jpn5OMsbEubTGvqnq7PgzO-qY/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",YOLI TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rfaTZSeqlce_DDq7iYqN4s/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RESTAURANDO VIDAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ieZhDkIJ5O4T_vNGl8c834/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE SPACE 2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-iI2nBINpWcGMzt64DBCD80/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENLACE TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kDD8zl20I7fWgitVVKi1NY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",3ABN
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hVI4Qd9puLl2mhwqz4qhRM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NUEVO TIEMPO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-h7FgQ3w28AiQY5BUUbPDQI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIFE TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-miJsUGDE0liejT8f8a4IEk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EWTN EL CANAL CATOLICO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mBhnxd2kU08Zou85-U126Y/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRESENCIA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lUoJAJI4W-q_p3VHQCrzdk/ts
-#EXTINF:0 tvg-id="BHTV1.rs" group-title="Channels",BHTV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qQ9SkklgN6WQWyVAPG6NYE/ts
-#EXTINF:0 tvg-id="id-extra" group-title="Channels",DISCOVERY ID
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kubW8988PL5UvOMd9k63Hs/ts
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",DISCOVERY WORLD
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kFvzss3bovs_9xTtjYA9b8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLATZI TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mGP4rSJoqckprRwSpxXMUI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL HISTONAUTA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lMmnBtZ6NHeSqlTeeepmYE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RADIO SAN BORJA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gtSSxDZR3t6VaYkU_SjSvA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEST CABLE TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qQke4jN_XAZq1lYMkYJzcU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP LATINO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-t3XZk2ec77u49U5_D5gMBI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PORTAL FOX MIX
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qjKBJUGRgnBXvDJH4PknPo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENERGEEK FAN POP
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jZpF14QQtS7vuX5Ex2bfBo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RARIO RUTAS DEL PERU
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oYsy5VuV7CJ1h8o3vWFouk/ts
+http://38.242.220.31:80/play/SejRjEqPbBAoxO_lv7jpn_oWUjkOuwKW898wlY3v2Z4/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",NATIVA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-q-FBerqG_PpQfA9bJBlfdo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ATV + PLUS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-n5-PHD0Adca6F786w0f4mQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ATV SUR
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-uqq6DzNFKJ-GQXicvLscS4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE LIMA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jstI9r6eUx2z78P6GXJpkk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CABLE PERU
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sLEjFcHt1fmyhRcR_jPGi8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CABLE VISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-uLgXW2YoZaNx5gsX6g_Wck/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEO TV HD
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gvILJF7x9xCuM4U_sYcQcE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OK TEVE
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-le77ypHzRsAqXNRZK7PhS4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CR TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mOfCbdn21j7NPRE323Oup8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DOBLE C TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-t-OcWtcp-Ael9JyecDn730/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV COSMOS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-skkgd3xzdKiQc_4KqE9hZ0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CREO TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kDcGvMpsBW_uS2UDOcAFqI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GENIOS TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jSDcg-JCNd7sh_d_AFN1QE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEVISION TARAOTO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ndAW9j_o1M4oIt2EW4Gl6o/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANTARES TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hATST3pSl06XEL-_tkTtQc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AUTENTICA TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-voOqv0zOYsJpBguKH6Tl-E/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAJAMARCA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-q-AghxTslG4g66RWbzmbJw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONTROVERSIA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jhasigBsxpo-EQxfRn9cNM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MIEL TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oq9wHfbneEyLGnrqdHTKnI/ts
-#EXTINF:0 tvg-id="PlanetaTV.bg" group-title="Channels",PLANETA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tp0P1AHaQ9r3vnck8NR0t8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BELLA ASUNCION TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-j163q_3uF96LmfYjdvG-Kg/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELESUR ILO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lav0JyAtQuYCTNwetl84JE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELESUR MOLLENDO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-q6G1DF-2YZkivFQHs-K_Og/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELESUR MOQUEGUA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hgxcl38y_X_8hw_FZZVqpw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TROPICAL TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qE8Yyn0bZvAvu3FUNq5M9A/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIA ALTOMAYO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-omkO8Gfkzt4aOoUpChufhg/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VISION SUR
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hpJQxHyvbgbYfUf5EJfF-o/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV SISTEMAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vvfKXoeliEBMb4J_1A25Vc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOP FM
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jLA5fKwO7A1G-Wn-Rwqma4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONDA DIGITAL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jsuo_WS4UBs4MZru4n1Nzs/ts
-#EXTINF:0 tvg-id="WOWTV.us" group-title="Channels",WOW TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tZinAKpgGgBE8hI7iUFr3k/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE AMAZONAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-njmoj5kpqdIpCzzluRYVyk/ts
-#EXTINF:0 tvg-id="agro-tv" group-title="Channels",AGRO TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jqsc1BPavQHeCJHdaA0yxE/ts
-#EXTINF:0 tvg-id="Telecolor.it" group-title="Channels",TELECOLOR
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lFq65PyHVvtZKhPXTzWgss/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",X TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jLgtizJi7ndZ0FPleG0lIU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CGTN ESP
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-slJAvfzUjxtrWy_o3Fl8DI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONECTA 2 TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-o0NHJ3MHsDSVOW3tIk2G1g/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QT TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-pPjO9fPsu0ZXwkb1etNVIU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMAVERA 15
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gGVOdfXUQha6JmduFqGHs0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",URANIO TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lm5nJ46NRGGFgLxGO8qxV0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",INKA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sxAQpbnh43IAanwnG-am_Q/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HECHICERA TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kQx9jNFr6fYvPFXa-qsBJ8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NORT SELVA RTV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tZU1AhEIxhDfaBQdIufXjY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ATM TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lObF4YiZCJIFhhmMRPnBl0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CABLE PERU
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mwjxEiyuO46Vc-7IAw6-7o/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRIVU TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-m03qMcgwcC1lszghIDFr34/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VZ TELEVISION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vtEIUP5hr4zAEV7X8ibYDE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",REGION CALLAO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lxH0_5heJr_QyaVK8sADDw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMUNICACION REGIONAL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-nomnn2NbGFidddI0dSA1cE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IDENTIDAD TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vftuHEjaryxaNcJyUtce24/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",V SISTEMA CUZCO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vBRf63K3_DWMA8KHp8JAuw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE 2000
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ivmSU4q8MiEQEvropvelt8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATIVA VRAEM
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-iY-dxd9NvNg5Js3J_j3U0U/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OVACION TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-nXLLaq18buRLID9eB64wUM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EXPORTS MAX
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-olfS39z7005B4AjEbDHIiw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIX FAIL ARMY
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gXBTT1M6eYO6ytVQDCqaZ8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jRxvBaTmWK2ERZHUBOUVag/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIX LA ROSA DE GUADALUPE
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gU0u59xqve5IzdtigTmjIU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIX SOY TU DUEÑA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kF8YGVLpByEfHms1htZ9M8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIX MI GORDA BELLA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-uMBOfT66T9T5pcA-bbKfjM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DE LA NASA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-o-1ENzXl7M-tFbUQNIlBiM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DE LA NASA 2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lUIInrlzUK4ZCjq5a1yNHs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE CANAL (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-m7_iTGuARSdubHOy25hF10/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLANETA TV (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-m4MaGuJszja-gb7x8rQdwY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINCO TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lxh-ksLLZCQxYI26lu5oi4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA ACCION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hhMBkiN58s3JQXQo8RINME/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA COMEDIA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-pNo0iYXqlhiAqY4EvpX3wc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA DRAMA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-r1agJ3UDYOuZPwFUJvZVy8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA RETRO SERIES
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-l5zbnvjoi7L401Uk-MjtxU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA SERIES
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-q_o70MBZVCIlbay5CMG2uI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA SUSPENSO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hgAmszcEnm6BdjuTpM4BlA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA TERROR
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-q1PX-8AlggMA_rCWi6R4H8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO PLUS 3
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gede6LuUHCYYu3YrfTDWio/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM STREAM
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-haJbNHaYDSX4qYWUHMYVHQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",A&E (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jFFli-kjbkDJxZgMGU1S2Y/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SERIES (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oRZcCmQ422vIN2M9hiAZCE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gojqZwUu__0heYSVlGglTE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kdFRDHHJli-L0xeBdIIDaw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NAT GEO WILD (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-iePqAgNKvKmTXbJcelxZv4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL GOURMET (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-u6d5XqevoeH-w-jI81LMyo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TCM (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-telGM-snWtRT1rQheqr9rs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY H&H (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-t6pQ-ID3nEmdwtyBx640Vw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",WARNER (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vVU3q26uNE17TGvEywHlYs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILM & ART (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-uiLrlq1KiCveRtsEJeHwYs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",E! ENTRETENIMIENTO (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-p3NVwaS2K4nS-zfGSyufec/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-iENVkIzWBOKmFLd1026zlQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDEN PLUS (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-pv9NYkt4RjHUn3Bzak8yDg/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLITZ (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vJFuEeINRsGCBeGckTFYuA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENERGET RETRO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-oXpom66XOhB5Qw8lm91J_c/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLANETA JUNIOR TV
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-knHDhvSwXRPLsYp6WL_9mM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SEO TV KIDS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hOdQXKg1b_GkNE0hYCZfrQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY KIDS LATINO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-roYdBMa5jDSyqoeyNPksUs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY KIDS (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gYl3XCobwq4fmvHoWIADyc/ts
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-sNnZM7M5fIwuA5x_ijzl6A/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERAN
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-o2pvaTgw9QvJb_gX6t9mMA/ts
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tXSdTh3tvoAPQRtQRDOsnQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK LATINO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jWNZ2_ifi8ls2LeAnxlUV0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK LATINO 2
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hE1eXzjTOCzaLLoJJX3pi8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY XD (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qaM2m-LpKfzdJm_YuHPrWU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK (MX)
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-o-IJY38PpGFF9NNID8ZWDA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAGIC KIDS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vmBZAMCrbfl4uHzxN3s2QM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA ANIME
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ihu-H9GJAMakV6Xg1bkztA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA CARTOON
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tvP8npxyPM3Pkr4YyWjR9U/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",XTREMA RETRO CARTOON
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-gaImjT-zhNUmkp0ZCeArKM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 EL CHAVO DEL OCHO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rd5amyu_J3GmT7aySnr1t0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 FUTURAMA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-kBSn9G-IXxjJbl8XpNYGLA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LOS PICAPIEDRAS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qzEVhYYJp9fsTfGG9v_MVs/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 TOM Y JERRY
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-tNlRcqBC3iUR88CTQw9hlg/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DJ MIX ONLINE
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-pj2vra-emm0BzVha9YY6rI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 GALLO CLAUDIO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-mq0ykMC3pi4KhmumMj4lT4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINO KIDS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jCoNkMSAu5KHYFzGU6BFCw/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAGIC KIDS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qdgL4YoffNrSr1XNNleTbU/ts
-#EXTINF:0 tvg-id="PAKA.ar" group-title="Channels",PAKAPAKA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-ongROhVi9qNcm09OHaD-20/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PEQUE RADIO
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-lsU3Hq1dcfep87Pur6Z1TU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVG INFANTIL
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-jqjKNVZC_NN2Joy0OmfUhw/ts
-#EXTINF:0 tvg-id="Cocina.es" group-title="Channels",CANAL COCINA
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vWyfpkkZqYGS-maCXBI_f0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRIMEN MAS + INVESTIGACION
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rZBfAkSnx5GvDu1-S-EtZQ/ts
-#EXTINF:0 tvg-id="DKISS.es" group-title="Channels",DKISS
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-vDK1fgaw7nwVSknK3CjYvI/ts
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-rpfM7dRVVYgP4zfB2t9vMI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 ONE PUNCH MAN
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-qbKWoWtvo-GDXFo0Phjx7E/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DB Z S FREEZER
-http://38.242.220.31:80/play/2t5CfQecCKESqSB3AJCo-hSdY1TZUvlj53aHMAC7SeI/ts
+http://38.242.220.31:80/play/Z1G1i0XJi3OPXh3Ig6poIlijOVb_luBv-ii8k61t6NE/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | America TV HD
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSt1lNZn1qQDyYJLHMqhG694/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | Latina TV HD
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSs8vqfjizx7otTzVKVHnhxg/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | CANAL N HD
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSmVdRAQ1zWxvxKxHyB5O1JY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | ATV HD
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSqZvPzBPDmLJ783XoP5yiqI/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 : Cine PopCorn DBZ
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSi1XoQyW9nYyzT69HJwkiRM/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 : El Chavo Del 8 A
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSkDk8D7-Rmxeu-iSPObquMo/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | RPP HD
+http://38.242.220.31:80/play/dDYFLXFtVo3acGoNCosZSpIIVGUHhJ4RUvMBWsZFrcU/ts
+
