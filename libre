@@ -1,120 +1,758 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINA DIRECTO
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWulmgCcANjaMgrr8y0y8xKE/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AMERICA TV (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njxqjET_dlGmYN7jjRaRo4LI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINA (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njz4HjIq25mwHiVfgzKX4H6o/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvo3HAbKXVUDRmrRSavJkD0/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",WILLAX (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2WppjmNhCQOxmzM16YHmI4/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoYypDSQFaY6QbBdYB9rg6w/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATV (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njzeGgiJA2RUEW_8LFr8Wqvw/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqeXnN1KGPSJ3gHV8XxFhJ0/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",PANAMERICANA (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj3jg4Mb7G5Rrc507zK0Nyxw/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmmlIiGedfngH3AagkmX2Ho/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",PBO (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj_-2lCmCpD2lrMmXz_fbyyg/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqJSMHvkeR44e48g-i0Yvzg/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",EXITOSA (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj7gmA4TFVlBGuv1-WAjSWQk/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnx2RY3hGwP3EXR8_TZVk2M/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVPERU (PE)
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwqDFkTpeosCEbLlNB1oBq4/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlF8i43Msr62CzCwgxHkzyc/m3u8
 #EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2GFF_3Nt0iEQpPbhoHsgIk/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWu48uL7_ONWAU5-mliA7UsM/m3u8
 #EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",PASIONES
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njyiBEfqGKp9c4s3n5liXOQc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njz6tbqSX4pAh45JPdIvREvg/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqvEHwapNVEzIGsMXn82FaY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LASESTRELLAS
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWj5aQ2pEzwELEliQ1vDjBCc/m3u8
 #EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TELENOVELAS
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj1z4AXaC6Ezfa6D3qTxn47o/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",KANALD NOVELAS
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj_NsdwbD4-QJhZPFvvcfplc/ts
-#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwCwudzvJm78QBXQ56UfCqw/ts
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",DISNEY JUNIOR
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2D0HgmGPF6zHm7IMz2s6m4/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhSI4t8UJMkiSNmF3WvcYhQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANALD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtyGNJeGZAUy1mXh6lDfCB0/m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEYCHANNEL
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqZvgietHmLo3iWy2h7m52A/m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEYJUNIOR
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoffR0N9FDQOiJOIQTIbRZ8/m3u8
 #EXTINF:0 tvg-id="nickelod" group-title="Channels",NICK
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj4Vl9p8iv1XS8RaaXbqfSXo/ts
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",DISCOVERY KIDS
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj9Ad1eUX_QLKTnU_gnsoZeg/ts
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwffaw3f1KlfUymmGJd_VUY/ts
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITO COMEDIA
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njy6D7tk0t8fhdEFnLeZVRLw/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrL-jdlEafSlnVQHMDqOIVM/m3u8
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",DISCOVERYKIDS
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWv0LSTCBzWBMouHoat24Iqc/m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICKJR
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnxTA3dcpQ3e0qCCRf0fdI8/m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITOCOMEDIA
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqxNKuP9XcLj-0NOAfO83pc/m3u8
 #EXTINF:0 tvg-id="Dreamworks.es" group-title="Channels",DREAMWORKS
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2lyNGBbfSmgAwuOH3Qms6A/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvDq4u4JP4r_o88mx8712PI/m3u8
 #EXTINF:0 tvg-id="set" group-title="Channels",SONY
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njxSVAArGwp3EfDg7bJiaV0c/ts
-#EXTINF:0 tvg-id="GREATmovies.uk" group-title="Channels",SONY MOVIES
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj38B423qp_9hfNeTMDTONs4/ts
-#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj3-2tMO2cYXSwMZqaLyZVos/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtzeTbHc4cdaA20QiDgatsQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONYMOVIES
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuAwklNVYc3KsPjKRDRs474/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",STARCHANNEL
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvbbPtZ5qYJ2XYv7qYELEdI/m3u8
 #EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2ktzoa9efCytpMAOrTp6mY/ts
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINE CANAL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj_cWnOYu-pnFHSLrnOAh3ck/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuUd1ph22pivzhhGNN0bmXc/m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINECANAL
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvqsOGDP8lPhfG2NlmIasLw/m3u8
 #EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njz-93t5uXh9OXAxdNzjJmvs/ts
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Channels",GOLDEN EDGE
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj0NkY3iVQMlDGJuAyARpoCo/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsPUuCaMjIlogDKgJnu8_HU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDENEDGE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpfDashnKee2V3lWk4M3AzU/m3u8
 #EXTINF:0 tvg-id="Golden.mx" group-title="Channels",GOLDEN
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2lbyPcPn1w1EK4P8Y9KOTQ/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnuEoagWoLzYqz3cv0SWf04/m3u8
 #EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2uLArygsJlJUvKOCdjuHDs/ts
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIO UNIVERSAL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2XuWfL90FR8J_zmiKwofYc/ts
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",PARAMOUNT
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj1CWI_NXTItqP5J-3IPQZEM/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjOnmPpUkZm9Lr9iyUpA9OU/m3u8
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIOUNIVERSAL
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWon2Umyu7mv136dmETNeUdQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNTCH
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjW4oYrTCkkY0cWwtGX-kqo/m3u8
 #EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njzbiQaDq-otCY1vXuktVZbU/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkVUOhiy7eypZb_yWA6AYJg/m3u8
 #EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj3wQtoQG8EMcfid3BeCZQEQ/ts
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",DE PELICULA
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwL9b0b_GfQxOUP6u9UU0Nw/ts
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY CHANNEL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2SK-IUWve71s9_tMgjyM4M/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CIENCE
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njzwNR38_nFsCyyqiELRLJDU/ts
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",DISCOVERY TURBO
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj3aqy9Qy6VQKHz4geg1ovFk/ts
-#EXTINF:0 tvg-id="history-rus" group-title="Channels",HISTORY CHANNEL
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj_2kOT4WEmDJ-03EQ-Jm2K8/ts
-#EXTINF:0 tvg-id="history2-rus" group-title="Channels",HISTORY 2
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njzY_ebgVsY-A0cMxuy-LRuE/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoFvCtw1zWC9iM1Wk6ARhdI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEPELICULA
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiPD9c6s1xH5IRyI-wK-uIs/m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERYCHANNEL
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsfyefQzzC7ap4GVHFaXNJk/m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",DISCOVERYSCIENCE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiqZiDLb6q4A82UimI3NYz0/m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Channels",DISCOVERYTURBO
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoNaMWEtknwFHi2UBJqg6Qc/m3u8
+#EXTINF:0 tvg-id="HistoryChannel.cz" group-title="Channels",HISTORYCHANNEL
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWq-Nkf_E77Eo0hWOddITYAo/m3u8
+#EXTINF:0 tvg-id="History2.uk" group-title="Channels",HISTORY2
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhPty5j3ADXmTQK4vGPwwR0/m3u8
 #EXTINF:0 tvg-id="natgeo" group-title="Channels",NATGEO
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njzKnqbnry9YAhegnKvXs9_E/ts
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMAL PLANET
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj4nJSYwPeEITanPKuKrq90A/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvYQ3p8_O4lLcvInuwpRqrQ/m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMALPLANET
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjaVcmLl2xTO4x5MZj18WTk/m3u8
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njw08xnIzexgVWs2ZQsCXFEM/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgglJlQ9EG_7V8dEQyrfraI/m3u8
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN2
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwkqQnuXSvScngCEHgoDCkc/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjgzpw0ua1hhdAUNf6tMDp0/m3u8
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN3
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj2yZYQwhbJONtaxlfCmatzM/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpTcKcuTULt_8309Wc3JgGg/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN4
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj8mxeoskc72gKzNcCAGw0zI/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjcVbu-qoEN5zstssvtE-K8/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPNXTRA
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj1oFMQZvqHRrsSjK77V9988/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjg1ZQZhw59XKz34o8KhwFU/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT2
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj1ub6ZHzz12nLq_40KTrmJI/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmPdH0Pvhm7KG3o9fGGQFPE/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT3
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj0JgaA3_D9XNwZz5EXVqq7o/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrP63bIE1iib1jrTUqSmj7M/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",LIGA 1 MAX
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwccJ0CCh8sfDGgpiX-oRNA/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiMZVJAi35PqoSMrKNu7NpM/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njzNnkJWLm2WHTbFJyBQBJ40/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",YOLI TV
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj3o6IoD8IFVEQ6IockPbacQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATIVA TV
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj1ql9HIyefOWsSg6fYBAy60/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | America TV HD
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj_UVtDWFda9H8LSGkJSZseQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | Latina TV HD
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njwOsmDCcsZzRQBxG2WC6OtI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | CANAL N HD
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njymyQ4M9K8lObSYeR7xj7N4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | ATV HD
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj7oRSYqjgM2Sgr672w1i3KM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 : Cine PopCorn DBZ
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5njyxFCkiZIbgglFqLesayoZE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 : El Chavo Del 8 A
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj40FmztnLisSm_-YidZEusA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PERU | RPP HD
-http://38.242.220.31:80/play/G9sJ5teSnra7-Zk9rB5nj_w4dotfmTo68M3b0QFuIAg/ts
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqquhWuvshmLmh-xeVG6gZ8/m3u8
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",MOVISTAR DEPORTES HD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrKY6uPCc49omMIX6cjN0D4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWodZirHKJQt5_Mkz-YGJMUg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINA LIGERO
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg5pVJwqmpViQrsWn98iZh4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA1MAX-FHD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiQdzapbpmM_Ahc6VyedQ4A/m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWubm0LSMMMLrPg2BoB-14Aw/m3u8
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO PLUS (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg5NHCxh22JBMbYX5J7A1-s/m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME  (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWq_P4jcpaUGo2-qKuBT_u7w/m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO FAMILY (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtFcZxm_Vo7BacdLgBGtDko/m3u8
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2 (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWl5WwPNcx0VXsCX98rc1Gqk/m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjjnGduGtVgh1ec05ehK7To/m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvciIdVL4p5le1LCZyaqoKM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL-PERU (HDL)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvyRT7NO5IzXvdh5HkbD_dw/m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWieXSCSekH66fjhxHlmb1EQ/m3u8
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWn_pKH4SvWqHImjcp9ba6xc/m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Channels",ESPN 3 HD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnTviaFugbr5HbeLSFHMe2k/m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsPuRPTkdGyKKhMDK4qvqlw/m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN EXTRA HD
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnP0Z7CbcjjCnZAr-FJG79s/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Panavision | VE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWi3cdY9VcsiS28eb8rJzhlM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Promar TV | VE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWppCiosjAjqH5CJmUZ-1YqM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVS Maracay | VE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWncAOaR-nAR34Wpf8If2eDM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXC TV | VE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWieQlAMp06HQZVzbApEvW9s/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cantina TV | VE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlpL79NEVnhw_qChxxt5bGM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globovision
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrrj1sYO6MI2UYTqWXzhO5M/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",eSports Max TV | ONLINE
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWl9CX-jNMNfy41huIBDIgvQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOONS NETWORK LA
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg5z2cJrJSbVByxMjoBqcmU/m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.ar" group-title="Channels",DISCOVERY KIDS LA
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnzlCb26g3cLGx9XfO-uaww/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK LT
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjAP1At5_cdpsd45u4aJ_2o/m3u8
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvvbPdvv5Fsy-Yi6FoxJw8g/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magic Kids
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsNF_RtWnQ86oC2GbOAfGs4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Xtrema Anime
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpyyWWJe7E8UBl99eBmo9N8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Xtrema Cartoons
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkTtq9ywLZvwDfNAQXeGA0g/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Xtrema Retro Cartoons
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWorWBgUBakOsfHKEpejAOQE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 EL CHAVO DEL OCHO
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjt1F-nrMe1kwEdTTr1GsPA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 FUTURAMA
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuw1z3aZ6VRUw9oR0WRBSYY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LOS PICAPIEDRAS
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqn3zqfGgfH67I-TPjrOO2k/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 TOM Y JERRY
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhCJI9P4SptXN8cgCBYHiS4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LOONEY TOONS
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlpK3-QcIITLK0kzjD2DwHM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latino Kids
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWv4SOwj75rYeY2LB_aH23z4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magic Kids
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWriYMsIkcGhxScfKdRS6oIc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Juego de tronos (PM)(4k)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqhQiJZ11tJEtS7jfh28J7k/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Vikingos (PM)(4K)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWt09LxAQ_Zf1zRfgPkTVOCI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Accion 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlkyqLwXYATQn3d5zjq8dZU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Alf (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiWnkgUMrSi0RtiVP8f96J0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 American Crime Story (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtJ1HyDQJea8VUDrf6XPaZU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 American Dad (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgH-nSUL0xvjjAbx7NThaDQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Amor Real (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqZ24L2d_ixICcq8rJwN9Os/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Anatomia de Grey (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWirFNEclCOFPl-kT2TZ3VWM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Animacion 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWv9pUCZ1AQrn3nzrkbvbTEM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Animaniacs (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlWZi0GPpDK4UJGMu6Qq-6M/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Aqui no hay quien viva (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvCnK7xqSIoiFieXg5D58a8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Arrow (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjZ2S9zXrrilqPxOxXl3bPk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Avatar La Leyenda de Aang (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkSJyRO_qU4-udBKh7iQUps/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Avenida Brasil (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiZgzHFpqOKG3G4lFszwvxg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Aventura (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWl34lmG5CzV0yf-8IyOSDDM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Aventura 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWq9PK7HbijMTEsn4byDA2BM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Baron Rojo (e) (720) (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgwdwRKulr6gskEpMweJJEM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Basado en Hechos Reales (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlpr9wK9VzT4ORo7tRg8kIk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Batman (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWguLHBrGjIz6apkXKCnIlRE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Batman La Serie Animada (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWks0_9_ZQQ31kUW25tw8VG0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Ben 10 (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqiSgTC3U_IzpmE5JEFuaUk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Ben 10 Alien Force (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgSu9xchyiIGQNGLNRAMFX0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 BeyBlade (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWofD4UHPb5RdSXCoDMhoC4g/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Bob Esponja (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoxALoTIa3_KRkz0uvOe23E/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Bonanza (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWv8MX4hKPFo0FZH5WC7pShg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Breaking Bad (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsRTAdxbM-yQ2E11vlR9tNU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Bruce Lee (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlJQnsbv4JmB6rtN4t6KVKE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Buffy La Cazavampiros (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuw5_gNvQyPxfEm13w13x10/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Caballeros del Zodiaco (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiR8fW78Ud1j0EqFBYYmBNA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Caballeros del Zodiaco Hades & Alma de oro (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWglJdY4Fhz0lm5Gd8qUSMb8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cabalozos y Dragones (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoEDB4BDTgY4UlrSrR9fIcI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 CafÃ© Con Aroma De Mujer (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWq3I-d7Za1D7xtBwkoxQ83k/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Candy Candy (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqYaCBIEe-hVdpKZjiTnxP0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cantinflas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjIsvXtToFJF2gipcngj0zQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Capitan Planeta (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWu0R9aQ9LaYYCL9Cv-QXcdQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Casado con hijos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk1sjDW84Z4_XrTYQp0lrUY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Chicago P.D (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoLMQFwklCr08qIqw4Nic7w/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Chip N Dale (e) (720) (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoeHT5Uj2yMs3MGTtIQybJ4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 CienciaFiccion (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiAI3zI4EJ63u1TS4IU6Vq0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 CienciaFiccion 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpISBxb0tVRoJT7qjdveWsI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cine Belico (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmXN_U_Y9hB5wFxUZqSVaXw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cine Biografico (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhqj2nLfG_RvVp_gZqPzUhc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cine Catastrofico (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWim6SxyG5jrgDLOwDjozBGU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cine Latino 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg4FNWD1kZr7lYYQZxro3EU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cobra Kai 4k (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjeVJ4zwbGXVqWpU8Jyyjc4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Comedia (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjqrPKy_dSAC-LWNYNy2i2U/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Comedia 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk7GmdIKz5IxNIgdEfOG1O0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Comedia Sangrienta (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlm7wws3puZVNkYXNDFtOAs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Conan el NiÃ±o del Futuro (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWn_sGvBee3pO0haYqrBDUTI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Coraje El Perro Cobarde (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoYg5uCIw9SovZDVQBpqDcQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Corazon Salvaje (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiJ539pPx8ZdI9iwJVkxZ7Q/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Crimen (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhiSOFL3OV21A9ivSg1ZjCQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Crimen 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuayrSARsAGG8qGvnrEyNQk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cristianas (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnUZxiU4ByUkmSELwBZHcII/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 CSI Miami (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWs0qNF9iZvv2YwpXFZ7IIYI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Cuna de lobos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlmoKsxjjKo7rfcVQ8XA2Mw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Daria (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjPqEH7aU0pFh59DlPGBOP8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DC Comics Peliculas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlfAJ74JqlePj4B2ApxEEKE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DC Comics Series (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiCjynMkI6lpONcgRecg-5s/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DC Lego (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk5zZa7TdtT-5VnjiOBl1t0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DC Leyendas Del MaÃ±ana (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWu8eIhECHRR6x-bBNpZrKSw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Death Note (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWunsGGWwIYOqNbh1OpS_uc8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Defensores de la Tierra (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoS8HIuJ-BVOaKkCIkcHqO8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Denver The Last dinosaur (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvvEcjflJ0SZijiXiieONyE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Detective Conan (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhG4SymmbdPQaSZeOGa2Fxs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dexter (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuq2fAXinnMY5_Duhgcc2xo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Diarios De Vampiros (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsHpsrJIk6UXlc8qL6KkjUg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Digimon (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWom-7cXlDfst7CvmbEis784/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Disney 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmtip6cMSitAACdB95fYEys/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Disney Animacion 3D (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg4Bl35yBJNC38MIH7-RabE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Disney Clasicos Animados (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgY7hbEzftBe_XUK_vHvUqc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Documentales 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgNC8f8_fQLjxSDFQGRlcZ4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Don Gato y su Pandilla (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhLYV1_lG26i7F46f--jbko/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Doraemon (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWp6LYPrc_qiMfwdT5LCJ8EE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dos Hombres y Medio (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk6N_RFat5WIcqTrUMCx7zo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dr. House (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqQaK-xwgMVG5PHWRKLHaaA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dr. Slump
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWryaxiHG7XHJnlpz5e2yOkM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuy4foHBgl8P8Pmd2ARGzCc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball GT (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrBSirSkF2tn1e_L1A1OJpY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball Peliculas (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqzPHHLIFD1ALdCfCrer7IQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball Super (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhSnAJ_zYYBSLq874mKsJbc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball Z - Saga Cell (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkp6pztM0FGb06mshweBw5E/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball Z - Saga de Freezer (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtKFm1CNHmw_HGiGQ-GF9S0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball Z - Saga Majin Boo (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuXjhSnlkKMbxVicgwsuuOo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Quest Las aventuras de Fly (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWplkKevtKgstkGSIpQbSHeo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Drake y Josh  (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWo4whLgeKdpRvDxGkIBUOL8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Drama (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWob7DpQwfli0cSzqCStSh8I/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Drama 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtweW3Z-55yxF9bKxJ8WON4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Droopy El gran detective (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWn14mHYPxy4iGQgeVfoBhsI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Ecomoda (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlAJJ7GzLKndmlozc4KpeEQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Ed Edd y Eddy (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtY2vZAwoQLFF-NezKb1m3c/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Auto Fantastico (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWouvuCaVkUH-zErms-K0hMA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Buen Doctor  (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg9JF5mMI9atadroLAtUupM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Chapulin Colorado (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWs19aAjNAtkyPfFuJpvCWqc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Chavo del 8 (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjzC0ulx-tuEYXtBf4S8yHI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Chavo del 8 HQ (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtsVg2SLuFiQhxp1Bd5Kd1I/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Conde Patula (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgGMgneEEklRa28mn5U0Yzg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El hombre de los seis millones de dÃ³lares (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhibugnqMG-R5ZLoTsHJ5Ao/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El loco mundo de Tex Avery (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlxmiWfgPV0lfjPjwfPfT0U/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El nuevo show del PÃ¡jaro Loco (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqifAo9flagAkt5-GNC-EKc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Principe del Rap (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsR8dou1XNTK2zvaQunE2sg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Zorro (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtOF31shdvahsFxM61KkHV4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 En Busca del Valle Encantado (e) (1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrpsCAVss6r5oaWgwI9L0eA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Erase Una Vez (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjKPSBUJY5FDa1guIU8x-jc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos 2019 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgrXu-ixGskKwtu_JHYdJa0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos 2020 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoGXEGPwnhQMDFk8WVMjmRE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnBY9qvlIK4XM0eV3N_nieI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos 2023 (PM)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvchKTjKdOEC-SJb3cd8fSM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos Accion (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkiSBqVAYwMIZwaearBWq5o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos Animacion (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnrPW4KfzVT8XiSrTQO0vJ0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos Aventura (720)(e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpD6vBGFvQr7LDxyUOypoFU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos CienciaFiccion (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiH0AdbOgV11kTYfMIxY90k/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos Comedia (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtkKK4YrHwo7Ri3LdSOFk6A/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos Disney (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqKklSFFXyFUUeTznqQlloQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Estrenos Familiar (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpZQiAeEgVeie6x8MNQhoAk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Fantasia (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqmnNZEYCJ59PtnvuHRy6jk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Fantasia 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvA8DV0w5jPgCfzMSxINKVg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Fear the Walking Dead
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkDD9BljHSAEwDMxDIjrRZM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Flash (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg3x-7y2aLNVZgHAZL15dW8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Friends (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnj9t9oyJE6f5ZB6VJFAOhA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Fuerza G (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoyM305a1uZBCMRNWxjj4zA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Fullmetal Alchemist Brotherhood
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgkCIO5bOvjZRPY1zS84-98/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Futurama (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmuP5SPSUj-KgWw6E2UuWNA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Garfield y sus amigos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlPboYtt_nqxRnVXiobeaww/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Glee (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgA1a__KkVQojc4XYykuOwU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Gotham (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiozm8z0kJViPBbwvjHpHRM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Gravity Falls (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnzG80_vSgxnXBaznPT23mQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Hajime no Ippo (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrCmEz1zpGGL6-rivm6NPWo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Happy Tree Friends (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtzMsAiMJLpS6fZfcf4M2Vo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Harry Potter (e) (1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiI8NWjMelFjHfV6S856rZ0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 HBO Family(M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWj39goIjpb835nI45QexsGE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 HBO Plus(M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqoN9ALqoQSDcwS_Ouz_c8o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 HBO Signature (M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjo1Jo4IN2ddd7bfSn2Sh_o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 He-Man y los amos del universo (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWs0Xa0bdDXUCBtkV5TiEe0A/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Heartland (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhlb8wkHigqiv2_zu_obi_Q/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Hechizada (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsRQ3eDpcysOnvojYYK1dR8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Heidi (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoswzyKASh7rkAzuqYjWaaA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Hora de Aventura (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlgwn_SOKgCzPYR0DCzP5h0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Horror 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlhLdaPqMQlOVj8EO3-XULI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Hunter x Hunter 2011 (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvLzunImdvAwr8wGCPFvcs8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 iCarly  (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkiF-gW0vnAyONd-OKcMSCs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Imax 2022
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvtY-dgMi-q2a_Bv0hTeVAg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Infantil (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoYMNlVT0pZ2DMYgJVklED8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Ink Master (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWp5666QwCIZ1U4PPxP2HOOA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Inspector Gadget (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWu3RuvSVScjjARMbOgmq3gs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Inuyasha (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWs_R6k8y8CMzA8SEW3dM07Y/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Jackie Chan (e)(HQ)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjlM-sPflxgGwpni3p3Qw_w/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Jimmy Neutron (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlHfI4bR9xtuXOWs8Zc1yW8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Juego de Tronos (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtqAwJT2c3PwwfbU23PUSHA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Kick Buttowski (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqDcr8Ty2n-63T76Auqm6hM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 KND  Los Chicos Del Barrio (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtuGX9RevzJD3jf498ug7Qs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La casa de los dibujos (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmr_fIT25e7SombyjIMewYw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Casa de Mickey Mouse (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlqHh1D3ZZCcKnxziD-8O5I/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Casa de Papel (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWozzK163j_LNiCw98NLqxBc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Familia Ingalls (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrdIUVtnPznv3hJWrC7qAqk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Familia Monster (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWirwnSDNSzF2Vn6roZk4RFw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Familia P. Luche (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjxO89cs_wJDon7vQ7zkt_M/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La hija del Mariachi (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWojh1K_mta9eXIfemK6mNFg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Mascara (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiaHHMXfp_pMktjUyqi7v58/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Pantera Rosa (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWioxLQAgK2hwBEMAnEaNonM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La que se avecina (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjkJ7qC8-Ci-x-P19kSzGHg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Tremenda Corte (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnkHicDheeUMscgkZF4xtqM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Usurpadora (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlkQhhmXUJtPoCO1TugxSKY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 La Vaca y el Pollito (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuJdLC5YcyPSp2qq-YYoggQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Lady Oscar La Rosa de Versalles (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoawe0wboq6l-tkHaiXuHBA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Las aventuras de los Osos Gummi (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpBzLYyucGidggqa8D8OFA4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Las Guerreras Magicas
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWo1l9-AGmQdYX3xwls1eSe0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Las Locuras del Emperador (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrT3cxpFbixw6QU9kwfSRvc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LGBT Queer As Folk (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk1CiixL5UvC7bXsbO8HRQw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LGBT RuPaul's Drag Race (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWinsFMoQWR9CO3orEBXkGmY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LGBT The L Word (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjvfqBQglODPAv7DfMFrWls/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Lilo y Stitch (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqcA6KpUnF4C0YHfnYzjIGM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Locke Y Key (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWozFN20a9C0FBl26GTEuoM0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Looney Tunes (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWn4BiYCaz64zARp8_1ct9nk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los 100 (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrf87GOrnGBWCzZrqLZ-fgc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los AÃ±os Maravillosos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvPq-tUZUqhsp3CvTVA5ANI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Expedientes Secretos X (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiHpyRH0Q_RPOjFyFPeL4uM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Halcones Galacticos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoVOhp4fBtDmJdzBofG7h20/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los justicieros HQ (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjQkQcmATXpebqYB1Tfcld8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Locos Addams  (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlEG_qhkqiL4cr8bcSoLV7U/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Magnificos (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnZZpKCpsQvFLj7yXnyB4RE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Originales (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoDnKD2QrnCx6XkJwpzh2Bs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Padrinos Magicos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrGCKZSeBYlNNIXOqo1ycO4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Picapiedras (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrX8o29PcW1Ts8SqInMbhkM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Pinguinos de Madagascar (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjV_k47hec-C40K5R3rz1Oo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Pitufos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjQG4-WVJ2cJJGU4OPryp7k/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Serrano (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnpZeVPDg0vSi_U_I5B4TNM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Simpsons S01 a S20 (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWt_hxqHi9SUlVN2rpj7ldHo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Simpsons S20 a S30  (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWq0NdRAFvBT2wazcdLxDq0g/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Supersonicos
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk3c74V6Eh1WP-5ueZoM1JM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Thundercats (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWo82FU1YwXy19cIU7qXQTxQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Lost (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvvb1jC9bnNtMOUiGk62LE4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Lucifer (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuUH_w_tL-5Qvcdukq9QMUY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Luz Clarita (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvMWAKfcMltUPqyO--6fTOA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Macgyver (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjMcCxw2pBhuzcBeQ2r70Dw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Malcolm in the Middle (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjDD1tcB7gsd1mMwf1-aaRk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Manual de supervivencia escolar de Ned (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhJMcmXyqj52I_FosXorNeg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Marimar (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiqAQTcVNNniSx5uZtEqReg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Marvel Comics (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuf7zlTHvjB0OMdEnSy1xn0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Marvel Comics Peliculas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlUDWGiCoB1VOoASE6hvTDY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 MarÃ­a la del barrio (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrr_qZ8eQegVXi8OOnQe38g/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 MarÃ­a Mercedes (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvnGoX44P-6dqp4vDEszbD8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Masha y el Oso (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkgDdI_I4YX1Y0mOZaGfkXo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Matrimonio con hijos (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnqNVlm8kfz4aStd1kEr1aY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Mazinger Z (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWv68YXvgPCMjcEh8HBmAMEI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Mentes Criminales (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrNRyaDQhmJRDJaNmX5SaWQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Meteoro (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjzZLMbdMsRxGjswZP9tPKA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Mi Bella Genio (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsngYo0IilsCp3paGJqbcAQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Mighty Morphin Power Rangers (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmoXK2RgYXE7264TMWOdbeM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Mikami la Cazafantasmas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjxmKpOU0FNYWr7glZg0YRk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Misterio 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqN9z9Rb3FHO52jfUKdPMq0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Modern Family (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkmfgkkZy94tdJfJAGQmEpw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 MonsterVerse (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWl5Nu-gkRt83P8nMYAIpJ0c/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Motel Bates (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWky5OfVxkjiYdTcTqwoP0dg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Naruto
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmgkt6U8NpeLt_h-DbpoUXk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Naruto Shippuden (e)()
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWk75zmkE7p0XTfj_r-CSi34/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Neon Genesis Evangelion (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsk3QNNupAJkpB4V_JZF7uo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Oye Arnold! (e) (720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvW_mlNxLOAX5UmGqnXP8Ls/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Padre De Familia (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWptFOTsZsPvvg-4npBKGxik/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Patoaventuras (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkpuVRCRzeNmsHxTjS86G0M/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Paw Patrol (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjZsXBa172RlXFxOlKC4Etk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pedro Infante (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgmW9tO04jSEIsOUKsk5qSQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Peliculas 4K - 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWoJqIGDzn2xiiEqrOU03qaE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Peliculas Musicales (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgmMgjZkn1pjN9C52YSpHco/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Peppa Pig (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpdzQh6T9lt8L7mvsdoslLs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Phineas y Ferb  (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkxOfoELO0SshfmRGwdZfyw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pinky y Cerebro (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWnnMMqrA8A4wqjObzHAlkvc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pocoyo (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWm8gUXEqcpFFusT3pVA9B-o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pokemon (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsS2iyp0c72cdSvfmIY_oUE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Pokemon PelÃ­culas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWm7UlTXYLla8If2_Xl7Y54I/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Popeye El Marino (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWlhGlVeOoXQjVC64XEWjTCY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Prison Break (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWl_8NAutnpJ2_mOaof7-h40/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Ranma Â½ (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWkhEuTRLcqLhTNtXjXV_5AY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Rick y Morty (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiuBs9s5z32C7V6xvRxiGTA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Robotech (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWr6z_xdnEgriHehZp0gv4J4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Romantico 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpPij4r-4jGhtD3Inzph_9o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Rubi (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsJiS0JVl3AGw_v7xzxYWf4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sabrina la bruja adolescente (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgJTgrUp-0886yMAhTMg-m8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sagas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWszlGwqLVc7zVL7HPyVN6tY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sailor Moon (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiQoeMXNgXvnW-yKkUdusHo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sailor Moon Crystal (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWocIxm6LLG6VviZW97-ecf8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sakura Card Captor (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWju8II6fjSZX3v9dqWTGcDk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sam y Cat (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuUB7fbz47nOIiOdtnrj7ds/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Samurai X (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmZmAHmIP5DOhbQaKom3ZEw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Sexo en la ciudad (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsBFLdydYxrG-cKOmap6sVg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 SHE-RA La princesa del poder (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWndJpXHcALbort4hfMkZOqM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Showtime Beyond(M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqaUDTmsL1OmhyMgFHa0V2w/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Slam Dunk (e) (720) (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrX8WHbCa6I3-pYhi8VOicg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 SmallVille (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWo05vVfBtKgxSP6LWT_Qrrk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 South Park (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpNFkuLC5n5M9wmckuEqPZw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Spartacus (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWn23FbunL3y8Kf2u6Vi7UAA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Spider-Man Animated Series (e) (720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWipEiT_9MiEIirADSjWcFFo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Star Wars (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgS-e4J4V1h6JhpOyw8k_5g/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Starz Comedy(M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqhbDQcqjOWkoYSLITOiVVo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Starz East(M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWs34OlCANvU7wyrUhWhLy3w/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Starz Edge(M)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjGI78YCkbSR3wL5Q6fqy0c/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Super Agente 86 (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhk3TodrlQ9obHDuOB2WxC0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Super Campeones (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqD2jyl0KfKGs4Tj3zY4AgA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Super Campeones 2002 (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjmDFywI0e6GgA4lLHapiDg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Superman (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWq0WrNDK9QBid2qymrVtXTM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Supernatural (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsZS5TOxxsGLKLorUeeKnSA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Supertienda (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtQLnVlaLf8KCnHKwE7qwjA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Supervivencia (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWg_Z9FgIGdRrlnsP1nywxL4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Suspenso (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhvqxYSHFHDztcaDGpmv5tQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Terror (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpidkxHrzIp2V5uQu7FLLI8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Terror 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvTn3pV5smiqsMW59ySm9tk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 The Big Bang Theory (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvoRudJjz4wgbudpn6mKDCU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 The Office (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiXHngjhsqwKY7WTMRp8kTw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 The Walking Dead (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtHhbWnWqi8L1HOyzYXZtSg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Thiller 2022 (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWsEwucyl0i2lpNbQHoRl5-o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Tiro Loco McGraw (e)(HQ)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhI-kjoQtr3AkSlJi1ncZeg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Tom and Jerry The Classic  (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWmNSct9xXhXHiMuB5MXHmP8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Tropa Goofy (e)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWqXWx3VUOzv1SF4VJG6JaUQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Un Show Mas (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWpTBCKnx-NkG75piatJutC0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Una familia de Diez  (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuE75eCe1K8mIoR2_iforSg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Universo DC (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWgOM9qxZ6ttcfwkoQEDcj5Y/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Universo Marvel (e)(1080)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWvCN6aDKdKNOYjuB6vYSoVE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Vecinos (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWiF8jMP7PD6TrnmVuouUoKo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Victorious (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWo8QRPKzb4IEymnYECi0KPE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Walker Texas Ranger (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWrsqIRkezaGApsxfjk3_pdE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Winnie de Pooh (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWux-yskQKxJ3D7k331wJTzg/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 X-Men (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWny2aT0uKZvZUVk5_6GdZIQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 X-Men Animated Series (e) (SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWuDKpOvcw-oiUFtftwPhhNc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Xena warrior princess (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWofSq8eN8CkPtP-7MwbOUms/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Xica Da Silva (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWtrsl3qvzwZ7xzrtNXIuglU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Yo Soy Betty la fea (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWj3fgrkOQS6HU8Gmzn-LhhA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Zenki (e)(720)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWhLtRIt2Z-XNjwtn8h4SAIk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Zoey 101 (e)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjLd8gL8OSWVb5SKVc6-j84/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Zoids (s)(SD)
+http://182.168.1.11:80/play/-9jJNhkIY3kCIjYR7k6lWjAQZx2POaH4FpGenIbHW7w/m3u8
 
