@@ -1,157 +1,137 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINA DIRECTO
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWulmgCcANjaMgrr8y0y8xKE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINA (PE)
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBT3Yq8WdH-c78ISFHrNLQ5w/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",AMERICA TV (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvo3HAbKXVUDRmrRSavJkD0/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",WILLAX (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWoYypDSQFaY6QbBdYB9rg6w/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBbg6hHPRwlXed6zvkJuoypM/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATV (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWqeXnN1KGPSJ3gHV8XxFhJ0/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANAMERICANA (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWmmlIiGedfngH3AagkmX2Ho/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBU8Y_PUnk0G6KNNuSnpnh0c/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",WILLAX (PE)
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBcNUdoKsdWpUFhSHfAdAXz4/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PBO (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWqJSMHvkeR44e48g-i0Yvzg/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBfrxTkDFNP-7fSplIS4ZdyM/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PANAMERICANA (PE)
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBcpbp6pg_Bxms4_uRaFyS_E/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",EXITOSA (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWnx2RY3hGwP3EXR8_TZVk2M/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBX5-UvSA7leHvgGuNsCKv4g/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVPERU (PE)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWlF8i43Msr62CzCwgxHkzyc/m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWu48uL7_ONWAU5-mliA7UsM/m3u8
-#EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",PASIONES
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWqvEHwapNVEzIGsMXn82FaY/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LASESTRELLAS
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWj5aQ2pEzwELEliQ1vDjBCc/m3u8
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TELENOVELAS
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWhSI4t8UJMkiSNmF3WvcYhQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KANALD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWtyGNJeGZAUy1mXh6lDfCB0/m3u8
-#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEYCHANNEL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWqZvgietHmLo3iWy2h7m52A/m3u8
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEYJUNIOR
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWoffR0N9FDQOiJOIQTIbRZ8/m3u8
-#EXTINF:0 tvg-id="nickelod" group-title="Channels",NICK
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWrL-jdlEafSlnVQHMDqOIVM/m3u8
-#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",DISCOVERYKIDS
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWv0LSTCBzWBMouHoat24Iqc/m3u8
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICKJR
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWnxTA3dcpQ3e0qCCRf0fdI8/m3u8
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITOCOMEDIA
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWqxNKuP9XcLj-0NOAfO83pc/m3u8
-#EXTINF:0 tvg-id="Dreamworks.es" group-title="Channels",DREAMWORKS
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvDq4u4JP4r_o88mx8712PI/m3u8
-#EXTINF:0 tvg-id="set" group-title="Channels",SONY
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWtzeTbHc4cdaA20QiDgatsQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SONYMOVIES
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWuAwklNVYc3KsPjKRDRs474/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STARCHANNEL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvbbPtZ5qYJ2XYv7qYELEdI/m3u8
-#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWuUd1ph22pivzhhGNN0bmXc/m3u8
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINECANAL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvqsOGDP8lPhfG2NlmIasLw/m3u8
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWsPUuCaMjIlogDKgJnu8_HU/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDENEDGE
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWpfDashnKee2V3lWk4M3AzU/m3u8
-#EXTINF:0 tvg-id="Golden.mx" group-title="Channels",GOLDEN
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWnuEoagWoLzYqz3cv0SWf04/m3u8
-#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjOnmPpUkZm9Lr9iyUpA9OU/m3u8
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIOUNIVERSAL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWon2Umyu7mv136dmETNeUdQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNTCH
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjW4oYrTCkkY0cWwtGX-kqo/m3u8
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWkVUOhiy7eypZb_yWA6AYJg/m3u8
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWoFvCtw1zWC9iM1Wk6ARhdI/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DEPELICULA
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWiPD9c6s1xH5IRyI-wK-uIs/m3u8
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERYCHANNEL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWsfyefQzzC7ap4GVHFaXNJk/m3u8
-#EXTINF:0 tvg-id="discov_sci" group-title="Channels",DISCOVERYSCIENCE
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWiqZiDLb6q4A82UimI3NYz0/m3u8
-#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Channels",DISCOVERYTURBO
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWoNaMWEtknwFHi2UBJqg6Qc/m3u8
-#EXTINF:0 tvg-id="HistoryChannel.cz" group-title="Channels",HISTORYCHANNEL
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWq-Nkf_E77Eo0hWOddITYAo/m3u8
-#EXTINF:0 tvg-id="History2.uk" group-title="Channels",HISTORY2
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWhPty5j3ADXmTQK4vGPwwR0/m3u8
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",NATGEO
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvYQ3p8_O4lLcvInuwpRqrQ/m3u8
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMALPLANET
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjaVcmLl2xTO4x5MZj18WTk/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBdFDVuRxtgnwMsG66y7wY0A/ts
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWgglJlQ9EG_7V8dEQyrfraI/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBeCyvgXk-CDqNKaw9rTIDrg/ts
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN2
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjgzpw0ua1hhdAUNf6tMDp0/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBfufVOHdCJWKtWeg2g7zKic/ts
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN3
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWpTcKcuTULt_8309Wc3JgGg/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBbqoHnUkHYW_axOfxD_J74I/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN4
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjcVbu-qoEN5zstssvtE-K8/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBWB54xgG0ZuOTMgjsexCXig/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPNXTRA
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjg1ZQZhw59XKz34o8KhwFU/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBUCpBTSKPU1PzfvibsyVKno/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT2
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWmPdH0Pvhm7KG3o9fGGQFPE/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBa05rYmAHQLf0pRsLC4tlBE/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT3
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWrP63bIE1iib1jrTUqSmj7M/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBVN3nDyghHLL-F7O8ZdAc-M/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LIGA 1 MAX
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWiMZVJAi35PqoSMrKNu7NpM/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBdIp0nSIm28Zqp3fjz-238Q/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWqquhWuvshmLmh-xeVG6gZ8/m3u8
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",MOVISTAR DEPORTES HD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWrKY6uPCc49omMIX6cjN0D4/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBSADJPVVgjp49GwbFtlSInI/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWodZirHKJQt5_Mkz-YGJMUg/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATINA LIGERO
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWg5pVJwqmpViQrsWn98iZh4/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA1MAX-FHD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWiQdzapbpmM_Ahc6VyedQ4A/m3u8
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWubm0LSMMMLrPg2BoB-14Aw/m3u8
-#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO PLUS (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWg5NHCxh22JBMbYX5J7A1-s/m3u8
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME  (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWq_P4jcpaUGo2-qKuBT_u7w/m3u8
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO FAMILY (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWtFcZxm_Vo7BacdLgBGtDko/m3u8
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2 (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWl5WwPNcx0VXsCX98rc1Gqk/m3u8
-#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjjnGduGtVgh1ec05ehK7To/m3u8
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX (SD)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvciIdVL4p5le1LCZyaqoKM/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOL-PERU (HDL)
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvyRT7NO5IzXvdh5HkbD_dw/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBSNZNrg1YqSqeq_x9f1R2oY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU PE
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBScwDKGJ0H-480PDXVypYpQ/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",D SPORTS PE
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBddsourNXGjthZdlepP0w_A/ts
 #EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWieXSCSekH66fjhxHlmb1EQ/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBVyHqSIOpu1FIkdU3oKkcSQ/ts
 #EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWn_pKH4SvWqHImjcp9ba6xc/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBVyLrzOWGnbL7UDRwwnspEM/ts
 #EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Channels",ESPN 3 HD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWnTviaFugbr5HbeLSFHMe2k/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBVhXs8oQLy3BrGYVthRU45c/ts
 #EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWsPuRPTkdGyKKhMDK4qvqlw/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBSOD_GogLJdxG4sd6AnTIMY/ts
 #EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN EXTRA HD
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWnP0Z7CbcjjCnZAr-FJG79s/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",eSports Max TV | ONLINE
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWl9CX-jNMNfy41huIBDIgvQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOONS NETWORK LA
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWg5z2cJrJSbVByxMjoBqcmU/m3u8
-#EXTINF:0 tvg-id="DiscoveryKids.ar" group-title="Channels",DISCOVERY KIDS LA
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWnzlCb26g3cLGx9XfO-uaww/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK LT
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWjAP1At5_cdpsd45u4aJ_2o/m3u8
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWvvbPdvv5Fsy-Yi6FoxJw8g/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Magic Kids
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWsNF_RtWnQ86oC2GbOAfGs4/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Xtrema Anime
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWpyyWWJe7E8UBl99eBmo9N8/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Xtrema Cartoons
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWkTtq9ywLZvwDfNAQXeGA0g/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Xtrema Retro Cartoons
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWorWBgUBakOsfHKEpejAOQE/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Latino Kids
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWv4SOwj75rYeY2LB_aH23z4/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Magic Kids
-http://182.168.1.11:8585/play/-9jJNhkIY3kCIjYR7k6lWriYMsIkcGhxScfKdRS6oIc/m3u8
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBVbUMGFIE2Yu1_Lpskq9pPc/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA1MAX-FHD
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBZsFURiqs99PKfGgoBfbvTA/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOL-PERU (HDL)
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBfRCFjR1d5RFybtU2_Ls8fo/ts
+#EXTINF:0 tvg-id="Dreamworks.es" group-title="Channels",DREAMWORKS
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBW0lf42pw6XlZ_4KT4FSZnk/ts
+#EXTINF:0 tvg-id="set" group-title="Channels",SONY
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBefw5CWNtuQcBf8YqNWQf2A/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONYMOVIES
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBefryA3HjRCusnnKErhwK3M/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",STARCHANNEL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBaAoGfoM0C9-iGKRvtTCOP4/ts
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBRlIx7o5cairxK1C63ZVp_0/ts
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CINECANAL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBfxvBQ1tDCy5qoQKiSRpRkA/ts
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBdr_FQbkli9kCzmJ4o1Y0ZM/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOLDENEDGE
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBf-LvMetWVwcgH2fy2Kqx5I/ts
+#EXTINF:0 tvg-id="Golden.mx" group-title="Channels",GOLDEN
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBTLS1W6gL2znq28kgHwIo2g/ts
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBQx3c6CV-6vNR8zOCervJAc/ts
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIOUNIVERSAL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBXjCMGCP3owqYv5O8L-prTY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNTCH
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBSxvbz6XyF8OgGr1z1IDNpw/ts
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBQ4y9IhA94_r8ZIfrMQ7Ijk/ts
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBWqqqCDqaNXRWVkYux2pe6I/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEPELICULA
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBdcjRhbTikdm3qPwJnSOaJc/ts
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBRMnk_9YtKMkToSRMoikE8E/ts
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO PLUS
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBT-3yAhFfl7PdXb72IfT6DU/ts
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBTQ_jsFZnr8lKWUsyNhiV_g/ts
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBUX_h8S2zx0xpSs4FcQnrEY/ts
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBS-Yv6fAhhc2Bs68Hgbz0Vc/ts
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBTpgDFCjUes_DEsv4Poqp1s/ts
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBfCrC9vhWGbV-r4omSuyUWw/ts
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",PASIONES
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBTHZsoR7NGA5xahkHYfdUus/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",LASESTRELLAS
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBUNh8u5oUfkkkg-FyHIjWUE/ts
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TELENOVELAS
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBaGuwZccpUOTTv3xG8PrH68/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",KANALD
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBZhREqiXLD5B08gpVMqzt4A/ts
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEYCHANNEL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBf8GqTPIU9g0AJcUZFw3TkM/ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",DISNEYJUNIOR
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBSAg6SAUDVD5qBvzHwIfMro/ts
+#EXTINF:0 tvg-id="nickelod" group-title="Channels",NICK
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBTe-5uT2OJnawnfxut20P5g/ts
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",DISCOVERYKIDS
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBVaREoertt4LDXKl_3JgIyU/ts
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICKJR
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBZcDCVfnLPBIC2x578i1KnE/ts
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO FAMILY
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBdZVtBQlHfEtFFhLbvWFmek/ts
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERYCHANNEL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBZhWV3dtGVVwwH0LxF-QCUw/ts
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",DISCOVERYSCIENCE
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBUpLaln057ytvzPr6Yx4fyE/ts
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="Channels",DISCOVERYTURBO
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBQJfIHOBOtY1M8srqt7fHXo/ts
+#EXTINF:0 tvg-id="HistoryChannel.cz" group-title="Channels",HISTORYCHANNEL
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBQOuyhS_0cSr5bOYn3lZSKY/ts
+#EXTINF:0 tvg-id="History2.uk" group-title="Channels",HISTORY2
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBQhsxjZ5Pr2fHLAU4ziOXhc/ts
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",NATGEO
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBU0DOyn7Q0f5v1nz0Ip5hQg/ts
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMALPLANET
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBd_oVe-70i7bsZvH6Umcuy0/ts
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",DISCOVERY ID
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBd4bSfPZv19VdUZ_ukd6TrY/ts
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Channels",DISTRITOCOMEDIA
+http://182.168.1.11:80/play/KxH5IiWl0-Mx73yHcnstBeToU-InxHO5TUFsEjItQUo/ts
