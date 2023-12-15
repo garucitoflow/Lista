@@ -217,4 +217,8 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTwj1GUs1RscpPapVnaTO6g/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBXMsGIug5xASMOtPPLtLynU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DRAGON BALL Z SAGA FREEZER
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBevlgm49_EpEVQAaPrDGzxY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT + 1
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBSIy1JkW8eB9LOKUHrpLPQQ/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PARAMOUNT + 2
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBc1-M2mp0_GWQxLh6pNcccM/ts
 
