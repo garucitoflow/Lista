@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",Women (2021)
 http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sEwm7zgKImCCrpgIrGFRLdc#.jpg
-
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Time Machine (2002)
 http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sK4_MkfCyfGA2F71_MFC1sQ#.mkv
 #EXTINF:0 tvg-id="avi" group-title="Videos",Godzilla vs. Kong (2021)
@@ -3052,4 +3051,767 @@ http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sDj5JJTTVLBFDYSi81zj6hw#.mp4
 http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sNdSYZ-2s37JP4voQk1lQ3A#.mp4
 #EXTINF:0 tvg-id="avi" group-title="Videos",Ratatouille (2007)
 http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sJXn40-iBUZF_j9qOsL3RB8#.mp4
-
+#EXTINF:0 tvg-id="avi" group-title="Videos",Transformers (2007)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sPzULysY4QdY56LFXOLlfow#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Transformers: Revenge of the Fallen (2009)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sI5i2vCdb9DHs6x95ti6w34#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Transformers: Dark of the Moon (2011)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sByOqrH-fDexQpQZJbv4dbI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Transformers: Age of Extinction (2014)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sIgOgTffMPhQc0t4hQJz3cY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Transformers: The Last Knight (2017)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sMV0r3RUCTFVrELFEarM-fo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Guardians of the Galaxy (2014)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sLhICNSMRrDRJPVzXuzgzXQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Guardians of the Galaxy Vol. 2 (2017)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sHGdrDALjKmFN5rBURnaFEY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Guardians of the Galaxy Vol. 3 (2023)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sI7DuQf168X9lHj_2e7VYz8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Avengers (2012)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sD1dkXH-GnyVsViS1Fv3hWQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Avengers: Age of Ultron (2015)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sOCBA6TChKz9MHz7TN0-wLs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Avengers: Infinity War (2018)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sKOOVWTwzFJEVJF1J_Cx5Jk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Avengers: Endgame (2019)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sGppCbJ0cmNXqHBK5QLU020#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Spider-Man (2002)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sKpY6DGzRBX-fbVuWdOFP4Q#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Spider-Man 2 (2004)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sDVpnitcqAfgQpyDkLQ5sso#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Spider-Man 3 (2007)
+http://182.168.1.11:8585/play/-sGqyGOhVn7Znrp0jvk0sEeARAjsG3GCXGXYlkbAZEs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxURPMcvAyrU-iOvDeGUj1jo#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWBGzbTor-zqqPAi4yTKCh0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYt7r4ENAXiH2E0TnoCnCwI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUlRxox1_irmFTsGN7UX8WY#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxR8GfA9FQSCzvUVehPC_ohg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxetyzuxFpCppoIBoiXxjknE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRFS0HwHSvTELEWWxOP9o5U#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTG0yKLuqJGy5aFml9SxB3k#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZqjoleX8wrK0hGMaYiOZt0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdbZBxabS9kDoLNUDqSif3g#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdem1FRR6_xrsDQ1v9VqCQg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTRIcUZGAmmu0LJFz23MLdE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRSO6qZyqBUtv3cRkXbAGqI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVLxU05-MYpdx7kF3TcgGx8#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxakB0ac1rfgY_Kxy3kFaIJo#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWi1pcNhvgUJ6Nk3wfNbRFU#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRIZBSkQ3MSZa4qSPFlfDZc#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQCEPOjAwKQPAl2QXnJ6sAQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaMSXFBHuC33IOlYhIWwdJ0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeNXTmTuLILFl0EmFr0JKbY#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcEy2VVp3N7iGhnkZpb0TLI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQo--3fIlbU73Z4VneXK4Ww#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxckmWDNARvwUq5YMTW1WSeo#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRFXJ91_mXlqQjdm6ffnSdQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxX44IwRgZCLRFpwQxTAfJJc#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfMLtYmeSaz4DQknzZ22oEA#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXepyt2_imx276Dv3i3CjDQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTU9wEB0qqyPmm1R7fbjM2M#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfPfwLNomD1u-kPWNatknZs#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbJUhtuKs31pMJv4l2qtpSw#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S02E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdZ-shaVNHjgsv_Xpxwtg2o#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S03E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcTVS6T3cnz8Lz8BIpVoyEQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S03E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVoj8OLe3GGaSqY4X_qYaJ0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S03E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQn6ni7JF8qO2WpYJCuQ6ao#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWdmAW49i71VWSASmqhzMuA#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxekmx7DF5kvrGZxbZglf0aU#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWbA8KAB-eLHnLeQyLyeIv0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTgdMt4AEObKwK4LJS2-9vM#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVB2tzcgJ77zzFj3yOtcZ8w#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcDRxMQ09j2dzNzvubtREVo#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUgbEoLSCdAu4ttviVJhH6A#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbRAt83TdGgUEv6sBfx_tPw#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbB16pGFgk0Nv7Bq948uXVM#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S04E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxf0bjEIl5sFbbRasFbwxtGY#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVh0ADdfr8cuXtN8Eo0xf7g#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdqMkn2yT2KIF4rFrjauf00#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXzuVFBNks63aYixne9tp4A#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxddVGQRw92FPriwrYKMo25o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaEpVewlQay9EK90S6Sp97w#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZyvWkEB7k4Q-8l7gX3lpGA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxV4h94AvIop8k2sgCGCfmfk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY4LjguP5iTGtvLwjLFk998#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRf7QmhAmk1LYesfB-ZYQ9o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdzngaiu3ARFhPit4fiix2U#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYRS5ysj6v7oeQ2xkaxVbDs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxexFBtvfZ1iVhq6nFgLB4w8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfWFHjdVdEBvxNqirseChn4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxS8URWj7OC6_nTrncBc3iIw#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZBN23TQQCZaKBWdbddO9eQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeMkp8SZX5VoRDdS98GxitA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZNKSQA1rZzg4Of4qBMuW8k#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S01E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY3PRBi7dlTvNLw0Ye7gLHo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXaH61voYAasAX8RTFhA7ZY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSQ52Ha9ojwxeL8gJOWxjZA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdalRFEtLzhvixJsATvuArg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxayD5U4ZTUDU-lbTkQdfI2A#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxewIraTFeepgKJXbcr8E0RU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUzuC9Ct70S1zIF-pTfCQbs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQMIUg_mYAFSIov8ennkAY4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcB6RpgJHRFkj_6Ajt3PrKQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSu0XQWqoKgbOMbeB7VjNCM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeloXC3qnsRp40OmbPMJF4g#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZw3KQRawcvTc9ruBH_PXPU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYWieNAsk4qsa8MbttFtsRg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY16TjUyrrSb_B-cv6BOgH4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRMfOCeGF0o-CXBCOipoiN4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWIvCVmpy-u-7_tBvxoSZpg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVIpfbcu4TsV-gvOdLIrhwg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeJtFJQSsXptUNMHqtV6aCU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",The Good Doctor S02E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWlExA3-tebXXN71Qa7tTV0#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUp5CSjKw_1wOKTEWQdHfqM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUGAcmwPAz8v5PkJdV5JLfc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRrHdbcocssdnoNT95nRI2o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbRLEq2lcQSiK6cINV74RZs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcsy7CN1torgJ1RXCPskKZU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZpDgp0q8BlCBohNeE24hIg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRu_SkkOraJJ2GWKHFCMuLc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcRA-lx8_KwDJyRabyfyTcI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZcZmeCGg2Mvjew-lU-awJc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdLeE7CCb-y-eLmvX6Z7hA8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZkKcTzPDEMs60ZZqHET3Mk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQv2MTwlFf9ta6Z9B-EmSwY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdJ0MvZbUJKjJERZFn4BfPs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWhUI3seqRwPWM7DdxQWUM4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbsBXmLSmBi9XYdy4R8I4Ko#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfFZGdSB1hR6RkhuOIumd4Y#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbaVe3lmw6Yp8KZWfkwur4U#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfz_KFVjOrZ3grAbcFAfURw#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcAM1lEXZUNUgDFB3tNT46A#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQU5YC9TrpBAaO9Q6xwDJ0E#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbQ6JLVbs67vsR1ilM0su9Y#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQQyc8aD3N6NBGC2ONbWm_0#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfAmvbfP_C1-mvRx_bUleZA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",ワンパンマン S02E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZrkebrReUvxQ9cCzJsEkhE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZ3aoz4fyGSRmBCYyR2i_r4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQGfFSKON2vmFVurXIaBNcU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY3pAuCO_1M39_0fqL_dnHM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxROm5KVwUZRpvsorfSy4a5o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdVnMN0Oah6-UA8E_mnkRKI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXJh0SrhmAYIUw4jVY8maUQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxX5x0spi06g4mFprd3u0nuE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTgqr8yynKb1omJtNgFnHWY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQrM1VaZhW4g4PwS3tWQGqM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxc7S8gp_r__s2FVoTGiNs8M#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVW-vJ9LN75ay1_NsiDwLz4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWzKxxjPezC2nJ0JIx1DFP0#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxel3T25lu0JjgPbe8JR1oBs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQA4PGWyTXaTAjGkqApbk8g#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWyV2JpgStswtrwPOOrEj3g#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxU9JzYQghjuspCXevSLRbU8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYE5UPtaHrlepul2LmeaMaY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxV4LYZnslxdDHQY3ugL2tac#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfceBzprNQ1QzKnXLHH0axQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfl3RThf3T3K5-mYtxxnV9Y#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYnVIJB3hWKHtUZhsEF7mVI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWkWTmyyAuEeRlqh9c0cHms#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRUsr22iU7MHD5HqtQV94ek#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxerxKhN9NH0V2hA_zbrglF8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbNL4Yz2icWQLeo7qagS69k#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTETMQ2Hihub1rrBezuMwJY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",終末のワルキューレ S02E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSLmggwGWwq2spN0NVazERs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWCtXQCNIjqc4cOCBUodTpM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTcBvAglK9heMvIHVa8OYk8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZgi-0-1TIRpOY83G60wwc8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxd2qTu5flAUdrNLeGLoD8Go#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxayuF7GMlku-9OjLF9wtMlo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRCHYEzYrJZCyDGb37cKuok#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxT3QmHE4luI5UX942wfmHiQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxROj3KN5nE8nQG-UwR5Ssi0#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY7JIS_b98Ir-J0gepo4724#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQMh02PD_76Y9U6rzBl97bc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWIZ_OV9PCzvwByfxU01JmE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxc21xQ193DhpHvxm5TL4k7M#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRP26hU48bIIDB2Qx9HLP6M#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxc5ewbQO34Nge6Ce_1Ai4TY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxd9lCucy1Vj-PFmzEcV2y7o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdsfk3lgNaF9xc4lIDahELo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxR-laNm1QvbxyIk3ocIOWzs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTQwBU8fG9OItg4cp-2DyAU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E19
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa9MSc9TKaqh8BVKzySpbyI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E20
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSpKvyUJMHzbbD89gFJdEik#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E21
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxap8DcaH-50IoYKnsglblM8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E22
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxU9BfIqCX_WEaoT7ppyXyfg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E23
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZ7VRmJsn6znm6EbbZYS4WU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E24
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa4hMDmT0gMmXf-JrNGfC0g#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E25
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVXSBNfKroDe-l4Z6FJIv_I#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E26
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQMugv1uotEj7TmEGRSnwdE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E27
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWELtSWsudd616CAMZ1eDZQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E28
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfYoOB0u7WfjYsGAso4-BFA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E29
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTCdHGmmqKmrm_XjKhNyvTk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E30
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXJALOapS4dhzHkFUmcYg60#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E31
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY6Gb8JLwfj-SwzbCyXCR2s#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E32
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUFqPx4_ltBoQS4xO5PlGPs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E33
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbBNkaUZxw2XHu2Y9sgxkSU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E34
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbteTzGRzWAdgFrK7mYBapA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E35
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdPEMtu41mX72SZhAb22rL0#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E36
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxb98sGJvjtrlOkbJQxVy4rg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E37
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxb6GQSrT_49LpMKIGuCEhV4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E38
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeEkuQEWJOCBkA7wJbj8i0E#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E39
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWRNPSkicAIRjtDnWPP1ozU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E40
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXnZ_Q08OK_18XxNCTTDoH0#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E41
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUfNjkaFI5jfHbNZlFUePXc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E42
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQyzyNXoQHJJg_Uzm5NGrYY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E43
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUA9TvnfEEPUZiJPowSY_Qs#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E44
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZOahxz9OUYyLYm3VrZqOLU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E45
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYNf43N_Tvh2TWKxK-qLmOk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E46
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxatRVu4eeaIDOUtrjpNuCCI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E47
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaLuysbfs8t_lgqcdIf_9Ic#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E48
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQMi-m1x3jahco00haO7mcA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E49
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYhIKNGqHfNDtACT1y-jkUY#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E50
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeoNadQ17eUEJsrbMnt9VXk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E51
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYOVAxS5IJ5laZu2FihCNi4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",マッハGoGoGo S01E52
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRvStBQKLgCCp9WwXVverMQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRmz3O9sKFT8DuVo5aFtapE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY2-6901hTgne6x0PMIjeWI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRLDAZETYQgniKZr4cO23e4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSFCXZCJdCOJ3bfrdtKbQ3Y#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWlXRIQWpLZQ6qUNb5s9Bho#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSWsNjJVKxPDS7j_3b8A2Bk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxU8gVkM0LYu_pi1qZUyNQKA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSIdLLKWsbUisQZ9b1Fenf4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTAbBlvsqMg6qSZj8AIx_YQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcCfJxFbUzNxK1uLLP77Rg4#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdLHADnXnXm_uBJLzPdWtLU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxew4KQ9dH8nnXbfgD3X78uA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZAh0RZmb0Of9n9HVe4pCtc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbbE5CMlFJB-7H6zUEiw5nU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRAFZwTNZXk5NMy1okqlqmk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUkOu21GerMTXAze90tOqIo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfWdCxS8WrLcY91HsqJYGrk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeDvlC595LnKaQbNLtPqEDc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E19
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXQuoC06lOfUlPdW_RQkj0c#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E20
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfBwkJvZBzxqNf1GMFaNxlk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E21
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUyAmJp5QF4AKAvASuJrfF8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E22
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcuQqN86-NNE7HCmB_ETT-U#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E23
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxW57rQaCnapJ2hiEn65c7Uk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E24
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbwMkpnPnY2gcJMFqXblbUQ#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E25
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcenixU0dN8jfii7JmY439Y#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E26
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY_butR4KoHnOUMMvYLqa0o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E27
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUFs-B_XGsR5xm-4pYCEiew#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E28
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcPJBSEuyEf-UgkCd6PGqxk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E29
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWgW4MSKRIrpVWzsOqcwtYA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E30
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSKMv_BHBmq2piUMbIKXY1E#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E31
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbfBlEAhxNUZlXm5Zup7GOE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E32
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxewCJ50OmwO7PqkH6LB-y7M#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Treehouse of Horror S01E33
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYD43mgsNrq2dmNwyLTS39M#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaXgCmIDaEJh2Z4Osk3nYgc#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxS85cob1-IqvNb6Ehn8a6zo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXfvFaN3pOVDPWWW17yts2A#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxX8UwQuuvRd_ZpIXh2InTxk#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxX3NdQ4OasQMlcYzdVUQjV8#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa1rHP41PTpDEXO2tmWuw3o#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbvdhyuPBbZkdyeNcbyceRg#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa-987t0MhtKmiwbFAjWmag#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbUb3pQVY4y4lwW_YPeQLCE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTyVztezdn0901OJtFctguo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxf67T0wuIvokpkYVKbYLyqE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdVg-ReRncrAl7kXjFrQSuw#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUqaHkIR4KmYNDXf7AmfjvI#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfDJnqcFUu1Icf6oWbD0uIo#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbYz_AsSXIYVFKjA7Ql9H4A#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQS9btYLFw1yZafvgb_ubzM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQWuztZLABWOeWO_n8xwj5k#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVxMCjEfyrhlboSZ4eR6XgE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E19
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaFAC0NSS-Jpx5sFoAABLEE#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E20
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYtpT0ZQysAo8sp_IgfoIsA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E21
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQUBUwkE5PikUGh83vM4T7I#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E22
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaz-rFXzZh_z36fEunhRuhA#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E23
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxShUnW83ksKbyGQbXZH9YrM#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E24
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTOh49ma18qOUoqonmPSF3w#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",転生したらスライムだった件 S01E25
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRWm5jNyXze-fTrYqmQ-9IU#.mp4
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQeI5EwoZ0phssK2WqAEWlc#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUvbEqzYQODCdbuY1lk3-MU#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxav_mQrvBWQwqGLx9OLRJf0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTPhyAM97NoIZekM7mzThtU#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWMunCPkJAb8MN35SDiZXlI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxebbnZyK68TrLvZY9ovj0EE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa8xJnz9L9ELxS2Hvjjmmnk#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYKqr-Gtz3xTZ2bqOHXYstI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",Halo S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfZGsHBARJcaeZ23SBpGvkQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRZkvptzQ0_17yzwN-TkNjA#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUm4jZDUvSmpNdLlnW7UVdw#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTjv6vR_dRBQYuiRBg2ia-s#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRN5pI9J5yl6i8u5DFHflAQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTHmX4FRSsVVhwv0wkgSyPg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaV3VgJvmU4688oCBLWqsgA#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfJbMuGTs0dBDfeiDW9i0vI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcpBOxCFSlFVVgraMPBXLME#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTqhYXf3EbXzvBtl3BKCx1Y#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxS4QXZ9JwCgxg7iOlE8W80w#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWsYt-KeD3jtL1Da_8CKPlE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcPessMwACgyGqURB5uC_Rs#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeNlW84i1NAvpOgjGqRzO1I#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E14
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTdTJ53d0nE557UhlZjWA_k#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E15
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQDdyoSKeCKVqxAAjHnXZoo#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E16
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTP5obm_E7qNisyPMjR8Kxg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E17
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeD7DnQgWZkfEGLswyWE87o#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E18
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWXaBWjrW37EkzO1nF5wIvM#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E19
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaizYS7_PmwboFt1avqSO6A#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E20
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxe8i4OmVBTdUFhgnR-bB088#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E21
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaENXmUhRfo8tqQqTADREQE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E22
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZKk1fOu-ZJllZxnZuYwwhQ#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E23
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYvKn371Cl3E5VGn5y1BLoI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E24
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSn7fDmUcSITueEohsIwL0A#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E25
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxU5FlHDkqtlXCoOKLCp70aI#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E26
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaKPyJOA3rr8pU1hTSI8bd4#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E27
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUIAaJwj7Fk4AVJRlCekbS0#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E28
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxXRjPUXqK7M-RhtdS7dcLDg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E29
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYgSIPJVWWinU6VcUDVXEbk#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E30
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdxBoeAj5qk5pEfIEq2QEHs#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E31
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfRAz5-mPk4gvfUgx60nqr4#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E32
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVcfWskcuJtAyz-sD79WfRg#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E33
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdeNTZB-rqQ8CTW4Bw4emSU#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E34
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaYtkby4v-dfPNETRf8hOtk#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E35
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxR-420w5QwoDxZOkGAbPL7c#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E36
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSpft8EnrsYolvgKCYapG3E#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E37
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfVMkw86nLEH-tS2d2gIiRw#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E38
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTe0o4wHOfOKMMT-srk7Qes#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E39
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaYfpMmgzutpiRscmeUpc-g#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E40
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxZIxUrL93ATjpXZzSdcuLHc#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E41
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSNlOEmHZVZfwaNPH3nuGik#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E42
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWIyPZbuW3mC9QoO1nq98CA#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E43
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTX8lFKEc8h6cCqqvDt999w#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E44
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfaHQWA8b4h3u6GN9qn54Yc#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E45
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVxllT-eEjt9_9vZrU4L0Bw#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E46
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxb9XN0Nr94gHfsHbw7sNR5E#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E47
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxe8OIPfCcvc786oINjhnok8#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E48
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaVVtP5Rovi_w7MiZhq0R4Q#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E49
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfKiNUsFNrn1GYBIW4rJQfE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E50
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeUVD_RAMkGohO5Al_7Gz10#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E51
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxccgfiMJQ1PcimstLHMK9vE#.mkv
+#EXTINF:0 tvg-id="avi" group-title="Videos",ウルトラマンティガ S01E52
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQg69qkEmYLk2ekma62hEuU#.mkv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxR-vbaZm7cFfpa4bicmAtKA#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxX6_tJ3DqrN1E6-ZXaRCYps#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxdV5l9CuF9F8qalqpUNyst0#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbw2ww1hcnB8fVfuti8RDu4#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcol8iQqusSBVV-i_Gvi95Q#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxafk0VxuTiBsCoqWsQa9XJ8#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSYx0AI9h0G6zXocsSaNg6U#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYlFNFHTtweOomvjBBoPJ0Y#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWKt0q-1oXQporqPuiwJ3hE#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTI6VuITds40Ye51pGZiuX0#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSVhVcjlJY4O43y1vCV1SJI#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWql5QdPGgpg3CuWrfBgfLQ#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S01E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVoiLkJU0eUG1QD4UrqxN5s#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeddC2ZwVzHmIUqecAbp6-M#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSIWpP6n6fcOxpWBsYpFgRU#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQ2CXIrsK0_yBdGEraPxn0I#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxY5t1ezw1QIVCkUvTq4XppA#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVh4wnmn9o3ni-mKLekNwJg#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRtJPUAZbW0BQIFO_hGstIY#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUQGWciglIBGun3ObmFV3Bc#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVYOQcq5deT5KMDOOZnmE3Q#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSSfxF1ctkt0bpp12Ub8pKc#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSEAskg2bFwxPhrsA-qTGJg#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUFM8TkJ1-E_vHTbGdRkazI#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaFVDUC0unZOtOsqfxV6w4g#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S02E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUNm_f1dqf20cUtxVmUEG4o#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQ4jJfDMVvBuYECQgapO5Lc#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxb12pE97VjPM5R2OBsUlc74#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeA9oYBmcon7-sLM_sSJHIg#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRr5J2_Rd1sg3cPouix0mtM#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaFUaIugVJGTKUNuKN4i1ag#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSR8YtnIXYM86GwskYSswTA#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQi6FIBEoXID1qCQIR9PXfU#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxRkQcCRClmkBoPJaJ58W1Zk#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxar5VKk6de0GxkUlxVgHEw0#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYKqeXlv2ugEw1rkmqlldO8#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcbdJL7_u52sM-ms7zujnIE#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxUw5jCgbW086hj64P_VnL-4#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S03E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYj5A2djZvcR5iAMMYs39LA#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYFiiOZknB_bxcVBsUNgnQ4#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfM0BASUsWwlXFvT5qPrWkU#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxcVKh8FtRYYLHk8b7O6Oy6E#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbVRrrhTu1439xGSMbX2tUQ#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxQQQVcoY5KrOk1dw_tP0iUs#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfPhH8hJE_lEO2eXi2ewciw#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSzHb8pnV4EFmqopYqsVxOs#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxaue0pnTIuM4dJOC8KKEOY8#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxbwc2-CBkA6u4kTBaJyyjmk#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTht0U_MALmp7OwiuBkZG7U#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTiNmc2aaZWD5vOnotroLks#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeMiZRXQt6vdy-soCBEM4rc#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S04E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeTNfDlYeEPk_U7AXGD1EMw#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E01
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa6fQ5NyNxI_XWzLOGZ7t-o#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E02
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxTga6N30nuWiMIxiB2mjLy8#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E03
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSX16EgDnmA8sJOUUTKFB5E#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E04
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxamsj8NewfpY6WT_nFILXzg#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E05
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxfFcH6K0Y0lW1HJs8X1i8Uw#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E06
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxWGYpeGtuhWc9HDKGOmU6nQ#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E07
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxSWNkLBurz3lkiWcPwBT-rI#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E08
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa8TTz-E-qTGiPWfNh4-Zr8#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E09
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxeBpWoxQFwRNGYkVpiHqrK0#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E10
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxYQSmavGl8S5AYytRlarM8M#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E11
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxVNLOAud2uXgZdIH0iYxH5s#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E12
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxa3xVX6iELq2PA1do5oT04Y#.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teen Titans S05E13
+http://182.168.1.11:8585/play/RPs2AXrLRuCw-5pEZTIaxf4fl4mg7_y-psypJmGbx4A#.ts
