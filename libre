@@ -17,7 +17,7 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBaxeklgOCFjqHdu0mJ7bjDw/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYC4UU1ZSgUgNJAJUn10uYY/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATV (PE)
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYcOhh4_bJvaD-4M_WFTuDU/ts
-#EXTINF:0 tvg-id="ATV+.pe" group-title="Channels",ATV+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PERUVIUSUAL TV
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBRR5RJZUukinVoq5_MC7QPY/ts
 #EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcwqudXPsX7KBXg02VFEokA/ts
@@ -145,7 +145,7 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTh5OPgX-RpecRgAYl5LZvU/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBVO2Y-AhGjHgAjvXr8J5raI/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",SAN JUANERA TV
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBaKJOt4gT9Szp122hMxuqU0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PALMERAS TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",GENIOS TV
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBSEsxGi5DtbRRcmTMBcMjbs/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",WIN SPORT
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZfhOoqzojSmgrVQ30dASLM/ts
@@ -175,7 +175,7 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBfz2vxO3VoiaNRE7P9HT_zw/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBbPBchr0UHTz0bKa9VEKgrM/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",D SPORTS PE (SD)
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBY_X6NwuiM_2N4mVFTDZ8D4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUYA
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV HUARMEY
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBRJ9QQYzlfJERJbg2Ap_YAM/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBS1iERVyRWO1hofZsVF0xvY/ts
@@ -189,7 +189,7 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBd7ViyZzZX7v2X0CU8hhgLs/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBctbxy_WO_TvCgp6e30RxxA/ts
 #EXTINF:0 tvg-id="Mega.cl" group-title="Channels",MEGA TV HD
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcK9JzdG581u3249DGKIT6E/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNITEL HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIVA TV
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBazWVSDCOIWAQhM2qxkhENE/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",URANIO TV
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBb1AN5270KEiTisrYN6qw0k/ts
@@ -203,7 +203,7 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBfm0574qZd5c44O6aXhgdZw/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBd4foXPiHjd2ISGcxAdZW8I/ts
 #EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV LIVE
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZkvDh40ELua_ITuacLkMrk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VZ TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",HECHICERA TV
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWhGUgGp5MAtRGILbTQOIas/ts
 #EXTINF:0 tvg-id="Telecolor.it" group-title="Channels",TELECOLOR
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcriinGqWONWX3x6QnUabOs/ts
@@ -227,7 +227,7 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBU40-hca9VYNWikTy7X5EC4/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBRXB1KrpGn5zxxTLqPyEhCs/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TOOMCAST
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBeAhuqoaicFUvdBjrxd0TEE/ts
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",CARTOONITO
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBfXngOfs8lhs0gckpDzWB3Y/ts
 #EXTINF:0 tvg-id="Azteca13.mx" group-title="Channels",EL TRECE HD
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcHDIrzQn2qochMSIhbWo54/ts
@@ -395,6 +395,10 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBS-zhVt4fQZAwxpIszoAZTY/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTUIZ3x5NXl0NniyPYJ8sxg/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT 3 FHD
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWodEMCoXIdeoB75Xqgxy60/ts
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="Channels",VENUS TV
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcZra7Hh4674f2uawMNN7oE/ts
+#EXTINF:0 tvg-id="playboy" group-title="Channels",PLAYBOY
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBesls7913mLMovbyor6iFQA/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",24/7 ALF
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWbyEyX3_Fx0seNVJhfnkTU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon ball Z SSAYAYIN
@@ -439,3 +443,36 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBY6mIF-F4Xub91d8oQM-vx8/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTbKQXStKkb1f_imVicTpDU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 5
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBR16n2M-aN2OZum7fjkDx30/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX MILF
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWmEVi9i1accNqlkn7D3tss/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BIG DICK
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTlrsaMDMEK_NLhYCqiYykA/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BIG TITS
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZW3xKxl-Vc_a5r8vymajTg/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX FETISH
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBSkayhDm1VZrhmWwz2LpbNA/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX PORNSTAR
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYoN0_Wd0W6GARL_T_wLAkc/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BIG ASS
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBf-YN1OBKUnjdEbZGd8mbr4/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX INTERRACIAL
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTDmkWbnjaSg0NXobqFnt1I/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX LATINA
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBUgDD3wqpjF64zqAOQ08S7M/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX POV
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBUt06JVrRafL-baYCkdjwxA/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BLOWJOB
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBek6o5j1PLsf3x7k_ZTJjv0/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX TEEN
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBdD4H-8UChAnW-DqSFbF580/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX HARDCORE
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBVURcbF4v4ttmTNephHRdJ4/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX COCKOLD
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBbqhVjlNEixagc1MnKYCko8/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX THREESOME
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBdxye1ons6IPqrr_pYR6eCo/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX RUSSIAN
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBUPN-ezQMGi5VlHh21plAIY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX LESBIAN
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTdwN-pyN5bAq7MLQLSRMDk/ts
+
