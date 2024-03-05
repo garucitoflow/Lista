@@ -395,44 +395,6 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBS-zhVt4fQZAwxpIszoAZTY/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTUIZ3x5NXl0NniyPYJ8sxg/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOXSPORT 3 FHD
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWodEMCoXIdeoB75Xqgxy60/ts
-#EXTINF:0 tvg-id="VenusTV.uk" group-title="Channels",VENUS TV
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcZra7Hh4674f2uawMNN7oE/ts
-#EXTINF:0 tvg-id="playboy" group-title="Channels",PLAYBOY
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBesls7913mLMovbyor6iFQA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 ALF
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWbyEyX3_Fx0seNVJhfnkTU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon ball Z SSAYAYIN
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBacLrT9K7vQU3v9SBLT_Y-A/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DRAGON BALL Z SAGA FREEZER
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBSROtmDt27mLCXbl7oIvlM4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 DRAGON BALL Z SAGA CELL
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBauseBrYm-Wrc7CTDsHuuks/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Dragon Ball z SBOO
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBXBRxpiJH3AWYgqeinnJOH8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 CHAVO ANIMADO
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZc-XmGRACao__5WZKH7DsU/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 RANMA 1/2
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZ5yoqdn6f0ifHG0s_9eVng/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 CABALLEROS DEL ZODIACO
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZM3nSZcP2dNK7VFlPaaSnY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 HARRY POTTER
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBd4hC6zLdeKhT2cZcsNKuGE/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 IRON MAN
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBdLO3bymeWBUcXNXwsc0ZZ8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 RAMBO
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBbgYhV_MM-NS8-Rv51pVQaI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 ESCAFLOWNE
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZiAiqreKR5mQVNTXzSx2iQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 EVANGELION
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYZU3tyQ_962plDFlGL3_qk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 LOS SUPER CAMPEONES
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBfwrEmxIJ2YN13Kq5EH777I/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 SABRINA LA BRUJA ADOLESCENTE
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWd0JV_A0UDKYxjYAzYzuzM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 SAILOR MOON
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYsz8AQynh0H_BJDphYcsWk/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 THUNDERCATS
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBRF_1On4-4QJgr82X_jDnXE/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 1
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTl-VPWkBpUWYWte09RoHQ4/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 2
@@ -443,36 +405,37 @@ http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBY6mIF-F4Xub91d8oQM-vx8/ts
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTbKQXStKkb1f_imVicTpDU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 5
 http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBR16n2M-aN2OZum7fjkDx30/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX MILF
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBWmEVi9i1accNqlkn7D3tss/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BIG DICK
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTlrsaMDMEK_NLhYCqiYykA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BIG TITS
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBZW3xKxl-Vc_a5r8vymajTg/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX FETISH
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBSkayhDm1VZrhmWwz2LpbNA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX PORNSTAR
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYoN0_Wd0W6GARL_T_wLAkc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BIG ASS
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBf-YN1OBKUnjdEbZGd8mbr4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX INTERRACIAL
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTDmkWbnjaSg0NXobqFnt1I/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX LATINA
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBUgDD3wqpjF64zqAOQ08S7M/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX POV
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBUt06JVrRafL-baYCkdjwxA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX BLOWJOB
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBek6o5j1PLsf3x7k_ZTJjv0/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX TEEN
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBdD4H-8UChAnW-DqSFbF580/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX HARDCORE
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBVURcbF4v4ttmTNephHRdJ4/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX COCKOLD
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBbqhVjlNEixagc1MnKYCko8/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX THREESOME
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBdxye1ons6IPqrr_pYR6eCo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX RUSSIAN
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBUPN-ezQMGi5VlHh21plAIY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT XXX LESBIAN
-http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTdwN-pyN5bAq7MLQLSRMDk/ts
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 6
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBeGvZGjlH6KD_ZmbcjXgtRM/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 7
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcH1JDdkUGn8DzQoiE77S-A/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 8
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBYOSwgJVO9S0_DHHVpYvi5Q/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 9
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBapRLg3KFquAYlBEwCbHDPE/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE NETFLIX 10
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBTQ4fQuPVqTEu2bwsKo2vuQ/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Caballeros Del Zodiaco
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBcbVdFMUq9V1qqqXQ0c1x6E/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Slime Taoshite
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBaXDhIR-tITqmHtOk9fRgeU/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 One Punch Man
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBSdUk8wfpmc2QQv3PkMriOY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 El Baron Rojo
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBV4JixAOT0_8mg4i9r48hew/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Candy Candy
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBVAFYF6hLkiaOqEf25W-xJ8/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 MeteOro
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBY_Xj6wPnHlxFEgOGWCgisw/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Lord Overlord
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBQM_WFEBr9YFMj_7xL5fssQ/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Los Padrinos Magicos
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBW-e0PkamaXw1aVOaG3DSeo/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Animados
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBbrxEy0dxFUaMIgacYYWFe4/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Record Of Ragnarok
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBVI2uy4ED-i7u451ourgrTM/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Silor Moon
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBdgA-l5j0WB__0EPzCTvRL4/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",24/7 Mashle
+http://182.168.1.11:8585/play/KxH5IiWl0-Mx73yHcnstBXvhvo1IjuHYxtiwkeUFUHQ/ts
