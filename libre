@@ -1,102 +1,102 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1,LATINA TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaX3UUwuRM6aYXTdP1Esfihk/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaX3UUwuRM6aYXTdP1Esfihk/m3u8
 #EXTINF:-1,LATINA TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pabt1gYta3PsEj9BCgGbNE9w/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pabt1gYta3PsEj9BCgGbNE9w/m3u8
 #EXTINF:-1,VISION SUR TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYcOWWrCahfyt6lxjeZRdJE/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYcOWWrCahfyt6lxjeZRdJE/m3u8
 #EXTINF:-1,AMERICA TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaW54cm6kysB2NWm_DawL-3c/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaW54cm6kysB2NWm_DawL-3c/m3u8
 #EXTINF:-1,AMERICA TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRLOP8XzABLC-07Dh1k1LyI/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRLOP8XzABLC-07Dh1k1LyI/m3u8
 #EXTINF:-1,VIA ALTOMAYO TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaS2nIiuznkU2kn1g4A2T-pk/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaS2nIiuznkU2kn1g4A2T-pk/m3u8
 #EXTINF:-1,PANAMERICANA TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRuZ69bQakEfiZ8hDblnwig/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRuZ69bQakEfiZ8hDblnwig/m3u8
 #EXTINF:-1,PANAMERICANA TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQLZ9YCQd_YF82qSYtnynjE/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQLZ9YCQd_YF82qSYtnynjE/m3u8
 #EXTINF:-1,ATV TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad6V9brZr6WCGk_ojE4MYQs/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad6V9brZr6WCGk_ojE4MYQs/m3u8
 #EXTINF:-1,ATV TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pafo4v70CxSXl5-PTxkyd4c8/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pafo4v70CxSXl5-PTxkyd4c8/m3u8
 #EXTINF:-1,ATV+ TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad8omW_oRIdSU1jP9gGW_7U/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad8omW_oRIdSU1jP9gGW_7U/m3u8
 #EXTINF:-1,ATV+ HD TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQpLzCVrTHdj4W8AoTsM8Y0/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQpLzCVrTHdj4W8AoTsM8Y0/m3u8
 #EXTINF:-1,WILLAX TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVy0knCnT58AvLnLT-M0Xkw/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVy0knCnT58AvLnLT-M0Xkw/m3u8
 #EXTINF:-1,CANAL N TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaXCIDzGqqFRJvgV2XBS1vdU/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaXCIDzGqqFRJvgV2XBS1vdU/m3u8
 #EXTINF:-1,CANAL N TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pab0m93IAjIYF7tUAyqhTYA0/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pab0m93IAjIYF7tUAyqhTYA0/m3u8
 #EXTINF:-1,PBO TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaeXUwEFkqeOy5zUS43JR3o4/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaeXUwEFkqeOy5zUS43JR3o4/m3u8
 #EXTINF:-1,EXITOSA TV HD
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaTA4PU_VfvzO38sH5wAOsG8/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaTA4PU_VfvzO38sH5wAOsG8/m3u8
 #EXTINF:-1,RPP TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaXIp5MIQHzDus9yrxJOByVs/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaXIp5MIQHzDus9yrxJOByVs/m3u8
 #EXTINF:-1,TVPERU TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZ5w90tk9yE6fGPlc7J8Bdo/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZ5w90tk9yE6fGPlc7J8Bdo/m3u8
 #EXTINF:-1,FOX SPORT 1 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad0BlWxcHu4MhfWa-1lbJXY/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad0BlWxcHu4MhfWa-1lbJXY/m3u8
 #EXTINF:-1,FOX SPORT 2 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQ4sRWa_C-X6pPoZ_NZehXY/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQ4sRWa_C-X6pPoZ_NZehXY/m3u8
 #EXTINF:-1,FOX SPORT 3 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PabsXHk6hmWQdxa0zSbzXKj0/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PabsXHk6hmWQdxa0zSbzXKj0/m3u8
 #EXTINF:-1,ESPN 1 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PafGFqJT6pQ7BKl57J40cJcc/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PafGFqJT6pQ7BKl57J40cJcc/m3u8
 #EXTINF:-1,ESPN 2 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaUvxTzJuw8b4KQp2-Y6bDpA/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaUvxTzJuw8b4KQp2-Y6bDpA/m3u8
 #EXTINF:-1,ESPN 3 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaehP2yApb8tO3vJbU7EEJZ8/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaehP2yApb8tO3vJbU7EEJZ8/m3u8
 #EXTINF:-1,ESPN 4 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaSaZ6q_ZGykO7AC9g0-QHLM/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaSaZ6q_ZGykO7AC9g0-QHLM/m3u8
 #EXTINF:-1,ESPN 5 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PafEKfdm2-z6PRzx5y2B_qH0/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PafEKfdm2-z6PRzx5y2B_qH0/m3u8
 #EXTINF:-1,ESPN 6 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pac2yUnAyjxFM_ExymUsh2H8/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pac2yUnAyjxFM_ExymUsh2H8/m3u8
 #EXTINF:-1,ESPN 7 TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRzqhaSz7akYAZ0PFvqzjZM/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRzqhaSz7akYAZ0PFvqzjZM/m3u8
 #EXTINF:-1,LIGA 1 MAX
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYwqaZJlnyoajRimUjLPsXA/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYwqaZJlnyoajRimUjLPsXA/m3u8
 #EXTINF:-1,GOL PERU
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaftR6hWUBLva_pSgXFBvHb4/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaftR6hWUBLva_pSgXFBvHb4/m3u8
 #EXTINF:-1,MOVISTAR DEPORTES TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaXRDjnRNfrbFdeyvPH3f814/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaXRDjnRNfrbFdeyvPH3f814/m3u8
 #EXTINF:-1,DIRECTV SPORTS TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZmK16xZNUmi3Be8bpQNYh0/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZmK16xZNUmi3Be8bpQNYh0/m3u8
 #EXTINF:-1,TNT SPORTS TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZHvtBdAm10dreFrjn5CifA/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZHvtBdAm10dreFrjn5CifA/m3u8
 #EXTINF:-1,TyC SPORTS TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaReqnmxQs2_3mtwmUu3bOfE/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaReqnmxQs2_3mtwmUu3bOfE/m3u8
 #EXTINF:-1,WIN SPORT TV
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaV23kgVIcGiwu29tT3A3pAk/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaV23kgVIcGiwu29tT3A3pAk/m3u8
 #EXTINF:-1,EL CANAL DEL FOUTBOL
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWNnvQ49a0-GOegv5Ac3Ufw/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWNnvQ49a0-GOegv5Ac3Ufw/m3u8
 #EXTINF:-1,BETHEL
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaS3BkzjbQJoVEOsAqgw-X5A/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaS3BkzjbQJoVEOsAqgw-X5A/m3u8
 #EXTINF:-1,24/7 El Chavo Del Ocho
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZ-_UKQKAlbFtUBJwmBZcIs/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZ-_UKQKAlbFtUBJwmBZcIs/m3u8
 #EXTINF:-1,24/7 ONE PUNCH MAN TEMP 1
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PacHl0TIcb1yvCEhLGVI7hE8/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PacHl0TIcb1yvCEhLGVI7hE8/m3u8
 #EXTINF:-1,24/7 ONE PUNCH MAN TEMP 2
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PabSY97stWYoFZdS1GKrf5JQ/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PabSY97stWYoFZdS1GKrf5JQ/m3u8
 #EXTINF:-1,24/7 Dragon Ba|l Z - Saga Sayayin
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQMJCAKpWy8cm0kesu4YKVQ/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQMJCAKpWy8cm0kesu4YKVQ/m3u8
 #EXTINF:-1,24/7 Dragon Ba|l Z - Saga Freezer
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaY7NDLYDjepuSSDA-RmgEbE/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaY7NDLYDjepuSSDA-RmgEbE/m3u8
 #EXTINF:-1,24/7 Dragon Ba|l Z - Saga Androides
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWXsHYS0FKQlAhCn6dV4DZk/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWXsHYS0FKQlAhCn6dV4DZk/m3u8
 #EXTINF:-1,24/7 DIGIMON ADVENTURE
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVuQLM1MyTYj-UVJICRwULc/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVuQLM1MyTYj-UVJICRwULc/m3u8
 #EXTINF:-1,24/7 FUTURAMA
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZL8vHsYmExSTtXZyjWTVgk/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZL8vHsYmExSTtXZyjWTVgk/m3u8
 #EXTINF:-1,24/7 SAILOR MOON
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaSgF6LdHufKOsxtz_QRuA0w/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaSgF6LdHufKOsxtz_QRuA0w/m3u8
 #EXTINF:-1,24/7 SLIME 300
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYpucDEVUXY3tDxj0KOuiOc/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYpucDEVUXY3tDxj0KOuiOc/m3u8
 #EXTINF:-1,24/7 LOS SIMPSON
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWseOMo-_UG9zpJ470miGYU/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWseOMo-_UG9zpJ470miGYU/m3u8
 #EXTINF:-1,24/7 Dragon Ba|l Z - Saga Cell
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Paator8BRstSncdI9Y3hG2JA/ts
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Paator8BRstSncdI9Y3hG2JA/m3u8
