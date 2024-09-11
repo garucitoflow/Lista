@@ -2,11 +2,12 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",Peru Magico TV
 http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKCeth69pHBY2fXwJYunN_fw/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Latina TV
-http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKDqmnXOCAAF0JPDRuujhlhU/ts
+#EXTINF:-1,LATINA HD [PE]
+http://161.97.145.8:80/ADONAI/ADONAI/128.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Huarmey
 http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKIC-0KL1-feox_AZzvFVsuU/ts
-#EXTINF:0 tvg-id="America2.ar" group-title="Channels",America TV
-http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKH2eiAUYFAu4UAIWcY3LuHw/ts
+#EXTINF:0 tvg-id="America" group-title="Channels",America TV
+http://161.97.145.8:80/ADONAI/ADONAI/127.ts
 #EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Channels",Panamericana TV
 http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKCvRZ74LVS5HUCsbmzW365E/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal N TV
