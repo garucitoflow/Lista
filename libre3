@@ -2,7 +2,6 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",Peru Magico TV
 http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKCeth69pHBY2fXwJYunN_fw/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Latina TV
-#EXTINF:-1,LATINA HD [PE]
 http://161.97.145.8:80/ADONAI/ADONAI/128.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Huarmey
 http://182.168.1.11:8585/play/YN_lModYJWG10JGcO5iCKIC-0KL1-feox_AZzvFVsuU/ts
