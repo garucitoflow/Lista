@@ -8,6 +8,10 @@ http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pabps_Fzm6Y_9fgExafDF1QY/ts
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaSZBYK8-JDyU7sZdLXQJLBE/ts
 #EXTINF:-1,AMERICA TV (PE)
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaX6aJHszrbFLp2u4kpkOphk/ts
+#EXTINF:-1,AMERICA HD  [PE]
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYG9KencmaIZwVa0coMgx6w/ts
+#EXTINF:-1,AMERICA FHD (PE)
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVPViwiTvxcuEdXjUYasrzI/ts
 #EXTINF:-1,PANAMERICANA TV (PE)
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaS4LCyBYeHYWsxz_WH1e4nw/ts
 #EXTINF:-1,LA KARIBEÑA
@@ -18,24 +22,6 @@ http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaaOQN4euxNpa1PAAbq8PJO0/ts
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaSLyV1UkfX5oxWEAmA-HTaQ/ts
 #EXTINF:-1,ATV (PE)
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRrJ3q1aCuN_9U8KzH1adTk/ts
-#EXTINF:-1,LATINA FHD (PE) *
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaX3N-vYOsEHSuRwvzCDu3io/ts
-#EXTINF:-1,AMERICA FHD (PE)
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVPViwiTvxcuEdXjUYasrzI/ts
-#EXTINF:-1,PANAMERICANA HD  [PE]
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQkVcXD4jSooH51Xr9gYYhw/ts
-#EXTINF:-1,24/7 ONE PUNCH MAN 1
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PafXZ8ILKOT-fRwDzyMndhtE/ts
-#EXTINF:-1,24/7 ONE PUNCH MAN 2
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRSrVPo-RWuho6LLTsUHKlQ/ts
-#EXTINF:-1,24/7 RANMA 1/2
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaTCGjHWA-dEm8aNgAAtA1VA/ts
-#EXTINF:-1,24/7 Dragon Ball Daima
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaeO4V6NksiwpX5miWmK6ebc/ts
-#EXTINF:-1,24/7 CBZ Torneo Galactico
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PadWrqxUnjSaYedRwO6Ad8eQ/ts
-#EXTINF:-1,24/7 Los Padrinos Magicos
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWGCxidYKdol5who5WpxXJE/ts
 #EXTINF:-1,ESPN PREMIUM
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRaOMD8JOxfnnBR7IzY8-RU/ts
 #EXTINF:-1,ESPN 1
@@ -60,6 +46,26 @@ http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaUpVQqUu0bd2zJeh8hq74gY/ts
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYc7G9vQNCrCJk1b62V15pk/ts
 #EXTINF:-1,MOVISTAR DEPORTES
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaS9UfnJhzvlaJmTHsKXJ-Sg/ts
+#EXTINF:-1,24/7 Avatar
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaY9-vHzMB6lQFt68p5yvfig/ts
+#EXTINF:-1,24/7 Naruto Shippuden
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaZqCZaDd4rCYOYQuHSrPKT8/ts
+#EXTINF:-1,24/7 Dragon Ball
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PacaHoLsGcjIHs9CP9g18vY8/ts
+#EXTINF:-1,24/7 SpiderMan
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWjo0qAMmKU6pIGU3mB8OeM/ts
+#EXTINF:-1,24/7 ONE PUNCH MAN 2
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaRSrVPo-RWuho6LLTsUHKlQ/ts
+#EXTINF:-1,24/7 RANMA 1/2
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaTCGjHWA-dEm8aNgAAtA1VA/ts
+#EXTINF:-1,24/7 Dragon Ball Daima
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaeO4V6NksiwpX5miWmK6ebc/ts
+#EXTINF:-1,24/7 ONE PUNCH MAN 1
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PafXZ8ILKOT-fRwDzyMndhtE/ts
+#EXTINF:-1,24/7 CBZ Torneo Galactico
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PadWrqxUnjSaYedRwO6Ad8eQ/ts
+#EXTINF:-1,24/7 Los Padrinos Magicos
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWGCxidYKdol5who5WpxXJE/ts
 #EXTINF:-1,RPP (PE)
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaWZKYKazTe3E2WiKuVze-ag/ts
 #EXTINF:-1,EXITOSA (PE)
@@ -350,6 +356,10 @@ http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQ0Btg_w4L1Oq32Zgdr7TYk/ts
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaROigA7VpvxOELtkNxh1mFk/ts
 #EXTINF:-1,WILLAX FHD (PE)
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pad6fTVto1KKJCCG9Oc0cyog/ts
+#EXTINF:-1,LATINA FHD (PE) *
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaX3N-vYOsEHSuRwvzCDu3io/ts
+#EXTINF:-1,PANAMERICANA HD  [PE]
+http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaQkVcXD4jSooH51Xr9gYYhw/ts
 #EXTINF:-1,PBO HD  [PE]
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaY5VLj2hxV4eFGHiQqMDe80/ts
 #EXTINF:-1,ATV+ HD [PE]
@@ -360,8 +370,6 @@ http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaW4IQVHs9WpjvRtAowvs2Ck/ts
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaaaZIxPdpykA8ONS9qNjb4E/ts
 #EXTINF:-1,LATINA HD [PE]
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaVIaiLGxZlo74pH_Yd04mIw/ts
-#EXTINF:-1,AMERICA HD  [PE]
-http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaYG9KencmaIZwVa0coMgx6w/ts
 #EXTINF:-1,TYC SPORTS (SD)
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaTltHetF7WZpuTOgLafwssw/ts
 #EXTINF:-1,D SPORTS+ PE (SD)
@@ -404,3 +412,4 @@ http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PaUuk7E70uC353hyIC4TDNCU/ts
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8Pafxo7L-9DzdFA086h3Ol76I/ts
 #EXTINF:-1,TNT Novelas FHD
 http://182.168.1.11:80/play/0eyJ-kUsG45Z07vure8PadFM_6zkTK42tPwrJGeSnTE/ts
+
