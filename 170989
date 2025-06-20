@@ -2,12 +2,18 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1,ADONAI TV [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-9wRDwrgs9LB8T7wdDWrPU0/ts
+#EXTINF:-1,LATINA SD [PE]
+http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-wv1RVLxBKxqOh3Z8qhQtX4/ts
+#EXTINF:-1,LATINA HD [PE]
+http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ--FG7YoGNE8T0ZEquFmspSo/ts
 #EXTINF:-1,LATINA FHD [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-40Y0WyLzFrKldtEaH7jCVc/ts
 #EXTINF:-1,Willax SD [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-w7q3j4hxKkC6vJqilE4czY/ts
 #EXTINF:-1,America TV FHD [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-zA9kke3hgoa3guR5QiLELs/ts
+#EXTINF:-1,AMERICA SD [PE]
+http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-4_WKiY7HxyN0rxIR0yaL4o/ts
 #EXTINF:-1,Panamericana SD [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-5xsdwB7Rc8wai7Bqb_dmtE/ts
 #EXTINF:-1,Canal N SD [PE]
@@ -24,16 +30,18 @@ http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-0k-NJssr1sezylxRV-cuAw/ts
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-8gXkamU9-1Q1eYtmwFNHjg/ts
 #EXTINF:-1,Karibeña HD [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-22fYRF3xudvmbsT27PsQUE/ts
-#EXTINF:-1,Ranma 24/7
-http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-y96sQJzwobCT63TF11Sje0/ts
-#EXTINF:-1,Spiderman 24/7
-http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-7e5kR-oVC0c3DPFOX4EV-8/ts
+#EXTINF:-1,Los Simpson TV
+http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-3uO0QfbqNqr8PdQzKhGuMQ/ts
 #EXTINF:-1,Saitama 24/7
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-1AR6r7-YkdpIBKABkR-u_4/ts
 #EXTINF:-1,Naruto Shippuden 24/7
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-8oPSE6Ujt0Nw0zb7onqfss/ts
 #EXTINF:-1,Los Padrinos Magicos 24/7
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-xguwb1d90QIslJS7hp0SEU/ts
+#EXTINF:-1,Ranma 24/7
+http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-y96sQJzwobCT63TF11Sje0/ts
+#EXTINF:-1,Spiderman 24/7
+http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-7e5kR-oVC0c3DPFOX4EV-8/ts
 #EXTINF:-1,Sky Sports La Liga SD [PE]
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-w2CqKRUOel3Z4FgaZS_6g0/ts
 #EXTINF:-1,Gol Peru HD [PE]
@@ -228,9 +236,9 @@ http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-1MLn-c5Yl_o3Z0aKVQeL48/ts
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-23HAyejFRj2VgIBZpIHzow/ts
 #EXTINF:-1,UNIVERSAL CHANNEL FHD
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-zBNE3a51PFjn7ReAXPltiA/ts
-#EXTINF:-1,V3NUS
+#EXTINF:-1,VENUS
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-3pXmQ5jIRB4ZjpLuFE-xEw/ts
-#EXTINF:-1,PLAYB0Y
+#EXTINF:-1,PLAYBOY
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-7RWn2TjmRcWmyNTvFU48FQ/ts
 #EXTINF:-1,MTV
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-yNJdhSDKa_IUIzxEmKkit8/ts
@@ -356,7 +364,7 @@ http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-0NET1XmRfqYZK0XA_Ly0rc/ts
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-4wZdBZh1-w3NJnJpjiw7MI/ts
 #EXTINF:-1,TYC SPORTS (SD)
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ--c5P-YZDOdN11vzc3FJFOc/ts
-#EXTINF:-1,D SPORTS+ PE (SD)
+#EXTINF:-1,D SPORTS + PE (SD)
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-3id6w6ksBjSu9mxBRg8JHI/ts
 #EXTINF:-1,FX HD
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-yNsanPk9qqUcQgwun91iMU/ts
@@ -390,7 +398,7 @@ http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-_hn3r1yS9dEluxbuX5avqo/ts
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-2NfJsS-UXnVyim8BVWYA78/ts
 #EXTINF:-1,Pasiones FHD
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-yfOQC5BgX7YjuFzFdoGLok/ts
-#EXTINF:-1,kANALD FHD
+#EXTINF:-1,kANAL D FHD
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-2apCYE3dp1xU8bWXJdT_Yo/ts
 #EXTINF:-1,TNT Novelas FHD
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-8aflj5eGgWbfsQMA6NT6mc/ts
@@ -400,6 +408,4 @@ http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-46r-Q5-Nu2UkObdTYSSrds/ts
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-2uj9PxyYrtITjBHm0jPkps/ts
 #EXTINF:-1,Securlive TV
 http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ--vNKLJuSg_YgtUs1Qhstq8/ts
-#EXTINF:-1,Los Simpson TV
-http://185.215.166.58:80/play/OQlwUBat-oLv2mESpqgQ-3uO0QfbqNqr8PdQzKhGuMQ/ts
 
