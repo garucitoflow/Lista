@@ -1,4 +1,8 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1,Planet of the Apes (1968)
-http://182.168.1.11:80/play/53AhLOE-RcduLGaGi-aVXIl6wUk5YyORJwlfSNVaaYk#.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1,Inside Out (2015)
+http://185.215.166.58:80/play/Ddiq48mSb38IpUNOli6KuQljXz48KhfWPu_IpVlCT14#.mp4
+#EXTINF:-1,Inside Out 2 (2024)
+http://185.215.166.58:80/play/Ddiq48mSb38IpUNOli6KuXN4dXJaLHilIl5V-WfOYTM#.mp4
+#EXTINF:-1,The Hot Chick (2002)
+http://185.215.166.58:80/play/Ddiq48mSb38IpUNOli6KuQIem7fJrzxWq_22CYN9MDg#.mp4
