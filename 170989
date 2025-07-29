@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1,OK TEVE HD
+#EXTINF:-1,TLC ADONAI IPTV HD
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGG9huOVo9fXgbTD6PcIBsY/ts
 #EXTINF:-1,PLANETA TV
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAhCnujtvTUHJoelJBk7PHo/ts
@@ -342,7 +342,7 @@ http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7t02K4kStnZXSK3Ii-39g/ts
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL_x3YpJI3RivH28uQwTWCE/ts
 #EXTINF:-1,ENLACE
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNDDuRLsdytIfx62NaWXqcI/ts
-#EXTINF:-1,BHETEL
+#EXTINF:-1,BETHEL
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOZoPUGzMYW_FSafgWY_gAk/ts
 #EXTINF:-1,EWTN
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE7oq9qQCS8oh8N1-c5wTxE/ts
@@ -1590,86 +1590,6 @@ http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOW0LBcKyESz0RJ8JKYKmLQ/ts
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGfmk0wTsNrhRW0x0orKO5I/ts
 #EXTINF:-1,EL CHAVO DEL OCHO 24/7
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE0mp__UyVTlHgmnE25cP04/ts
-#EXTINF:-1,PER | 01 • AMERICA TV
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOL8b66Xi7pMbsl3ByRmi1o/ts
-#EXTINF:-1,PER | 02 • AMERICA TV
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMpXRLTtVgSbEXpHZfAxPtM/ts
-#EXTINF:-1,PER | 03 • AMERICA TV
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHPArpfejV6LfU-Z8naBWXo/ts
-#EXTINF:-1,PER | LATINA OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDWm1eMhfD3M-PF2d88mKRQ/ts
-#EXTINF:-1,PER | LATINA OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKVtv0Lg5ffDE7LqaFv8yLY/ts
-#EXTINF:-1,PER | PANAMERICANA OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPlytZpYmjoXb08uW24qzvw/ts
-#EXTINF:-1,PER | PANAMERICANA OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ0K28dUuXdZTci09MU1pbo/ts
-#EXTINF:-1,PER | PANAMERICANA OP3
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNRadMHChqTzq-Pbxxl3RtA/ts
-#EXTINF:-1,PER | ATV OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF6xb1wIZjRSdaMOb7i_B8o/ts
-#EXTINF:-1,PER | ATV OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCFnKeJO_fIvymsz92bmUxc/ts
-#EXTINF:-1,PER | ATV+ OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFIUhDAqSAfyUiPh3LgwxjI/ts
-#EXTINF:-1,PER | ATV+ OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMSUH_lrFRySJTU5ShoKs1c/ts
-#EXTINF:-1,PER | RPP OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGnUlSq2_T_A-19RFAydL9o/ts
-#EXTINF:-1,PER | RPP OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGJGmaOZ6dD509NZHzTylPM/ts
-#EXTINF:-1,PER | EXITOSA OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpALCco6nI5N7V7W48GRFd9Y/ts
-#EXTINF:-1,PER | EXITOSA OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNI2qY2EWIWopnSgNteIaXw/ts
-#EXTINF:-1,PER | TV PERU OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDl3thI8SOuGCmq6wAfTeUQ/ts
-#EXTINF:-1,PER | TV PERU OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKPfs64ye7Gu-Iaf_se3BP4/ts
-#EXTINF:-1,PER | TV PERU OP3
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPFw2pjfSQPsqfFpcBbEqK0/ts
-#EXTINF:-1,PER | TV PERU NOTICIAS OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLxfoPg3gwlZ7pHGCt2PZ1w/ts
-#EXTINF:-1,PER | TV PERU NOTICIAS OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKSzIUc0_bkv0QUk2SWcpUY/ts
-#EXTINF:-1,PER | TV PERU NOTICIAS OP3
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKJ7VbXUfmftlBx74Th-FDE/ts
-#EXTINF:-1,PER | SOLTV PERU
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLhNVPXm2-07IAft6qJrdQE/ts
-#EXTINF:-1,PER | TV Cosmos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBHD2RypH01t6iBII7aYuG8/ts
-#EXTINF:-1,PER | PERU MAGICO OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG0zbjxgeZr-85MEl-ILDP4/ts
-#EXTINF:-1,PER | PERU MAGICO OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAXZftJVh8f-C8oYr5aVE5g/ts
-#EXTINF:-1,PER | CANAL N OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK1CYXPhHX6-D7MAD-yQpS4/ts
-#EXTINF:-1,PER | CANAL N OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGdczTPDNIHB-7u7r49B9No/ts
-#EXTINF:-1,PER | CANAL N OP3
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCD9Cz5gChkg9x9to31s-f0/ts
-#EXTINF:-1,PER | BETHEL OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPYaiIdNqw67LzrqZCHSfSs/ts
-#EXTINF:-1,PER | IPE OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHg0YmhORRJLAvzsM649CCk/ts
-#EXTINF:-1,PER | IPE OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFuF6tO9GFf2AGa2EmwfzMg/ts
-#EXTINF:-1,PER | WILLAX OP1
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP0QSqmByvr2GrWxwFjrbjE/ts
-#EXTINF:-1,PER | WILLAX OP2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPfUl2EHv5bKYqpnAKvkQK0/ts
-#EXTINF:-1,PER | WILLAX OP3
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ0ikYUWWDTKUWAmbRULVt4/ts
-#EXTINF:-1,PER | TV ONE
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIyVb6VwDis2zFhVYYTWLyc/ts
-#EXTINF:-1,PER | GLOBAL TV
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMpkg7my8_jIZ3BpY_ic6pw/ts
-#EXTINF:-1,PER | NATIVA
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDHzB2-FXUTmD15kej5qvBc/ts
-#EXTINF:-1,PER | HECHICERA TV
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB5znsvgKgh2LpnJZ_LjfH8/ts
-#EXTINF:-1,PER | |NATIVA
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCzGnFTKH3aEruG_sEpAqSs/ts
 #EXTINF:-1,Mundo de la Musica TV | CL
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBmD-nN0Fx0jJWeySdw2uG4/ts
 #EXTINF:-1,Planeta TV | PE
@@ -1794,725 +1714,169 @@ http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEOQiF4R-RHwsQKm0fxKBjo/ts
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCbCUlnn2Gtpr_QVE3CEXJk/ts
 #EXTINF:-1,CABALLEROS DEL ZODIACO - ALMAS DE ORO 24/7
 http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKRZ5Gz6TBcnnt_VtMDnMCc/ts
-#EXTINF:-1,✨24/7 MOV NETFLIX KIDS (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKFCQr8y4Qb_AZAqzgfvVZc/ts
-#EXTINF:-1,✨24/7 MOV NETFLIX KIDS (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHce1daGmdccxPQ6pQvDg9M/ts
-#EXTINF:-1,✨24/7 MOV NETFLIX KIDS (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPVkO5T-FEE7EAexerYNKog/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKdFHQIb_glqD1Yl4QvTM1U/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLsFFtZSDfHMjjMqV86YbeQ/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBfg6a3xIQCIYcIv_4usFT4/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (04)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEt5KXdHq_R1jizyKLBRUJA/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (05)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCOYdDTChxg_mycJEG3lASY/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (06)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIgSUqgB2y81SvxNW59M_58/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (07)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI9IJY6rGSZVaU8bnMdIqrA/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (08)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLTrVyhdXhG8fUrPazl1SDk/ts
-#EXTINF:-1,✨24/7 MOVIES NETFLIX (09)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKm1YVoUgWYnsXEgTVmu26c/ts
-#EXTINF:-1,✨24/7 MOVIES AMAZON (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFLd09hyDeWRLI7lOZBqzFw/ts
-#EXTINF:-1,✨24/7 MOVIES AMAZON (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNk_X3s3eaSWCc-XTrLDPuo/ts
-#EXTINF:-1,✨24/7 MOVIES AMAZON (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLO_aqWIfEnQvBPQYw1KCuU/ts
-#EXTINF:-1,EVENTOS NETFLIX 1 ( SOLO EVENTOS )
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGLKfuiXLQy9OLafHUVbJLU/ts
-#EXTINF:-1,EVENTOS NETFLIX 2 ( SOLO EVENTOS )
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBkZLY7LhXjf_lCF9OcyCH0/ts
-#EXTINF:-1,EVENTOS NETFLIX 3 ( SOLO EVENTOS )
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI4UhFdrV_jn3schtV_uE1k/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGQ6i8dV50xiohwOlWooibY/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMGtqdyOcpujE2cgl_gMNSg/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBcA-lURNb0dcC6Wr9Ozpp0/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (04)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOn1mLPUMmwd3irGj73jfbk/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (05)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGD3l5gaGPL2nlnPYt-tjTA/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (06)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHTavO8ZaGtGZy6oJOsfuPs/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (07)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMoGSPOzEMM4AssyMD94SSo/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (08)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFIsRqvpudBENEAhnLfDpcQ/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (09)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBscB-tKMF7rmpTLMao4ZUs/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (10)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK2GoCtAShOVdInzqPCVwKQ/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (11)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK_k0Rwdr_9mxCYUIgOseMs/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (12)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDDgkUYX647UKrCUA-yEREM/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (13)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCd86IZBFxjQxje9s-84dII/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (14)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK2ILBWbdv4Qb6eH7ieQcGM/ts
-#EXTINF:-1,✨24/7 MOVIES 4K (15)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFobWTWZ48bgO7xgtBb_ldA/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIJmNN62yJOwX2n_hejx4YE/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGjqU04AyyqdUzP3MmARtPE/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNwj4X26Kk2eU3VtdyoPYRQ/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (04)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpChRs8xmvhkKcq4LKkNAqik/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (05)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL0-uxYhhwdKTztKPdrHLk0/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (06)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKyTk7w9J0xzdrhEkC_qTzw/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (07) (BATMAN)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNk9_H5zQtqClC03rdtU9tk/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (08)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO-s0J9HU3d9YQP69bWvHC8/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (09)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMtqCxRjcCL_bXYl2anBbh8/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (10)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNmvt0oEigBZK56tAH1_DX0/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (11)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOI7LkVuF3pB6dEVjweuBTg/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (12)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNStCzJdYrmYaTbq3rEx3rM/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (13)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEvkc4S_b3HBlq_GzjjaWLU/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (14)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOy0hoPBDRQ05_elh42zdmQ/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (15)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOuC3EbdeLPzOHnxNOUJ1kA/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (16)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKW3Zzo_i7MND5MSaJXdOd8/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (17)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPbfBYcMrsE4Lqp6s-OCUbM/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (18)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOBwqH0J2cM0zNUEr47Br-E/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (19)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIjOvzX15bf_dEv7DgF-wws/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (20)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLuWUIFY9baHNIz5e__59lI/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (21) (Harry Potter)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFmTsmJJpqTpEF_2RVwvYSY/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (23)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJATMW0csGYREas8uAamH64/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (24)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLTEDcKaiVZrfIqBuftbuoc/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (25)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPjnFaZ_fmyq0HVNashfVhA/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (26)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDdktcJwSCCx5vXxymzONeQ/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (27)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA2QBLyzJoXpOSf8VnUXGgM/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (28)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG5RfA8eYc8kB-fFrVivXz0/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (29)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNaEsf2XqVpYvTjz3bpNrEA/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (30)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLD3SMS9S3qZECgzuFnKGA4/ts
-#EXTINF:-1,✨24/7 MOVIES HBO (22)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBUTnv3p7hdd9U74dCnYbJ4/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA1oPV0FGWRZFCv1_IH8uCk/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBYadrUvRuLq0OzMN1nc23E/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBlf9adkam2IymANweEUDKY/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (04)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLI8n21Udw_Rgk1pOJsN_YI/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (05)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG5HeJrFDQdcEgZw2RGSjFo/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (06)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCxk2oghyHlZq8rybct_9j8/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (07)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH_XGdFiPJLAwc5MCPIEo1I/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (08)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGxuQg5K7Qz4-ZTNNXvSx7Y/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (09)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOQxpmMnSwOaIBiH9rwh7tc/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (10)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDnfyHQ2j2TIW4cE0Verg_Y/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (11)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAQd9E_cUL_tX8jB8ynXsBk/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (12)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE2sjcaSiHN9lzUxww6D0kQ/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (13)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ2kzpJBngO9HpphameAm1o/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (14)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDf03OcGHqjgvQz6_GCT0Ac/ts
-#EXTINF:-1,✨24/7 MOVIES DISNEY (15)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFUXzQD4_HpFAFAzBqHfF2c/ts
-#EXTINF:-1,EVENTOS DISNEY+ 1 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFlOUjmTGfO_7SXDoSuNYbI/ts
-#EXTINF:-1,EVENTOS DISNEY+ 2 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDOP2_jdTQV86nsdWBaPbVE/ts
-#EXTINF:-1,EVENTOS DISNEY+ 3 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJYm6LKUkSoGEVkPaWjqkZ0/ts
-#EXTINF:-1,EVENTOS DISNEY+ 4 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIG3H4CFLFyQXQ9OtphwWBY/ts
-#EXTINF:-1,EVENTOS DISNEY+ 5 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG878nUNvClDLteF3ku3D8o/ts
-#EXTINF:-1,EVENTOS DISNEY+ 7 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCbY9JHs03M9HkiRzt7wG2o/ts
-#EXTINF:-1,EVENTOS DISNEY+ 8 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEN__vaUSBwVpfiUY7Le63I/ts
-#EXTINF:-1,EVENTOS DISNEY+ 9 (SOLO EVENTOS)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKSw6OdUxBPQKUq-hJesII8/ts
-#EXTINF:-1,EVENTOS DISNEY+ 10 (SOLO EVENTOS - REPLAY)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHyLuwKYyOkPLtXh7yYEtO8/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDI4I3yAlk4fTg7PNNfAdlU/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPdavYmVk1OaKdM39fjfJ-g/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPUseHmA8tnnY0wllibFm6A/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (04)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG-XIif3z0EGtH2mfX-6ZQg/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (05)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIVxo7aNgWtGxNmC9eHXHQY/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (06)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBd104N72W-d2HstrI1bHoE/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (07)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGJAsXDWZQlH86JmRG6XTrE/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (08)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF9u5E_VkXfwCKBvQu-J-dk/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (09)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF2MRS7KB1Xykiclu_IYTFA/ts
-#EXTINF:-1,✨24/7 Cinema Comedia (10)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBeqNX38nr78Xyf9uoXAkQM/ts
-#EXTINF:-1,TOROS HD (OP B)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMX6rBcGUuR_6j80pts7o_g/ts
-#EXTINF:-1,Alien Saga
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJdA8Q2GjMgkRhfpj4uS4cU/ts
-#EXTINF:-1,Arma Mortal 24
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHuNggpNkm-1sggARQjjTto/ts
-#EXTINF:-1,Chicago Fire
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB6hVTV7RHk0Rv7m0InS5xY/ts
-#EXTINF:-1,CSI
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMjjnKMJ-GU2M0dKDVVRJsw/ts
-#EXTINF:-1,Invicto
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFIkcrbbi-P7QrAlXgmf8Yw/ts
-#EXTINF:-1,American Dad
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA3XMqw_TgaLKynPAYEFd0o/ts
-#EXTINF:-1,Bojack Horseman
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJJD45zJC3ZHGG7r9IpJ-oo/ts
-#EXTINF:-1,Caballeros Del Zodiaco
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF9w3DGeHozL-NMBLq_JM6A/ts
-#EXTINF:-1,Chicago Party Aunt
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM7z13UbOAbnwCif5jkq4VU/ts
-#EXTINF:-1,Dragon Ball
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIKT1QFRRrfXw7WmG1cRimk/ts
-#EXTINF:-1,Dragon Ball GT
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPWh6X_u0nOiJir66SZt6LY/ts
-#EXTINF:-1,Ricky Morty
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOSiUfdiI3BoXPGjxpFgYHw/ts
-#EXTINF:-1,Casa De Los Dibujos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCl04mBeBaLA3FMu8qvbGwI/ts
-#EXTINF:-1,Futurama
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG6oElZVsArpkojegcfI7es/ts
-#EXTINF:-1,La rosa de Guadalupe
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKVN49FBN-MoDmBlWqCqkro/ts
-#EXTINF:-1,Maria mercedes
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJFHtaPAY2VlZ89MPveUpes/ts
-#EXTINF:-1,Soñadoras
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLE5arYr-iNkdFiW94UMFek/ts
-#EXTINF:-1,Maria la del barrio
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHRzIvv2sUnNBibJF7FMdtw/ts
-#EXTINF:-1,Constantine
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBNiyTrJ5V3SCCZpbjFUuKw/ts
-#EXTINF:-1,Cuentos De La Cripta
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEqj2P4x47UI6lcYG7EWFsw/ts
-#EXTINF:-1,Adventure Time
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEzk292-e8_W2L_epFxacVQ/ts
-#EXTINF:-1,Animaniacs 2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP0TBRY9WTyEZALth_FpPLI/ts
-#EXTINF:-1,Ben 10 (2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKdudTB-XBOVuBzBCK2HUgo/ts
-#EXTINF:-1,Ben 10
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDL5u0lR1vAZI6YzVRPUlNg/ts
-#EXTINF:-1,Bugs Bunny
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpALOLMGDjDhYbiDAK0UT8pM/ts
-#EXTINF:-1,Don Gato
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKgM2OGLEwWYKYh5FzM1zdo/ts
-#EXTINF:-1,Dos perros tontos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAj9zuJ_DWU_KYof8FEdIbw/ts
-#EXTINF:-1,El Vengador
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAMsqDC2YSyAkRbcvfJedyg/ts
-#EXTINF:-1,Mickey Mouse
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEJsEJoHc870RfnlHAg92K4/ts
-#EXTINF:-1,Puca
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCeh28uep2MwuSgyucDN3p4/ts
-#EXTINF:-1,Vampirina
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIkapJsQLYHA_l9NEaH4aMg/ts
-#EXTINF:-1,Coyote
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBOGEkeJcPV7qioZLCQNAVU/ts
-#EXTINF:-1,El Gato Cosmico Doraemon
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCxsOyTvjfOkdIyduLdwKy8/ts
-#EXTINF:-1,Hey Arnold
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGRcUneWoPvR7bTIzuhQ860/ts
-#EXTINF:-1,Looney Toons Baby
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLSNqxwe2t-qAgbB38H2vo0/ts
-#EXTINF:-1,Jefe En Pañales
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMvpFtTtk8M3nulBd03zGM0/ts
-#EXTINF:-1,BKN
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAZDAeQjfViHwJfUts9o1y0/ts
-#EXTINF:-1,Eres Mi Tesoro
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO0MjRDRvkcYbGksjI0l2hc/ts
-#EXTINF:-1,Mujercitas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKSRKTuIHDvFnAYiTIAu8QY/ts
-#EXTINF:-1,24/7 LOS SIMPSONS
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKjz_bsOVVdiHs9RbyKOkm4/ts
-#EXTINF:-1,24/7 LOS SIMPSONS T12
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO6v4uVHNU1UmeOcrtClV0w/ts
-#EXTINF:-1,24/7 LOS SIMPSONS T11
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA8-5_Q6q1Lr5n_UHi5oS3o/ts
-#EXTINF:-1,247 LOS SIMPSONS 12-17
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDeTqV0QSvL0gki6MV5oLik/ts
-#EXTINF:-1,✨24/7 EL CHAPO
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB7HJNstuoOST_H1ClGVB3Q/ts
-#EXTINF:-1,✨24/7 EL CHEMA
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIpNzQAXl_C7paNb6BRJkfI/ts
-#EXTINF:-1,El Recluso
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN5xCA4miySawG8mqyLBbXs/ts
-#EXTINF:-1,✨24/7 ENEMIGO INTIMO
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOhlCxgH9C2c-Ii3zB6NRFI/ts
-#EXTINF:-1,La Reina Del Sur
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI18yu-ARKyD4FxO-yabCMQ/ts
-#EXTINF:-1,Maria Felix
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF9XJqPtqmb-x1-YIu7VCCc/ts
-#EXTINF:-1,Muñecas De La Mafia
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFK7ECy9DUpv-Ol69hBOkWU/ts
-#EXTINF:-1,Narcos Mexico
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMvcE4BCyqI_K7qfNBU1E-0/ts
-#EXTINF:-1,Regreso A La Guaca
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJnPTmIEcIbvcFSuOUG4Mzw/ts
-#EXTINF:-1,Señora Acero
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNbZDgQ-nzOYYBVb-rPbzlI/ts
-#EXTINF:-1,Amor Musical
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ_joYeMkm7teROrwN0HFCY/ts
-#EXTINF:-1,Apuesta Final
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE3T3YmzXD2nX9HoQv9Sn8I/ts
-#EXTINF:-1,Astuta Y Soltera
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJzUv3qhhwU1VzswRBhtzAE/ts
-#EXTINF:-1,Beatiful Man
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKpyOYTiaaw2v7GeucTE2ks/ts
-#EXTINF:-1,Belleza Juvenil
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIXYzYgGw4xPysOBPfMnVjM/ts
-#EXTINF:-1,Bulyaseong
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD3HroCVXYR7qiBIERqjbM0/ts
-#EXTINF:-1,Calido Y Acogedor
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHH2Vh5590oEpIKNmvfVjfE/ts
-#EXTINF:-1,Chicas De Oficina
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCb0ZWKH2hRIR7wkDAQy57I/ts
-#EXTINF:-1,Chicos En Busca De Amor
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMyOPTdjqMjXxtETfVWaHNA/ts
-#EXTINF:-1,Cindera Man
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFUj3BjMGeopaL9BRW5yTLw/ts
-#EXTINF:-1,Contrato Para Una Boda
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLK7RcjBwyXKb4lmxyk3OsM/ts
-#EXTINF:-1,De Las 5 A Las 9
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFm6gjY0OSEHpXJnNbPqeVE/ts
-#EXTINF:-1,Del Cielo Al Infierno
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLa-5qnBdNCDOx3xyORO-RA/ts
-#EXTINF:-1,De Nuevo Un Final Feliz
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGSOHkpWwl29eLy5Chc4i_Q/ts
-#EXTINF:-1,Doctors
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLne5cAM5gOX3XeZZZtVrNo/ts
-#EXTINF:-1,Educando A La Princesa
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLgjXEuiq5bQzR-27JcB8mM/ts
-#EXTINF:-1,El Fenix
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPnmCgL7tz55gR4Lq_B2KAk/ts
-#EXTINF:-1,El Hada De Las Pesas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE9TYpNHh5LB5THGUvlRn5I/ts
-#EXTINF:-1,Hombre De La Princesa
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNnP7Xr6Yb1UsNhQdzznUhQ/ts
-#EXTINF:-1,Liveman
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDo-IuVUWNsGWsJN85vBIGA/ts
-#EXTINF:-1,Mi Preciosa Señorita
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIPA9hnHS6OZzsAKNpZ5he0/ts
-#EXTINF:-1,✨24/7 Viuda Negra (S01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIutP794DRy-HwqNCOk4X5E/ts
-#EXTINF:-1,✨24/7 Viuda Negra (S02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCvOGiSyCfx993aEThZvkgs/ts
-#EXTINF:-1,✨24/7 El perfume
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFJPAUzelvVa1LBheRabras/ts
-#EXTINF:-1,✨24/7 El infiltrado
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNIs_wXPyP7FqaD9K230Wj8/ts
-#EXTINF:-1,✨24/7 El Candidato
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDLpJALoJlgptgPsoW-9qrY/ts
-#EXTINF:-1,✨24/7 De Yakuza a Amo de Casa
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK4ejnzLgQ-Y7A64P6L5gbw/ts
-#EXTINF:-1,✨24/7 Bad Blood
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI6TcAXEOAWCqLuT3L6PTdI/ts
-#EXTINF:-1,✨24/7 El Cartel de los Sapos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP4vEoaF_u2OzQUdP-z4Nmc/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG2wCbh6keoQavjBSs86qPw/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLBpEITsEbmC3sAkuc1qrUY/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEQl6WxN7r68QyHv9-a3j9c/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 04)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHfb_LgxLfUBX6YcpUulPGA/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 06)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ4VmEeCD2Tk6hvs0Uwb86A/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 05)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKy0_zFCFzkDq4uFXAoUYXM/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 07)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpACEmGnekFONr8y12xk2INQ/ts
-#EXTINF:-1,✨24/7 El Señor de los Cielos (Temp 08)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNla7Wea-Etb0M3A3dAQqd0/ts
-#EXTINF:-1,✨24/7 In the Dark
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIQS1jBPAFwLJGdTXGyPUiI/ts
-#EXTINF:-1,✨24/7 Ingobernable
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFD5PYYjskKJE4-vZxIqiu8/ts
-#EXTINF:-1,✨24/7 Reina Ester la Salvadora
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM1I1rQvR0m3QeHrqaeNakE/ts
-#EXTINF:-1,✨24/7 Amores Verdaderos (parte 1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNlJXykPMP8r5c_qB8VEJI4/ts
-#EXTINF:-1,✨24/7 Amores Verdaderos (parte 2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPAadZRCbtHxJfJ1lZ3bYcA/ts
-#EXTINF:-1,✨24/7 100 Días para Enamorarnos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOcBJ_8ZzC_rqr6DSd2KB_k/ts
-#EXTINF:-1,✨24/7  40 y 20 (2016)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNctx3dlPEud1Ex0MF4Jo7E/ts
-#EXTINF:-1,✨24/7 A Corazón Abierto (parte 1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMBxRRE7WuvLM6ygWGhHPYc/ts
-#EXTINF:-1,✨24/7 A Corazón Abierto (parte 2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBQETsqyi-Dkj-p7_4vCxmU/ts
-#EXTINF:-1,✨24/7 Al Diablo con los Guapos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFqYo0Ph-nmv_28RI96NsiM/ts
-#EXTINF:-1,✨24/7  Alcanzar una estrella
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP_OGz96Tt81LgFubGSODes/ts
-#EXTINF:-1,✨24/7 El Capo (Temp01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBH7EFzAHyyOraR46WMAwwE/ts
-#EXTINF:-1,✨24/7 El Capo (Temp02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGAbPT0Cc7SwWojZU63eiZQ/ts
-#EXTINF:-1,✨24/7 El Capo (Temp03)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1SJpwF51Cvqd8U3Buug0Q/ts
-#EXTINF:-1,✨24/7 Alias el Mexicano (Parte 2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJmc45yHnr0bj3b_dG4dMLE/ts
-#EXTINF:-1,✨24/7 Alias el Mexicano (Parte 1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAY_OFu-F-834JyPJLZTrJU/ts
-#EXTINF:-1,✨24/7 Sobreviviendo a Escobar Alias J.J. (Parte 2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIsfvpNazCeHDHNAsrKI7M8/ts
-#EXTINF:-1,✨24/7 Sobreviviendo a Escobar Alias J.J. (Parte 1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFbilQpsa-Z5mpprkzIX6xE/ts
-#EXTINF:-1,✨24/7 Amar a Muerte
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPn5-dkon1D9usuXp8-d-YQ/ts
-#EXTINF:-1,✨24/7 Amarte es mi pecado
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBXRFvPW_cHAybdE64s1OgY/ts
-#EXTINF:-1,✨24/7 Amigas y Rivales (parte1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGrJ_N71FgBywKYi_CRndzA/ts
-#EXTINF:-1,✨24/7 Amigas y Rivales (parte 2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMuTOo-8SfWLqTd0mrs2IRE/ts
-#EXTINF:-1,✨24/7  Amor a Segunda Vista
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMI7qJ3O2-lgokDd6uioNWk/ts
-#EXTINF:-1,✨24/7 Amor de Barrio
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL97IYY-sTkrq_-_amtsyeU/ts
-#EXTINF:-1,✨24/7 Anonima
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIoKxyifmsbJxoB67gnGfC4/ts
-#EXTINF:-1,✨24/7 Abismo de Pasion (parte1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMzgFFELKXtCKsp58LLSZEg/ts
-#EXTINF:-1,✨24/7 Abismo de Pasion (parte2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM8BCz_kdp-_pCq_w9ZXyus/ts
-#EXTINF:-1,✨24/7 Abrazame muy Fuerte
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGGkF5BcEvyEvJDzP2e-M7Y/ts
-#EXTINF:-1,✨24/7 Alas Rotas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAXH6cjFMAVtJLYmNBpv810/ts
-#EXTINF:-1,✨24/7 Alborada
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOXD5ptuEedJpGVe35E9g50/ts
-#EXTINF:-1,✨24/7 Alguien te Mira
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA3c5PxaUXywZMVIkeDdPso/ts
-#EXTINF:-1,✨24/7 Alma Revelde
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLiR7kkj-a0s1vSE-hcx1HA/ts
-#EXTINF:-1,✨24/7 Amarres
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGKm1-DxuLnmj_eN7ovrirs/ts
-#EXTINF:-1,✨24/7 Amor Obstinado
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB-TiKc2XsS1Z9RgJbW-pWQ/ts
-#EXTINF:-1,✨24/7 Amor Real
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAjTjRwXOaiDDQpO4I0kD0Y/ts
-#EXTINF:-1,✨24/7 Amor sin maquillaje
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJIIAiauFolmInSdx_OsdhY/ts
-#EXTINF:-1,✨24/7 Amy la niña de la mochila azul
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEet-A-X1-7pXfwEPRnN3uI/ts
-#EXTINF:-1,✨24/7 Angela
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEOPVWlZwzTM58LkwwqXkfQ/ts
-#EXTINF:-1,✨24/7 Antes muerta que Lichita
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKLXstn9TyfWFLUbDqZTSN4/ts
-#EXTINF:-1,✨24/7 Apocalipsis (2017)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHSezV864-gxo-Kq1PUmWuM/ts
-#EXTINF:-1,✨24/7 Bloque de Busqueda
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFwFVnv2PzdOFSzQa1G80X8/ts
-#EXTINF:-1,✨24/7 Tres Caines
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCEgye28eolB9OWuhVxLIw4/ts
-#EXTINF:-1,✨24/7 Apuesta por un Amor
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBy8Z1zwf5XZuijmWz7pbsY/ts
-#EXTINF:-1,✨24/7 Aqui no hay quien Viva
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ3l73HP-1ch1xmHMQM_Mck/ts
-#EXTINF:-1,✨24/7 Avenida Brazil
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDdzFjZ2b6NHUq60RVfd7Rk/ts
-#EXTINF:-1,✨24/7 Aventuras en el tiempo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM_nWSPEg0P_5_Pl_Z1a6RQ/ts
-#EXTINF:-1,✨24/7 Azucar
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAUTlkrlWM6H3fqyAHwRPn8/ts
-#EXTINF:-1,✨24/7 Bajo un mismo Rostro
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGcZYJlWbhTrxS3To4Bn1Vg/ts
-#EXTINF:-1,✨24/7 Buscando a Frida
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGR-Annlz36_9MVjGfjYX8E/ts
-#EXTINF:-1,✨24/7 Betty en NY
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN6lPs1vM-L08F4Rp4YsJ6Q/ts
-#EXTINF:-1,✨24/7 Yo soy Betty la Fea (parte1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDqxo4eG6BZbbUhYCdq4g9w/ts
-#EXTINF:-1,✨24/7 Yo soy Betty la Fea (parte2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFWnEjl0viH0-1dVGJZjF-o/ts
-#EXTINF:-1,✨24/7 Yo soy Betty la Fea (parte3)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFCpYUt5v3gqVnBtFMK7oVE/ts
-#EXTINF:-1,✨24/7 Bolivar
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEFcx06_XJ-54erYeUfDAqE/ts
-#EXTINF:-1,✨24/7 Cabo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPwOR3JbemSJrhTkdwxsKLk/ts
-#EXTINF:-1,✨24/7 Cafe con Aroma de Mujer (2021)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCexh3L3g5BjjUR90lIavDg/ts
-#EXTINF:-1,✨24/7 Clase 406 (Parte1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFWRwQdlIq9CxwFPz6gCthc/ts
-#EXTINF:-1,✨24/7 Clase 406 (Parte2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDjLiYfUfp0V4WHQcQ2LKQU/ts
-#EXTINF:-1,✨24/7 Club 57
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKHGgFGMMudFEg5ob09Nzfw/ts
-#EXTINF:-1,✨24/7 5 Viudas Sueltas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNWJmsZ7b5g70LS_9lUVVaU/ts
-#EXTINF:-1,✨24/7 A Mano limpia
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAUcXUasf6NBH2nDFG2u5is/ts
-#EXTINF:-1,✨24/7 Adrian esta de Visita
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNxk4DrT4TgyI9c7H_GqWYM/ts
-#EXTINF:-1,✨24/7 Alla te Espero
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIKsT-A3Zgn1WuNioglYAtg/ts
-#EXTINF:-1,✨24/7 Amanda Hay Amores Que Matan
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOJHij9Nktiz_eJI3fQeZPY/ts
-#EXTINF:-1,✨24/7 Amantes del Desierto
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOrdYyiQ3Bpx7iIr7l3ig9I/ts
-#EXTINF:-1,✨24/7 Amar y Vivir
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBgjplvZKTxUBqihIKh_52A/ts
-#EXTINF:-1,✨24/7 Amo de Casa
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFz3ajTN4GBRXDwS61QT8Tg/ts
-#EXTINF:-1,✨24/7 Amor en Custodia
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBrFQ5BKi6C3Ex5yN5AAWDw/ts
-#EXTINF:-1,✨24/7 Amor Sincero
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEVlj9h17SMzCtIs_IfS6qY/ts
-#EXTINF:-1,✨24/7 Amor a la Plancha
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGVv9BojVXNQtP4g4-M73g8/ts
-#EXTINF:-1,✨24/7 Arelys Henao Canto Para No Llorar
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCUQ9JyZNf3FcmRPscJoexc/ts
-#EXTINF:-1,✨24/7 Bazurto - Made In Cartagena
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG4J2bdEt4ermD0DaoKwydY/ts
-#EXTINF:-1,✨24/7 Todas odian a Bermúdez
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL4i-MQzUmlMcf1QcHYPixI/ts
-#EXTINF:-1,✨24/7  Cafe con Aroma de Mujer (1994)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCeFhfhO0Ez8rmLtT47g2EU/ts
-#EXTINF:-1,✨24/7 Candela
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG5i-DeHDZWA--1br9POf7k/ts
-#EXTINF:-1,✨24/7 Celia
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAjNzb-1GYA5vL20fYBAcxI/ts
-#EXTINF:-1,✨24/7 Chepe Fortuna
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHgA2SOC14qTifnW-5eHKIU/ts
-#EXTINF:-1,✨24/7 Chica Vampiro
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJp0u6cha_UlijQBIrhtkps/ts
-#EXTINF:-1,✨24/7 Clase Ejecutiva
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHuZ9amN_P5_3N4KtbuJBT4/ts
-#EXTINF:-1,✨24/7 Comando Elite
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNjellf6muvRUFnyAi-w-Rc/ts
-#EXTINF:-1,✨24/7 Contra El Tiempo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN9H0k-zW2WchaHjNMoetYk/ts
-#EXTINF:-1,✨24/7 Corazones Blindados
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJxspFCsMBIFsT1dtt2aq48/ts
-#EXTINF:-1,✨24/7 Correo de Inocentes
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7nNWZ_k0twlomKmpB0GmM/ts
-#EXTINF:-1,✨24/7 De que tamaño es tu amor
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKcOjuMNLeHpelHixVhMQII/ts
-#EXTINF:-1,✨24/7 Diomedes Diaz El Cacique De La Junta (parte1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG2EWA7HMT09SN-mCcWMptA/ts
-#EXTINF:-1,✨24/7 Diomedes Diaz El Cacique De La Junta (parte2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNt-qobuKGc7xbneh9kdYeA/ts
-#EXTINF:-1,✨24/7 Donde esta Elisa
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIVAxjZetREXpQqdiyEAtd0/ts
-#EXTINF:-1,✨24/7 Dora La Celadora
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIP58TmlUU7cECio7u0WeqM/ts
-#EXTINF:-1,✨24/7 Doña Bella
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKynjzghD0bdO8WnnCrmJOo/ts
-#EXTINF:-1,✨24/7 El Amor es mas Fuerte
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPy3Kcox7pEe68wKXB9imb0/ts
-#EXTINF:-1,✨24/7 El Autentico Rodrigo Leal
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMiRiQZaJLzmVkivE7G-lxI/ts
-#EXTINF:-1,✨24/7 El Baile De La Vida
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPC6xbdJFRQq_rM67UuhshU/ts
-#EXTINF:-1,✨24/7 El Bronx
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEMy3sUj8C7w78n4k7va_Hg/ts
-#EXTINF:-1,✨24/7 El Clon (parte1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIahEKxwIKsazaL2DzaS9xY/ts
-#EXTINF:-1,✨24/7 El Clon (parte2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEReZGTRwTf4llnvJL3bIJw/ts
-#EXTINF:-1,✨24/7 El Comandante
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCkaXx37khcJaxN2ep8Tzs8/ts
-#EXTINF:-1,✨24/7 El Encantador
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEpObxVrkZSPWAIxQcQKnYw/ts
-#EXTINF:-1,✨24/7 El Estilista
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPHYfCdeG6vAmReiiXLPXJg/ts
-#EXTINF:-1,✨24/7 El Fantasma Del Gran Hotel
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKKKbG5zbQy20U4YQbJS8G4/ts
-#EXTINF:-1,✨24/7 El Fiscal
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLz-X69rMj-2ikOST8_xMRM/ts
-#EXTINF:-1,✨24/7 En la Boca del Lobo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBi9Kt3rcbI-aO5tSRPMy80/ts
-#EXTINF:-1,✨24/7 El Secretario
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJi06PbuvqmDaY_huLIJGMk/ts
-#EXTINF:-1,✨24/7 En Los Tacones De Eva
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFbuk5JhA6k6ZV32p35SCv4/ts
-#EXTINF:-1,✨24/7 Enfermeras (parte 1)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJgOCB6IKIfEXZhccObbNGY/ts
-#EXTINF:-1,✨24/7 Enfermeras (parte 2)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIEqyjN4Eq-fvUg6v3JcINA/ts
-#EXTINF:-1,✨24/7 Enfermeras (parte 3)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKnG65fm7WRhiJcYbeT4yAU/ts
-#EXTINF:-1,✨24/7 Entre Sombras
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJKSUOaUsHar5q41GpfcIz4/ts
-#EXTINF:-1,✨24/7 Escalona
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHV5hacdD91H5gwaQcuf4-g/ts
-#EXTINF:-1,✨24/7 Esmeraldas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJjnVS71QUljG8qXEl1AdaM/ts
-#EXTINF:-1,✨24/7 Fortuna
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLv7l9kiPbXFgrqOZJuUeyg/ts
-#EXTINF:-1,✨24/7 Francisco El Matemático (2017)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNy1Qkge5wKgK2Orbko-HM4/ts
-#EXTINF:-1,✨24/7 Fujitivo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPC5hClUyxZejSqdSPAy3Ms/ts
-#EXTINF:-1,✨24/7 Gabriela Giros  Del  Destino
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCfSbdNYVpTV3ktxuEjol7g/ts
-#EXTINF:-1,✨24/7 Gallito Ramírez
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGWc4gaV-94hcAla7l5jtNE/ts
-#EXTINF:-1,✨24/7 Guajira
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC8gwnB_7DiI-CX7UbQ4GYE/ts
-#EXTINF:-1,✨24/7 Hasta Que La Plata Nos Separe (2022)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGmQ9-pZREKYhtqzA9QPhqU/ts
-#EXTINF:-1,✨24/7 Hasta Que La Plata Nos Separe (2007)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB1BKLsL7cF4XxM002dag54/ts
-#EXTINF:-1,✨24/7 Hermanitas Calle
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLVYK7kL8DDG85_XgFCzuUU/ts
-#EXTINF:-1,✨24/7 Hermanos y Hermanas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDU_4uH-SgqV2NMFEZ3gxSg/ts
-#EXTINF:-1,✨24/7 Hilo De Sangre Azul
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMU_ArM4pNHRAivtbez4sjQ/ts
-#EXTINF:-1,✨24/7 Hilos De Amor
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBG_fTHUorHhnynvKNVfxZI/ts
-#EXTINF:-1,✨24/7 Historias Clasificadas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGIQjHttr-lqdqxeg5x9otA/ts
-#EXTINF:-1,✨24/7 Infieles
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAkN5HDbfdNFDeVTeG2pfyQ/ts
-#EXTINF:-1,✨24/7 Juegos Prohibidos
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGdBQ0eoG7eNef5aFT1WfOk/ts
-#EXTINF:-1,✨24/7 La Baby Sister
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJS9PmyYXzntLzla5uEJgBo/ts
-#EXTINF:-1,✨24/7 La Bella Ceci y el Imprudente
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM-Mxr-tsKSI1bEQaY42d4M/ts
-#EXTINF:-1,✨24/7 La Bruja
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDbY8Kjvz0dCWgyCS5rBG7U/ts
-#EXTINF:-1,✨24/7 La Caponera
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNg5FR-wzuDymTkKT262CSs/ts
-#EXTINF:-1,✨24/7 La Casa de las Dos Palmas
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGWm-Su8Dbh2a6PGGf2lw80/ts
-#EXTINF:-1,✨24/7 La Costea y El Cachaco
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJGOrFjTZPqR-exANj2H9JY/ts
-#EXTINF:-1,✨24/7 La Dama De Troya
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO3fvVJLSVG44nX6mVjLwkE/ts
-#EXTINF:-1,✨24/7 La Dinastía Morales
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJS1BZhoLGwsId7q-ENcKOc/ts
-#EXTINF:-1,✨24/7 La Diosa Coronada
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBW6UjZKGRd7RK5gJv0z1yY/ts
-#EXTINF:-1,24/7 MALCOLM
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEc3GUwKU-phWJbx6PkrxYc/ts
-#EXTINF:-1,✨24/7 Friends (T1 a T3)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKdGNx4O3PC_eYjePmqcVdc/ts
-#EXTINF:-1,✨24/7 Friends (T4 a T6)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCbQCIOkoYzc9UO1qfNaxUA/ts
-#EXTINF:-1,✨24/7 Friends (T7 a T10)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDJ97-MHlrNejBR0fEaPq7Q/ts
-#EXTINF:-1,✨24/7 Caso Cerrado - Crímenes Pasionales
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOdr3Dsfgpo_k9SP3CuowQM/ts
-#EXTINF:-1,✨24/7 Séptimo Día CO
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLFGAu_fB2LG0yAcRA1vBFc/ts
-#EXTINF:-1,✨24/7 Rastro CO
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP_HRrX_YjY2MOclDSwJPAk/ts
-#EXTINF:-1,✨24/7 Alerta Aeropuerto (01)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGDPIZ3c-XZMjrwdfgzUwck/ts
-#EXTINF:-1,✨24/7 Alerta Aeropuerto (02)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKbJ1TCf7rAt3isDA7tOpzw/ts
-#EXTINF:-1,✨24/7 El General Naranjo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMYPAZPsc5q-frrvRnHpZiU/ts
-#EXTINF:-1,✨24/7 Naruto Shippuden (T1-T4)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNEKGqmtw1zzoz4ugyz3ZjE/ts
-#EXTINF:-1,✨24/7 Naruto Shippuden (T5-T8)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL4dmzxGbrOqR53oHumYMqc/ts
-#EXTINF:-1,✨24/7 Naruto Shippuden (T9-T13)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEMJnsEj4G2yxQw88KrkEoY/ts
-#EXTINF:-1,✨24/7 Dragon Ball Z
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMkCovkSnYIjYnYr6cstGoc/ts
-#EXTINF:-1,✨24/7 El Gallo de Oro (1980)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAZmjpJvxDnCD-lDkzGIoT4/ts
-#EXTINF:-1,✨24/7 El Gallo de Oro (2023)
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGpNJiajrJ3vAs1MbDgx12w/ts
-#EXTINF:-1,✨24/7 El Inutil
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBBhvEWR28aCPeCUAQ94xmM/ts
-#EXTINF:-1,✨24/7 El Joe La Leyenda
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNsCj-xYlx-bjgmK2FCkOy8/ts
-#EXTINF:-1,✨24/7 Ecomoda
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBTDkIiFwJrCKsqfbRrELDY/ts
-#EXTINF:-1,✨24/7 El Laberinto de Alicia
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN82AeRdrlxjAk_d1SEpe40/ts
-#EXTINF:-1,✨24/7 El Man es Germán
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA6Yy2nBn5I2M3y-wMxqN8o/ts
-#EXTINF:-1,✨24/7 El Pasado no Perdona
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHPcTu4a3RQsltIzuPZAyUM/ts
-#EXTINF:-1,✨24/7 El Penúltimo Beso
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFBrXLdlv2-AAa2HumYg_MI/ts
-#EXTINF:-1,✨24/7 La Esclava Blanca
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHC20rO4nCRF77lG7jfRvWs/ts
-#EXTINF:-1,✨24/7 La Esquina Del Diablo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFDFVH2Sd15Vupthqef1ORc/ts
-#EXTINF:-1,✨24/7 La Ex
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNrK2TdMCk6BFgNPIeiAgoo/ts
-#EXTINF:-1,✨24/7 La Fuerza Del Poder
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIuxF0Yc45QaHuIkF4rLmR8/ts
-#EXTINF:-1,✨24/7 La Gloria de Lucho
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNhtOz3Ud9Vdnbr2q9W2c1M/ts
-#EXTINF:-1,✨24/7 La Hija del Mariachi
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIm9Iy6NZBiX32-Aus8RugQ/ts
-#EXTINF:-1,✨24/7 La Hipocondriaca
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPZOTorc7QYAYY59GFdtymc/ts
-#EXTINF:-1,✨24/7 La Lectora
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBwKhk3bMYRAG-9z16wjelM/ts
-#EXTINF:-1,✨24/7 La Ley Del Corazón
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFUlOi1ml_lxKhUbJ7ItEDo/ts
-#EXTINF:-1,✨24/7 La Ley Del Corazón 2
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE6hFKeZQXwPYg6d8hyFcg4/ts
-#EXTINF:-1,✨24/7 La Ley Secreta
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEQCICiiMS0PFEFu6KwXFFA/ts
-#EXTINF:-1,✨24/7 La Madre
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCA93eg05UK9g_po02h0wOo/ts
-#EXTINF:-1,✨24/7 La mala hierva
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK0EINo3CerCPQitzwjutXo/ts
-#EXTINF:-1,✨24/7 La mamá del 10
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKnF8EpGHchaEj8HOrfvGDc/ts
-#EXTINF:-1,✨24/7 La Marca del Deseo
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEoFrxgD-3EcahhA1BC1584/ts
-#EXTINF:-1,✨24/7 Vivos EC
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJyhqSftUW7gzf7cJng2o90/ts
-#EXTINF:-1,✨24/7 Mis Adorables Entenados EC
-http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFeLSoHD4IlCYZhJkxljXrQ/ts
+#EXTINF:-1,LOS LOONEY TUNES 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD4pm-VNrRZMomvESA2L8v0/ts
+#EXTINF:-1,MILF
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCpAM8Te0O7wbypsVLfLuQY/ts
+#EXTINF:-1,Big Dick
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAzuaQVd3Ottxq8N9EyHjtE/ts
+#EXTINF:-1,Big Tits
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ2ij-CHSYf6q8qRZaeeGvU/ts
+#EXTINF:-1,Fetish
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDiRXwN_qSve1PW2dR4lXEg/ts
+#EXTINF:-1,Pornstar
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKOv1beJ8n5gtAoYdy3kxJ8/ts
+#EXTINF:-1,Big Ass
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBaLCvkEfYF_WKJ0Ner60i0/ts
+#EXTINF:-1,Interracial
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB35Gc62XjMEGvWWuc9Aww0/ts
+#EXTINF:-1,Latina
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM1iR7F2pmjPPE5PR1UL-kc/ts
+#EXTINF:-1,POV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO7IuMnzhu_VJdtJI0dqC1c/ts
+#EXTINF:-1,Blowjob
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDKSA0RwTqmosmh9rgy8HiY/ts
+#EXTINF:-1,Teen
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFLE3VYq96ttti3x7gKGBSw/ts
+#EXTINF:-1,Hardcore
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNJfhpp-wshq5cSKUunrQlk/ts
+#EXTINF:-1,Cuckold
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEjY3jIKA3Nw_0J2XukeaRc/ts
+#EXTINF:-1,Threesome
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC3st3JLYVcKa6RurF6KWd0/ts
+#EXTINF:-1,Russian
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOkoqG9SrAc8_C64MT_aMgE/ts
+#EXTINF:-1,Lesbian
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHD5kzQGXOhFgHGqgiY7i-w/ts
+#EXTINF:-1,Miami TV Latino | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMur6UR8296tnjrZtSqz_k8/ts
+#EXTINF:-1,Miami TV - Jenny Live | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFXfaBUlaflRo36iFexjyC0/ts
+#EXTINF:-1,Miami TV | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHN_eEFyZf6duWvtE1sC7Qs/ts
+#EXTINF:-1,Russian | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCjGOA9wh7DjG11UqsfTIgQ/ts
+#EXTINF:-1,Pornstar | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGHPTVvBCdATndaMdzZbzK0/ts
+#EXTINF:-1,MILF | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN2j8gpjl4Dck98iwIcFrS0/ts
+#EXTINF:-1,Hardcore | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO4XQcQ95aYP1eD1jjEnEFA/ts
+#EXTINF:-1,Fetish | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO1G3rjLIqwxP3mf9xE9YK8/ts
+#EXTINF:-1,Compilation | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHVOMxNDCXIvxNqgpwUddCQ/ts
+#EXTINF:-1,Big Tits | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEeBoSXZ3KNJLnVB6kAAL38/ts
+#EXTINF:-1,Big Dick | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMu3r950xZcvj8OSGc4oaQA/ts
+#EXTINF:-1,Big Ass | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJWpWaoy7jmZvAHzvX7-3Ts/ts
+#EXTINF:-1,Anal | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE-8ULDEnOFdsi0JsIRFus8/ts
+#EXTINF:-1,Teen | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDUgyR7fp0v5dFKh82Uh05U/ts
+#EXTINF:-1,Latina | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAERXSb_5a0OAtwBpPuTl9o/ts
+#EXTINF:-1,Blonde | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF36k2HDGT8TlMqGQpu83dA/ts
+#EXTINF:-1,Brunette | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMS52xn4joK3yfPe_WF3bTE/ts
+#EXTINF:-1,Interracial | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOrXr2OPyCv5hbYuY50sK-A/ts
+#EXTINF:-1,POV | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpELd15fz0cs-Om9BRvMI0j4/ts
+#EXTINF:-1,Blowjob | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNWokFwBOeOEq9Soq7SWUqM/ts
+#EXTINF:-1,Threesome | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDywk-S5ppkStNys9WjVGPo/ts
+#EXTINF:-1,Rough | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBkhSbRj4TcXhly-SnYgoMM/ts
+#EXTINF:-1,Gangbang | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHQiqZdScm8t6gKho6lOZ-0/ts
+#EXTINF:-1,Live Cams | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMMEIIIP1YEFfxLzG1lTXvA/ts
+#EXTINF:-1,Cuckold | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM06wk78wL-jrMzxY9lTEMM/ts
+#EXTINF:-1,Lesbian | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMyqcFDloS21aeoWguZd7fA/ts
+#EXTINF:-1,Gay | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBY38t0f11iDcxwZ_P9Y8ew/ts
+#EXTINF:-1,LORD OVERLORD 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLWosUd8iYLvxbB4CaNrUXo/ts
+#EXTINF:-1,PER | 01 • AMERICA TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpABM1i30-nicah9mvDvSbTc/ts
+#EXTINF:-1,PER | 02 • AMERICA TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCEqNZf7lf-PhpG_3_kEazo/ts
+#EXTINF:-1,PER | 03 • AMERICA TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPyezNGk996tStUct_pA9i0/ts
+#EXTINF:-1,PER | LATINA OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD3I7JVqE3Gxnvcgbg6fx48/ts
+#EXTINF:-1,PER | LATINA OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNJPQx3RdF1oBKXiL4uwS-4/ts
+#EXTINF:-1,PER | PANAMERICANA OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKS3Prdw3WFsNjJD2ng62wc/ts
+#EXTINF:-1,PER | PANAMERICANA OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEgwgB4sQDDTd7sdrZ79m10/ts
+#EXTINF:-1,PER | PANAMERICANA OP3
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA2DFkVilOQ3UeemudcAzmI/ts
+#EXTINF:-1,PER | ATV OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFj7IlKjBdS5557w_3faqoo/ts
+#EXTINF:-1,PER | ATV OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBPDNEjkKQQcg5MKbiE79OQ/ts
+#EXTINF:-1,PER | ATV+ OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJqu__AIA5eXZ2V2KqYn-uI/ts
+#EXTINF:-1,PER | ATV+ OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1Aj6YVStDvXc4VPCGcX2Q/ts
+#EXTINF:-1,PER | RPP OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAaFQ1NiW6ihlbRuSU91Dh4/ts
+#EXTINF:-1,PER | RPP OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKCsuuMTZ5DxGOg8NSSO3Tw/ts
+#EXTINF:-1,PER | EXITOSA OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLOFFijkN2fHb4pR_ZAd1Z8/ts
+#EXTINF:-1,PER | EXITOSA OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFgV4U2KU00Hz_FQmgikHa0/ts
+#EXTINF:-1,PER | TV PERU OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNJhp89HaoBoXXGD7j2wKW8/ts
+#EXTINF:-1,PER | TV PERU OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMhdzaKIdLyER_g42H78G8w/ts
+#EXTINF:-1,PER | TV PERU NOTICIAS OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJYux9Cj8bzpb_pwiLFi1UY/ts
+#EXTINF:-1,PER | TV PERU NOTICIAS OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpChw_b7Dcdy1ME1xkRULDkU/ts
+#EXTINF:-1,PER | TV PERU NOTICIAS OP3
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFse2FpTikn1SVFIapJDJkM/ts
+#EXTINF:-1,PER | SOLTV PERU
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLAUmGe55ZSaSQz6Jjiavhg/ts
+#EXTINF:-1,PER | TV Cosmos
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFJyD8wkOmVeEB93IrTAHuU/ts
+#EXTINF:-1,PER | PERU MAGICO OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBqGBpc-mnC23Jf9rl28CfY/ts
+#EXTINF:-1,PER | PERU MAGICO OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMg4Pof33jlUdmqVhyF-M04/ts
+#EXTINF:-1,PER | CANAL N OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHa_KyWrRMCr-PkB1Di0AgM/ts
+#EXTINF:-1,PER | CANAL N OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDKtonTVfspR_TLQ9EZSl3c/ts
+#EXTINF:-1,PER | CANAL N OP3
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJQ36vn2FDjdJ1sirHGvidk/ts
+#EXTINF:-1,PER | BETHEL OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDZ2wW20O_hBhoES4BfrA3Q/ts
+#EXTINF:-1,PER | IPE OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPigkxPqJzYwQKZ8H4RenVA/ts
+#EXTINF:-1,PER | IPE OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAjvjbWlQhE_j7_9Qx2bGh8/ts
+#EXTINF:-1,PER | WILLAX OP1
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGw4hAE6sIiBCXUS1wC1o7o/ts
+#EXTINF:-1,PER | WILLAX OP2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBwzdi0nyzT6I0qaefWtK6U/ts
+#EXTINF:-1,PER | TV ONE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHV7qoJXtJ6irnyuhYIzKGo/ts
+#EXTINF:-1,PER | GLOBAL TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHXW2RwLQMeFvUiaKgvcrFY/ts
+#EXTINF:-1,PER | NATIVA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJEgig_YGRUvfMD_tks6AHs/ts
+#EXTINF:-1,PER | HECHICERA TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEC6O0Z2-9_MrXXCsf60CXg/ts
+#EXTINF:-1,PER | |NATIVA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAH6MIpwXL4LmbszhjiKQ_8/ts
