@@ -1,1332 +1,1846 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1,ADONAI TV [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjsHMUIupQ2wfGWPmQq89Kw/ts
-#EXTINF:-1,LATINA FHD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEit8vxKwiCIXygNsSb_Aldg/ts
-#EXTINF:-1,Willax SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEt-sbZeWjy4MwAUXcrpjujc/ts
-#EXTINF:-1,America TV FHD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvp2TX2o3EaxdbZnEH1pNYc/ts
-#EXTINF:-1,Panamericana SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh86gJn6g8mTvHM4MiQ3Sgk/ts
-#EXTINF:-1,Canal N SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhyRLcke7Q4KB0ptq6qvGN4/ts
-#EXTINF:-1,EXITOSA HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEs_ROr5hJ0FI3pItEusXf6w/ts
-#EXTINF:-1,ATV HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEloCkZg-TtU5V8IzOAncz9M/ts
-#EXTINF:-1,ATV + SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEroiRshK0AI1v92frnGzeqs/ts
-#EXTINF:-1,TV PERU SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErxtCsOO3vWH9U-7LLEmCF4/ts
-#EXTINF:-1,PBO HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp42HbG0JmS-OVEkuy5pL6w/ts
-#EXTINF:-1,Karibeña HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhAxvGVzLz35Qde6nbLeTHw/ts
-#EXTINF:-1,Ranma 24/7
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmf_ip0LyTzR5cwwQDlz4QU/ts
-#EXTINF:-1,Spiderman 24/7
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjynQdCR6sYcAtmFlBhkFRw/ts
-#EXTINF:-1,Sky Sports La Liga SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuuxl3aU7nnzjIWjPbCmOAc/ts
-#EXTINF:-1,Gol Peru HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhAVuucJWwzccCRB93hCJVA/ts
-#EXTINF:-1,DIRECTV SPORT FHD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhZjJsmsaK5EiOdcLR-8Vkw/ts
-#EXTINF:-1,Planeta TV HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEt1G4twOPuSqPSPfnh5_vYA/ts
-#EXTINF:-1,RPP HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEptyQlNNdNIu0gEoRe3f4Og/ts
-#EXTINF:-1,TELEMUNDO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErfwYcW8Z5eRZ6QAXX83BYk/ts
-#EXTINF:-1,PASIONES
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu_Bu7T6CytsmfTf-s947R4/ts
-#EXTINF:-1,LAS ESTRELLAS
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsHBHCAK0pGH5_MhIFpcDJc/ts
-#EXTINF:-1,TELE NOVELAS
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj4AKSGwbKeDv-0g-Ep25X4/ts
-#EXTINF:-1,KANAL D
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErkzKinvsBnBGd1BnxDbQvs/ts
-#EXTINF:-1,DISNEYCHANNEL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjauEH3jaj67nylhMiW_rmI/ts
-#EXTINF:-1,DISNEY JUNIOR
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkHEHysY1lhA3lF19hFJ130/ts
-#EXTINF:-1,NICK
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvQ_2kSvqj4jl2c9hOOe05w/ts
-#EXTINF:-1,DISCOVERY KIDS
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnoI9fLya-BMn1QOF1k0ys0/ts
-#EXTINF:-1,NICK JR
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEucmkQYbsMcgkSjqP76D4zI/ts
-#EXTINF:-1,DISTRITO COMEDIA
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmiNi0oxY64oI1jQCAqCTPE/ts
-#EXTINF:-1,DREAMWORKS
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmcrxR_DbOUyst3aoO8Fv00/ts
-#EXTINF:-1,SONY
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErrj6xZr-lx56TsY6YK256A/ts
-#EXTINF:-1,SONY MOVIES
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEr4ANj-lufrOQPfmI_ZwoLg/ts
-#EXTINF:-1,STAR CHANNEL (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvDnlPMy9s1G4nhyEGW0v14/ts
-#EXTINF:-1,AXN
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjJQm5MKmWWbmExjmNO9Nz0/ts
-#EXTINF:-1,CINECANAL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkrwHzMDFbS-IAjGqtrVmmo/ts
-#EXTINF:-1,UNIVERSAL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq7qfQJOx2EPND7dsK8nAQI/ts
-#EXTINF:-1,GOLDEN EDGE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjRbTyQVdZttMoXwXHwrktY/ts
-#EXTINF:-1,GOLDEN
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu-4UZMzC3PD3rjd4HzrndY/ts
-#EXTINF:-1,FX
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmDlLICXCvvYYFlluyLt-cs/ts
-#EXTINF:-1,STUDIO UNIVERSAL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEncIzmEuyK3D65zC7z7XzW8/ts
-#EXTINF:-1,PARAMOUNTCH
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjO9GiaVhHYoE5op170P5iU/ts
-#EXTINF:-1,AMC
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv05Ux_LYbU9Lj_DfCYyocQ/ts
-#EXTINF:-1,SYFY
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEifdQdkQLFRMrb9RloEk298/ts
-#EXTINF:-1,DE PELICULA
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsqXzg7UFIubsNrA3nbCHBw/ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjIedPTZeoGzMoPPUjldWU8/ts
-#EXTINF:-1,DISCOVERY SCIENCE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq6tC6G6t_b2YIjgRZ33jpE/ts
-#EXTINF:-1,DISCOVERY TURBO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgJyPmHLMMhPlM15fbNuC-Y/ts
-#EXTINF:-1,HISTORY CHANNEL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEm45_YneBWoHWiY3clfS8e4/ts
-#EXTINF:-1,HISTORY2
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvIFA3-_-65Ld3CGX_WcLoA/ts
-#EXTINF:-1,NATGEO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhRYvzOYdl3YKWyIdDdUeA4/ts
-#EXTINF:-1,ANIMALPLANET
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEshC93edXd_KasYpFKE5xlk/ts
-#EXTINF:-1,ESPN
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmVzns8ZR_wsadnEh-QXVtQ/ts
-#EXTINF:-1,ESPN 2
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtAvylrD6S7DQNkQaD9m9D4/ts
-#EXTINF:-1,ESPN 3
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjEvoMPtLcw9pw_pLiw7qAc/ts
-#EXTINF:-1,ESPN 4
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnFOhzS0MFq60tP7_Qui6Ko/ts
-#EXTINF:-1,FOX SPORT 1
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElM-cJbGjZghA0I0Q-mgs-0/ts
-#EXTINF:-1,ESPN 7 (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiyu2R1p5Apje4XRhQAqWXU/ts
-#EXTINF:-1,ESPN 6 (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEscbjQm1ZhkvWa6Uisu3QF4/ts
-#EXTINF:-1,DISCOVERY ID
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu3ugOCpkf96FDSPYwXWWoU/ts
-#EXTINF:-1,CANAL N (FHD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg41ev2yqOruvrTTsNFcg0c/ts
-#EXTINF:-1,HBO (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsICCVkOnSAUtWSafz4wstc/ts
-#EXTINF:-1,HBO PLUS (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErXhFfc7IN0-UIYGcvifOKw/ts
-#EXTINF:-1,HBO XTREME  (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsPhJy4JeK_thA6pQ8Y7MOE/ts
-#EXTINF:-1,HBO FAMILY (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsmgaVg-RzmQ_0YMXlWzCFs/ts
-#EXTINF:-1,HBO 2 (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErYAVevXIjtx0AZI3D-qu7g/ts
-#EXTINF:-1,SPACE (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEs591YYNGrHfaYsvM0FiLt4/ts
-#EXTINF:-1,CINEMAX (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoGmGgEEA35hC31giHs5oys/ts
-#EXTINF:-1,GOL PERU PE (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj4_GCnu9eHUicxmV0248fY/ts
-#EXTINF:-1,D SPORTS PE (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvdmh1RJoXey4-h5q-pKFjc/ts
-#EXTINF:-1,MEGA TV HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEswaopSXqJlQPc6wIWPGPGs/ts
-#EXTINF:-1,STAR TVE HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvu3MwwopTF0Tap04nNgODo/ts
-#EXTINF:-1,ADULT SWIN  - TRUTV HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqE3fTX4E0Q1SffD0L7HT-s/ts
-#EXTINF:-1,HOLA TV HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuJBnbSIGxw8K_Z8xw6dnAQ/ts
-#EXTINF:-1,MTV 00 HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkRx7bXn4K8XHYkbDjVxI7Y/ts
-#EXTINF:-1,AZ CINEMA HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv0q6zWPOsISBZ4x8BJeOTI/ts
-#EXTINF:-1,MTV LIVE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsqlWvZcwqS2p4L3VhYZx_s/ts
-#EXTINF:-1,STINGRAY CONCERTS HD *
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvjLO3_QgGAPc3z3Td6zQP0/ts
-#EXTINF:-1,SUN CHANNEL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmNLxNtUh_R0cicsIloF3V4/ts
-#EXTINF:-1,RCN HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmJPMNbhz1SK1Cr5byKMY0E/ts
-#EXTINF:-1,ATRES SERIES HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElls_vXOe0wbOFDN9kd2k2E/ts
-#EXTINF:-1,CLOVER HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmpIqM_ZqNqgPFdgJVJ4Z_A/ts
-#EXTINF:-1,utv
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqKQn8_MXOQ7P0OLZO5yxtw/ts
-#EXTINF:-1,STAR CHANNEL HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmOISZhkSK0gYardaO3wmE8/ts
-#EXTINF:-1,Sony HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvuPQ3t9aMyNyDFkBMM3PbA/ts
-#EXTINF:-1,Space FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEouJbpdmzC1EUGelEZpPAXE/ts
-#EXTINF:-1,Studio Universal HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqwuYaltldfKfyyKu8hkILQ/ts
-#EXTINF:-1,TNT HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgbgfSdN6k24jOofZRfFr9g/ts
-#EXTINF:-1,TNT Series HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsNx7ICuJRSQg7yaUcFPpG0/ts
-#EXTINF:-1,PARAMUNT HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkoG9fnLpvNf4Kl0oAH6j3w/ts
-#EXTINF:-1,AXN HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEji--WpWFb0vR139gWgEkKM/ts
-#EXTINF:-1,Cinemax FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEs78x5fkTDWBl4bPkyFvjio/ts
-#EXTINF:-1,Comedy Central HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtNSeUJlqn8PAnZFLeLu870/ts
-#EXTINF:-1,Golden HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqjmip8q0GvTVORnYbwKVfo/ts
-#EXTINF:-1,A&E HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtvPYRBEKNxHeZ4DUJj1rBE/ts
-#EXTINF:-1,ATRES SERIES HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElFZCpjEQUrIuaVraUI8x-o/ts
-#EXTINF:-1,AMC HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuyu-YCwr_PByysjWtjitT4/ts
-#EXTINF:-1,Cinecanal HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpKcgixatiBwP_5ElrnWG4s/ts
-#EXTINF:-1,Warner Channel HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElpLAz8cHE4-RXwBEDNLxEc/ts
-#EXTINF:-1,HBO HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhR4fSFm6mp5Rro3X19Y9lE/ts
-#EXTINF:-1,HBO 2 HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElPwdlr47MceBWGFmirXFLM/ts
-#EXTINF:-1,HBO XTREME HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEot5BGd9MD1JYs4tXagFmOw/ts
-#EXTINF:-1,HBO FAMILY HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq0_U4rkk7RwQrHuuTCOUWQ/ts
-#EXTINF:-1,HBO plus (HD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkXDJaVKYKMXNU-bljhTrsw/ts
-#EXTINF:-1,HBO POP HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsInT63FYmh5F4XzsNYNVy8/ts
-#EXTINF:-1,UNIVERSAL COMEDY FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpGdEjBleeVqZcimH_h3m2U/ts
-#EXTINF:-1,UNIVERSAL CRIME FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoliKsWIPlebnTIYRzfe6Ms/ts
-#EXTINF:-1,UNIVERSAL PREMIERE FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEglrT_yF9rJzEBrUiPl3cUY/ts
-#EXTINF:-1,UNIVERSAL REALITY FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhxmb6Px6as_vR6AXoBTIwI/ts
-#EXTINF:-1,UNIVERSAL PREMIERE O FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtOc407jN3QMClkDwQ_pYkA/ts
-#EXTINF:-1,UNIVERSAL CHANNEL FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsWIY-czOVRT-8MIfrJ1QeQ/ts
-#EXTINF:-1,V3NU2
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhZfCrz_cx6gdg3WQ8kjRio/ts
-#EXTINF:-1,PL4YB0Y
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoffaU5CReCym_m241QkfUA/ts
-#EXTINF:-1,MTV
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElpm4dh8zDQSMndLjxdoD0A/ts
-#EXTINF:-1,univision
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtxUjL_Gyk7aAqWyFQsmkzU/ts
-#EXTINF:-1,Ei
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEr4GUDR-lJD59VWjD1u2y88/ts
-#EXTINF:-1,AyE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgNRnuypKFQd1Tew4uyAfOI/ts
-#EXTINF:-1,MOVISTAR DEPORTES
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhVJExSBr46EXsCfvCPxh9I/ts
-#EXTINF:-1,TOONCAST
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvEPNY32C0-pwBG1lMc9GkM/ts
-#EXTINF:-1,CARTOONITO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEksaHYRQICIgg9VfgNgegNs/ts
-#EXTINF:-1,RCN TELENOVELAS
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEm5GgbicelDSKzL9Kz5IYts/ts
-#EXTINF:-1,EL TRECE HD (AR) TAG-CGO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErQsFMUlgOq1rFQMhen5xv0/ts
-#EXTINF:-1,TELEFE HD (AR) TV3- CGO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvCiAVqiQ7UHuiMoYDqKWY4/ts
-#EXTINF:-1,HUAYNOS TV (HD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkT0ZN6WxpjgUvpu3T4tQuw/ts
-#EXTINF:-1,ENLACE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElFdiA-21SyJnlIwB434axc/ts
-#EXTINF:-1,BHETEL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqDcP_CWAYxDSYu80KGCLHA/ts
-#EXTINF:-1,EWTN
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjYzEqnlIJp3x1-tY0ywsCw/ts
-#EXTINF:-1,Discovery Home & Health
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnUBAlj0uhEi3VL4-H34GrQ/ts
-#EXTINF:-1,TLC
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEke74qCgNAf5A86DLK3rUdc/ts
-#EXTINF:-1,GOURMET
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtWqElI2MVUMLkjqQkHWHO4/ts
-#EXTINF:-1,FOOD NETWORK
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvJuDzAaLHmRSjit_L9AjTI/ts
-#EXTINF:-1,LIFETIME
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsJQKvg871jafosg3qzfTGQ/ts
-#EXTINF:-1,HISPANTV
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkJ6u2VSxX8ZtZzbpUOTrsg/ts
-#EXTINF:-1,TELESUR HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmRZPgVb2-iMeeKK-9_7_NI/ts
-#EXTINF:-1,RT
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpYz4Ze0bZ4ARaZ-F4pKMBg/ts
-#EXTINF:-1,CANAL CORAZON
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk5len1v_TE_nxtf_B0aJSA/ts
-#EXTINF:-1,NICK MUSIC
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEr0xMEOxAw8vOlD-_dBYoiw/ts
-#EXTINF:-1,GLOBAL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEma4WYk_LfVGN-oY4qBHH_0/ts
-#EXTINF:-1,NUEVO TIEMPO
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqfcen2Qf8B-Xas7_rVBS4k/ts
-#EXTINF:-1,DISTRITO COMEDIA
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj_mRlLm_xiVmC5H8_oWVqY/ts
-#EXTINF:-1,3ABN
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElgvMe9cjUgZ2vzE377wAFI/ts
-#EXTINF:-1,SEÑAL COLOMBIA
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEizJA6SP2gpB_VWYOBZHI9U/ts
-#EXTINF:-1,CGTN ESPAÑOL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq6-aMkIUXu9QCBQiT5BSLw/ts
-#EXTINF:-1,DW ESPAÑOL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnczzN65W9QdJxQqB70hucc/ts
-#EXTINF:-1,COMEDY CENTRAL (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtQz-5Ziam7Bz3eLHrsEosE/ts
-#EXTINF:-1,TNT (HD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk9pUxIi7thaGU9KQXOnF04/ts
-#EXTINF:-1,DISNEY JR (HD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjeWUJ7PbK6gyi93mFDlMx4/ts
-#EXTINF:-1,BABY TV (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjVa15PGDyawD4XT-O23Mq0/ts
-#EXTINF:-1,CARTOON NETWORK (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjoNWRczQCoIbjOaG7H55IY/ts
-#EXTINF:-1,TELEMUNDO HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElTUsLxfzDojNg15MC69-O8/ts
-#EXTINF:-1,ESPN HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnojgpfGyYfDZ5DkPj3lNnY/ts
-#EXTINF:-1,ESPN 2 HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv06a2oFUnMPv8KwRpL96Wg/ts
-#EXTINF:-1,ESPN 3 HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElebmDD9jt484G1yBPbAzrE/ts
-#EXTINF:-1,ESPN 4 HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjv8dD4N3Hiu2vbSF9V75KY/ts
-#EXTINF:-1,ESPN EXTRA HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoNsyZtfmwIPVQt8KdV47AA/ts
-#EXTINF:-1,GOL-PERU (HDL)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtgl4oAVT4E3Np3Om6n1qJc/ts
-#EXTINF:-1,LIGA 1 MAX - FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvkcQFD3gVXhGm971YZf38g/ts
-#EXTINF:-1,Movistar Deportes FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmxGfM4HWAtu3UjzgMxzmm0/ts
-#EXTINF:-1,GOLPERU FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmdrg5IM5jeurCf0Ab-KJjk/ts
-#EXTINF:-1,LIGA 1 MAX HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmasrD9fXZpRX9K9INcmtS0/ts
-#EXTINF:-1,TNT Sports HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoL1oziE5r-jaVYz-xXwAJU/ts
-#EXTINF:-1,TyC Sports HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv-OWAqlyo4Va_XUYgyE1sQ/ts
-#EXTINF:-1,FOX SPORT 1 FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuo0ajCP5uxUm4Va_BSDn5I/ts
-#EXTINF:-1,FOX SPORT 2 FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjnYdvGUSPOj579TRw7J4Mc/ts
-#EXTINF:-1,FOX SPORT 3 FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtpJSBETDX6_n0lOzQPp8VI/ts
-#EXTINF:-1,WIN SPORT
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvyGp_m9RgZmLUCALTGQkCk/ts
-#EXTINF:-1,EL CANAL DEL FOUTBOL *
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv9Xse8XSAEQTFwRS_wqqGM/ts
-#EXTINF:-1,WILLAX FHD (PE)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvHr9AK_hRkDYt-XATk3jCo/ts
-#EXTINF:-1,PANAMERICANA HD  [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhMycovwfC7wVdTmVLgRuLU/ts
-#EXTINF:-1,ATV + HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEi0sXwLDTwHSvGuYYknV7u8/ts
-#EXTINF:-1,WILLAX HD  [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqHdoKiS6aLr9xQx4BHEypw/ts
-#EXTINF:-1,Uranio TV HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgwKuBMEWn_K8TyB4Qw6zKk/ts
-#EXTINF:-1,AMERICA HD  [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnOVXzbuOWxlz_6DvomDl4M/ts
-#EXTINF:-1,MOVISTAR DEPORTES PE (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEro7IrZsQLYRaoo26JwPlYA/ts
-#EXTINF:-1,TYC SPORTS (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhMfFlNOQeMCb-p4pE_TPjc/ts
-#EXTINF:-1,D SPORTS + PE (SD)
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEr9JpfwRRJVRLFW8EIgcNgA/ts
-#EXTINF:-1,FX HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjiZ2ZunLuFunw5qnUJ5k3k/ts
-#EXTINF:-1,Nick FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnTj7zjY6FIrFnBnYj93EXc/ts
-#EXTINF:-1,Disney FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpg4Ut6SqzQ-4gch1NBB1CQ/ts
-#EXTINF:-1,Zoomoo HD LATAM
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErVIQbi4Sx4ziWQ_A54gT1U/ts
-#EXTINF:-1,Cartoon Network FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEodyZB8y3wday7csV_eDZtI/ts
-#EXTINF:-1,Discovery Kids FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvj_CqdejMnPv0x9nEMYpqk/ts
-#EXTINF:-1,History Channel HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEumGkzCMVjq6cTX9J3hy_B0/ts
-#EXTINF:-1,History 2 HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnKpzrrDJLIPLbOfK3WIupU/ts
-#EXTINF:-1,Discovery HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvFGaOmdHgnMHMmHrfoS0_w/ts
-#EXTINF:-1,Discovery Theater HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtEtAP70n39aibIC9xGvmcI/ts
-#EXTINF:-1,Discovery World HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhcq4ML4_7zvbhaiCrvREiE/ts
-#EXTINF:-1,ID FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEltur13UjnQjamq5ExvD5Ug/ts
-#EXTINF:-1,DISCOVERY HYH HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnhxzjJZgrJ9pA5A3ELtMyY/ts
-#EXTINF:-1,Nat Geo FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkHJDR7Np5d4UeEZ923rSjc/ts
-#EXTINF:-1,Las Estrellas HD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhLclB7Hwvxh7vvgfIh2j7I/ts
-#EXTINF:-1,Pasiones FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvHPMKLfvbhZG1ZD6q_9BJk/ts
-#EXTINF:-1,kANAL D FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqkfCtaGLXpfZixB0khhqfg/ts
-#EXTINF:-1,TNT Novelas FHD
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjlbMDtePKG3ABwBpcrgdjM/ts
-#EXTINF:-1,Liga 1 Max HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnsNuoE9RCiFuEdhsYkT-xI/ts
-#EXTINF:-1,Gogoplay TV
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErZZcmCSubOZ40hjd7xjN4w/ts
-#EXTINF:-1,Securlive TV
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkqHEt01a4Uh3Yov20FaZVs/ts
-#EXTINF:-1,Saitama 24/7
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsT5a8w0N-NxCVel4RnUu6Q/ts
-#EXTINF:-1,Naruto Shippuden 24/7
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuIJCV5t4VIPznxXhqzDwFE/ts
-#EXTINF:-1,Los Padrinos Magicos 24/7
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp3IDHZYZfNdUAlWXzbKRc0/ts
-#EXTINF:-1,AMERICA SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkfwOudVwjxXdvlZKo48joU/ts
-#EXTINF:-1,LATINA SD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsEnT9rBSXzLviuk1RYG45k/ts
+#EXTINF:-1,TLC ADONAI IPTV HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGG9huOVo9fXgbTD6PcIBsY/ts
+#EXTINF:-1,PLANETA TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAhCnujtvTUHJoelJBk7PHo/ts
+#EXTINF:-1,URANIO TV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNZZCkr4NEPJzQFDYF6afsw/ts
+#EXTINF:-1,LATINA (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGpLoQSLbEbPZIfcBoZUl0o/ts
 #EXTINF:-1,LATINA HD [PE]
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtJT1ppWVV_9Gr0W64sUJZI/ts
-#EXTINF:-1,Latina
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElermWtuNjnn4Spzpm_S-9c/ts
-#EXTINF:-1,Mundo de la Musica TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErUKWUREktAZ9P1ZBLuV_dU/ts
-#EXTINF:-1,TOP Latino TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgBkAIyXFreT4wZRfQtZKoo/ts
-#EXTINF:-1,Turbo Mix TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElvS5h6UcmxRGqnVnz2pBT4/ts
-#EXTINF:-1,Vision Musica TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEorOVUN2rYCV0BanEIGAtfA/ts
-#EXTINF:-1,Nativa | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsa1LzhowkFlkc2MrAz9Blc/ts
-#EXTINF:-1,Onda Digital TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk_6C3dE7zWPx8MVP7m7ga8/ts
-#EXTINF:-1,TV Peru Noticias | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEs1GZiJcSVzvXLx6u3iTuSg/ts
-#EXTINF:-1,Antares TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhxDfymV-72nzwJo9YKF4yw/ts
-#EXTINF:-1,ATV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiac_ildEYRf8Zgsa9lu2Bk/ts
-#EXTINF:-1,ATV Sur | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhe_nRQ-fI-lBbquzW8jsRg/ts
-#EXTINF:-1,ATV+ | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtNOykkJZbS18zBI40Ovh_8/ts
-#EXTINF:-1,Autentica TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuElJM6E8-1KPO2G4Ckt1HU/ts
-#EXTINF:-1,BHTV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmY4vTqvqG_LlpQAzOl-Duw/ts
-#EXTINF:-1,Canal 8 Catacaos | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsHlM36vYUjhx_0ncARWyGI/ts
-#EXTINF:-1,Controversia TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk-wgn6DkcyGy7VfuJhnfAI/ts
-#EXTINF:-1,CR TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqJJqPE7Q0pSbEEUuhWiPkw/ts
-#EXTINF:-1,Cultura 24 TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEo29fCoSwm6zVHo11suHb5k/ts
-#EXTINF:-1,DMJ | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkmsWbAe0qcdtG6fvCv4QlA/ts
-#EXTINF:-1,Doble C TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpz7arQdMQ0I1j773x1R4Hk/ts
-#EXTINF:-1,Exitosa | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkuWjx2jA_ZBArNcDmZMYMA/ts
-#EXTINF:-1,Foro TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpWSxPn0pl237DlHnQI4d6A/ts
-#EXTINF:-1,Genios TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgqWe4LuBkNTSCRPxd3264o/ts
-#EXTINF:-1,Hechicera TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnFxl3l7zYrCr0147EgNXvk/ts
-#EXTINF:-1,JN19 | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvzsXWHKnwwXg99WuyurZNE/ts
-#EXTINF:-1,Latina | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoxi6yhWEa7Jfj6Vyaom6SQ/ts
-#EXTINF:-1,Mega TV Arequipa | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjxkicFQlv6pqjCwhDnpRhc/ts
-#EXTINF:-1,Mega TV Jaen | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqApjN5fYZVpbS9HrTz72rs/ts
-#EXTINF:-1,OK TeVe | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEskh8W0J0Pg3Sjqky5KTwRU/ts
-#EXTINF:-1,Onda Digital TV 2 | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn-vt24pLRUuNTos3Bt2t8Q/ts
-#EXTINF:-1,Ovacion | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElAJHSC3LslMOIjJyICRCzs/ts
-#EXTINF:-1,Palmeras TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuAJ2uRIgMzoO1im_u5n04Y/ts
-#EXTINF:-1,PANC TV Peru | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEl7GaNZASbvNbzNi_qenimI/ts
-#EXTINF:-1,San Pedro SAT | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhYKW5bj3cAqsvNNt_UJJpk/ts
-#EXTINF:-1,Sanjuanera TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEseb84n_LtvrjdpK30-CfRw/ts
-#EXTINF:-1,Solar TV Cusco | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmDbv14Quml5qbB5irszLTo/ts
-#EXTINF:-1,Tele Selva | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmBP7Ng9OkFRXcYWHRKwOj0/ts
-#EXTINF:-1,Telecolor TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgNeuddg6OuvvcjSyDCZkGc/ts
-#EXTINF:-1,Tumpis TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoKsm0PSKImfMAZ1edMiCXY/ts
-#EXTINF:-1,TV Cosmos 15.1 | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtjofEyRU3600pdGQn2FG6k/ts
-#EXTINF:-1,TV en linea Cusco | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg8vxh1-noMZIDodaesNqyI/ts
-#EXTINF:-1,TVPE | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkWTGct491CxSfJuqP0WSXM/ts
-#EXTINF:-1,TVperuanisima | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvIZRrMuvRAKbteSQKJurFs/ts
-#EXTINF:-1,Via Alto Mayo TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEllxfy26ApFkCFbta3y0a3g/ts
-#EXTINF:-1,Via Television Tarapoto | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElnOA9RmhmCcPWaTTsatbmw/ts
-#EXTINF:-1,Vision Sur Television | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnocnpdU5qJHO_vAaKnVDbA/ts
-#EXTINF:-1,VZ TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnEB4fPuaMU7jfC9tFpEzTo/ts
-#EXTINF:-1,Emanuel7 TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEttB4vCJEa-36i7VuyQw3vo/ts
-#EXTINF:-1,Presencia TV | PE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhYt93FkebX5NWJ6ejMJbKU/ts
-#EXTINF:-1,Canal Once Del Zulia | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEulB6M0uJAbuZZ3Jc07QW8c/ts
-#EXTINF:-1,Promar TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgWbKH1SimtSZi_xT0QABrw/ts
-#EXTINF:-1,Reforma TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmxW6ML0q4j7p--j9t_Zy_s/ts
-#EXTINF:-1,Telearagua | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEotB8DOur1Gz1u9tAPmNSC4/ts
-#EXTINF:-1,Televen | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErXGlBzl7w56XrF9H35hcI8/ts
-#EXTINF:-1,Telesur | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEilel1GlfWCMLI7D_cPjR4Q/ts
-#EXTINF:-1,Telesur English | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqB3q3hR8QYrlbLr3rZC_Po/ts
-#EXTINF:-1,ShowVen TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErNAJKSIh6CRIB9HfoCS3YQ/ts
-#EXTINF:-1,TVS Maracay | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsfsTccPBjj4nGrwE_4yLYg/ts
-#EXTINF:-1,Canal i | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtTdvoYQ9q-ZVZlv4bVNoZU/ts
-#EXTINF:-1,Venevision | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj8Eb_JxOdc-wdi9XQJSMcE/ts
-#EXTINF:-1,Urban TV | ES
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmzldaPBMklu2PgDkdv-PUE/ts
-#EXTINF:-1,Natanael TV | PA
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErJzEl7kkS3aEi_FpHcGlCA/ts
-#EXTINF:-1,Nubeh TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElcxHuGBdJ3Bwv7g6u__GxY/ts
-#EXTINF:-1,Oxigeno Network | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoKegVS-KxVPu6u5ID3h9fw/ts
-#EXTINF:-1,Realtor TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhPw9LdCJ-VNH0eQiwwelqk/ts
-#EXTINF:-1,Italianissimo | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnIe9Np_yM20BeBitB7tAFQ/ts
-#EXTINF:-1,MovieFE | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkCvQM4aoBPZUXxvEWERYRM/ts
-#EXTINF:-1,Anzoategui TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElIXS8yBVOD6BrnigRnLmvY/ts
-#EXTINF:-1,Chivacoa TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvR2-oWltssWsU5YIJabG7I/ts
-#EXTINF:-1,eSports Max TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvB_LYDjSHF0c9k7IPeJkp8/ts
-#EXTINF:-1,Cantina TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEo6xZOlzplDDmZug59IcyFQ/ts
-#EXTINF:-1,TRV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsk36O2Pk2PMN1bMiN7-o98/ts
-#EXTINF:-1,Telesol | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgvxlK1iTFe0geRVLf4PdSo/ts
-#EXTINF:-1,TV FANB | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElFnWxmvAZVmTu7ZqoxqBXc/ts
-#EXTINF:-1,Vale TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiYMjeHtB3zcraKM5AyzpA0/ts
-#EXTINF:-1,MDA TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtGkAAW8LltN0Qq3y_vzsSM/ts
-#EXTINF:-1,Globovision | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkAwvmG5TKNVQPiJmNJqKx4/ts
-#EXTINF:-1,TRT | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqPEwHxtCXOAH_nXXNjFk50/ts
-#EXTINF:-1,Torococo TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEki8T6u9aD2pCh35MosUBFg/ts
-#EXTINF:-1,Canal Diplomatico | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh9yhg7DLEuK0Csa4At4vAA/ts
-#EXTINF:-1,Corazon Llanero | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgGTm6RbvDD28HjmNEKZ7wQ/ts
-#EXTINF:-1,Plous TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp0DeYQZMGF6HX3WuD__mPc/ts
-#EXTINF:-1,Somos TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsVKqRlDuY50HU8WihKwRAU/ts
-#EXTINF:-1,Net Channel | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtmQeg7WuYCiEpid5YSwIfE/ts
-#EXTINF:-1,Barinas TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhPczBKcshshaNx0TYYn674/ts
-#EXTINF:-1,Televisora Andina de Merida | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnK74t9GUiMsXf4wpqYRp8s/ts
-#EXTINF:-1,Aguacate TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEi3FKyW1RVHh4wgBeayithY/ts
-#EXTINF:-1,Guaro TV | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmGi-9Nv5iochO3HWADpRHQ/ts
-#EXTINF:-1,Net Channel Señal 2 | VE
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkY7zWt053eOH7bxGkQLN5o/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNkuSkRhuOqzEGxq4YkMJrE/ts
+#EXTINF:-1,LATINA FHD (PE) *
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ3-YZdrRN7BYttpFDydC9k/ts
+#EXTINF:-1,AMERICA TV (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAkLiT65rsEdymWZpDLnJWI/ts
+#EXTINF:-1,AMERICA HD  [PE]
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAbs-cdVfsNXB9hdpdCqVEU/ts
+#EXTINF:-1,AMERICA FHD (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpId4XzP2cm-RwrqhtGPTxXw/ts
+#EXTINF:-1,WILLAX (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAzNOE6UfXrAjF3btD-pXQ0/ts
+#EXTINF:-1,WILLAX HD  [PE]
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAAQvTleaH_ukRFyEBMa9Gc/ts
+#EXTINF:-1,WILLAX FHD (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJwWmboZ9tbs6uvxV8Qzsms/ts
+#EXTINF:-1,ATV (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAQn80oOGgPk_WXhcB-DhpA/ts
+#EXTINF:-1,ATV HD  [PE]
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC5DGxmSSbDC98YOvdV2iB8/ts
+#EXTINF:-1,PBO HD  [PE]
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB7vZ3SoPGP7s8VcG6TUwzY/ts
+#EXTINF:-1,ATV PLUS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNVEkWZaMPRpMCJW11Xvq2M/ts
+#EXTINF:-1,ATV PLUS HD [PE]
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLp658x8aF4_KVr9b2td9gE/ts
+#EXTINF:-1,PANAMERICANA (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB0oEiMzkpcsbbe6y-NoFmA/ts
+#EXTINF:-1,PANAMERICANA HD  [PE]
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCMyB51EqwXrs93CVd-fZCc/ts
+#EXTINF:-1,CANAL N (SD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHDJl8MEWH8Hj2-PeqR1UFs/ts
+#EXTINF:-1,CANAL N(FHD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJNjOs5SauKHp3k2sSvtDuU/ts
+#EXTINF:-1,RPP (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIIPTYPrlhvwWl2s02Zqhpw/ts
+#EXTINF:-1,EXITOSA (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNutBG98q1Jtd2JIRNsiSF0/ts
+#EXTINF:-1,TVPERU (PE)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO3CCxNmEJMNXzcLkYHOEZQ/ts
+#EXTINF:-1,CGTN ESPAÑOL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIEpVK_0cGEeCsDrWqzqmuU/ts
+#EXTINF:-1,DW ESPAÑOL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB4NtnPf-ml-5MWgeHOluZw/ts
+#EXTINF:-1,MEGA TV HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBDbXhqMisQQU-5TVxIT7Bw/ts
+#EXTINF:-1,STAR TVE HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPQZ6SUpw0_t6U3nU2RgMq0/ts
+#EXTINF:-1,HOLA TV HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBgZI4j33gLaYqU0u52SVTw/ts
+#EXTINF:-1,RANMA 1/2 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOgVX4oXil0hIB5V64faS2M/ts
+#EXTINF:-1,SAITAMA 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBLwttmOSiVCzuQdCGQ36wM/ts
+#EXTINF:-1,DRAGON BALL 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHydZ0Fj88PBszKyzPXrqQc/ts
+#EXTINF:-1,DRAGON BALL Z - SAGA SAIYAJIN 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBjc_VQkWWuTFGRn7oTAiSY/ts
+#EXTINF:-1,DRAGON BALL Z - SAGA DE FREEZER 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLLH4LgpznFroEgel34qKgk/ts
+#EXTINF:-1,DRAGON BALL Z - SAGA DE GARLIC JUNIOR 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJihhtuzewWGcYVd_9EJNPw/ts
+#EXTINF:-1,DRAGON BALL Z - SAGA DE CELL 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOFbycRCF4qm_nkZUdNITqo/ts
+#EXTINF:-1,DRAGON BALL Z - SAGA DE MAJIN BUU 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKdZYF-otQTxmFyH0ycBL4c/ts
+#EXTINF:-1,CABALLEROS DEL ZODIACO - TORNEO GALACTICO 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEkvpokCExnuGQZQ564krx8/ts
+#EXTINF:-1,CABALLEROS DEL ZODIACO - CABALLEROS DE PLATA 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJpEdsRdtw5hgxCxN6kkTpE/ts
+#EXTINF:-1,CABALLEROS DEL ZODIACO - 12 CASAS 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK6HFx9_q_E66qvc2Fi8DTM/ts
+#EXTINF:-1,CABALLEROS DEL ZODIACO - ASGARD 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEOQiF4R-RHwsQKm0fxKBjo/ts
+#EXTINF:-1,CABALLEROS DEL ZODIACO - POSEIDON 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCbCUlnn2Gtpr_QVE3CEXJk/ts
+#EXTINF:-1,CABALLEROS DEL ZODIACO - ALMAS DE ORO 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKRZ5Gz6TBcnnt_VtMDnMCc/ts
+#EXTINF:-1,LOS LOONEY TUNES 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD4pm-VNrRZMomvESA2L8v0/ts
+#EXTINF:-1,LORD OVERLORD 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLWosUd8iYLvxbB4CaNrUXo/ts
+#EXTINF:-1,NARUTO SHIPPUDEN 27/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCaSp18lf7CJ7NX0JOA1BzE/ts
+#EXTINF:-1,Novelisima HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI2DfDYhJJ4HMYzxDiQWmMo/ts
+#EXTINF:-1,Romance Channel HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ9qn9NEMdel4rycHMumA5M/ts
+#EXTINF:-1,Tigo Sports HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNtekOlS6EFmrnauj3scP90/ts
+#EXTINF:-1,Win Sports + HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBbPqchp4gidZnxXOuiOqzc/ts
+#EXTINF:-1,Claro Sports 1 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMz2HSC0sthj2ajjfJXM1Uc/ts
+#EXTINF:-1,Claro Sports 2 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLR526qOr_nreHZIpxSmYSk/ts
+#EXTINF:-1,GOLTV HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH5oWfEt_jsc7UJdbCrUnzA/ts
+#EXTINF:-1,+ Plus Life HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJHHHsCPJ1LrNsa9d1cF0ZQ/ts
+#EXTINF:-1,ESPN 6 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpONLjyeitEnEd9n2oyHhax0/ts
+#EXTINF:-1,ESPN 7 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH0oMkdpPjf0UcPwoIKxKEU/ts
+#EXTINF:-1,PX Sports HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHufbgTHL9z0lx4XNCnLCCE/ts
+#EXTINF:-1,TITAN CHANNEL HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAP4hROwxzek6Yvdtx2Cd7Q/ts
+#EXTINF:-1,ITV DEPORTES HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMPNG_1w97YxiAHn7gMS2hg/ts
+#EXTINF:-1,TV Canela
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJYeSspOoQATDu6zkiAW3tc/ts
+#EXTINF:-1,SKY SPORT BUNDESLIGA HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHxGZg4ZcMEYmzTGCUkn4Fc/ts
+#EXTINF:-1,SKY SPORT LA LIGA HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJhiU5lp54-w2zxKD_sndYQ/ts
+#EXTINF:-1,TUDN SPORT USA HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN4pap-7o9oLY1SZ5Z9Caqk/ts
+#EXTINF:-1,GLOBAL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBhbn8Ox0R9Rj6li-8x1ZxI/ts
+#EXTINF:-1,LA TELE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNdurNWcPs_UPEhJOsTcHJ8/ts
+#EXTINF:-1,NETFLIX 01
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEoDt3qQN7s7wvINj1MQXpI/ts
+#EXTINF:-1,ESPN
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPXfLXvud-QyOkhq2Nac71g/ts
+#EXTINF:-1,ESPN 2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC8FuwAMpKG2PtcL9FD0r0c/ts
+#EXTINF:-1,ESPN 3
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM6i5KGKbiBYGFgwgXGoNi0/ts
+#EXTINF:-1,ESPN 4
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMcTgnzWx_jkJWOU6BFzO7I/ts
+#EXTINF:-1,ESPN 5
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO0TEGOB5Zba-yp8CZZlz-U/ts
+#EXTINF:-1,ESPN 6
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK9e2q8-Zqi-uat1Wv1ipQo/ts
+#EXTINF:-1,ESPN 7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHMjiyoYkNcfA8T0xfZw3F8/ts
+#EXTINF:-1,ESPN PREMIUM
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE5FBV_6Z-yZ7dkNBZN81gg/ts
+#EXTINF:-1,ESPN 1 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF_MB-zVtNYhAji6A15q4GA/ts
+#EXTINF:-1,ESPN 2 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKGkkelQZLRFoa3dJsWjBrQ/ts
+#EXTINF:-1,ESPN 3 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNGsPwIkKdViu33nos2HuUA/ts
+#EXTINF:-1,ESPN 4 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpObLI22kuoDKLKBQe2kbknE/ts
+#EXTINF:-1,ESPN 5 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDKEEywmAYs5HdqsXBJGe1w/ts
+#EXTINF:-1,LIGA 1 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFA3f0Xq5lb8gFLSPwl2eQI/ts
+#EXTINF:-1,LIGA 1 MAX HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGv7H2PKuRMYL5GKAjI3yvI/ts
+#EXTINF:-1,LIGA 1 MAX-FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPIzxo6VsJLgk7fLpaQUx_g/ts
+#EXTINF:-1,GOL PERU
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLiAj71pWqCjZeL1sB2J_Xo/ts
+#EXTINF:-1,GOL-PERU FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPg71UD820YMB5BByc2ckZI/ts
+#EXTINF:-1,DIRECTV SPORTS (SD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK9lAkBs7jgc3exm_gXyNZo/ts
+#EXTINF:-1,DIRECTV SPORTS + (SD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO9a2UqR4tp85u3yCUVpRck/ts
+#EXTINF:-1,DIRECTV SPORTS (FHD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKwoGm9tHCkj42dW8t7_I8w/ts
+#EXTINF:-1,TYC SPORTS SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDAySnS6TbpGNF5-td9RWsc/ts
+#EXTINF:-1,TYC SPORTS HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK_mEdlEyLaOaJMHBGhyvBI/ts
+#EXTINF:-1,EL CANAL DEL FUTBOL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBe92eW7l0U4lV_qBctF71o/ts
+#EXTINF:-1,TNT Sports HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBHHjDshtuotjycj4jX03WA/ts
+#EXTINF:-1,SKY SPORTS - LA LIGA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1H9Ngqon_AAH8uTDMBFs0/ts
+#EXTINF:-1,FOX SPORT 1 FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFJR1qxd1cEYHaFerpwc7dk/ts
+#EXTINF:-1,FOX SPORT 2 FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNQ6Bo_z9Wixd6CAi2Yynn8/ts
+#EXTINF:-1,FOX SPORT 3 FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpExV-srVpDUZKfbTL6oTv5I/ts
+#EXTINF:-1,MOVISTAR DEPORTES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMI5ZZw2pFWXBQ6smGm9dew/ts
+#EXTINF:-1,MOVISTAR DEPORTES FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBLIe9SbA7spCuOHyJpGdDM/ts
+#EXTINF:-1,UNIVISION
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJfRGpVGyJGkDhL8CX5lUG8/ts
+#EXTINF:-1,TELEMUNDO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCDtLkebh7uJDzWpkfRk9XA/ts
+#EXTINF:-1,TELEMUNDO HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOaFgNqfpxb0fBiYTwm2BlU/ts
+#EXTINF:-1,PASIONES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOgqbjgW0LxoC1f8M-j1Vq0/ts
+#EXTINF:-1,PASIONES FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBFZCTTQCgQnA3W1FUHqwus/ts
+#EXTINF:-1,LAS ESTRELLAS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNLlXi9ebBFDW_8RnHTK1oc/ts
+#EXTINF:-1,LAS ESTRELLAS HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKZtXKZ8V1HhXzhYuIXTB88/ts
+#EXTINF:-1,TELENOVELAS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLseKv48tBkTuz1f1rWMpvg/ts
+#EXTINF:-1,KANAL DE DRAMA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJIAlyXwC3vnuaGxEKlZQLo/ts
+#EXTINF:-1,TODO NOVELAS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJb3t_9_sk77XcV9BPDoAwM/ts
+#EXTINF:-1,RCN TELENOVELAS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNSQo56Lt_fNZu2BoT2K4mE/ts
+#EXTINF:-1,SOMOS NOVELAS (EU)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMWkt6ABudWspsR5RlYoD8w/ts
+#EXTINF:-1,CANAL CORAZON
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLClJXAAbMwA87LnjEE385M/ts
+#EXTINF:-1,TNT NOVELAS FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD1gW5YDudnQYDoSnhXOUg4/ts
+#EXTINF:-1,DISNEY CHANNEL SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDnbOqiUCSPDzzGPVIbQLs8/ts
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOW67RyoXnKDDCby7TR6r28/ts
+#EXTINF:-1,DISNEY JUNIOR SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF9rrukmNoFuqLCn9FOgMKY/ts
+#EXTINF:-1,DISNEY JUNIOR (HD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDKjhu2n0GDzVxgCD-Dx0OI/ts
+#EXTINF:-1,NICKELODEON SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHYwZ-ovtuW-SK9tGpWpsfc/ts
+#EXTINF:-1,Nick FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP4rLdeoa3LTfKCiz9Snrmk/ts
+#EXTINF:-1,DISCOVERY KIDS SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJCyDTeymlgK79a2YnYsnhQ/ts
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLmydFP559R3-2XRxfvNKoQ/ts
+#EXTINF:-1,CARTOONITO SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHhcEyZvJV4EuhXrc0JiU_c/ts
+#EXTINF:-1,CARTOONITO HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOilEhPpgbjyuszi-p-3bkY/ts
+#EXTINF:-1,BABY FIRST TV SD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLMomGKwVR8ze81gq1nBG78/ts
+#EXTINF:-1,CARTOON NETWORK SD ENGL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAZz6SgLyp4e6OFqJvzKyKI/ts
+#EXTINF:-1,CARTOON NETWORK FHD ESP
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKmaUPTB6R2vVfKikSQyasc/ts
+#EXTINF:-1,ZOOMOO HD LATAM
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMp6LAlesam54oNRitkCFlY/ts
+#EXTINF:-1,KARIBEÑA MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJduKmI_DMovtaw2DVe2q3Y/ts
+#EXTINF:-1,VISION MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMFIj2Upv5SWR7sCuNa4ThY/ts
+#EXTINF:-1,TOP LATINO MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNTGsoo5_Ardp7rkXLHq0VY/ts
+#EXTINF:-1,PLANETA TV MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDBmuRhVsbv-w_67iqoqp2w/ts
+#EXTINF:-1,NOW 80's MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCbAeoBGPrq_FywbCfIh3Sk/ts
+#EXTINF:-1,KPOP MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJOuEPjESMDeiDNoxmsf_Kw/ts
+#EXTINF:-1,VCLASSIC MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpARzBGfBIQrzqTc3YyDfMag/ts
+#EXTINF:-1,MUSIC TOP MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH3py76WeykobLEnqpwQnpM/ts
+#EXTINF:-1,ROCK TV MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBDXBrOIC392v7ZYfieGATc/ts
+#EXTINF:-1,TU MUSICA HD MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIFtTnfrJg8t8vyDfsQOVDU/ts
+#EXTINF:-1,SOL MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOPQZYlETJ4cbzdaNoZ_33E/ts
+#EXTINF:-1,CANELA HITS MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGi5hdayLN3GOZVAKyaaBnA/ts
+#EXTINF:-1,VCLASSIC TV TROPICAL MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBYODjz07wuRfd6Wei556Pg/ts
+#EXTINF:-1,PLAY IBIZA MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBwXIADLLAhfjqdWldzLANM/ts
+#EXTINF:-1,RETRO MUSIC MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpADDX0YxzWGFlPAq9MxavXQ/ts
+#EXTINF:-1,RETRO PLUS MUSICA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPAjpK7kVCRNfD3vRoPI2rI/ts
+#EXTINF:-1,RUNTIME ESPAÑOL MOVIES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKZjy613y6hHprVKX7Nbrhg/ts
+#EXTINF:-1,RUNTIME ROMANCE MOVIES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAJIpmbtV9qTO0NoeWI-RW4/ts
+#EXTINF:-1,RUNTIME CLASICOS MOVIES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFGko9qopHvcAjC00JVWU1c/ts
+#EXTINF:-1,PELIMEX MOVIES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpETjdTwrSMp_iv_rI5s9Sws/ts
+#EXTINF:-1,CINE ROMANTICO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD2X_ngrEsTVEx4UGtWBoUI/ts
+#EXTINF:-1,CANELA CINEMA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFEwG2QWl68rGL5ilHd4Aqs/ts
+#EXTINF:-1,DREAMWORKS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBgXw_kCTBJuU8ylYWpb7KE/ts
+#EXTINF:-1,SONY
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIQL2eJspeR7vPiABZRHELA/ts
+#EXTINF:-1,SONY HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAGkyfBRHj6Alhdiq8v5JMc/ts
+#EXTINF:-1,SONY MOVIES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD_lrv4fmGK22yS36YqbeCw/ts
+#EXTINF:-1,STAR CHANNEL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNweKqkhyVEfcE6U77p0wkc/ts
+#EXTINF:-1,STAR CHANNEL HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGOV8FvGB9rChvUyXezdCfc/ts
+#EXTINF:-1,AXN
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBOzPMePW3aeypXxfxc5fKM/ts
+#EXTINF:-1,AXN HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGYAbSXZtKs0k6DCvs6BPcs/ts
+#EXTINF:-1,CINE CANAL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI9BbiYGIEwAzjAW0pqoA4M/ts
+#EXTINF:-1,GOLDEN EDGE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNkt680pmyhCx6YVoaUzoZI/ts
+#EXTINF:-1,GOLDEN
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBYT08XRHwGNa8RhQDbKpzg/ts
+#EXTINF:-1,FX
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMNgr7_zoOCaRwC84mFWLcE/ts
+#EXTINF:-1,FX HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPxkQY4TXQJkerXbPHQw3lk/ts
+#EXTINF:-1,UNIVERSAL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAwtFe2EysEeh7oBiygIHUA/ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCmiW9OFwJzepM87JQYEfyI/ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKpFixbBT2y0iyUhKw-V2_U/ts
+#EXTINF:-1,UNIVERSAL COMEDY FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFGavUXi-Qh76Il9sNXj1i4/ts
+#EXTINF:-1,UNIVERSAL CRIME FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEyF4bnNdkOI7x28UnE5oZA/ts
+#EXTINF:-1,UNIVERSAL PREMIERE FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO4XbnJWwMJsw-3IA2cf4tY/ts
+#EXTINF:-1,UNIVERSAL REALITY FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL4TKRuCbea2iDV-H3H6Dq8/ts
+#EXTINF:-1,UNIVERSAL PREMIERE O FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPlK4Dc4JXzTPjmJhJA4Pls/ts
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLD5TvuCIsYuYE3kN6DYRKo/ts
+#EXTINF:-1,PARAMUNT
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKLsS-_X5OF4SjYNxcZlPx0/ts
+#EXTINF:-1,PARAMUNT HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN32kEC6PGkRU4PY0EpWPWI/ts
+#EXTINF:-1,AMC
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGk-ZeBV619NIpFHycRAchE/ts
+#EXTINF:-1,AMC HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFFaHJBAUJkDjvgtw4kud0Q/ts
+#EXTINF:-1,SYFY
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKT9DiMHs-dE-xMQDngtaHU/ts
+#EXTINF:-1,DE PELICULA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOuSzNrZG-SPZTaAviJpniQ/ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKhcVOkU3R9kFXnVZnTWyHk/ts
+#EXTINF:-1,HBO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIlbrdWo8jXh5ltNOTypfG8/ts
+#EXTINF:-1,HBO HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEMNIkxxtdkwTq3gOajJRcs/ts
+#EXTINF:-1,HBO PLUS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBF4IxQzl5-29k9zxTtaU9E/ts
+#EXTINF:-1,HBO PLUS (HD)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP3wqGaDlTRD8oXgxC54UJc/ts
+#EXTINF:-1,HBO XTREME
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMWWIUpiL52ktypWEsCfOso/ts
+#EXTINF:-1,HBO XTREME HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI7fseZJ7evAJruPlIkS_Kk/ts
+#EXTINF:-1,HBO FAMILY
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLuWMR2IU1_y8Fibyc8a5D8/ts
+#EXTINF:-1,HBO FAMILY HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAbPzF3euWIbaEKcNKl6bLA/ts
+#EXTINF:-1,HBO 2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGUOgzBcJXXfTskB_lrOmPQ/ts
+#EXTINF:-1,HBO 2 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLPEUiv-l_20oNRRta80AaI/ts
+#EXTINF:-1,HBO POP HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOqcwsTQTqmiRelVSDPk3Ck/ts
+#EXTINF:-1,SPACE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOtIT8m4bZkXHeOeSbI5Wfg/ts
+#EXTINF:-1,SPACE FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHvnTW5EtP4QuDAa3H3Wp6g/ts
+#EXTINF:-1,CINEMAX
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBTbDYgSx1ghVIguWV8oX24/ts
+#EXTINF:-1,CINEMAX FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPkTJujcCkNP7VxxIBxYlJE/ts
+#EXTINF:-1,TNT
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNGHmU5AtWEJGqyEZp6nvL8/ts
+#EXTINF:-1,TNT HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFUMjWEqGWlRUj68rYJt2_c/ts
+#EXTINF:-1,TNT SERIES HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFKzQIF_d5X0uG3gsT4UKPs/ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL7-3EvWPKlzX4LCV0R3fdQ/ts
+#EXTINF:-1,GOLDEN HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLqU2RO-tbYA1WAJ6XrGiVw/ts
+#EXTINF:-1,A&E HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEzb-UZr_nfr0WlrsBPX3RE/ts
+#EXTINF:-1,ATRES SERIES HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOKPm2EX81BCSU92esxOG8o/ts
+#EXTINF:-1,CINE CANAL HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKvixIvs-ocq8El0YehGOBQ/ts
+#EXTINF:-1,WARNER CHANNEL HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGVzdUWZ5xNqC8IP01IKNvI/ts
+#EXTINF:-1,Ei
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIkrLtxunG_B7Ijyo6XoFJo/ts
+#EXTINF:-1,AyE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBfmbuyWAas9EMf6rkV7_3U/ts
+#EXTINF:-1,PRESENCIA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1_9XvGAMsJxaeF0_cepOE/ts
+#EXTINF:-1,JEHOVA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJnx_kJsaXZstxUAdZnLqNk/ts
+#EXTINF:-1,EBENEZER
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7t02K4kStnZXSK3Ii-39g/ts
+#EXTINF:-1,TV CRISTIANA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL_x3YpJI3RivH28uQwTWCE/ts
+#EXTINF:-1,ENLACE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNDDuRLsdytIfx62NaWXqcI/ts
+#EXTINF:-1,BETHEL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOZoPUGzMYW_FSafgWY_gAk/ts
+#EXTINF:-1,EWTN
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE7oq9qQCS8oh8N1-c5wTxE/ts
+#EXTINF:-1,3ABN
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL4Z4S8OZXfVimQUZceUcYg/ts
+#EXTINF:-1,CANAL 27 (GUA)
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF7JOIDs5yw3uNSoSftCI5E/ts
+#EXTINF:-1,ASOMAVISION
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCwQJ7JrNpGwNVYmdg7Ku0E/ts
+#EXTINF:-1,TU UNIVERSO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHPgF6NM39tcflfjVHjjA4I/ts
+#EXTINF:-1,OASIS
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHL5F00DpMZxO4m9kdTbZEs/ts
+#EXTINF:-1,PURUWA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFjNttCeLsHpjdH4qtvaSFM/ts
+#EXTINF:-1,TELEVIDA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNmUwt1x51Lz0ESp-Bj-eYk/ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPL5CPhe85yqBlB5c9tf--M/ts
+#EXTINF:-1,DISCOVERY TURBO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD0pcESdvar1ADeiybdjWrs/ts
+#EXTINF:-1,HISTORYCHANNEL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFoe1RIPTksVbpH27vuSGcY/ts
+#EXTINF:-1,HISTORY2
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB__ptr6BBOJK-wwjRxvwng/ts
+#EXTINF:-1,NATGEO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDFAitP-TwbypiuzAA6Tbws/ts
+#EXTINF:-1,ANIMALPLANET
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF10rzYXNuax_k0eU25n-iU/ts
+#EXTINF:-1,DISCOVERY ID
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ9rS46oAemoc2ktaeIG3yQ/ts
+#EXTINF:-1,History Channel HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKVbw0XuyT2o782GZSWyT1w/ts
+#EXTINF:-1,History 2 HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCJHnQ7H6sJAdss_jwHAmDA/ts
+#EXTINF:-1,Discovery HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ8boHrzz9dO3Ljg0cIvpzs/ts
+#EXTINF:-1,Discovery Theater HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMYJcDEXkM7n1StdKy-c99A/ts
+#EXTINF:-1,Discovery World HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOIeqEYI5U-m3wmV0L5aM8g/ts
+#EXTINF:-1,ID FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDnGcBjesAL7bLigB8mpedI/ts
+#EXTINF:-1,DISCOVERY HYH HD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG27Ld7DW52uz7MgqM9P8Dw/ts
+#EXTINF:-1,Nat Geo FHD
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLJEx8fdeIXuvgO0fUFOjbM/ts
 #EXTINF:-1,Retro Plus TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu-9RO2G_VxnXAzn4pUepzI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK8vkze3Ev6hIbrLVZZVkD8/ts
 #EXTINF:-1,Retro Plus TV Señal 2 ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuo4wHnqSIrsCPt6ZJz6Z_I/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKqwyPpuI_KPpaOmSoTJ3U0/ts
 #EXTINF:-1,Retro Plus TV Señal 3 ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv0RKiqvHQ-tUNBqPxtpyt8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEmeHltKqr-CfRjmcYG5Hl0/ts
 #EXTINF:-1,VClassicTV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgLP_MDF1EJdtZj0r7KVGbA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG-sgjY2IMm458B3T3Y39ys/ts
 #EXTINF:-1,VClassicTV Tropical ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv0UgLD_nuiaws3F_v18EXI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpObc2iwwxmZbbf0upvALBHE/ts
 #EXTINF:-1,Recuerdos Retro Radio TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgysImEPrr-j5ugoFRZ9O-g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHLtgNqu6n0Ta6R4oYahAVo/ts
 #EXTINF:-1,Radio Fin Del Mundo TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtlpssBVZk4W84mDSl6_xFk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGYy3WRH5rXAASMVhMKwppw/ts
 #EXTINF:-1,Radio Puangue Curacavi ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEo1ZxdYouMrS3RkbZ0ceudo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEAdOabjunPZ3c5no4flJ90/ts
 #EXTINF:-1,+Cine ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkV7MtvHvV7811-PBAxVU1k/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOtIdzIz_4Xq7MMoStN0jsk/ts
 #EXTINF:-1,PRIDEtv Latam ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtJ1vO-GOyO_R6iZ2u-1_n4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpByF2cZHCdYWLEZiHVpR7ys/ts
 #EXTINF:-1,Moni TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhAFeWg2ieOmcjZYE0qUu-U/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHyeeUi1nXdFkS2tE5-szfs/ts
 #EXTINF:-1,Kanade TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiVoTt1cETlyxZcv6sebl6w/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFHITr1bMjIw9X71s3E2r8c/ts
 #EXTINF:-1,EnerGeek FAN ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgyYA8I-NV37RHXwLC1s4V0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP0cBBQevOa4Nc7WhsJgu8c/ts
 #EXTINF:-1,EnerGeek Retro ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEomTc466RYBR5nYwjuebxEE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKANujjAoHLe29xKCQkS7s4/ts
 #EXTINF:-1,EnerGeek Radio ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElG3baxBAsl7EwWJvBLqaf8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKefaaiIhFNAIa_g3EuL3QY/ts
 #EXTINF:-1,AniRetro ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsulzAtVeSZGeHhDvHxnX6Q/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJsVdkmUc1SQjMuJloJ0EVk/ts
 #EXTINF:-1,ZTV Anime ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErDbUNfn5Sowjw3xOsIsgbM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH14QmZBVZTR09_VuDv02Qc/ts
 #EXTINF:-1,Portal FoxMix ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEphlEIRETO8PRu5NIuK09g0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNK0tCye1zFV4aKKwHt61nI/ts
 #EXTINF:-1,Ruidos TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpbeQHEGk6H07pqyj3y70ac/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBQg3JbixCrq7EdN5Am4LDs/ts
 #EXTINF:-1,Eternal Metal ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErf_wZ33gxcjM7TYbUfFeaU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFLJ6gGM2CtAvg4yUfqB1yE/ts
 #EXTINF:-1,Latinos TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvIDfpPX9XC4eZJN6QiFlG4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNVzUmfTetSunSJX_4JFJRI/ts
 #EXTINF:-1,PlanetaTV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg5HodZLd8RxGYVydNGQx_4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMYHbZaiQBg6tdne05YOgVQ/ts
 #EXTINF:-1,Parentesis TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsCPriD5o8pSZrUcAnqAPJ4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFbBFhziqZnCLa0GtQ1uR4Q/ts
 #EXTINF:-1,Suyai TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgtKRXBkiC9mNlKWtjRHQqU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOOqseKvhOJGzIxhxn5IvJ8/ts
 #EXTINF:-1,Suyai Radio ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqie3PWuUf63S4qudxCv5q0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpANx-1BCOC8vxI05AhqLUC4/ts
 #EXTINF:-1,CRTV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk7qlJ1QU6FELYYROrsepVA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOyF59JEDDPuhgBdbbKOkTM/ts
 #EXTINF:-1,CDR ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElk5NdEgQmgRf3YZT70OAdQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCsdko0BjwsfWVGc67gBQug/ts
+#EXTINF:-1,San Nicolas TV ✪ | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC1r8sChgFQqdkjdu8t_9b4/ts
 #EXTINF:-1,La Comarca TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmVRsVVwVp5lsGZhcLPsjJE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC6MaDIDFlUdihkm3BwmJgk/ts
 #EXTINF:-1,EstacionRadiotv ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEunGoAYC7fIR6MCk4eW67XQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI59dgEiqHwKaIje-XRETWw/ts
 #EXTINF:-1,Abajo e la linea TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh-JmG0-iLGTvL0dBNkLcFs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBTqdYefM9ZEg-9DPo116II/ts
 #EXTINF:-1,El Canal Feliz ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk5aYApTKfDdjPg7P4m45Dc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNJSJz2oFPYOU0eep9pQ0gw/ts
 #EXTINF:-1,Frecuencia Cultural ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjNoGBXyJ6irttQi2Gp5ig8/ts
-#EXTINF:-1,Concert Freaks ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkRlN4suoyvIWRMDGpSJSGE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGgz5x7eAo5IRKQMpu0NyA4/ts
 #EXTINF:-1,VHS ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpDtBYPakia-7u1SuJJp_Yc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIVlBzNFrxc1yLqzrguly-c/ts
 #EXTINF:-1,RitoqueFM TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEusb7ygfAVJ-bEsGpbzNhoI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGiabc_Xzw1slCtNz8kVwbc/ts
 #EXTINF:-1,HD Radio ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoz3tJxE6k-ukJeR79GFRes/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLaMgGax8c3uuvf0m392wLE/ts
 #EXTINF:-1,TV Bajo Cero ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElGaOr7baxzVt_1sg6Mvi1w/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFhFvA1u9tCgc1RBsLovdys/ts
 #EXTINF:-1,Radio Amiga Vallenar ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh2FhzzAt_2V2-cZqNjp5Xg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPL2uICnjYSCCN2ACVBD7yw/ts
 #EXTINF:-1,Chile Informa ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiLFr-L9oqifEusjAxXZHJg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCGTnAtf5mY2MYTVyk9O8ig/ts
 #EXTINF:-1,Preludio TV Señal 2 ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElzE3vnI4-GQ0o5bP3DIggI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFe0QTXoFM-kNj1kOvQ4sSI/ts
 #EXTINF:-1,Omega Radio ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEi6-NUYdT74OGZ6kBrIeS-o/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBIHsG4lZ5KBuCvKevBuSkg/ts
 #EXTINF:-1,Interactiva TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEo4bjrZZlYJoYtZa4F2UOvY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpImgqu0T2yOEaf0LoAYmcEw/ts
 #EXTINF:-1,Interactiva FM ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtTSF8dKyGoChkmFaTZzRY4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK11vPWJg-dFEXcwVaU_Jsk/ts
 #EXTINF:-1,Radio Zona ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmtohPzR_mIknAdb2sGgtms/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJh5BOs0XFguxAVKXJQQRIw/ts
 #EXTINF:-1,Verso TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqqxy-cbdwGcOj9Gr71V00A/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGRveqqytfqqqMVM94MKRDo/ts
 #EXTINF:-1,La Chilena TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk3lfyhjmL9ArWApbW3ykfI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHG1VgTEdb9yIOctJCro6to/ts
 #EXTINF:-1,Zona Sur TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsAVmwNDigww0EP5rDWZoCI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJhsQbV3PuhtovO-BTkwJCg/ts
 #EXTINF:-1,El Hashtag TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoW7EXUsFO9pRcNpq37vTYc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE1t6ZMo8JI6n6GK1YhISGU/ts
 #EXTINF:-1,Tropical Ranchero ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgZjDP4Q5gmjXKCUAWtDJEw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ1LBIjjgiV7OZoJtAWHs0I/ts
 #EXTINF:-1,TeleZeta Tropical ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgLHQUnC3SlJjn12rxEwBBI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHfPLk4hiKgbCyn3VXCoSqM/ts
 #EXTINF:-1,Alfa TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn168bcUrqi3AMI6HQXBsJc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK1qySuYro9jFTm1eJTugZU/ts
 #EXTINF:-1,EPA! TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqrCCx3j52iqDHNSfxKe-NE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGB1QkFiKYOTTiZQytGszNI/ts
 #EXTINF:-1,Poesia TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoFQSlBuGIYqQaCe2HXv0eA/ts
-#EXTINF:-1,Radio Vibra ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsE3C7HVY4wiCedU2PYZLDA/ts
-#EXTINF:-1,Opinionsur Series ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgGGlfDb_dbSL4arJSUUlw4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC_uiMsDjwadhOQDSa1lQmw/ts
+#EXTINF:-1,Vibra TV ✪ | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLu9HVJgZVcDJZh11SwahbE/ts
 #EXTINF:-1,Zoom Tecnologico Plus ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgAEtmQ3EtzZNUf7e2909qY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFzHuV3kFt0OcmsA_Dwy32s/ts
 #EXTINF:-1,Chilevisual Classic ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoQ81v72EWHEDmdS38uDXrg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK9sF_vkhG7F2FBm4BtBnvg/ts
 #EXTINF:-1,Radio Labrar TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElQbAG_OGmXKspMHQ88PhUw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIa0oG9A5I8jagvCVdap3uI/ts
 #EXTINF:-1,Music PUQ ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhS3ljXY_k4eDWiPGJpjJBE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCycDFkVq5-av8vWX2vOL1Q/ts
 #EXTINF:-1,Galactika Media ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEigvDRxMh-_aMxD0pz0dgFA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHtgSd0lle9dy1ridF462fM/ts
 #EXTINF:-1,HiperTV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp-IGhDtrBnjUktpkyGYQ-8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM7URYINpa1mdRJ90Jzllys/ts
 #EXTINF:-1,Onda Radio TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEikJLLsueIc4w8IMIeRuNs8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEYInyV5J4o5vatZ0IKy5Zw/ts
 #EXTINF:-1,Energia TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp3_q4AfIv1iyNeF4kIyhkw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCKsaxScy7VrhG6X8paVdxw/ts
 #EXTINF:-1,Bio Bio TV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEodL3ugTZsl3N1N58sAbHiw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM3P0SfMw6-bUMoIbvrXsEg/ts
 #EXTINF:-1,La Red ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvWR4OpbNWPD5I6zajsSlyg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBOqwvswo5V40QAWkfR_Z0U/ts
 #EXTINF:-1,TV+ ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqAcQ9kbbyxSp1B5y9ddDjg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC-kIqCyj0KeODAgosu8rZw/ts
 #EXTINF:-1,TVN - Reuters ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvI-vfDH2YDiHjJ7zvR5OAw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCbJmzdVG0Y6iSn0UYyeX84/ts
 #EXTINF:-1,TVN ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiN20U-znCw_QdDffk7aGFI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJCXFOYZAjq8L0aDvQ2ouII/ts
 #EXTINF:-1,NTV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoU9BA-Mkoce0-S96ff4mbE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEfCb4ROKdzTxEGe0GGpepI/ts
 #EXTINF:-1,TVN3 ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuICibvedztCAGfcuxT3epA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO6qes78AcXB5l9wpATyoig/ts
 #EXTINF:-1,TVN 24 Horas ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhiqsEFhdLJ1I5GfnpdGRA0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGTLU89uxS_XRXBdfgTcgiQ/ts
 #EXTINF:-1,Mega ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg_ZQsmAnY5QpMnKPYSjmtk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHp2JlMrnlRV070fO1zcN9c/ts
 #EXTINF:-1,Meganoticias ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg5oqOvnhNFymvHBbPasSjg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN9KYhxD0DvbyCREe4tQ1Xk/ts
 #EXTINF:-1,CHV ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEl6Urt9aCzpGch2ngOAtfIk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO3b1GVQbOJqmccpcu-mg7w/ts
 #EXTINF:-1,CHV Deportes ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErPqt8_VAmC9Uc3wcnmMQxM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGVbZpoqmVyyb04zshxRP2Y/ts
 #EXTINF:-1,Canal 13 ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtG1knr1mcm5J32g-K2tcSI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCJQERkyfWpTlklW1bdUcU0/ts
 #EXTINF:-1,T13 ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtqJQqgeAynywEiUzOsAwVw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJUfjHvXMcakZyMl_T7l7ZE/ts
 #EXTINF:-1,T13 Radio ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg4QdDH1ypKDJttuk55Ju0A/ts
-#EXTINF:-1,VideoHit ✪ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkadbq3bH2N2ypx4TLFjPUE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKeD1VESmpMc0mwYmZaCEqo/ts
+#EXTINF:-1,CalbucoNet ✪ | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM9WJiJKWBXX23aag7cVNDQ/ts
+#EXTINF:-1,Oli TV ✪ | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFpnlvns6kDhfDFHaCz5TEc/ts
 #EXTINF:-1,Pichilemu TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiIys4XdZSDi-3NDcuralJA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ585kukFvQrBM26rRJ1rOg/ts
 #EXTINF:-1,El 3 de Conce | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnFXrmB7Ja1gq9EIs-qdmsc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFRDPhxW0YFGhPqWdiZBEmo/ts
 #EXTINF:-1,Unetev | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEo62zI6-Wouwm-X3AIykZFk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFXs3io0KzFRINQlj3YJ9Ks/ts
 #EXTINF:-1,La Granja TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnvpgMbFroqRB1XeRLBiRKo/ts
-#EXTINF:-1,Exprezion TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuZURs6Nz3iR1BHSZkK39jU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJgekD2b-KzujTGkuU2Dy4o/ts
 #EXTINF:-1,G Vision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhhUdzmNQdfpPwg9Xmp65K0/ts
-#EXTINF:-1,Comunitaria Radio Tv | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpTYWoS5V0huwaKgy2v6gD4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpILCZJmEwAUdPPRi5tsQ_Bs/ts
 #EXTINF:-1,Radio Caldera Vision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmnO292SzqCD9Mfz_dAgTT0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJsZ8cd6CtDAPjfbA3z3ghU/ts
 #EXTINF:-1,TVMas2 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuprk4iuunvI1nXd8Khm0Y0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMzYNE-EC68iioW9ThKFfMc/ts
 #EXTINF:-1,13 Cultura | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvrbvLr80_2JcbkMhL0Pj5Y/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD8qksMRkKYN-_PciwE4MSw/ts
 #EXTINF:-1,13 Cocina | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuURtsoqMehobmTiEuV0R0A/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGKxvUePoSj1SpWZfM-967w/ts
 #EXTINF:-1,13 Pop | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpjDWGVVDZ0D0eR4sY8kVCI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG4JKbG2u-VUQTUHuW4tOv0/ts
 #EXTINF:-1,13 Teleseries | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsCfYFe8GP1hsRVStEjm-7A/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIJgcSiXtX3h6zU2IplIXIk/ts
 #EXTINF:-1,13 Festival | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgAfixORRiNNHGRGXVAKYX8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFd62FajGaVIVFOzbm7ESvo/ts
 #EXTINF:-1,13 Realities | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgXEUMAl93J0IcJL_Dfe1l8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDuNSrc_DonDIPbhhNVR-ms/ts
 #EXTINF:-1,13 Viajes | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErC5xV7_qA3ICUXkFDBMIKU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB0g3J97gPpHS0h9QmD8OR0/ts
 #EXTINF:-1,13 Internacional | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsO3EtUC4BCnWCeE0BLiX1M/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHoxl4ZoaLgMv0bQxXl4-Tc/ts
 #EXTINF:-1,U Chile TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvBvjuI5NiictYvQzUjGsY0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOTzSPLhpb5pxXNO6E-u408/ts
 #EXTINF:-1,UCV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmF2IpE8mzj5wnq83jnljtM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH2agrDtuQzZfzuGkAQmW8w/ts
 #EXTINF:-1,UCV 2 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkeHGBojXdadmiyvFz1CA8w/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBbT46ZnAiiVDa1mddOfvOY/ts
 #EXTINF:-1,STGO.TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpYzMWaQjhdM8WERjSl1uo4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJKdNQjSFDJV-k_bw7MEofo/ts
 #EXTINF:-1,UTalcaTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmOh1lLm_VkxjkflhERsejI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAX9uJbIEMPIdX6xaa11_F0/ts
 #EXTINF:-1,TVU | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjuXL3FloYWiBxQDByX0x8g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOWVnsGN2z8N-me2vU2gMPY/ts
 #EXTINF:-1,Universidad Autonoma TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiQWhGM8LI-XhO4jwPfpZ0g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC-2TnqOqFo4rkZdcuOD_C4/ts
 #EXTINF:-1,TV UCT | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEl6u-hBgXwE4Zz5mrcd_eq0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKzUzgryHpqRtirdkSKaBG4/ts
 #EXTINF:-1,Ufrovision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEksyjZIQJlU9rxDjEvCdf0k/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPXX1plKnzcPsE2CdIB_A1Y/ts
 #EXTINF:-1,U Los Lagos | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq223ovyPGz8ZiTIRbPKQFI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP-3nSriz7R-lvjOHgh66ew/ts
 #EXTINF:-1,UMAG TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsgeE_o9QYG-hUL0HWNn_KY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBIjNx4A3m4xUgXy6dCNsSM/ts
 #EXTINF:-1,UMAG TV 2 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEibywPxhk-iPAZHtVpeR3aU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPuVRvS5kyrkzKtoC7kQHI8/ts
 #EXTINF:-1,UesTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsdc7C5Wc1R7dOTgt9XCeZI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJG7jHuogkFEuF6x20axMpw/ts
 #EXTINF:-1,Weed Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhFxrC5Ay0bAg-bcLS5An0g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF7jQxqlOJO9BnOqNyQNm04/ts
 #EXTINF:-1,ClickRadio.cl | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEup66Q_r019sMK84vE-djbI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDUdaW8-iEW94BT1TXPnAgc/ts
 #EXTINF:-1,Camara de Diputados | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErpZ44SYSO2ehR6BWR9k_bU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN50ejf-2jGpV2u7CmaEaOE/ts
 #EXTINF:-1,TV Senado | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn1hGQWpWz1mZPZ6k1UjlsY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHxaehUnpnz2G1oKoKiKGeo/ts
+#EXTINF:-1,Arab TV | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPGjlfMVsnicHA-emC2Sfzw/ts
 #EXTINF:-1,Puranoticia | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErLdo95AQ1LcM2x3b0u7G8I/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHfzyY6I28lViRDmaZpj6uY/ts
 #EXTINF:-1,Corcubio TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuB4c5UgjtLVXYK5n_q164Q/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAx70dkVgdbH7nOoTGY1pMI/ts
 #EXTINF:-1,Señal Mediabanco | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEknyYPNxZMbS3bsU1HtR7T4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPoc9sGYwSV6CUwgtwdkoFQ/ts
 #EXTINF:-1,Caracola TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuBuEHKqLq78QS792y1T3bE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNmyfbC4IsJPMuFqEdIZRrg/ts
 #EXTINF:-1,EGM TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmsnkPDWI4kp3UZDs05rq40/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMeNB-odSATnHJz2aJPl7Gg/ts
 #EXTINF:-1,Radio Lado Oscuro TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv_oW3cDHPksNE2i5dammBM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1uqMMphWEi5jF7SfF__f8/ts
 #EXTINF:-1,Raices Arabes TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgaf3lyhrhAfvXITY4dHbmQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7OyAfnsYrhveGtBfeAVMM/ts
 #EXTINF:-1,Tevex | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErUx2hR1HnVdffzYObYZW1I/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMSPbtxqtlwuSeLWkzP3AfY/ts
 #EXTINF:-1,TV Salud | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuXxgaA5PEbSXf4SmtQHnHQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHG2Kw0MJ8YyZIGlKcRjYG0/ts
 #EXTINF:-1,Chile Channel | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh85GqZzwq1jWTEgtQ6vlHQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEG9o4BTsMYrzQwN-Or13bc/ts
 #EXTINF:-1,Campo Abierto TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh3yTPHFncvjCdjZD30dNI8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC_bjOoN_-zjxuWOStwFe1Y/ts
 #EXTINF:-1,TurnoEnVivo | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhyHHR-WNmOMr0ahlAyouFQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP83UoSSI7F2Xa0tNAa3wBY/ts
 #EXTINF:-1,C y G TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEklfktPadZb0ODGTLtzpElM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI0dyYKxMUxc-v3jhbXmccM/ts
 #EXTINF:-1,Dodo TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkKwvEms9I_EtTlDe8Bi9-Q/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNZX67HAIO8DJfO0kQraKLs/ts
 #EXTINF:-1,Bombi TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpGnT1UoTSn2nyedQEPlGds/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJW4pl3Zjq1P7UbVVr7pSgo/ts
 #EXTINF:-1,TV y TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEte20cLs0fCSsmsd1REyHYA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB07I9hPrxA7ClPPPtrf54I/ts
 #EXTINF:-1,FutGO | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmPeDI2sUcEnIowMWYeX0vQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF1u0I4qesb09W3xaBzWZnI/ts
 #EXTINF:-1,D13 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErw7EqIzE34FJ285l33whlo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCsePnlQKZe_hTliFQgeZYQ/ts
 #EXTINF:-1,Arica TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsM1dkc5LACKGPzTNsrllZU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOrm7SbxEOzuExWbkDzmENY/ts
 #EXTINF:-1,Cappissima Multimedial TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErA9Rv8kiaiyujlz5WKx73k/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCCE3Jd9louAayVThxWnzdE/ts
 #EXTINF:-1,Puerta Norte | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmrEeVCs7pNFCr9lmS_EDWQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEOcE_wCPiLxXmKHht9PYX4/ts
 #EXTINF:-1,Iquique TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtfpAsuYHQ883jw9DuWjyb4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCVIO7z4TZZjvPtZNJjynVQ/ts
 #EXTINF:-1,RTC Television | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh2qN7y3yYCYYJldVy4R2j0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO5wDkFau7sK2pMO1xNLgVQ/ts
 #EXTINF:-1,Antofagasta TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpn4OWeLdLweUDhsglkK7g4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPVi7gFACLGHuVOnttJGkZc/ts
 #EXTINF:-1,Longino TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkQxC4c5lU-XMUPj7_C2HYE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNI_9hMt8PdD4v2rfgP7beE/ts
 #EXTINF:-1,LRP Television | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEo0DCH_VGpPnG_cwUURA0SE/ts
-#EXTINF:-1,Televisión Minera del Norte | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnydzvyPGQ2E6DGIfR4FIIA/ts
-#EXTINF:-1,Taltal TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiA8neZVolsp521sgd2aG_g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNX1bumPfE1N5JDYfQpm1uM/ts
 #EXTINF:-1,Holvoet TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhiEHrpIRns9aBoDVAP8JDQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIa5n63L_sHiDxwRIlzCUVY/ts
 #EXTINF:-1,Atacama Noticias TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvoHpMc3KdBb3vrGJvHJt_U/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPZdIYsJVc14pVgXMyS3fuM/ts
 #EXTINF:-1,Atacama TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEm2nOeEwjcpf-uWTd7Em3JE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDlfxt0V0nrRiBxv3nIbR8I/ts
 #EXTINF:-1,Madero TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgPVRDduyBAPFqGS8bCIGig/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpATOX_ygtnhdaGBeRZsWvAs/ts
 #EXTINF:-1,Huasco TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsu1hl2abUpId2BlEr6qPN0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBPQ4VWunxCm8BmwP6_BYQU/ts
 #EXTINF:-1,DCH | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvbV0dAwn_mRiRlOOE-AxMY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA-x3MAtUNmUwPRGUqFC-Jc/ts
 #EXTINF:-1,Alternativa TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsU_3tSK5d98dN3GFr9Fdjc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1DV0BucQiIQO6N_4urS_I/ts
 #EXTINF:-1,Enfoque Digital TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErD_IQTz987MtjwLAaCR-M0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOJJ0m7avVFcvuugJfQqfJo/ts
 #EXTINF:-1,Radio RT | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnoX8I5uylKYyDGx4yRzMn0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF874nGxb25PCrRVCzMl3no/ts
 #EXTINF:-1,Maray TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtT_v71zbvB8cvhW3GKNX1E/ts
-#EXTINF:-1,Caldera Vision TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsNaYKZPcrTfPDXLb9GkacU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOzvXmIwv-WRwBJ3qsMcdcI/ts
 #EXTINF:-1,Nexovision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnC5SKwHaUrEkqWwIqXzdF8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpABOejUp4xLMgoRRcNVi-Bs/ts
 #EXTINF:-1,WF9 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgXkOvt9WHyZqY7OGWrpnLY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMVWM_ph7fwyE5voWj_TG9o/ts
 #EXTINF:-1,La Popular TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn4R9z4Zw5XwngjkMwQTKbI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBXsHAXkl157BiZoU9YU-Ts/ts
 #EXTINF:-1,Canal 1440 Coquimbo | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiBqCnbREERAbfxHxveFnFc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLehMtCTtN41Ppci-GRV1Mc/ts
 #EXTINF:-1,ThemaTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvpvcB9YO81dNMR9wjr4qDM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPpWNDgXifDa9ctc8vg5pj4/ts
 #EXTINF:-1,América TV Chile | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsfUTP5tBy7_o-aCRmvIG0o/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBrEpRc_OZoWSq_lEwnGqb4/ts
 #EXTINF:-1,TV Elqui | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmE7ike9MY8aUfu3IFdwEKg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpINXhJzyDd8PN2rWT6W89dQ/ts
 #EXTINF:-1,VTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoW0OVGUcPPPVZTbMRe5Yx8/ts
-#EXTINF:-1,TV EnPlacilla | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgM_RRsgF5q11Kqz06nfB6g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFPTrKJGREI4b8CWTxJ0Rrk/ts
+#EXTINF:-1,Canal Regional Valparaiso | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCSJ461tcWLb6kxH0CHprM8/ts
 #EXTINF:-1,Marga Marga TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqE0yRxenjSkBtN-k-Zoyb8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKLyje3tJvuqeAtFlN_t3MY/ts
 #EXTINF:-1,Estacion Limache TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsaakOFDsXYb7K0qi4qUQL4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFh3k9FU5MI10LzqO1B7Ulk/ts
 #EXTINF:-1,Canal 74 TeVe | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoXWWDhU0BoQLL3VK_Rut8g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI2yx19oGBYSIBzeU-S4hzg/ts
 #EXTINF:-1,TV Costa | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgofx0Lh_UFUUkoKsduSdqc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ679pVLnJC3_WiZETq6syc/ts
 #EXTINF:-1,Canal Local | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuE74gaPDsze2j3SILHPeCE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPR8ozn6vUAFjy1TxhwUwKE/ts
 #EXTINF:-1,TV Quinta Region | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqY8PJD3bi_Mt74wcEDeC_c/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP7kM2-C_urNloeIMlX32VA/ts
 #EXTINF:-1,Vida Nueva TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjHZSGhMU256eJNvUXo2WWw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKnFF3hiGZtMFzR5Fm_FBJg/ts
+#EXTINF:-1,Girovisual TV | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAtyDnfFf85IJ-n3AABf498/ts
 #EXTINF:-1,Frecuencia 7 Aconcagua | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjrpy5aEoVop4LMXvr4Caj8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIsF_jYsYnNnhaDYwWmZ_H4/ts
 #EXTINF:-1,VoxPopuli Chile | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvELsr9sI8YFXUhitIoKNHg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHCG88N3j8bh6JEUeSCMrDo/ts
 #EXTINF:-1,Canal 2 de San Antonio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElexjBvbjQSLJcyoBZijYVo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCs-sTxpoMcGqzgHxQtzfNY/ts
 #EXTINF:-1,Plaza TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErH8q6_DsKiq1b7vsd-nQeo/ts
-#EXTINF:-1,TVR | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgOIRMDDX1N4trMmGiLdbYs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIgHnlggUdZSkIhSv-G9BXg/ts
 #EXTINF:-1,Primicia Vida Television | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEngMVh2LYsvq98piuHZuVF8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC3GJmVs8PQ-CrUUJQ_oMog/ts
+#EXTINF:-1,TVR | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKWv6HQjxpIh_qV3WfePtP8/ts
 #EXTINF:-1,Tendencias Prime | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtJ7q7F8f0916e_2rWs4m6U/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHlAtA-Qe7zCl6TMj7_DIgQ/ts
 #EXTINF:-1,Vision Plus TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjLKf5RcVXfMYr477SpnDQM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDSC3jHVQmvPGwO_TBrT5JY/ts
 #EXTINF:-1,Autonoma TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkxfrkrbKAHh7j9R6taghWA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA6PDUmmDndEWYXzuMT8JJA/ts
 #EXTINF:-1,Buin Somos Todos | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmcjNHD_Bqv5_8cOaNp8y4o/ts
-#EXTINF:-1,Tu Canal Colina | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErhwupxd8AkxADujStiQTmg/ts
-#EXTINF:-1,Canal Noticias Colchagua | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEm66NtWYay7W06zdhU0cVLU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM6THg2dBq27WQtSpi91kdY/ts
 #EXTINF:-1,RialTv | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk1Eagy3_6kaz0U91kHFvXY/ts
-#EXTINF:-1,Telecanal Santa Cruz | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsz8IN4P46BRLKlmeWkhctw/ts
-#EXTINF:-1,Providencia Television | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiV9iMNcq75pojnweYVgjPg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNh6Dko7AKqRuxfbQYvF13c/ts
 #EXTINF:-1,Somos TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj6Z2wxG0pHPrjPjEpVzM0g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO63DwyMfmPZoNbukU105dM/ts
+#EXTINF:-1,Telecanal Santa Cruz | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBUmc311nw3fewsTw2VFKkQ/ts
+#EXTINF:-1,Canal Noticias Colchagua | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIJnxG2EF3tpQ1LTtb-fyS4/ts
 #EXTINF:-1,TVO San Vicente | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvbCm35aCKRCw60CRqgw0UE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC95gQjipDPF6JlseeAgnCs/ts
 #EXTINF:-1,Sextavision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElP5EpKWVau-XXXUKg25CMw/ts
-#EXTINF:-1,TVR Canal 11 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEspLRBBZN-zsPLLz7pt4kgY/ts
-#EXTINF:-1,TV Lascabras.net | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv83EEjWY49klcpB-vW1sAc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK2qLPJaj3pB_IriFIoXzII/ts
 #EXTINF:-1,Radio Graneros TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuWVL08pGUkBxz9eeO2CDYE/ts
-#EXTINF:-1,En Linea Maule | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElt2ZOWVpJrGWodIMnLK3-A/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDgm8D2e41K3aL7JQE5Qy-c/ts
 #EXTINF:-1,Santa Cruz HD | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn6FRWBYVvOs6HYusGKy-lI/ts
-#EXTINF:-1,VLTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEur3WZtVNJwd7QF23PeBaF8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOzYHS6xLGGhYCgxIcynGKk/ts
 #EXTINF:-1,RTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEm0u5afG4f4wxCG1iVK4cs4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLhmRqD1hPu-6YMSPpEfrvA/ts
+#EXTINF:-1,TV Lascabras.net | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLJQLDPg-TnM88e0i4pnZ3U/ts
+#EXTINF:-1,TVR Canal 11 | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDKCjRl26j6pen8nSQmwV8k/ts
+#EXTINF:-1,En Linea Maule | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGz-bj2v17q8BjbVWZRTYRk/ts
+#EXTINF:-1,VLTV | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ9sfV9hqURCCSMHYH94LIw/ts
 #EXTINF:-1,El Centro TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhy0lSZDv5-xAEb3AwJZfF0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEsoLmVgGhIxIfai_NzvtVA/ts
 #EXTINF:-1,TV 5 Linares | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqa8SXlLnmF1pxFMRR1RhBQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPD4nsDLOQfqmySF2eIaTxk/ts
 #EXTINF:-1,Contivision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiRp4NxEcyL2CKhzgViv3ww/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP_nQwFurQaqFvmclfrGdTg/ts
 #EXTINF:-1,Molina TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuwS9tO-i6RAUl0BD2t1roo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKr3C6ECi2T0GeoostTAxaw/ts
 #EXTINF:-1,UTV San Clemente | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqvu32gcfI32I48yexHWWEk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKS5iB290PipkmMDOvshZ5I/ts
 #EXTINF:-1,Nativa TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmt94KfALkkZ-HvIbDCDJtQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM5cNRLZdhwzaSnfKMLzoIg/ts
 #EXTINF:-1,Maule Vision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEr6YQxAvG2P7tVYJKaKmAgA/ts
-#EXTINF:-1,Canal 30 Loncomilla | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErPNCQLG8kjz1Hi2Rz7kHW4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLaHZxVi0ENJU6PWDTqrHl4/ts
 #EXTINF:-1,Telecauquenes | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnheAzQensT6HGOwBkiOV74/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOke0PXXIq6iakMh0OIERDw/ts
 #EXTINF:-1,Nova TV Canal 7 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhoFDUz2C9xqDZQxsTOk250/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKkJCfmOr44cgkW2T-l9tLc/ts
 #EXTINF:-1,Canal 1 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEojice5bu1DDhfDIkupoXCg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKA9YMnk464qpWlx6HRGTJI/ts
 #EXTINF:-1,Región Televisión Ñuble | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqRlgGr25JvpUeyR5M5FU1Q/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOy0PLCQ59vEUCM0-TxxviU/ts
 #EXTINF:-1,Canal SCÑ - San Carlos Ñuble | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmpSeJC1wMJLRAhQUKioysg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIP9QDkSOykFCu_3GPK78R4/ts
 #EXTINF:-1,Ñublevision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnlngOl7gx_QUX2Zf-bPKNc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKw-4RMvfZC5Y1rUXtg7KNM/ts
 #EXTINF:-1,Supersonika TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoY9NYB3G356-HYKnhFgY_M/ts
-#EXTINF:-1,YungayOnline | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvszQ9bvqjIsRtD3bkWeNvU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7-TzeW0bOughJAb03hrKs/ts
 #EXTINF:-1,ClickTv | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoc6czPJKOVAnVOXJ49xCy4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM7fOoUSJpt6ZydmPVephU4/ts
 #EXTINF:-1,Red Vision Television | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq09-hBZNqBmjJVXvLp_HhQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLswZKVNyOaBDlI5xZJFVuU/ts
 #EXTINF:-1,VP Televisión | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqITgO3SyLFNLULJmLDrPQY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBcUaVB2eObhK3dfAr5grVE/ts
 #EXTINF:-1,Concepcion TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmMySoB0MqbQkOHzNah46hw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFihtVKsEsUvzpQChpdMKoU/ts
 #EXTINF:-1,Canal 9 Bío Bí­o TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuTr9CzXiWMqTbtohiCmD68/ts
-#EXTINF:-1,TV8 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj4FEObf7I4padf0ZUMnSMw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPyMLQezZIpT-_LsQRrkaXw/ts
 #EXTINF:-1,Pacifico Television | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu9XcjfRE3Urm8OzEf_1rMI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCnyDy9t6MiZsqcxh-CZQLA/ts
+#EXTINF:-1,Juntos TV | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNQOs6PNNrtk5ZOeEjHW2qQ/ts
 #EXTINF:-1,San Pedro Conecta | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpI0wOsKE7itJ9hdCQZli8o/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDMTIwHrHQ7XoZFw0xDbvDY/ts
 #EXTINF:-1,Club TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuUkRiVGCauhqIJUWcv5z48/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFSL4I7_EiccouC-9i-yQ10/ts
 #EXTINF:-1,Teleangol Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn6Kw2Rkb6z5gTXOTkIeXJw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN7ZoSLBhSlnfFL7jPHh1zE/ts
 #EXTINF:-1,CRadio.cl | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqgJaxFjyqZnVZQlV00zgC4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGjpD7u30srHgy-4WHge5hQ/ts
 #EXTINF:-1,Pucon TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtUP6g2z7A6S2sD4MprBd40/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHu3sBWwkZL0YX3ozIvUa0c/ts
 #EXTINF:-1,Temuco TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhV0ByykoYUdSp8X8UybSec/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDAk99zbvVaBigqeLQtGS8s/ts
 #EXTINF:-1,TecTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErBvjNykZhwCIDK6a4zGalY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDl_eFPaoJj2mQZpJEJsNHc/ts
 #EXTINF:-1,Veo TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpArK2P8UvFnXi-rr6-Hl6E/ts
-#EXTINF:-1,RAYZ Noticias | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtqRwv1bwx8rOaOh-aldw58/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPhCrH2vTQ59bt5PFFg3alE/ts
 #EXTINF:-1,Canal Latino 54 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqNapcPYkaK0utWN0j-kMfs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIhroSdqQo111UDHQgclT6c/ts
 #EXTINF:-1,TV Canal 5 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgUMiaVtLG2X4B742graEPY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCg-yiU46gJWgTYMBkVCB68/ts
 #EXTINF:-1,Los Sauces TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqwvzYns-7_K1XxmtMiJ5Hg/ts
-#EXTINF:-1,Lautarovision | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk1WaijGgSIIqwXqI1jBxY0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHPrMuGlG_4SfvlssrvAMtU/ts
 #EXTINF:-1,Lanco TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsINz2JaHGIePYRNimDU-GY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOZPA9dhIEFqNAZA4tDN7yU/ts
 #EXTINF:-1,Apocalipsis TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkGdCX3TaT8Eu8_vlbMBCEU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAc75CTqvTHSz0608oYhB10/ts
 #EXTINF:-1,ATV Valdivia | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmkBx_Bt-DdhyMkbOWU8A14/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEKxjlvHZF_LfRR_aqBzJLA/ts
 #EXTINF:-1,Osorno TV+ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmsVcB_QY7SVxepZiO6iuTE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNVpeK53nwgLpIIlq61fhas/ts
 #EXTINF:-1,Decima TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElfviLe98GYd-07b6oxHblk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKedogOnzuk79JikoQhPpIU/ts
 #EXTINF:-1,TVM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoLHpcFYVOSvQDdm2endggQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIQmrta3RZ0ns0N0Xhn7-lU/ts
 #EXTINF:-1,T-Vinet | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsTG_TkNuZ70R4pct8cLF10/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNfiofVdEjrHGIJGl1ZcF9E/ts
 #EXTINF:-1,Canal 2 Quellon | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEr6d-HCyErEHcBzN0h3V4v8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN4fxhci2BGbNs2rP0AUsVU/ts
 #EXTINF:-1,Vision TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh--lU3XUN0nFxvwi-75guU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGJHYE-8624P8vEmrDQQ6xU/ts
 #EXTINF:-1,Canal 5 Puerto Montt | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiDOr7e6X73kufsChxv_ppE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOLx-_DiGCWFjTMdfC4HAdQ/ts
 #EXTINF:-1,Canal Chilote | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk3W6S-ZJU-vfT9kUfJ-vHs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDbuitNUvS7iwb8no-XDa0w/ts
 #EXTINF:-1,Hito Cero TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkm8wMSYpQx50CR0IBbbRU8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF7C_a3CK-gChWozjgDIlLs/ts
 #EXTINF:-1,Chiloe Red 25 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgO97Io0iozjJIUgQ_D2Gsg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEmNDVHkHDf4Rl7YIXOn30o/ts
 #EXTINF:-1,Alerce TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvpnDVUw1MUc0uuXVnv5TDM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIECVObk6PAxJsVOlHpmscs/ts
 #EXTINF:-1,Santa Maria TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj5TpIPtZI_6_-6NSxNgRQ8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD0IH5UjeCBDLFQO-6oPZYo/ts
 #EXTINF:-1,Rocco TV 4 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpBimKr1QUbcEyw0gL62HrM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC7yDtqHbDNu-w7fM1TE3tc/ts
 #EXTINF:-1,Canal 11 TV Aysen | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmeDuveNFdcue72a548DbgY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHpC9hDV2cS9AywVWCzbsj8/ts
 #EXTINF:-1,Aysen TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgGUPmOUtWhcdyrDhT95kzY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDa3xUfdjjC72-uPou_kAls/ts
 #EXTINF:-1,La Melinkana TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtEEeoeDvvhvGD1uvrr6F0c/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGFfObFfm42Q4rYyqKacbl0/ts
 #EXTINF:-1,Soberania Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqHM4CUpyG9Qkn_rxpajNIg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD9EHKGgpuNPeJLT1KOWQwE/ts
 #EXTINF:-1,SurTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErX44O0lTnX_NgjNzighA3s/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFSxXLUddag-UKokyNjfwqM/ts
 #EXTINF:-1,ITV Patagonia | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErcWcmalX1MzKtc8BJ8sz2s/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAKRW0tj2oBnKa24LQ7z2O8/ts
 #EXTINF:-1,EvaVisión | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEklnj-lfp57iIudY2zRcsyY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJW_gOgu7LawyZ_US3XZdF0/ts
 #EXTINF:-1,Canal Sur Patagonia | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElGD5aCIyW5b1JJFK4ww7PY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH6Uw5SvorgeCiYITj2XBLI/ts
 #EXTINF:-1,PinguinoTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErLPSMz_EpfBtD4oWoJZHhc/ts
-#EXTINF:-1,TV Chile | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmi1J6gGXPPPzrIaHx-zLa0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMAfBgsg0VzNkBezdDGHpQA/ts
 #EXTINF:-1,CTV35 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqDZOn5q0osBEFZdnl4O-tg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLsJgnOsh8EdMDe6NeQwKDE/ts
+#EXTINF:-1,TV Chile | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPZJu3mP03iIfRrGBXLj_Ys/ts
 #EXTINF:-1,Teletrak | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtoikpnfepX1ICs14XEjxWc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGKRE2b06WMj9CKDTzJwKS8/ts
 #EXTINF:-1,TV Turf | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErR4Grk9oD3u7Nqxg5WG6es/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD20GhLTrJ5yYORgV8FyV1w/ts
 #EXTINF:-1,Valparaiso Sporting | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvi4_z40chfSZ9-p3wZnUTQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM63iQ9s-oquPgOL9v3e-nY/ts
 #EXTINF:-1,Sensacion Costa | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnSaWcZKUsPptNp862qZXi0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE5OhUet6EJfRT55Ao5tiPA/ts
 #EXTINF:-1,La Sabrosura TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElKIiy_XavOMJ-iP_tCNZgE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpATliPaxiT315MPBIhzYeKo/ts
 #EXTINF:-1,Carolina TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEm2MW9XX3mDo7wDkc7hL3kw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJKkbhVa2XS9NwnZOwq8cHw/ts
 #EXTINF:-1,Carolina TV 2 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEh6tdphMv7MjW1hUqJfWeU4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGHgaq0m2zNsJrTpdCq8GPg/ts
 #EXTINF:-1,DJ Loncho TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiluBiNTwB-bJoco8I_0Tmk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK2zgUNsC3s77x9wVsBIigY/ts
 #EXTINF:-1,Maxima FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkbaXwXO687iJsDF59LtO4I/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ5rzxoYd5aYF0ThMBIyQ3g/ts
 #EXTINF:-1,RadioBaezaTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnSKy_ixx22iYP3_H_Z8aUs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFVQ8Q35RU-hspotEwLb6MY/ts
 #EXTINF:-1,TV vconline.cl | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsRNzzEbd2EZu98aw4_lgUM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFYPG69yDt9f2N54yDU04o0/ts
 #EXTINF:-1,Top New Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgpPPra4T1jzClX6oaHcMhg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIzeUbNcDYZfukQYSquvkDE/ts
 #EXTINF:-1,Radio Edelweiss | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEspttd44jAAx2SNLJEZBuew/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI7RQ4NxFXwswueByhwgPag/ts
 #EXTINF:-1,Radio Araucania Laja | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErJq-hBsQ2NiEe8CGft2cDU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKVy3xoMIAGsEzVZDoUqcQU/ts
 #EXTINF:-1,M Music TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq7EELGpSooYObXudL4GUqg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEJKIXcmqMxPXvtwo_KL8ac/ts
 #EXTINF:-1,Radio Acogida | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiE7eBHj3eVC1yTLpP0pJCA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKYDYPR5Ved7p-KOG2HdGtw/ts
 #EXTINF:-1,Urban Pro DJ | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElZAYsbMbVLhiMrCfwLmrUc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP5mIqcgk-KR4j33MpYYO7s/ts
 #EXTINF:-1,En la Noticia | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvhyw0cLuZihRIEiKoS88nE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM-awSbfLKTX0hGy2Rw3pXI/ts
 #EXTINF:-1,Solobailalo TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErgzzzFMwTzo4-8uGFHg6U0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOnkHfGoTQJK7fFPIE7p3yE/ts
 #EXTINF:-1,Milodon TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqWgDW9GWcXdF-6QWRANsEc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNs30wLFz039yUZX8-vMa3I/ts
 #EXTINF:-1,Latina TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkEy5DmmO107_dohafLwrsg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF2TZr4_6X9qVpusHEd0lKM/ts
 #EXTINF:-1,Radio Continente FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp098sxbvcgF4ULD1ntwHaY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNeV3vEe4GMbmlALD9kPDFQ/ts
 #EXTINF:-1,Ritmo Top Latino | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkv1M043I20UV8EExZz_i4U/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAUMsBZpzU6HakLYSu3D4Bw/ts
 #EXTINF:-1,Radio Stefania | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu8VuAtBzRSqj_yLCXocxm0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNa9BiGhFPxW1C6RGYE6C90/ts
 #EXTINF:-1,Play Music Conectados | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvKS6i87kK3ucxKVDtPNzyA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDt0pPzORYDqijzbzThsiUk/ts
 #EXTINF:-1,El Conquistador La Serena | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpwPdjpQAxKJcCj4XL9vlHs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpECrgmIv_WqJ5c5m5rfWCpM/ts
 #EXTINF:-1,Red Circle | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpShz0QduOm_WZ32AV7YRq0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNSMV897YsBrGRxvPPBZIKE/ts
 #EXTINF:-1,Radio Rosa FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjb3eiYmYx23ogvoMaf1PhU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJH75hZVsgC7EVtleZhSflk/ts
 #EXTINF:-1,Radio Video Mix | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEi0bXSqX9MxyN56MvGBBO2I/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG1aBgaYRmfmpy6xG3OIHx0/ts
 #EXTINF:-1,Radio Bienvenida FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEt3X-qSSjBX0Su86mx_tJ5Y/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOPUQFfo_wGMACNpKxqjRUQ/ts
 #EXTINF:-1,Chile Remix | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpVEygdME2XAoPTO4D2Q5Wc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNsHkLcZd5E5s2PyNUURNHM/ts
 #EXTINF:-1,Radio UC | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkPPsQ8kkYFv_4aSAoFhpZs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK5Zq6_ocmWy-8r_knuhuwo/ts
 #EXTINF:-1,Autonoma Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErPLJatekl3He2owIgDSTe4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK9-sTs1iellaeYrm4v-ZXk/ts
 #EXTINF:-1,Santa Cruz FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEltL7yPlOs6bhg7nFHYNSFU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOwjuc9M0A8KwA43312Hc78/ts
 #EXTINF:-1,Subela Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgu7nsB7lkC0nAxll-JPQmo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDHrNjjKl426ClE6GCf161M/ts
 #EXTINF:-1,Radio Ritmo FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjnSUS5VVdJdb5Z3xHs-08c/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCmnn6L3IxSoeRRtUhp1XhM/ts
 #EXTINF:-1,Radio Mia 89.3 Fm | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEguojk_ea5AbQ2yjU5uYqqk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLeFKWIzKAioG2z_VNjcBLU/ts
 #EXTINF:-1,Radio Magallanes | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEg_z-17ueCmP9CWmGiSdrZI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBDMvsstO2YURwKVLQZc7UM/ts
 #EXTINF:-1,Radio Maqui | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsLBMJmV6vBXcx-noaxdUDg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHQQqLUF1ahWf1SRLjr7IvY/ts
 #EXTINF:-1,Radio Popular Coihueco | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiHnzS0mfuCaXvGYJ-AKeDs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGhtdesjl3DtzltzyAJiPnI/ts
 #EXTINF:-1,Ritmo TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjwx9uDpAuwU8tht2AW3h2w/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOt1BvYLJRIMo8roRBVAz3E/ts
 #EXTINF:-1,Emocion TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmKqESTEjkP2TNOzqvKZ1ZY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGTLheHHLULUNEC3eTlqh54/ts
 #EXTINF:-1,Zona Play Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtOzocn-8vgSGI9yOzlW6qY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE6aHEa7QA8E6oizTIwMU1k/ts
 #EXTINF:-1,Tributo Valentina | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjojHR_H5k4f1jBNKtkpp14/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIzBeLQlpCKWfN21k-zIiPA/ts
 #EXTINF:-1,Radio La Serena | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqJRaaqRoEgzTZt83s8HuLw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDf6lbfmw_5bGtIcVBnYZe4/ts
 #EXTINF:-1,Patagonia Radio TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhbjcOIWcYBTnMSx9vuwSo0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDxITKRBMwhA_9CPdoTe7NM/ts
 #EXTINF:-1,Conecta2 TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjnHEYe6OzJNJxNtjgA93j4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE3ZBuaVD87daBUwryq7E64/ts
 #EXTINF:-1,Red Fueguina Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkKPppN7rKqAYcCaik_Sx9c/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI7NufFtgtAkyAmPq08_pdY/ts
 #EXTINF:-1,Radio Via Libre | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEv2L-CcmaGsW5_UeEjszY3o/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKth0AeAlEsz81FQPMDwRDI/ts
 #EXTINF:-1,Radio Universal | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqFWtSTJRHbZZunMi9S4Pww/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBiULYDQMDRE81d39EqJ-N8/ts
 #EXTINF:-1,Radio Touch | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEib8s2RVTbUSxvPJXEx1_Zw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPiFvafrvNvfx_dmrFBdglA/ts
 #EXTINF:-1,Sabor TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjeqtA6A5PUMvZ7v5_yIBmA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNZITc1Ubh4Qc1VrcGv02ao/ts
 #EXTINF:-1,Radio Frecuencia Uno | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp5VTVq34T9b2m4PzOJZJWc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL1I9JWle15b4eERKD-DTjk/ts
 #EXTINF:-1,Radio Rancagua | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsC0fgBoNj8-YGpnB5wtfxE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDGpGNTIIMFmlnvja5c17oo/ts
 #EXTINF:-1,Radio Presidente Ibañez | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjhPsKTOTvUE721GSuyBAX8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO38-hKEbt9-4UY1K_fHklY/ts
 #EXTINF:-1,Radio Portales | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEj9Aj2ZLgI5pfW-ous0t_Y8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE8VkKvkfAuUES6yRDUB5jo/ts
 #EXTINF:-1,Radio Polar | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEp6TnG756VUJqsPH4yJ0WeQ/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN5Jppweit45zpIHkioGhF0/ts
 #EXTINF:-1,Radio Navarino | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEofQ2CPwTlbi82U43OdBfLA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBbBcrX-qbCzHHC7JMyqcjo/ts
 #EXTINF:-1,Radio Las Nieves | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtQm_5m8wU0hXsrHyDq9YzI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKN-fJI9M4mDG1aPZyoG3kE/ts
 #EXTINF:-1,Radio Zona 90.3 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtaSAqhJeQHDPTfCG2Doyvo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJDEx8HMjSSJQeOnX2wxBd8/ts
 #EXTINF:-1,Ciudadano Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEpd67rBDNEztOKt1iK1jEdo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAFiYkP3Mtkqr3evhtoO76c/ts
 #EXTINF:-1,Radio Hoy | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiJffU3zj6DbDckNnxNDX8Y/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAX1siPoWvsVNwWtPZdyemM/ts
 #EXTINF:-1,Radio Genial TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoGtDX8zxvno3lkXMqYXgbA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL06zv-zAj0UdRyDfnHfWkk/ts
 #EXTINF:-1,Radio Fiessta | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEprsmLZ1kgKOpj1KgoWbjNs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPgxTHoHMoTZFo75AKCa-Iw/ts
 #EXTINF:-1,Radio Panoramica | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEqrFZqMtWfGxNW1xO45rfdg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOHSDH4bpO4YOIfdH6bo1xQ/ts
 #EXTINF:-1,Radio Favorita | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsN0VNRuDhlc5RKMC4Xqyfk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLFwIkLJ2bABTFe_fWJPtBY/ts
 #EXTINF:-1,Radio Ñuble | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEmmS9fMTmk0cimZxnRi9bSA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB7UrAAIga9t2CUtGUpYyi8/ts
 #EXTINF:-1,Radio Fantasia TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEn3V2ajPhQbrmxQDT8T2AxU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF6hqpV6UQ1TJnr_4PBFrQg/ts
 #EXTINF:-1,Cosmos TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjxUoDc6uBN0n_XHt7oSB2w/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLmd5-pxJ9gvIfzelxZaNYs/ts
 #EXTINF:-1,Radio Chiloe | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnUNtyusYSba-vt52jhJhDY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC3S05Z9YpmLKV2gPjCBLrA/ts
 #EXTINF:-1,Radio Camila TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgd-qanJZgMN324TNbVM6m4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPeyYIQa1BrD7-wKQk2qngI/ts
 #EXTINF:-1,Preludio TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoQSpC_9CkOaR-uYrrqgEDg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPONegzh5yqpgm9q9ZtDdIk/ts
 #EXTINF:-1,Revolviendola Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuErZQ_bGZjj48XPBIusCzu6g/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLWN1qKOK3mHFwLr_SXGpJk/ts
 #EXTINF:-1,Mi Radio TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEva_jzW6jss-Ex7L77QFL4I/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMRraa_4n0hiGsspIWIDPDY/ts
 #EXTINF:-1,Radio Romantica | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiLOAZw1uFtS4x9qSrlPPHU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDne6uswz113B5Xp8FKCSAA/ts
 #EXTINF:-1,FM Pulso | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkkACuVF-g0Jd5XPelgPEPs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpORlht9ZnDEUBuM6IK8u0jA/ts
 #EXTINF:-1,Interradio TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvrS26kVDoVmjG5ql9210qs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHhs3ibLWApB0se9KhOXPlw/ts
 #EXTINF:-1,El Conquistador Santiago | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhAk5AI57ZjTNBK-qTPhF4M/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEbG7ZRtw3GEVTkXPB32fmk/ts
 #EXTINF:-1,El Sembrador | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk0gh0Yn0Jqkb39eSFimpuA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI_gCtxvmQfO-Rqza3B-mlM/ts
 #EXTINF:-1,El Conquistador Concepcion | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtkZfdjrWK--9-PfT7kVRW8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpConGSQcGiaJ0lgTJrzJEwQ/ts
 #EXTINF:-1,Radio Contemporanea Coihueco | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElYEaLzXKEW991NnRcBNUm0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJN2Pi4cYIBhw-Nl700nVfQ/ts
+#EXTINF:-1,ChocolateFM | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDGnV7JUlWmfSb2UpA7sev4/ts
 #EXTINF:-1,Radio La Señal | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhRrS-KTw7gEDCB8m7U-zpU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNwPz7-pvt3sJB_QmwBuKvg/ts
 #EXTINF:-1,Radio Ancoa TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnChL43DzCfpYqkiHC2L3vc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIO0xn5FPNhp9b3qnPngCcY/ts
 #EXTINF:-1,Nina TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEigjXXz5aRagfzNL5XQqBAE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDoJ4Mr7ywlFmpqO696GchY/ts
 #EXTINF:-1,AE Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtP1sE1E2PbG-2bImqDhxhI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFzy3UPY-DMzMfvlY7PZsK0/ts
 #EXTINF:-1,La Metro | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvNmql8EIgRSo5sEFYovUXI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGAhmxkyg2tiKE2Mx_lKXhU/ts
 #EXTINF:-1,Radio Proyeccion | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElONmDPKc6xKBmL50E0jOeY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIE0Y8_9pfkgHZPDr7-FsWY/ts
 #EXTINF:-1,Radio Imagen 106.5 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnwov_C-CseDfk36SLmCx48/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJqGe3IaJ0soSj3fX9x362Y/ts
 #EXTINF:-1,Radioactiva TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkGbpiAYLi0ow_ro7JiTYZM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7UP1sDvONGgftXhLyJNis/ts
 #EXTINF:-1,Sabrosona TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtFJoEPgjzoGlaMlIUwcnyU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCvO4XADKd1VehpkAvDU3SA/ts
 #EXTINF:-1,La Clave | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEiwdxunUyk5-oAaY562nNdE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH1cMfap2_nC696nDJM1-Zk/ts
 #EXTINF:-1,Dance FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEsiE7oDKlDDi3a-4vS7myms/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDGX9ToTAusRHcVeO0NXMik/ts
 #EXTINF:-1,Pauta TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjoJ9L7Fn44-qUvjgtaSiII/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGEprEETM_64jl_3yIpMJy8/ts
 #EXTINF:-1,Radio Infinita | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEu96vwC1u_tECWkUCDDb7lM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIJ4fImyu575D4AWw0RGy9U/ts
 #EXTINF:-1,Radio Agricultura | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtcivNqJRWl5D4Fnl22ngX4/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFBPd0yLUmubV0eYsqZmuLE/ts
 #EXTINF:-1,Radio Agricultura 2 | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEttZv9goJMBJYX1DvLcD2lg/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIwKAdOg9G2RXFbG3aHH8jQ/ts
 #EXTINF:-1,Radio Duna | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvmlsBOAmiQXwhVMtMxzqDs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPAyJVr-fKk_BQYJK9m7Mbc/ts
 #EXTINF:-1,Pudahuel FM | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEtomBGKR1tIf2-aMo8bM_jo/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNyK_OFYrgBVMbDwIlmuitU/ts
 #EXTINF:-1,Cooperativa | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEuOGEATz8fJObm_X5eUYAE8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIBE6AQCIBKImacrWtnUAMc/ts
 #EXTINF:-1,ADN | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEocx_qpfi1kaNjZ9CI3EKdk/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPXiG1jE7za7L27DuG9RYwA/ts
 #EXTINF:-1,La Nuestra | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgNlyabZbdPVLJoLzVYO7nY/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBnLGz1fRuqUNCZlGBmAcSQ/ts
 #EXTINF:-1,TNE | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvxUJ4u580hv6nwZFXeZYGA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG3F2YB7EghuLJ7_aNKDqw0/ts
 #EXTINF:-1,Televida HD | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkSiI_5iCToJk0M6iVgRqdw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHmfKN1iP3y5eAE0GP_Oqno/ts
 #EXTINF:-1,Restaurando Vidas TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEoM86X1osbMqVF-yV4zjIlM/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpILU4xZU-1pwq1MMdiwpt9w/ts
 #EXTINF:-1,Radio Vida Curico | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgm0LkWZCh8aQgYAhEDJZb0/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJhBv_cmxvMpfPOC02AyC9I/ts
 #EXTINF:-1,NCTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgPOdBx_tSUq_ABzke6BjvA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD02pNRWqPj53gT5jlyrDwk/ts
 #EXTINF:-1,Gracia TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEnCWD0AAabCymTRZmGg1ibA/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK1412dmEaRez1wK_uI54Tc/ts
 #EXTINF:-1,Canal ISB | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEhb2zexxZjhelxsjXOlPngU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM40x7zzCj0mLe5xdAvYo20/ts
 #EXTINF:-1,Casa Sobre La Roca TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEvSoln8NqBwO4yFtpXzWcdc/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGHjnJ0rjdWb1Os8JQdjGDY/ts
 #EXTINF:-1,Metanoia TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuElvFqBHm2nuAVkQTRHc2jN8/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMWo8Uxi89_v3wM1gN1vYN0/ts
 #EXTINF:-1,IPNA Medio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEns7ZtVmLW6upnDy3ALJLZs/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGBpvZ0FCI3zOJWHd8_SXvY/ts
 #EXTINF:-1,Enlace BPB | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEjIVm7CumUE5Bjrd99YVvfI/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAapqpykVULj9Osh_8hP90o/ts
 #EXTINF:-1,Escuchame Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEohUgAb5hmki0cJF--Cb2qU/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFR_kvI3uWuguuxOacZ0rxc/ts
 #EXTINF:-1,Fortaleza Radio | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEkFe1fCAcaK6ckrUfnNGo0E/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKDBZnVe-3NkvBItiskwwJs/ts
 #EXTINF:-1,Fortaleza TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEgZGSOciqu7MxrSUzKRKehw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJjUe6gII2rbV4UC9N1KSFI/ts
 #EXTINF:-1,CESTV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEq9ygGy9JSSrqL3LAo7e_QE/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDlHLc2gC1RlPx8Z88F70-Q/ts
 #EXTINF:-1,ADA TV | CL
-http://185.215.166.58:80/play/xOe8PRUgk3q3NOnt6inuEk9u7lfuBIapcva3n7nf5Zw/ts
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKlfqcdg0qaQmBqG1YX2arE/ts
+#EXTINF:-1,AnimeStation ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLk9C_s2SFqArA4dpm0aV0g/ts
+#EXTINF:-1,Canal 5 del Pueblo ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHxXx98SoRZ-Iv4B3hOwQy8/ts
+#EXTINF:-1,Crossing TV ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGwRz9ML8H9K5QprI9lgxNU/ts
+#EXTINF:-1,Milennio TV ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNWPdShR1-Z_oh7YAQNQiXo/ts
+#EXTINF:-1,N24TV ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJtSPGE9SjjzRBl-d6MddYg/ts
+#EXTINF:-1,Neo TV ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB2bwOEroqTGW7TBatF2ZgA/ts
+#EXTINF:-1,San Luis Mas ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGl86XOFNLaMub6eklbpZ70/ts
+#EXTINF:-1,Señal Urbana ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMXlduMBgvV2N6CqVrBDJAs/ts
+#EXTINF:-1,UNaM Transmedia ✪ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIf-DYoLDbzvoei32FAEAWw/ts
+#EXTINF:-1,UCL Televisión LATAM ✪ | UY
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIlz2Aymlc0ZDlqnG_iah7w/ts
+#EXTINF:-1,Sex TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKRU4wwh8eDDqO27G7VV49Q/ts
+#EXTINF:-1,Anime Zone TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBTa4HmLwSTDkMbBsQUHmnI/ts
+#EXTINF:-1,Locomotion | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEm9BkWr7iqBwsOpNFRVL1I/ts
+#EXTINF:-1,Magic Kids | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHogZpKpXMcAEiwzGfld9-I/ts
+#EXTINF:-1,VariedTV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPmEUuwgBBpYqBu9nFxW4q0/ts
+#EXTINF:-1,ZyoonTV | UY
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpId1pVwdvr1XTBwdAXuQeQo/ts
+#EXTINF:-1,13 Max Television | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNzUW2NDQXsmaOPrXo4q5HY/ts
+#EXTINF:-1,5TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHTZDB3JCv2qqQsAzWWW6JA/ts
+#EXTINF:-1,Agenda Necochense | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPLjfXBR-D68YFVX1DWXrdA/ts
+#EXTINF:-1,Aire de Santa Fe | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFGGa4XMy4utsoeG7a1pAFA/ts
+#EXTINF:-1,Antena 91 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJD5AfqFgD-wNMtuzxm0Gr4/ts
+#EXTINF:-1,Argentinisima Satelital | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGr9bsVg0VgnszlpBjf1fOc/ts
+#EXTINF:-1,Cadena 103 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAVmz2Kwo1u3zfrjvxlnGvk/ts
+#EXTINF:-1,Canal 10 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGPwW5Q-aNKFPFpN4IwLJME/ts
+#EXTINF:-1,Canal 10 San Rafael | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJGr_yUdUE0C1UfDBaaZVLw/ts
+#EXTINF:-1,Canal 11 de La Costa | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHm54KFR9evmq5_YDgL20BI/ts
+#EXTINF:-1,Canal 12 Madryn TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpITSFSnwn1JsEptt90TDMcg/ts
+#EXTINF:-1,Canal 13 La Rioja | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDl5QseSMQRbicQeEAZgzuw/ts
+#EXTINF:-1,Canal 2 Misiones | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNUcN2i0rxTxtfKjwKs8_Sg/ts
+#EXTINF:-1,Canal 21 Misiones | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ29UXMnFcLPEhqbACL1r_E/ts
+#EXTINF:-1,Canal 22 Buenos Aires | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCuKpnxZm3D8QgeO6Jzrm5s/ts
+#EXTINF:-1,Canal 3 Formosa | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpK_kSARjba7RslgcmIMI84Q/ts
+#EXTINF:-1,Canal 3 La Pampa | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN7rJ2w68Nt5m5ASane_KAc/ts
+#EXTINF:-1,Canal 3 Las Heras | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLbySPC5NGX86N5YTMMyzjA/ts
+#EXTINF:-1,Canal 3 Pinamar | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGgxHg6x2He5qo9GRDdUF08/ts
+#EXTINF:-1,Canal 34 San Juan | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLPWTBPtOW8qvUY1uWgS_LQ/ts
+#EXTINF:-1,Canal 4 Bahia Blanca | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMeg6z9lV6huQgaWwyRdxk4/ts
+#EXTINF:-1,Canal 4 Eldorado | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHKAD18jHVSFsv0tza99pgc/ts
+#EXTINF:-1,Canal 4 Esquel | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEwwbmE5O3_4cGSzBLyGCGo/ts
+#EXTINF:-1,Canal 4 Jujuy | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMJULD3Ajr8olQ4lD6or2AI/ts
+#EXTINF:-1,Canal 4 Posadas | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLuFPKvgXafqoQI7j8H2f2k/ts
+#EXTINF:-1,Canal 4 San Juan | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPpm5l9ThEoHy2O5v9yONqk/ts
+#EXTINF:-1,Canal 40 Caucete | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMVdwyrxyXsTFhctJz7bEWU/ts
+#EXTINF:-1,Canal 5 Pico Truncado | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEdhfTDWc0uEOmNhuU-jZiE/ts
+#EXTINF:-1,Canal 5 Santa Fe | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHi_z62W1MOP8NYKHNBP50I/ts
+#EXTINF:-1,Canal 5 Tucuman | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG9uungsdZEeKhHQipvJi9M/ts
+#EXTINF:-1,Canal 50 Morteros | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJfbOwwbyZsOhkQFOlSctbY/ts
+#EXTINF:-1,Canal 6 Moreno | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLEJgR3PSMv8Xr-dI8oGpn8/ts
+#EXTINF:-1,Canal 6 Posadas | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPr8lUb-Yth5ZKpeq_Kvxug/ts
+#EXTINF:-1,Canal 7 Jujuy | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG6g_9xtTkswLr4fu2ZmkEA/ts
+#EXTINF:-1,Canal 7 Neuquen | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpND_AZB1XXPmx0-yKyWWCHY/ts
+#EXTINF:-1,Canal 7 Santiago del Estero | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHMTLlGz5pFPDVBYDqEMERQ/ts
+#EXTINF:-1,Canal 79 Mar del Plata | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGyGUIR2CnjjdINGHuxMkzA/ts
+#EXTINF:-1,Canal 8 Catamarca | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOws_anfuegxllOxH11AjKE/ts
+#EXTINF:-1,Canal 8 Mar del Plata | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB1gxRVaXcnN578dQLOmS40/ts
+#EXTINF:-1,Canal 9 La Rioja | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBE5p9eWYRt71mmsgCNZ6p8/ts
+#EXTINF:-1,Canal 9 Litoral | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNl6JtJ4o1_Xx3-W2Kae3bI/ts
+#EXTINF:-1,Canal 907 FM Comunicar | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNnoDD1U6_tbaVMBEkB2INI/ts
+#EXTINF:-1,Canal Cinco Tigre | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIgx7JRGzEW8lj_ZSCdiI5o/ts
+#EXTINF:-1,Canal Coop | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH8MQ0B78M5IaBbH6v6DpMI/ts
+#EXTINF:-1,Canal E | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCzJUI5MyaW2uc9WuTTR3Xs/ts
+#EXTINF:-1,Canal Provincial | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEteb0Levz4fMZ-lvUNsXPY/ts
+#EXTINF:-1,Caras TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIM9_rAVF25fSG2z8WmeFl4/ts
+#EXTINF:-1,Catamarca TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCrt3cnlKm2-KybVYB8BCZM/ts
+#EXTINF:-1,Celta TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDvLBs-IuhhSeui2bzRvEIY/ts
+#EXTINF:-1,Chaco TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHtzSd2kJ8UQJrrRVWHW6e0/ts
+#EXTINF:-1,Chacra TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP1CVeFbsC5wIW9vPhDae60/ts
+#EXTINF:-1,Chilecito TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEhDsafhCFX-JHNjY0wsLOg/ts
+#EXTINF:-1,Ciudad Magica TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDxekx5IH_4pZ_8EvTLnIE8/ts
+#EXTINF:-1,Ciudad TV Resistencia | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCz3R7WhQGSVqf1o49eAaF8/ts
+#EXTINF:-1,Corrientes TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ1sdahRn3KOhaiCNub_2to/ts
+#EXTINF:-1,CPE TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPpMOR3Wug4mlyv2mq7DNtA/ts
+#EXTINF:-1,Demos Radio Visual | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCBYY_9agKxCiyGpXAq0lp8/ts
+#EXTINF:-1,Eco TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGOyNYl2SA1rRCMwQ8kFOnM/ts
+#EXTINF:-1,El 10 TV Salta | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM0-_NXMu_3THVjV5Kjgv-0/ts
+#EXTINF:-1,El Palomar TV Tucuman | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD1-_2Wr_aJaZclntCSwtgk/ts
+#EXTINF:-1,El Trece | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD9QsEEDFrvr1i1ERTWOE3U/ts
+#EXTINF:-1,Fenix | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIGzfyS45PglyWRRnGx5W00/ts
+#EXTINF:-1,FM Metropolitana 100.5 MHZ | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLE65EG7b1Lh4M9S9nFEqyE/ts
+#EXTINF:-1,FM Universo | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAqe5n_kI8kWkjfwt7F_GFw/ts
+#EXTINF:-1,GEN TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDJ9T7Cv5uEp7UBms1F08dE/ts
+#EXTINF:-1,Ingenio FM | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOOYLXGkWOXaP9c7k6xz15M/ts
+#EXTINF:-1,La 100 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNvcEsNR7SBF9DdIBGrrcq0/ts
+#EXTINF:-1,Lapacho TV Canal 11 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHOtT9OsQkMSPhyEvwZsnJA/ts
+#EXTINF:-1,Latina TV Mendoza | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBgY9ii27eAbvybmIjqdzwc/ts
+#EXTINF:-1,Link TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOB0NAzEFq6mrjeTeorCYiA/ts
+#EXTINF:-1,Litus TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpExGURrrq7C4Hd0pbUFCcsM/ts
+#EXTINF:-1,LT9 Radio Brigadier Lopez | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCoxYL-1tRkqp2CFOz6Ibvs/ts
+#EXTINF:-1,LTO Television | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAX1Uhy1OcN13sNbxLnd02c/ts
+#EXTINF:-1,Malbec Play | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKrF2cB08TKnFe9O0emEijg/ts
+#EXTINF:-1,Mas FM | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpL4imaBX-Tt-hYPplXcP9do/ts
+#EXTINF:-1,Medios Provincia | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGeo_arCdahCb8DUFqhgiFM/ts
+#EXTINF:-1,Megaclassic TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGctFv-PzWyav3fhIzE9xIM/ts
+#EXTINF:-1,Metropolitana FM | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOW5s7hgBukU7ANsyiXlaLY/ts
+#EXTINF:-1,Misiones Cuatro | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEnyIHFfnPdL88HZqPeb6tU/ts
+#EXTINF:-1,Multivisión | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEsARdrrFs6n3qDk3Lrxbug/ts
+#EXTINF:-1,Neo Net Music | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAKJfSMlVnKClp37QYrAJ60/ts
+#EXTINF:-1,Neox TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEnr7XFKsfxgps-Xm8f9dWE/ts
+#EXTINF:-1,Net TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD8MdY_yXs090_n6EPiNPc4/ts
+#EXTINF:-1,OKfm 105.7 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpP_qvdwEgIgpmtJfQLLLNPg/ts
+#EXTINF:-1,Play Television | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBxPRXd_ep3KI6fJ74EMlvY/ts
+#EXTINF:-1,Power | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPt2jl4Yesw2n1bEy5EuOJ4/ts
+#EXTINF:-1,Power Max TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLtqv4rEWkxLwolJVkRGy7w/ts
+#EXTINF:-1,Radio TV Neuquen | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFbjWEIbRx5D-TlBcLRtITM/ts
+#EXTINF:-1,Radio Valle Viejo | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ0E5fIHn9VfcbGXwLTzw-Y/ts
+#EXTINF:-1,Radio y Television Santafesina | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAWQY25wcZOc1HAAdrwNAw4/ts
+#EXTINF:-1,Radiocanal San Francisco | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJSIiVERHjMHlaGTztGjjjU/ts
+#EXTINF:-1,RBD Radio Multimedia | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIf_cctiz7KfRhu3LxgtKUk/ts
+#EXTINF:-1,Retro Magico | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNfXKiz6fSTd1D0qA537UbE/ts
+#EXTINF:-1,Sello TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGTZ3x-tsGLETzzz6LtdBLc/ts
+#EXTINF:-1,Sicardi TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPB2kjKUQPPI0csuOu_RP30/ts
+#EXTINF:-1,Solive TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKAOYVh-g3o5gQwU7YUk1Kc/ts
+#EXTINF:-1,Somos La Pampa | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGwZlD93In0ir-9pPbHl9t8/ts
+#EXTINF:-1,T5 Satelital | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCvKRotOg9HTC3re5yFl81k/ts
+#EXTINF:-1,TDC TV Santa Fe | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJARBJIViJ2nFxNZNEEvJHM/ts
+#EXTINF:-1,Tele Estrella | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCDeShcRi5rWm-sI1Sx0zeE/ts
+#EXTINF:-1,Tele Posadas HD | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKsRGc79QuSZjmaTl1Y12eo/ts
+#EXTINF:-1,Telecondor Internacional | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOYTZPDHSmzSm5UIPJy-xT0/ts
+#EXTINF:-1,Telecreativa | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIAlgoK6_S86pb4Yvhm-orE/ts
+#EXTINF:-1,Telefe Rosario | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIrIPmb3rxInEZ_NIqJD6Yo/ts
+#EXTINF:-1,TeleJunin | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIjXQQqGbzGGCPX4ENWQaVw/ts
+#EXTINF:-1,Telemax | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLs797SbvGi_3MdH9NtDIqQ/ts
+#EXTINF:-1,TeleNord | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCS1DxkjnVb1ibCTtZ5KLJM/ts
+#EXTINF:-1,Telesol San Juan | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNFJnCGO1U1VWLkEc-7WG8U/ts
+#EXTINF:-1,Televideo | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLy_DLhW9JRiyoTbMGDuWBM/ts
+#EXTINF:-1,Televideo Regional | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpESuCat5FYHCpfq7_v17jpU/ts
+#EXTINF:-1,Telpin Canal 2 | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB7wgtrHiEN8zrXhteqFS2o/ts
+#EXTINF:-1,Tierramia TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB3-8scMJSgtm0C4XH3LaOQ/ts
+#EXTINF:-1,Tribu TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBzjGO8RYosmP4oWkYnfl24/ts
+#EXTINF:-1,TV Dos Salta | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLylLvZd5exO7mwTZ3JPEdw/ts
+#EXTINF:-1,TV Mana | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG7afGyygfAYOnqinJh5sSs/ts
+#EXTINF:-1,TV Solidaria | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAjOrb5wxRIl0WEvhs2Y9Ms/ts
+#EXTINF:-1,Uni Teve | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOa4ceXL_69zgTgmGHqWHi8/ts
+#EXTINF:-1,UNIRIO | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOqUCv91NWQ8Qv5Ok8U3aHQ/ts
+#EXTINF:-1,UNLP TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMlwzTxW--df50MyNEsu8d8/ts
+#EXTINF:-1,Urbana TeVe | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG4OIgbwbgGcMgQMeEqhvg0/ts
+#EXTINF:-1,Ver TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAuEY9v-EglAlN9D8cFYS6g/ts
+#EXTINF:-1,Zonda TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOqJH27Wg7bQ5z6gszzNMC0/ts
+#EXTINF:-1,DEPORTV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG8T-ImyxU4QdkL05ZThqbQ/ts
+#EXTINF:-1,Garage TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAnqFCKOxlnJW0dVVkLe9fw/ts
+#EXTINF:-1,Net TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE_GISjGdLaAX2zWhLDlpmg/ts
+#EXTINF:-1,TV Publica | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPzXrUoJ1KNyQiCxhbXL8sE/ts
+#EXTINF:-1,Music Top | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCsxKRFof5HJPp6lcNP8eXM/ts
+#EXTINF:-1,PANC TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGhcdpUN4sDXFLujVRC49_g/ts
+#EXTINF:-1,Sonido Sur | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGJP_CAOT9ifgc3I73afnGc/ts
+#EXTINF:-1,ZN Noticias | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOj9UW7nQaNnvl9zA5ljbqo/ts
+#EXTINF:-1,Videoclub | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLlF2iHWHM_KwzxbTE3aWDw/ts
+#EXTINF:-1,Canal 6 - Viento Recio Internacional | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJgLvCNq08-0IrQbzqt2j1E/ts
+#EXTINF:-1,Inminente TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNLeN4nX85OZCIQBGgC8qvU/ts
+#EXTINF:-1,Monte Grande | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBX8__IWwu71r9icKRwBI_A/ts
+#EXTINF:-1,Sublime Gracia TV | AR
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOFXbmXd5qk5zFIPYtg56NY/ts
+#EXTINF:-1,Canal Once Del Zulia | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD1IwttoYH-xxE_w-IJ_RrU/ts
+#EXTINF:-1,Promar TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCqGKfDyunKgxWRc-AFX3GM/ts
+#EXTINF:-1,Reforma TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpORI8qGxxA_ojTtTEJ1OjT0/ts
+#EXTINF:-1,Telearagua | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIPCZ3bOhn_AwaMGL0EFRsQ/ts
+#EXTINF:-1,Televen | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKoOuKhZi3vufSJqNOhwNj0/ts
+#EXTINF:-1,Telesur | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOIELKRQJEvijXh0PfWP004/ts
+#EXTINF:-1,Telesur English | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCU65KHFLPD4dhOjMxvihKw/ts
+#EXTINF:-1,ShowVen TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMJF08QlSvlZcZ751j3nUL0/ts
+#EXTINF:-1,TVS Maracay | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDxoswzYdr8fBH40qY7NeDA/ts
+#EXTINF:-1,Canal i | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFgC5Qh1PGciHiYaGrQB9hU/ts
+#EXTINF:-1,Venevision | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF_gTSzvPcCH9tjCb27wxeo/ts
+#EXTINF:-1,Urban TV | ES
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC-UL0SA16V9C8W2_iPel6M/ts
+#EXTINF:-1,Natanael TV | PA
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKjWggUXnhQ3HF2bRPJKxhk/ts
+#EXTINF:-1,Nubeh TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB9TOkqiS0eYYRzVPerERrw/ts
+#EXTINF:-1,Oxigeno Network | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMHI39Tq_B3KmXHi8x5ww-s/ts
+#EXTINF:-1,Realtor TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNxXvF4imdwwHTIvbMvJrtk/ts
+#EXTINF:-1,Italianissimo | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJFNYPWytCP2Y1587MZeQQ8/ts
+#EXTINF:-1,MovieFE | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMZwfvPWVFeyGazgUjcW6xs/ts
+#EXTINF:-1,Anzoategui TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNP5kIgJ7vQ6_TYuvUiS53M/ts
+#EXTINF:-1,Chivacoa TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDf99pMDJsxH85182QoRpMc/ts
+#EXTINF:-1,eSports Max TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNF0YkkoCEWDApToMKBKHLY/ts
+#EXTINF:-1,Cantina TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFjVQs4JVc5WexGPzRhPMcs/ts
+#EXTINF:-1,TRV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMq24D2O2avcx4fwa4OrigU/ts
+#EXTINF:-1,Telesol | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJnk8Tqjp5NkgII_1qcS2_Y/ts
+#EXTINF:-1,TV FANB | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD_DupP9HhLEyHMJSI-dIx8/ts
+#EXTINF:-1,Vale TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJeMc4a1hsVhx_gPKMlWgJQ/ts
+#EXTINF:-1,MDA TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLgTId-Sz5idj3eYlcsXwl8/ts
+#EXTINF:-1,Globovision | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEfeG4ROh8d9U498NezTXpI/ts
+#EXTINF:-1,TRT | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC5fApjCnvRR39NsweBoCg8/ts
+#EXTINF:-1,Torococo TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOGIY4HFrYVEa_W3RL8L0WM/ts
+#EXTINF:-1,Canal Diplomatico | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEDIRjg7N1qiujJTUPguYqU/ts
+#EXTINF:-1,Corazon Llanero | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFJyIie5sg0-3pQM5C5LSp0/ts
+#EXTINF:-1,Plous TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAzkZxg16YU-ojRY8Z3qwmc/ts
+#EXTINF:-1,Somos TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAtw5bttIMvx-DGxT5DlzSo/ts
+#EXTINF:-1,Net Channel | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBkdnliZg8LQBm9Wnk67mVo/ts
+#EXTINF:-1,Barinas TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDnT9PrLRSaai_ZpstSU6Mg/ts
+#EXTINF:-1,Televisora Andina de Merida | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBGpoDPA14wmvrOgWkFpARI/ts
+#EXTINF:-1,Aguacate TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNkIlgkMtKsccP-ui-lrc7U/ts
+#EXTINF:-1,Guaro TV | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI2miEzwC9LxgNfhfGjzeWo/ts
+#EXTINF:-1,Net Channel Señal 2 | VE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ7tWXQQwPTIfmH2alHNL4Y/ts
+#EXTINF:-1,Estacion Retro ✪ | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO3_W7BBfe_0yXCpGQe8s6I/ts
+#EXTINF:-1,Cali TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPyLGsUoXY1eyX4ojjMhOaE/ts
+#EXTINF:-1,Canal 12 Valledupar | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJw14OtAxkJQtot7tyzcMak/ts
+#EXTINF:-1,Canal Capital | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLY0S09wdVnljsGKUU7Gh8I/ts
+#EXTINF:-1,Canal CNC Medellin | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOSKc2s4SjNzwFOfKFFB6W4/ts
+#EXTINF:-1,Canal CNC Pasto | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGQm0AhkavXTrGYwb5gkkGI/ts
+#EXTINF:-1,Canal Doce Sincelejo | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM4gQFet847mn7ZGYgcDCFs/ts
+#EXTINF:-1,Canal Institucional | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCI8H8wouldB0dEXYiyvV3o/ts
+#EXTINF:-1,Canal Trece | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFgKfj-mUmMyIurbUGjbYLs/ts
+#EXTINF:-1,Canal TRO | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBUX5erb8FWNcsnePgQTk04/ts
+#EXTINF:-1,Canal Visión Dorada | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD2KKrLfTbeHcNtb-ActZn4/ts
+#EXTINF:-1,Caracol | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC-EbhdRRywzmhgwBjDVXd4/ts
+#EXTINF:-1,Cosmovisión | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHqT2LBzUSzGFdfM5i6bXBA/ts
+#EXTINF:-1,CTV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAnvf-1f6zznKk-sGqKWwgg/ts
+#EXTINF:-1,Melody Channel TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAN81VTpgHOJUXUZ5FdJEzo/ts
+#EXTINF:-1,Señal Colombia | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKKeC8ZcLf2BtN9C-hAlNpM/ts
+#EXTINF:-1,Suram | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGxj8LQYOVOR6iVxAodNO7k/ts
+#EXTINF:-1,TDI | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFnpUKy27y5gpl47TaHMhcM/ts
+#EXTINF:-1,Tele Islas | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIBQsJ0y-LrW6Q65XQ5pJLY/ts
+#EXTINF:-1,Telecafe | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC0PNEdwTaQLVk-ursbLXDI/ts
+#EXTINF:-1,Telemedellin | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHCdHfsDiBw-AKo33cC53Tw/ts
+#EXTINF:-1,Telepacífico | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDzyEZYJWATvgq0iYYbzwMc/ts
+#EXTINF:-1,Zoom TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOIZZSK0PtuqIzDO2iC9YMg/ts
+#EXTINF:-1,Canal Capital | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDxvCdDBx4TAjZ8eQxwto6U/ts
+#EXTINF:-1,Amordiscos TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJZiD7gmuUa1x_bHPPl02po/ts
+#EXTINF:-1,Telemusica | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGUiAjCHaGUQSI7UkLMgG9Q/ts
+#EXTINF:-1,Tele Familia | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpONbnCfXZHsnVemSRAZg3Gc/ts
+#EXTINF:-1,TV Gracia | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpI-zVZ1lkz-h_128luDk3zU/ts
+#EXTINF:-1,Tele Pasto | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFJLAe7pRJ9BOivRup8WOCo/ts
+#EXTINF:-1,TV Peñol | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHRvAx2G6kf3LCl_qKLVbe8/ts
+#EXTINF:-1,Oasis TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAD7j1o596ViTpvqyBzXNqw/ts
+#EXTINF:-1,Cristovision | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH72ckpyldMVugDF_6h-gKQ/ts
+#EXTINF:-1,Buenisima Radio TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPs9bAOWxZxPXJyYoRsp_s0/ts
+#EXTINF:-1,Noticiero 90 Minutos | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPGpeyQT5LYI-nqiLmhWFMI/ts
+#EXTINF:-1,Veo TV | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBIBFmsEOQ10VYqQ2FSyOZI/ts
+#EXTINF:-1,Salsagorda Television | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNgf0qle_UP7tcvjI-bXVOw/ts
+#EXTINF:-1,Teleamiga | CO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPDwFUGOLpg70AtDlPmkkDY/ts
+#EXTINF:-1,Bolivision | BO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB9X87lWrnf1m-YJQZXJ0Fc/ts
+#EXTINF:-1,Gogo Play Bolivia HD | BO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGDLNaIcSaX6segtfFnUozs/ts
+#EXTINF:-1,PAT | BO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNrbyiCLGNblR4GVAKUL98Y/ts
+#EXTINF:-1,Red AD Venir Internacional | BO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOQAlcMSTMZ36zaBXa-TNfA/ts
+#EXTINF:-1,XTO TV | BO
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOW0LBcKyESz0RJ8JKYKmLQ/ts
+#EXTINF:-1,CANDY CANDY 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGfmk0wTsNrhRW0x0orKO5I/ts
+#EXTINF:-1,EL CHAVO DEL OCHO 24/7
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE0mp__UyVTlHgmnE25cP04/ts
+#EXTINF:-1,Mundo de la Musica TV | CL
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBmD-nN0Fx0jJWeySdw2uG4/ts
+#EXTINF:-1,Planeta TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOS9-81lqFelV0V5HRW1Q8o/ts
+#EXTINF:-1,TOP Latino TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCZ_-MBdZqR2kywYmRvF0Ys/ts
+#EXTINF:-1,Turbo Mix TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCPxlqKxwL33cUUbf3TtIXU/ts
+#EXTINF:-1,Nativa | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpA_6_qoEE163BsaH0fwpHAM/ts
+#EXTINF:-1,Onda Digital TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFXIgi2N_OPa1KH4Ry0hNfE/ts
+#EXTINF:-1,TV Peru Noticias | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBU6XSJObqsplZ-vQWT2sH4/ts
+#EXTINF:-1,Antares TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO8659B5PaMx9qNCOe4sK6E/ts
+#EXTINF:-1,ATV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAELq3E48geH_2Pd_SNcgFA/ts
+#EXTINF:-1,ATV Sur | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMS0kJuucM9J3CAg2u6m2L0/ts
+#EXTINF:-1,ATV+ | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOV03dqIdD5lofoQHZt3kpg/ts
+#EXTINF:-1,Autentica TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLgG33qe1dy5Zys-MvpZ5WY/ts
+#EXTINF:-1,BHTV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDB3v0_PzTQ3j6hoJONhFRk/ts
+#EXTINF:-1,Canal 8 Catacaos | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJcKxB0m4qnSvEInSIdRklY/ts
+#EXTINF:-1,Controversia TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAYuSzrZ4dEKTBgq0K8Q8L8/ts
+#EXTINF:-1,CR TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAqBJUbsJ9kdS1y-h9Ss-7A/ts
+#EXTINF:-1,Cultura 24 TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOSj2Acix2L1YlOa7eiKls8/ts
+#EXTINF:-1,DMJ | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJKKBnsTtiTwX8AdtDfTiiU/ts
+#EXTINF:-1,Doble C TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpANnYDeG78Ko_buunEXi_1E/ts
+#EXTINF:-1,Exitosa | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKUU63twhX93UqXnMCyxlfA/ts
+#EXTINF:-1,Foro TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGowfal1GNmocjY93F5Xdf8/ts
+#EXTINF:-1,Genios TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNjxmCApQko5wbyAkRH_n4E/ts
+#EXTINF:-1,Hechicera TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ6sBMsJBBcvuuitCWQDDuE/ts
+#EXTINF:-1,JN19 | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCAM1Q4JjIH0vMFTTXhnJJA/ts
+#EXTINF:-1,Latina | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOfbv18GlyoI_fJiphGChsw/ts
+#EXTINF:-1,Mega TV Arequipa | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGa6BvrQFrcl-MvKs2xqChQ/ts
+#EXTINF:-1,Mega TV Jaen | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNs0SXZ--fooVLgyZkWFmYE/ts
+#EXTINF:-1,Onda Digital TV 2 | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpG_tZmLNYuRloffdHSXqCsc/ts
+#EXTINF:-1,Ovacion | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpPnqEYHeeHMTGCN9NdJFlBw/ts
+#EXTINF:-1,Palmeras TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpLViDyIBnVpKhKF11qZCtrY/ts
+#EXTINF:-1,PANC TV Peru | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFBMQAjAZO4TcZm8-b4A4Xs/ts
+#EXTINF:-1,San Pedro SAT | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFPgT7nBcOJMa7uZ0GOISrk/ts
+#EXTINF:-1,Sanjuanera TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEv4qtK6uLB9y-ImfJManfA/ts
+#EXTINF:-1,Solar TV Cusco | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpACkhDuROn4Xyw5WFK481BQ/ts
+#EXTINF:-1,Tele Selva | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH1j1ugpayDlRSZQHWEIZ8s/ts
+#EXTINF:-1,Telecolor TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGcLwucdg7TsDuTnli11Ubs/ts
+#EXTINF:-1,Tumpis TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN-126nAkR6Qbcfd0PW2i0g/ts
+#EXTINF:-1,TV Cosmos 15.1 | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBnVDAxzCN-aTED1CtkJpU4/ts
+#EXTINF:-1,TV en linea Cusco | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIfCdSRCU_00GJrLbx5pW1I/ts
+#EXTINF:-1,TVPE | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBIEc5oB1UZN-X6DrsKsXpo/ts
+#EXTINF:-1,TVperuanisima | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFmjxjT2aK9AnQvqjEkB1RA/ts
+#EXTINF:-1,Uranio TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpD4vOlIohur6H_tXJVDdqNA/ts
+#EXTINF:-1,Via Alto Mayo TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDykKI28PbyLJcjnSsX93dY/ts
+#EXTINF:-1,Via Television Tarapoto | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJSwIxXN6prGsPNrqTftPgg/ts
+#EXTINF:-1,Vision Sur Television | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCcEd0B-rOK3fuy16HqrCYQ/ts
+#EXTINF:-1,VZ TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIW2lx1AH8o7j0aAWYkMVdo/ts
+#EXTINF:-1,Emanuel7 TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpH9XN1U6iYe8VKGzKQuj5_I/ts
+#EXTINF:-1,Presencia TV | PE
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpIvwyhFhNqVqqT0gULdAyfw/ts
+#EXTINF:-1,MILF
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCpAM8Te0O7wbypsVLfLuQY/ts
+#EXTINF:-1,Big Dick
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAzuaQVd3Ottxq8N9EyHjtE/ts
+#EXTINF:-1,Big Tits
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJ2ij-CHSYf6q8qRZaeeGvU/ts
+#EXTINF:-1,Fetish
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDiRXwN_qSve1PW2dR4lXEg/ts
+#EXTINF:-1,Pornstar
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpKOv1beJ8n5gtAoYdy3kxJ8/ts
+#EXTINF:-1,Big Ass
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBaLCvkEfYF_WKJ0Ner60i0/ts
+#EXTINF:-1,Interracial
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpB35Gc62XjMEGvWWuc9Aww0/ts
+#EXTINF:-1,Latina
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM1iR7F2pmjPPE5PR1UL-kc/ts
+#EXTINF:-1,POV
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO7IuMnzhu_VJdtJI0dqC1c/ts
+#EXTINF:-1,Blowjob
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDKSA0RwTqmosmh9rgy8HiY/ts
+#EXTINF:-1,Teen
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFLE3VYq96ttti3x7gKGBSw/ts
+#EXTINF:-1,Hardcore
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNJfhpp-wshq5cSKUunrQlk/ts
+#EXTINF:-1,Cuckold
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEjY3jIKA3Nw_0J2XukeaRc/ts
+#EXTINF:-1,Threesome
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpC3st3JLYVcKa6RurF6KWd0/ts
+#EXTINF:-1,Russian
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOkoqG9SrAc8_C64MT_aMgE/ts
+#EXTINF:-1,Lesbian
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHD5kzQGXOhFgHGqgiY7i-w/ts
+#EXTINF:-1,Miami TV Latino | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMur6UR8296tnjrZtSqz_k8/ts
+#EXTINF:-1,Miami TV - Jenny Live | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpFXfaBUlaflRo36iFexjyC0/ts
+#EXTINF:-1,Miami TV | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHN_eEFyZf6duWvtE1sC7Qs/ts
+#EXTINF:-1,Russian | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpCjGOA9wh7DjG11UqsfTIgQ/ts
+#EXTINF:-1,Pornstar | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpGHPTVvBCdATndaMdzZbzK0/ts
+#EXTINF:-1,MILF | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpN2j8gpjl4Dck98iwIcFrS0/ts
+#EXTINF:-1,Hardcore | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO4XQcQ95aYP1eD1jjEnEFA/ts
+#EXTINF:-1,Fetish | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpO1G3rjLIqwxP3mf9xE9YK8/ts
+#EXTINF:-1,Compilation | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHVOMxNDCXIvxNqgpwUddCQ/ts
+#EXTINF:-1,Big Tits | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpEeBoSXZ3KNJLnVB6kAAL38/ts
+#EXTINF:-1,Big Dick | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMu3r950xZcvj8OSGc4oaQA/ts
+#EXTINF:-1,Big Ass | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpJWpWaoy7jmZvAHzvX7-3Ts/ts
+#EXTINF:-1,Anal | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpE-8ULDEnOFdsi0JsIRFus8/ts
+#EXTINF:-1,Teen | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDUgyR7fp0v5dFKh82Uh05U/ts
+#EXTINF:-1,Latina | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpAERXSb_5a0OAtwBpPuTl9o/ts
+#EXTINF:-1,Blonde | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpF36k2HDGT8TlMqGQpu83dA/ts
+#EXTINF:-1,Brunette | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMS52xn4joK3yfPe_WF3bTE/ts
+#EXTINF:-1,Interracial | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpOrXr2OPyCv5hbYuY50sK-A/ts
+#EXTINF:-1,POV | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpELd15fz0cs-Om9BRvMI0j4/ts
+#EXTINF:-1,Blowjob | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpNWokFwBOeOEq9Soq7SWUqM/ts
+#EXTINF:-1,Threesome | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpDywk-S5ppkStNys9WjVGPo/ts
+#EXTINF:-1,Rough | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBkhSbRj4TcXhly-SnYgoMM/ts
+#EXTINF:-1,Gangbang | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpHQiqZdScm8t6gKho6lOZ-0/ts
+#EXTINF:-1,Live Cams | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMMEIIIP1YEFfxLzG1lTXvA/ts
+#EXTINF:-1,Cuckold | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpM06wk78wL-jrMzxY9lTEMM/ts
+#EXTINF:-1,Lesbian | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpMyqcFDloS21aeoWguZd7fA/ts
+#EXTINF:-1,Gay | US
+http://185.215.166.58:80/play/ovLybVANGInFquNvQ1gFpBY38t0f11iDcxwZ_P9Y8ew/ts
