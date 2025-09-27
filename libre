@@ -3,11 +3,29 @@
 http://185.215.166.58:8000/play/106?ts
 #EXTINF:-1 group-title="-",AMERICA TV SD
 http://185.215.166.58:8000/play/105?ts
+#EXTINF:-1 group-title="-",ATV + HD
+http://185.215.166.58:8000/play/108?ts
+#EXTINF:-1 group-title="-",ATV SUR HD
+http://185.215.166.58:8000/play/107?ts
 #EXTINF:-1 group-title="-",EXITOSA HD
 http://185.215.166.58:8000/play/104?ts
 #EXTINF:-1 group-title="-",EXITOSA SD
 http://185.215.166.58:8000/play/103?ts
+#EXTINF:-1 group-title="-",LA TELE
+http://185.215.166.58:8000/play/113?ts
 #EXTINF:-1 group-title="-",LATINA HD
 http://185.215.166.58:8000/play/102?ts
 #EXTINF:-1 group-title="-",LATINA SD
 http://185.215.166.58:8000/play/101?ts
+#EXTINF:-1 group-title="-",NATIVA HD
+http://185.215.166.58:8000/play/110?ts
+#EXTINF:-1 group-title="-",PBO HD
+http://185.215.166.58:8000/play/109?ts
+#EXTINF:-1 group-title="-",PLANETA TV HD
+http://185.215.166.58:8000/play/114?ts
+#EXTINF:-1 group-title="-",TELELIMA
+http://185.215.166.58:8000/play/15?ts
+#EXTINF:-1 group-title="-",TVL HD
+http://185.215.166.58:8000/play/111?ts
+#EXTINF:-1 group-title="-",URANIO TV HD
+http://185.215.166.58:8000/play/112?ts
