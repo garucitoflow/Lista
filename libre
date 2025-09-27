@@ -25,7 +25,21 @@ http://185.215.166.58:8000/play/109?ts
 http://185.215.166.58:8000/play/114?ts
 #EXTINF:-1 group-title="-",TELELIMA
 http://185.215.166.58:8000/play/15?ts
-#EXTINF:-1 group-title="-",TVL HD
-http://185.215.166.58:8000/play/111?ts
 #EXTINF:-1 group-title="-",URANIO TV HD
 http://185.215.166.58:8000/play/112?ts
+#EXTINF:-1 group-title="-",HUAYNO TV
+http://185.215.166.58:8000/play/116?ts
+#EXTINF:-1 group-title="-",MILENIAL TV HD
+http://185.215.166.58:8000/play/118?ts
+#EXTINF:-1 group-title="-",TRIVU TV HD
+http://185.215.166.58:8000/play/119?ts
+#EXTINF:-1 group-title="-",OVACION TV HD
+http://185.215.166.58:8000/play/120?ts
+#EXTINF:-1 group-title="-",SELVATICA HD
+http://185.215.166.58:8000/play/121?ts
+#EXTINF:-1 group-title="-",SUPER CANAL HD
+http://185.215.166.58:8000/play/122?ts
+#EXTINF:-1 group-title="-",ASIRI TV HD
+http://185.215.166.58:8000/play/123?ts
+#EXTINF:-1 group-title="-",JUNTOS TV HD
+http://185.215.166.58:8000/play/124?ts
