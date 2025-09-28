@@ -25,6 +25,8 @@ http://185.215.166.58:8000/play/109?ts
 http://185.215.166.58:8000/play/114?ts
 #EXTINF:-1 group-title="-",TELELIMA
 http://185.215.166.58:8000/play/15?ts
+#EXTINF:-1 group-title="-",ATV SD
+http://185.215.166.58:8000/play/111?ts
 #EXTINF:-1 group-title="-",URANIO TV HD
 http://185.215.166.58:8000/play/112?ts
 #EXTINF:-1 group-title="-",HUAYNO TV
@@ -43,3 +45,21 @@ http://185.215.166.58:8000/play/122?ts
 http://185.215.166.58:8000/play/123?ts
 #EXTINF:-1 group-title="-",JUNTOS TV HD
 http://185.215.166.58:8000/play/124?ts
+#EXTINF:-1 group-title="-",WILLAX SD
+http://185.215.166.58:8000/play/125?ts
+#EXTINF:-1 group-title="-",WILLAX HD
+http://185.215.166.58:8000/play/126?ts
+#EXTINF:-1 group-title="-",ODTV HD
+http://185.215.166.58:8000/play/127?ts
+#EXTINF:-1 group-title="-",ODTV 2 HD
+http://185.215.166.58:8000/play/128?ts
+#EXTINF:-1 group-title="-",TELECOLOR HD
+http://185.215.166.58:8000/play/129?ts
+#EXTINF:-1 group-title="-",NUESTRO CANAL HD
+http://185.215.166.58:8000/play/130?ts
+#EXTINF:-1 group-title="-",ATV HD
+http://185.215.166.58:8000/play/131?ts
+#EXTINF:-1 group-title="-",PANAMERICANA SD
+http://185.215.166.58:8000/play/132?ts
+#EXTINF:-1 group-title="-",PANAMERICANA HD
+http://185.215.166.58:8000/play/133?ts
