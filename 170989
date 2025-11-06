@@ -11,7 +11,7 @@ http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBc_DyJ40jn_jdWcLsqdJIWA/ts
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBeD-4RlQhiq6v7zkIp48oQM/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV HUARMEY
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBV64lhvLYqZC1W0_3_1M3iI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cable Noticias
+#EXTINF:0 tvg-id="ATV.pe" group-title="Channels",ATV
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBTS7BiL-sit_b70BFxNIcao/ts
 #EXTINF:0 tvg-id="CanalN.pe" group-title="Channels",Canal N
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBT3Yq8WdH-c78ISFHrNLQ5w/ts
@@ -23,7 +23,7 @@ http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBU8Y_PUnk0G6KNNuSnpnh0c/ts
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBcNUdoKsdWpUFhSHfAdAXz4/ts
 #EXTINF:0 tvg-id="Cinemax.pe" group-title="Channels",Cinemax
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBfrxTkDFNP-7fSplIS4ZdyM/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cristovisiðn
+#EXTINF:0 tvg-id="ext" group-title="Channels",Willax TV
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBX5-UvSA7leHvgGuNsCKv4g/ts
 #EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",Discovery H&H
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBdFDVuRxtgnwMsG66y7wY0A/ts
@@ -47,7 +47,7 @@ http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBSADJPVVgjp49GwbFtlSInI/ts
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBddsourNXGjthZdlepP0w_A/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBAL
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBTnFpuHiDsS1SkGOEURyKdk/ts
-#EXTINF:0 tvg-id="HGTV.nl" group-title="Channels",HGTV
+#EXTINF:0 tvg-id="HGTV.pl" group-title="Channels",HGTV
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBVkugL5L3X6ws1taU0WSwyM/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",CNN Espaæol
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBbG2Ibpl-uMVvnq37gScF4Y/ts
@@ -59,7 +59,7 @@ http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBc03qARRp05n1G_spQTKQ6Q/ts
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBRVm8Rw0oGrPw45CR9jy_aY/ts
 #EXTINF:0 tvg-id="Lifetime.pe" group-title="Channels",Lifetime
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBeLp7AOfXX5x4vM1MlTmxr0/ts
-#EXTINF:0 tvg-id="LoveNature.ru" group-title="Channels",Love Nature
+#EXTINF:0 tvg-id="LoveNature" group-title="Channels",Love Nature
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBainDoksj3x6FZuC86VAbDs/ts
 #EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBT13lurDkbEn3HnahAsiWn8/ts
@@ -125,4 +125,14 @@ http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBZs7fvo36bsRqeuNXl-ecUE/ts
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBR_PSDLkeoYyuWFqGcOZqX0/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Los simpson Halloween
 http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBbXxXcTw16tcKSrAyPddkGQ/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEGAMIX VARIADOS 24/7
+http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBZFR9J5aeNxJ5ioevmQuFJY/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Huaynos 24/7
+http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBfEIpXVPV_U5FqE_O5RNTug/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cable Noticias
+http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBcgNuUGXog7hwY4dgu_1AHs/ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cristovisiðn
+http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBR6AUsqfHPJ-4ebS13hVHW4/ts
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Channels",De Pelicula
+http://100.100.100.100:80/play/KxH5IiWl0-Mx73yHcnstBfMW35WrJaMsBd2IJTMp5bo/ts
 
