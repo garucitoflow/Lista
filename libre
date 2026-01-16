@@ -81,7 +81,7 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdyCW3D7-WYDTDppaJfNPjo/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZjHUe85JKDRT8SSe4vfI7w/m3u8
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN2
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBXNSYj6JkqAoa1dXi3Cry5s/m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN3
+#EXTINF:0 tvg-id="ESPN3.cl" group-title="Channels",ESPN3
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQi559VqC6CX8m8UAdCqEc8/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN4
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQM3A-LcLtM1FEcYxztxn7g/m3u8
@@ -93,14 +93,6 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBRlQEgKlpt2eidkQyQGdQhE/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBcD25obvI4tb3uw_a1wcAbA/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN PREMIUM
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZs7fvo36bsRqeuNXl-ecUE/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Phineas y Ferb
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBR_PSDLkeoYyuWFqGcOZqX0/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Los simpson Halloween
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBbXxXcTw16tcKSrAyPddkGQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGAMIX VARIADOS 24/7
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZFR9J5aeNxJ5ioevmQuFJY/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Huaynos 24/7
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfEIpXVPV_U5FqE_O5RNTug/m3u8
 #EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfMW35WrJaMsBd2IJTMp5bo/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BETHEL
@@ -111,3 +103,82 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfyo5wZk0dYz0ctcHNSRLgU/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBWV5WKmy5gI24eY75g58AYI/m3u8
 #EXTINF:0 tvg-id="Chilevision.cl" group-title="Channels",CHV
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQwP4JGhR_y1TbzJLt4ZVOY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV | CL
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQMqyG6KiLBPWnEqyqLUiQw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Mix TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBcnEp6taWHvQogE1SJTKwqQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Musica TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZCSLT-pryzgbdA6oAfndk8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nativa | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBcXGIPnsUJJVakkmsZSl6HA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Antares TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBRFODJnKI3gjZnhTZ_W9kqU/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Autentica TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBebnaIkKTjX5_qvAA65wyAc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BHTV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfDd1rTDq2gEabncxNDqP_w/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 8 Catacaos | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBddRYyDKoOGyy9WkHXmUh1M/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Controversia TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBVM_yKdRJJS-XcaLs0V9FK8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CR TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdFwp9xzLchei02TtTTQFcE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 24 TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBbmaSDqm9H4mriA2ncOt61s/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Foro TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQYj7NpAdcloCO8fy_XvkVo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JN19 | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBTW_BJCTUq9N5JAi-Y9fbnI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mega TV Jaen | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBUTesNKGOfphotwbOeI3EtM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda Digital TV 2 | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZFfL7myRU0lKGilNoN7XwE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ovacion | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBSqOa4jyh51RUa630r6UNGo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Palmeras TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBTW4UpC6gRYEUX6-xnkd2W4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PANC TV Peru | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdy1TPmta6ihVDEB7xIBWyc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sanjuanera TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBUmbGdlli_TvE_P38qfOo1s/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele Selva | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZ6V76y9U-673ZFfTCWtpkQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cosmos 15.1 | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBSwc02091sezSD7Xpnvoswk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVperuanisima | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQTQmCn8ifNsMGz4zKbtKiE/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Via Alto Mayo TV | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBcNwjRqswlb4BHDBdpd80gw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Via Television Tarapoto | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBVvdzXIdvpS2f7PvA1UspcM/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Sur Television | PE
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBeLUYrnQ2ndAntmHJJwBTRA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Huaynos 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfEIpXVPV_U5FqE_O5RNTug/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEGAMIX VARIADOS 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZFR9J5aeNxJ5ioevmQuFJY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Los simpson Halloween 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBbXxXcTw16tcKSrAyPddkGQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Phineas y Ferb 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBR_PSDLkeoYyuWFqGcOZqX0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Classic Regueaton 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBVYioKIp4dyvKM-19QtTKCI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cumbia Mix 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBYKYjPJ3nFVx3gqYKugZrVY/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alabanzas Mix 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBRYIe3PWhESM4vGpsPeiaRk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latin Mix 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQdiyoHGX_RnROHhfQr3RsI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ecuestria Girls 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBYL1F20nV5fvc4ybHQCUfM8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo De Luna 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBSy3DAiqKmhewfQ8M5_nMBo/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Chavo Del Ocho 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdhMokMXr4UkT-ysuSI6cT4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Masha Y El Oso 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBVP9LKf3xaPHrYG-dPls5j0/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bob Esponja 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBSxJnDeSYMJWn-Y4ghimK1c/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pepa Pig 24/7
+http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBUnK2BI0DWTluO-Bh_zerig/m3u8
+
