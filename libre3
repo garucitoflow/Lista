@@ -43,13 +43,11 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBc03qARRp05n1G_spQTKQ6Q/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBRVm8Rw0oGrPw45CR9jy_aY/m3u8
 #EXTINF:0 tvg-id="Space.pe" group-title="Channels",Space
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBeLp7AOfXX5x4vM1MlTmxr0/m3u8
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",Paramount
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBainDoksj3x6FZuC86VAbDs/m3u8
 #EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",Discovery Theater
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBT13lurDkbEn3HnahAsiWn8/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Exitosa TV
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfhHr_B-aRIFOBWlzBs-iZw/m3u8
-#EXTINF:0 tvg-id="AandE.de" group-title="Channels",A&E
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQDvSe-KtQ4geCHtjoXd75I/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Las Estrellas
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBeHOe2c5A77MHhul2xvbs1E/m3u8
@@ -67,8 +65,6 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBbbPi1Sio1R8AI4K5lnSvuA/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZslq8vnMKMYPGJYGS5VyY8/m3u8
 #EXTINF:0 tvg-id="Telemundo.pe" group-title="Channels",Telemundo
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfAM3VmnVdipTE6nAWJyrLs/m3u8
-#EXTINF:0 tvg-id="Dreamworks.es" group-title="Channels",DreamWorks
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBapetOMvSlJBaqFAD27aSbU/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Liga 1 Max
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBWFGREopG8QRCxAez5paDuc/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Gol Peru
@@ -81,7 +77,7 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdyCW3D7-WYDTDppaJfNPjo/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZjHUe85JKDRT8SSe4vfI7w/m3u8
 #EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN2
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBXNSYj6JkqAoa1dXi3Cry5s/m3u8
-#EXTINF:0 tvg-id="ESPN3.cl" group-title="Channels",ESPN3
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN3
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQi559VqC6CX8m8UAdCqEc8/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN4
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQM3A-LcLtM1FEcYxztxn7g/m3u8
@@ -375,8 +371,6 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBRU4wNM89I0sv00nK9WgHpQ/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBW1QOjM3Duua9k6N5oHEcnA/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Pacifico Television | CL
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfoXYKFF5xxDXY4sb1TloPI/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",San Pedro Conecta | CL
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBfZedlpsIVkvVvFS7WRUy0Q/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Club TV | CL
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBWJItVxgq3w0O5fBmH_RVH8/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Pucon TV | CL
@@ -391,8 +385,6 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBW-Y738DJjHrdGpgpWd4S-w/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBUztu8ky7KmpcOcf1UdhJ5Q/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Decima TV | CL
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBZXKU6xT0Tdol3EoImRNXGs/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVM | CL
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdxFW6dOaJ6MBVFiaPzhQ_U/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",T-Vinet | CL
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQPwb6NydzJRJWY-ISjSpKo/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 Quellon | CL
@@ -405,8 +397,6 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdh_NLmTWFiWpSyRo4t77V8/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBUXryIDzz945AY87Bn7he18/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Hito Cero TV | CL
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBRKfi5vBSO90hxINheV-xgw/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Chiloe Red 25 | CL
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBSndBzuHDRX4qyY1Yr5Qx2c/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Alerce TV | CL
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQQ44od8AZaQBo_xYYVfyvM/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Santa Maria TV | CL
@@ -519,8 +509,6 @@ http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBVM_yKdRJJS-XcaLs0V9FK8/m3u
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBdFwp9xzLchei02TtTTQFcE/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 24 TV | PE
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBbmaSDqm9H4mriA2ncOt61s/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Foro TV | PE
-http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBQYj7NpAdcloCO8fy_XvkVo/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Mega TV Jaen | PE
 http://100.100.100.100:1789/play/KxH5IiWl0-Mx73yHcnstBUTesNKGOfphotwbOeI3EtM/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Onda Digital TV 2 | PE
