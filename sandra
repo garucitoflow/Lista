@@ -1,152 +1,178 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",Latina
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBVVfWSg_SfQTte7KIybJ378/m3u8
-#EXTINF:0 tvg-id="America.cl" group-title="Channels",America
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBTbKYA2IEOA0jcrz_lnp6P4/m3u8
-#EXTINF:0 tvg-id="ATV.pe" group-title="Channels",Atv
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBTnNgkQ8cT7AmqGAxpyFXwU/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pbo
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBRo2xenY__fEmiwpZkX3Vgc/m3u8
-#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Channels",Panamericana
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBdndew5zGMPeLh14NjSu4o0/m3u8
-#EXTINF:0 tvg-id="NOVA.bg" group-title="Channels",Nova
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBcjPUVM9W4cwCBcWGRYh99M/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",fmkids
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBbg-MHcqXACUiiU8lNsIcSw/m3u8
-#EXTINF:0 tvg-id="TVPeru.pe" group-title="Channels",tv peru
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfZWhjvd6SOL7pa7VMlhTC4/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",anime onegai
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBWPeONVtMm1iyu6HQeSjh1g/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",fmh movies
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBas7DE7azlC95U6J4XKOQkg/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",creo latino tu cine
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBZFR9J5aeNxJ5ioevmQuFJY/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ribereña pucallpa
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfEIpXVPV_U5FqE_O5RNTug/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Musica TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBcgNuUGXog7hwY4dgu_1AHs/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",URANIO TV
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBR6AUsqfHPJ-4ebS13hVHW4/m3u8
-#EXTINF:0 tvg-id="MegaTV.us" group-title="Channels",megatv
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfMW35WrJaMsBd2IJTMp5bo/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ucayalitvSRT
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBY9SVoVBAJb13GihuqNxGuw/m3u8
+#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",LATINA
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHmtnIkddCBXh3ExTGze36o4/m3u8
+#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AMERICA TV
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1Vgr6aatZyLDuXIZcE01eiN/m3u8
+#EXTINF:0 tvg-id="Willax.pe" group-title="Channels",WILLAX SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItO5k0ulL2n0U1X4C_mmYd3l/m3u8
+#EXTINF:0 tvg-id="ATV.pe" group-title="Channels",ATV SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2cO2u5zYrQmEVmJK9XQ1qyri2YA3RB3rcyj4cqnh6Oez/m3u8
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Channels",PANAMERICANA  SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2aJnkjrI_DX-4FoZOyUvHN2iUl6ffyrNgtsWLiAy-GNA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RPP  SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2ZBfDS579RWMD9DARvi3HtGibu9G0--vhvFliNhvpapx/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV HUARMEY
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2V0JR05tfqOllseNY7G4ubuWC07U7sxW-9DHaQRJRYAm/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVPERU SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2ajPtpXWMmTbJkcH5oKazG2fbCfqHc6PrCg0O_dmZ_WR/m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4 SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHnoRNtglMWuKXfQgWVnQGw7/m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="Channels",ESPN 5 SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHkFMZ8z9PwKtShpNUKaeukI/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Liga 1 Max SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHmUDwaQ2h_-zVOi7oRL9EJA/m3u8
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",Telenovelas SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHno0B_s-EooWtsKG3rxgsjD/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Las Estrellas
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WPoElsLL0qQCH-u7APmRVV/m3u8
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",Pasiones SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1Uhax9IW7xNVqydn6kHOhTh/m3u8
+#EXTINF:0 tvg-id="Telemundo.pe" group-title="Channels",Telemundo SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WYmkeUvW7-67gbLFvtGHtI/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",gamarratv
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBSFeWvJKpV_zVgZRt7nRSdI/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItO3QUQtHZ_ROoJPRHS7RPZQ/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",nativa TV
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1VAHQQf029YYljCsocPwSV5/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ncanalSRT
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WzZap8dTYa9GJxJ-VlThUk/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",fmh movies
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UlgQR0CxYCDj3PcnDIyakc/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",fmh kids
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UeBY-BOcxM5dG_epOh9qhy/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Creo Kids SRT
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1XfwqLp6bi-P_QxKqIWY16D/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",anima kids
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1Vck8Nh-9I_IBpxlvNJ3KRn/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",odtv
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBVliU-_xARSUssRLPmpMX2o/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WOVyh9cShwmxx4s97RWf4x/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",odtv2
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBePFbWxrDeu3--GL8skYzl8/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RPP
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfY95lb2zkpjtDoV6yDe_Us/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",EXITOSA
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBUx6FDXb-hXHdg4mGk3auTQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",adatv
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBVdG41J7flitwnDj3dT7lx8/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",dreikotv
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBWEctfNB8xNfhGQre-x1Bg0/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",retroplustvuno
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQzGNOh6NW2SCH2f0bR1rXY/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",retroplustvdos
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQXfHN64hZQvhNg76v6ApYg/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MIX LIVE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBYH3E_7Eg49bKYJmHc7NPRU/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",hybrid
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBZaWfNHgWuGYH2XF9eCLrWU/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gracia TV HD
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQcyELG1MyE3i31grs-q_5Y/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBUmJ0rkhqePbldcK18zvhd0/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WnJaFTmYuN0DDrj2sPRJ48/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",milenial
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UXLtBNGdme1Ijwbaff6O4h/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",vision sur
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WjAMy77fIwKDrZ9MVcWCBy/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",casmatvSRT
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1W6BzQrvtJl88ZmmasqVXii/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",dactvSRT
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WR4qTP7pOw1eQsqdl8Vqun/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",tvchincha
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UrVfM7-SV5slcYG1av5o5L/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",36tvSRT
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1VI0kTWpm26vcvBzum8tTR7/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",huacho tv
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UqjERUOwD7aaU5_fRDbE33/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",huaral en linea SRT
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UVqcdWy_X0xqVTfR83hH5W/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",onda tv
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1VdzNo6c70w9sryWpcRKLc8/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",cositel ica
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1XXawm5yOaQMI2MVdFBkBWP/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",dunastv
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WZB5K1tovFel8L4Sso7NkV/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ecotv
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1UcqHjb6wHNCUf3RGmZs83J/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",asiritv
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1US49-hnW9y6cgHAgOze_zO/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",lambayeque
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1XMDi6rlogXbuePbiYHpSv0/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Mix TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBYXOAGjvV021YGnRXCjD0Qk/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1VCNM2uGsZN2F5RdR3wSW5D/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Vision Musica TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBT8TEoCdjxwi83MNsgryOrw/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nativa | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBeOYPzBAN8-MnCqaN8vqGrs/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1XBhL_Ky2M3Sityn7qNDwn9/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda Digital TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1Vr6Oy7zI3Vmhf_yBfDKAvv/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Peru Noticias | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1XBJ8r1Qm8Zf5inW9h21UwJ/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Antares TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBRryOOILwwPOtzqx5Q2sgpo/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1Xqy2vesXDQScYFYOKLHRIG/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1XrzIkVvlWCyq-6UFuBk5h_/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV Sur | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2UmwryegS3VifzcFPIBLG1WC-i4OzsJ6AoeQp9lm0AI4/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV+ | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNwTguUxjWFSNvSrUqkp7EH/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Autentica TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBcWT1Z8pt7R6UOo_QGFFnNA/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOJmMYbfkLufZtRbkhWRLhO/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BHTV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfHo907Ea1K9k3njMLu3ZdA/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMZrZiMF3satJ6mn0p_jiki/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal 8 Catacaos | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQZXW5u789P-TXR8kaTsKG8/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItPg3QhjYAGHKtExO4-Rz8bn/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Controversia TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBX7BIEvktvXmBOcXeUVz5Os/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMGShah-cosPQbW70DPaFfg/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CR TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBemBBaMZ6sBGnDUorlCD-oU/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Estacion Radio Tv | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBWCPEXV8A7LGFPK9pIxCPPM/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOF9V-wCegtT3G4SJyJZCQW/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 24 TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOVwkv4rG_r899UGBJ79IBj/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DMJ | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOkE7ZaOABFaqUp7z3u7Mlt/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Exitosa | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOW8hVf-wFTz2TVZSRw-1HR/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Foro TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNBZnm5gyaQ10KrZfjZA-6n/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Genios TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNyNfL5Y1MqQfZU7chWTROq/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hechicera TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMtUKAWvS84Wc9fzRsr92hP/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Impacto TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBSHPRSgcvV1XEDDAvJZPJ7g/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNRVWZMdqn7URSTw6Mecu0v/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",JN19 | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBUI5ZP9rq72BnvVpPPajdoc/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOXWOkc7oN8QuILMU6zEA8N/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latina | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOH3o2wjRs0Pwd0NqHuF1O2/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mega TV Arequipa | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItO1kZvRAdodU1UKKQBRg3ej/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mega TV Jaen | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNjI5Xy7X1jNUGgEgz-HmBT/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OK TeVe | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNELw8ktoRxoEqJfExsoW-o/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda Digital TV 2 | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOFJnZsiJam1wgdgz-hKuXs/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ovacion | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItPgLXZO1PrWtWcO1-RLXWGB/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Palmeras TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBeWFXI6qvhEDCVluLZ15deQ/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItN7PxNbiNwKyAZOBAhcj-vn/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",San Pedro SAT | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMAZT7Utq9iBGh2-RF6uWmv/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sanjuanera TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItM8OE7C6ntASwQYMEb69hMl/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Solar TV Cusco | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNuMgmK6bv_2weVmpiY8sY-/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele Selva | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOyF7h16usp4uXAsmaAhGJ0/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Telecolor TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBX5W1TrZhQuutbM7TS23vDs/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOIyBtZl2Xbf_7xwzqCuy_M/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tumpis TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItOJIq9mvKZOc5bVah3MDdhq/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cosmos 15.1 | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNcZ6OvvRixKc57WgcpGLOD/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV en linea Cusco | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItPQ9uIgfVp1fBWsFuGvfL9O/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVPE | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMmruuWIzKsEo6xeTTMR-nj/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVperuanisima | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBeClggaxln0lk6yGHMyw9YY/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItN5RNXl92-MDb5eLzliLyqz/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Uranio TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQImlqJgYLP-Hyv10d209uw/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNPCiCU2CH3ifQ4QAyGhlIK/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Via Alto Mayo TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQoRweJ_UUDLFjqi4CBdTXU/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItPbWRf0W2aPOZ-ALj7IxBwl/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Via Television Tarapoto | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBU66Tc0y6CWdwXzl6uH965E/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMG2DkRKXAGIxjMl7gWD0ph/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Sur Television | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItNRzzLyKGC9BWrIPJQVqJWw/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VZ TV | PE
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItORNx796-iq1YSyls5LvIaB/m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Emanuel7 TV | PE
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBY33Uxossj0DlFNoOz0UFV0/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Recuerdos Retro Radio TV ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBbsb_AE6ST04s03kxGZhaxA/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Puangue Curacavi ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBQ3CYV_XXqMDDvN5i-BfxUg/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ruidos TV ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBegGL3IyBnQ3VPlhcfd5Sfs/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ruidos FM ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBeN_G78YNUfRmq0GH7xlFOc/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eternal Metal ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBchWnKhmRp5KnGGwkrG7Xw8/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Latinos TV ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBTYzK7lbhLhrNSlUFSOKV88/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PlanetaTV ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBSLdqCFwjCNJ7jSZtLZ4DAo/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Parentesis TV ✪ | CL
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBRicIIcUBeidQ3_egqJ6qvc/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGA 1 MAX
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBSf8tJ9FVNZTNwdynp04Ev0/m3u8
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TELENOVELAS
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBe-pahOWR49GhY6H-SfRH-s/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",LAS ESTRELLAS
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBY09gT6U3EaPGgE3V3QKHfE/m3u8
-#EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",PASIONES
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBdyVePqi-q5Yzyd3LEdtyE0/m3u8
-#EXTINF:0 tvg-id="Telemundo.pe" group-title="Channels",TELEMUNDO
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBZWFgslw_WhFB3st0IR9wNI/m3u8
-#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",ESPN 1
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBX2NXOYZfEP31P360-Xkt1c/m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBXomt7nvT8KTOHZKpdYH850/m3u8
-#EXTINF:0 tvg-id="ESPN3.pe" group-title="Channels",ESPN 3
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBW70ek2c2u-KYzKFtKX7aDU/m3u8
-#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBY-TDrsGpQPqz8Pgt9-sJSA/m3u8
-#EXTINF:0 tvg-id="ESPN5.nl" group-title="Channels",ESPN 5
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfAPDipZvwJAuA2ySCnbyVY/m3u8
-#EXTINF:0 tvg-id="ESPN6.nl" group-title="Channels",ESPN 6
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBVtymkNU3I_LQQdiGSdcMv0/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 7
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBdC7wH3ZCAPG0Lcx0LZl0TE/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN PREMIUM
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBfjdHDDfwNTlGnvnE8OownQ/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DSPORTS 1
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBURqiahahWEfr0Ls6hp5n3E/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DSPORTS 2
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBYcwTHywQs-mI5ush62YiOI/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DSPORTS 3
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBcTXGlj77yoGQ5Jg2p83mxo/m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOL PERU
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBSLKqHV28jXVGahjPiW9bhQ/m3u8
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBRhXCFo8I7edeD-9HHcrNBI/m3u8
-#EXTINF:0 tvg-id="TYCSports.pe" group-title="Channels",TyC Sports
-http://200.200.200.200:80/play/KxH5IiWl0-Mx73yHcnstBbbT4dXE_9yQjAW59NWaZK4/m3u8
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2Ycb1LimdP7j6sPYUo8PItMe6PAO5FmeBbvvEVD2mqc9/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN PREMIUM SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHnptUkLMauZ1vXCYu7GktxA/m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 7 SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHmzRGO3guJfp1hO8MJseZFi/m3u8
+#EXTINF:0 tvg-id="ESPN6.nl" group-title="Channels",ESPN 6 SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHk5Tju43Bee1WDgsPZK6nHO/m3u8
+#EXTINF:0 tvg-id="ESPN3.pe" group-title="Channels",ESPN 3 SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHm9KJ1x1ITdWIYfDS5fjsTS/m3u8
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2XvFBXlJzt0JsVk7jmyEwHl7jg2z6HW0S_iOQea4fWjt/m3u8
+#EXTINF:0 tvg-id="ESPN.pe" group-title="Channels",ESPN SD
+https://ftserv89.com:443/play/5vxFPkOSDntbqpcRW_1Z2VMTt4IMYJwY9uI-VKPTn0fLe-Ypu7zLkd3x0AXWVMnc/m3u8
 
